@@ -1,0 +1,887 @@
+
+=====PAGE 1=====
+44
+RESPUESTA DEL ARROZ (Oriza sativa L.) A LA
+FERTILIZACIÓN CON DIFERENTES NIVELES DE NITROGENO1
+(Chané. Prov. Santisteban, Santa Cruz, Verano 2008-2009)
+ OVANDO JIMÉNEZ JAIRO2; AGUILERA, RUTH MERY3
+1 Tesis de grado para optar la título de Ingeniero Agrónomo. UCEBOL
+2 Tesista. Estudiante de la Carrera de Ciencias Agronómicas de la UCEBOL. 
+3 Docente asesor. Ingeniera Agrónoma. UCEBOL:
+RESUMEN
+Se analiza la introducción de diferentes dosis de fertilización nitrogenada en el cultivo de arroz, en la localidad de Cha-
+ne, provincia Obispo Santiesteban del departamento de Santa Cruz, en la campaña Verano 2008/2009. Se estudiaron 
+los niveles de fertilización Sulfammo Npro (80-100-120 kg/ha), Compo Master (80-100-120 kg/ha) y un testigo sin 
+aplicación en la variedad de arroz Paititi. La aplicación de los tratamientos fue al voleo en plena fase de macollamiento 
+del arroz (20 días después de la germinación). Durante la evolución del cultivo se tomaron datos de: floración, altura de 
+planta, plantas por metro lineal numero de panícula, tamaño de panícula, peso del grano, humedad, rendimiento por 
+has, y por fanegas. Hubo respuesta significativa a la aplicación de N en las distintas variables en estudio. En rendimiento 
+la respuesta fue altamente significativa a los niveles de fertilización en dosis de 80 – 100 kg/ha. El mejor tratamiento 
+fue T2, (Sulfamo 100 kg/ha) con 28.39 fan. /ha.seguido de T1 (Sulfamo 120 kg/ha) con 28.06 fan/ha.y el testigo sin 
+aplicación presentó un rendimiento promedio de 20.01 fan/ha. El análisis económico, determinó más rentable el trata-
+miento al T2 (Sulfamo 100 kg/ha).
+ABSTRACT
+The introduction of different nitrogen rates on rice cultivation was analyzed in the village of Chane, Obispo Santiesteban 
+Province of Santa Cruz, in the Summer season 2008/2009. The levels of Sulfammo NPRO fertilization (80-100-120 kg 
+/ ha), Compo Master (80-100-120 kg / ha) were studied and a control without application in rice variety Paititi. The 
+application of the treatments was done in full rice tillering (20 days after germination). During the evolution cultiva -
+tion data was recorded: flowering, plant height, plants per linear meter of panicle number, panicle size, grain weight, 
+moisture, yield per ha, and bushels. There was significant response to N application in the different variables under 
+study. Performance was highly significant to fertilization levels at doses of 80 to 100 kg / ha. The best treatment was 
+T2 (Sulfamo 100 kg / ha) with 28.39 fan. / ha. Followed by T1(Sulfamo 120 kg / ha) with 28.06 fan / ha.y the control: 
+presented an average yield of 20.01 fan / ha. The economic analysis determined the most cost effective treatment to 
+be T2 (Sulfamo 100 kg / ha).
+PALABRAS CLAVE: Arroz. Fertilización. Nitrógeno.
+KEYWORDS: Rice. Fertilization. Nitrogen.
+Jairo Ovando Jiménez
+INTRODUCCION
+El cultivo del arroz, con alrededor de 162 millones de hectáreas 
+sembradas, constituye la base nutricional para la gran parte de la 
+población mundial. Su producción y consumo lo convierte en el cul-
+tivo alimenticio más importante para una tercera parte de la huma-
+nidad, es decir, de aproximadamente 2.000 millones de personas 
+(MARTINEZ, 1997).
+En Bolivia, el cultivo de arroz ha ganado mayor importancia gracias 
+al programa de colonización que impulsó la migración de agriculto-
+res a nuevas áreas de producción como el norte de Santa Cruz, el 
+Chapare, Yapacaní, Alto Beni y Guarayos.
+En el Departamento de Santa Cruz se tiene un área cultivada de 
+aproximadamente 100.000 hectáreas, lo que representa un 26 
+% del total de la superficie sembrada con diferentes cultivos y el 
+61 % de la superficie sembrada con arroz a nivel nacional (CAO. 
+2008/09). El rendimiento promedio actual del arroz en cáscara es 
+de 2.5 t/ha (INE, FENCA, CIPCA, 2007).
+Entre los factores que afectan a los rendimientos del cultivo de 
+arroz, se han identificado al clima, principalmente por la mala dis-
+tribución de la precipitación pluvia; la proliferación de malezas e 
+insectos y particularmente la paulatina y permanente degradación 
+de los suelos. Actualmente, una gran superficie de suelos que han 
+sido utilizados para la agricultura, presentan severas deficiencias 
+de nutrientes, principalmente nitrógeno; limitaciones físicas para el 
+desarrollo radicular, así como también una baja capacidad de re-
+tención de agua. Estas condiciones del suelo han sido ocasionadas 
+por un excesivo laboreo, el incremento de las tasas de descomposi-
+ción de la materia orgánica y la falta de reposición de los nutrientes 
+extraídos por las cosechas. En estas condiciones será difícil que los 
+pequeños y medianos agricultores puedan salir de la pobreza.
+=====PAGE 2=====
+45
+Una alternativa efectiva para incrementar la productividad del 
+cultivo de arroz, es el uso de fertilizantes químicos y minerales 
+que puedan proveer nutrientes esenciales de manera oportuna y 
+económica. La aplicación de fertilizantes nitrogenados, en dosis y 
+épocas adecuadas, podría cubrir las deficiencias de este nutriente e 
+incrementar los rendimientos.
+OBJETIVOS
+Objetivo General
+Determinar la repuesta del cultivo del arroz a la fertilización con 
+diferentes dosis de
+SULFAMMO y COMPO MASTER, en la Localidad de Chane, provin-
+cia Obispo Santistevan del Departamento de Santa Cruz.
+Objetivos Específicos
+• Determinar el efecto de SULFAMMO y COMPO MASTER sobre 
+algunas características agronómicas y de rendimiento del cultivo 
+del arroz.
+• Determinar la rentabilidad económica de la fertilización con SUL-
+FAMMO y COMPOMASTER.
+Mapa 1. Zonas productoras de arroz en el Departamento de Santa Cruz. CAO 
+(2008)
+MATERIALES Y METODOS
+Este trabajo fue realizado en la propiedad agrícola “19 de Abril”, 
+ubicada en la localidad de Chané, en la provincia Obispo Santiste-
+ban. Esta propiedad se encuentra situada a 96 km al norte de la 
+ciudad de Santa Cruz, geográficamente se encuentra en el paralelo 
+17°25’ de latitud sur y 62°54’ de longitud oeste y a una altitud de 
+350 m.s.n.m.
+De acuerdo con datos de los últimos 25 años, registrados en la 
+Estación Experimental Agrícola de Saavedra, la zona presenta una 
+precipitación promedio anual de 1200 mm, una temperatura pro-
+medio anual de 27° C y una humedad relativa del 75 %.
+Los suelos de la zona se caracterizan por que son débilmente desa-
+rrollados, presentan horizontes AC y A(B)C incipientes. El color de 
+la capa superficial es pardo y el subsuelo es pardo pálido o pardo 
+amarillento. La textura de la capa superficial y subsuelo varía de 
+franco limosa a arcillo limosa. En general, son suelos con una capa-
+cidad de infiltración moderada y una alta capacidad de retención 
+de agua. El pH varía entre suavemente alcalino a moderadamente 
+alcalino, en todo el perfil de suelo. La capacidad de intercambio ca-
+tiónico varía de moderada a alta. La saturación de bases, general-
+mente es muy alta, para todos los horizontes del perfil. El contenido 
+de materia orgánica y nitrógeno es moderado. El nivel de fósforo 
+asimilable se encuentra en niveles moderados a altos.
+Como material vegetal se empleó la variedad CONARROZ 101 (Pai-
+tití), cuyas características son las siguientes:
+Vigor de la planta Vigorosa
+Días a inicio de formación de panícula 55
+Días a floración 85
+Días a maduración 115
+Altura de planta (cm) 97
+Acame (vuelco) R
+Desgrane MR
+Pubescencia de la semilla Pubescente
+Arista Corta
+Peso de 1000 granos 30.3
+Largo de grano pelado(mm) 7.55
+Relación largo/ancho 3.62
+Tipo de grano Extra largo
+Centro de blanco 2.0
+Temperatura de Gelatinización A/I
+Amilosa 30.8
+Como fuente de nitrógeno se utilizaron 2 fertilizantes: Sulfammo 
+es un fertilizante sólido, complejo, granulado, de base nitrogenada, 
+que libera gradualmente el nitrógeno y que presenta una concen-
+tración de 26 % de Nitrógeno, 11 % de Azufre, 2 % de Mangane-
+so, 6 % de Calcio y 0.5 % de Boro; Compo Master es una mezcla 
+física, sólida, granulada, cuya concentración final es de 34 % de 
+Nitrógeno y 12 % de Azufre.
+Tratamientos
+En el estudio se probaron 7 tratamientos, en los que se incluyen las 
+fuentes de nitrógeno: Sulfammo y Compo Master. De cada uno de 
+los fertilizantes se probaron 3 dosis: 120, 100 y 80 kg/ha. Además, 
+fue incluido un tratamiento testigo. En el Cuadro 1 se presentan las 
+cantidades de nitrógeno aplicado en cada uno de los tratamientos.
+Cuadro 1. Tratamientos experimentales en el ensayo “Respuesta 
+del cultivo de Arroz (Oriza sativa L.) a la fertilización con diferentes 
+niveles de nitrógeno”. Chane, Verano 2008/2009
+Nº Fertilizante Dosis (kg/ha) Nitrógeno (kg/ha)
+T1 Sulfammo 120 32.2
+T2 Sulfammo 100 26.0
+T3 Sulfammo 80 20.8
+T4 Compo Mas -
+ter 120 40.8
+T5 Compo Mas -
+ter 100 34.0
+T6 Compo Mas -
+ter 80 27.2
+T7 Testigo abso -
+luto 0 0.0
+=====PAGE 3=====
+46
+La unidad experimental fue de 25 m de ancho x 20 m de largo, 
+resultando en 500 m2. Así mismo, cada repetición tuvo una super-
+ficie de 3.500 m2 y la superficie útil del ensayo fue de 14.000 m2.
+Los tratamientos experimentales fueron evaluados bajo el diseño 
+experimental de Bloques al Azar de 7 tratamientos y 4 repeticiones, 
+haciendo un total de 28 unidades experimentales 
+Manejo del ensayo
+Siembra
+El ensayo fue establecido en la campaña del verano 2008/2009, 
+siguiendo las recomendaciones del manual técnico del arroz del 
+CIAT (2009). Se utilizó una sembradora Valdan Jumil graduada 
+para depositar 65 semillas por metro lineal, a una distancia de 17 
+cm entre surcos.
+Aplicación del fertilizante
+Los fertilizantes, fueron aplicados al voleo, de acuerdo a las canti-
+dades establecidas para cada uno de los tratamientos, en la fase 
+de macollamiento del arroz (20 días después de la germinación).
+Control de malezas
+El control de las malezas se realizó cuando la infestación de las 
+mismas llegó a niveles de daño económico al cultivo del arroz. Esta 
+labor se realizó en todos los tratamientos siguiendo las recomen-
+daciones de la empresa AAA INTERNACIONAL Ltda. Se utilizó el 
+herbicida sistémico Butaclor 60 % del grupo químico triazinas en 
+dosis de 4 litros por hectárea y Clomazone 48% del grupo químico 
+soxazolinas, en dosis de 0,4 litros por hectárea.
+Control de insectos
+El control de los insectos-plagas se lo realizó cuando la infestación 
+de los mismos llegó a niveles de daño económico al cultivo del 
+arroz. Esta labor se la realizó en todos los tratamientos con el uso 
+de Cipermetrina (25 % del grupo químico piretroide, dosis de 0,2 l/
+ha) y Methomyl (90 % del grupo de los carbonatos, dosis de 250 
+g/ha)
+Control de enfermedades
+El control de las enfermedades se realizó cuando la infestación de 
+las mismas llegó a niveles de daño económico al cultivo del arroz. 
+Esta labor se la realizó en todos los tratamientos con el uso de 
+fungicidas, de acuerdo a las recomendaciones de Agro Jamales: 
+Tebuconazole 25 % en dosis de 0.3 l/ha, (específico para el control 
+de las enfermedades causada por Piricularia).
+Metodología de evaluación
+-Registro de datos climáticos
+Durante el periodo de evaluación del ensayo se registró la tempe-
+ratura diariamente, estableciéndose la temperatura promedio, la 
+temperatura mínima y la temperatura máxima ocurrida durante el 
+ciclo de desarrollo del cultivo del arroz. De la misma manera, fue 
+registrada la precipitación ocurrida durante este periodo.
+Registro de datos agronómicos
+- Número de planta por metro lineal
+Esta característica se evaluó a 10 días después de la germinación. 
+Se tomaron 2 muestras de 1 metro lineal de los tres surcos centra-
+les por unidad experimental.
+- Altura de planta
+Se registró la longitud, en centímetros, desde la base de la planta 
+hasta el ápice de la misma, en 10 plantas tomadas al azar de cada 
+unidad experimental.
+- Días a floración
+Se tomaron en cuenta los días desde la siembra hasta cuando el 50 
+% de las plantas presentaron panículas florecidas.
+-Número y tamaño de panícula por metro lineal
+De cada unidad experimental, se tomaron 4 muestras al azar y se 
+contó la cantidad existente de panículas por planta. De la misma 
+manera, de este material, se registró el tamaño de la panícula.
+-Días de maduración
+Se tomó en cuenta los días desde la germinación hasta la madurez 
+de grano (85 % de los granos de la panícula madura).
+- Cosecha y rendimiento
+En el área central de cada unidad experimental, se cortaron 4 
+muestras al azar de 4 surcos, haciendo un área útil de 3m2. Poste-
+riormente se procedió al despicado y venteado del grano con una 
+trilladora estacionaria a motor, luego se pesaron las muestras de 
+cada tratamiento en una balanza marca “Filizola” con capacidad 
+de 20 kg. Una vez obtenido el dato de campo, se determinó la 
+humedad de la muestra, estandarizándose al 13% con el determi-
+nador de humedad. Finalmente el peso de grano fue expresado en 
+kg/ha para su análisis estadístico.
+Análisis económico
+Para determinar la rentabilidad de la fertilización con diferentes 
+dosis de nitrógeno se realizó un análisis económico siguiendo la 
+metodología propuesta por CIMMYT (1995).
+El nivel óptimo se determinó mediante la siguiente ecuación:
+  Precio del Fertilizante
+Producto marginal = -----------------------------
+  Precio del arroz
+RESULTADOS Y DISCUSIÓN
+Condiciones climáticas
+- Régimen térmico
+Se registran los datos promedios de la temperatura mensual duran-
+te el periodo de evaluación del ensayo. En la Figura 1, se presentan 
+los valores de las temperaturas máximas, mínimas y medias ocurri-
+das desde el mes de octubre de 2009 (fecha de siembra) hasta el 
+mes de febrero del 2010 (fecha de cosecha).
+Conforme a estos datos, se puede observar que las temperatu-
+ras máximas extremas registradas durante los cuatro meses de la 
+época de verano presentan pequeñas oscilaciones, las mismas que 
+fluctúan entre 30 grados centígrados, con unas leves variaciones 
+térmicas. La temperatura media durante este periodo tampoco pre-
+senta variaciones muy grandes ya que durante estos meses ocurrió 
+una temperatura alrededor de los 25 y 26 grados centígrados.
+Finalmente, la temperatura mínima registrada durante este perio-
+do muestra un comportamiento casi uniforme, oscilando sus va-
+lores alrededor de los 22 grados centígrados. De estos resultados 
+se puede indicar que el ambiente térmico para el cultivo del arroz 
+ha estado dentro de sus exigencias térmicas como para tener una 
+buena producción de grano y en ninguno de los meses las tempera-
+turas han bajado a niveles que podrían dañar o perjudicar el normal 
+desarrollo del cultivo.
+=====PAGE 4=====
+47
+De acuerdo al manual técnico del CIAT, (1994), el arroz se puede 
+cultivar en zonas comprendidas hasta los 1.250 m.s.n.m. con tem-
+peraturas medias entre 24 y 28° C pero soporta muy bien tempe-
+raturas superiores.
+Temperatura
+0
+5
+10
+15
+20
+25
+30
+35
+No v Dic Ene Feb
+ Mes es
+º C
+Minim a Media Maxim a
+Figura 1. Temperatura mínima, media y máxima registrada durante el estudio 
+“Respuesta del arroz (Oriza sativa L.) a la fertilización con diferentes dosis de 
+nitrógeno. Chane, Verano 2008/2009.
+-Régimen pluviométrico
+Las precipitaciones registradas durante el ciclo vegetativo del culti-
+vo del arroz, variedad Paitití, están representadas gráficamente en 
+la Figura 2. Esta relación de registro de lluvia se inició a partir del 
+mes de octubre y noviembre de 2008, se extiende hasta el mes de 
+abril del 2009.
+En el mes de noviembre se registró una precipitación de 65 mm, la 
+misma que no afectó significativamente al cultivo, probablemente 
+porque se encontraba en la primera etapa de crecimiento, cuando 
+las exigencias de humedad son menores. Además, se debe tomar 
+en cuenta que en el mes de octubre ocurrió una precipitación de 
+244 mm y que el suelo, por su textura pesada, tiene una alta ca-
+pacidad de retención de agua. Estos factores han contribuido para 
+que la humedad del suelo fuera suficiente para cubrir los requeri-
+mientos en los primeros 40 días después de la siembra. En el mes 
+de diciembre se registró una precipitación de 335.8 mm, lo que 
+aseguró el desarrollo normal del cultivo de arroz.
+50
+100
+150
+200
+250
+300
+350
+400
+Octubre Noviembre Diciembre enero febrero marzo abril
+244,9
+65
+335,8
+272
+353
+125
+75
+PRECIPITACION 2008/2009
+Figura 2. Precipitación registrada durante el estudio “Respuesta del arroz (Ori-
+za sativa L.), a la fertilización con diferentes dosis de nitrógeno. Chane, Verano 
+2008/2009.
+En el mes de enero se registraron precipitaciones de hasta 80 mm 
+en un solo día, sumando un total de 272 mm en todo el mes, cuan-
+do el cultivo del arroz tenia los 75 días después de la siembra, es 
+decir en la etapa en que el cultivo estuvo en plena formación de 
+la espiga. En el mes de febrero también ocurrieron precipitaciones 
+altas, más de 80 mm en un solo día, sumando un total de 353 mm 
+durante el mes. Con se puede observar en la Figura 2, la cantidad 
+y distribución de la precipitación ocurrida durante el periodo de 
+evaluación fue altamente favorable para el desarrollo del cultivo 
+del arroz.
+Características químicas del suelo
+El suelo experimental tiene una reacción (pH) suavemente ácida. 
+En este valor de pH la mayoría de los nutrientes esenciales se 
+encuentran en formas asimilables para las plantas. Así mismo la 
+Conductividad Eléctrica que presenta este suelo indica que no exis-
+ten problemas de salinidad. Los Cationes Intercambiables Ca2+ y 
+K+ se encuentran en niveles bajos, mientras que el Mg+ presenta 
+un nivel moderado, al igual que la Capacidad de Intercambio Ca-
+tiónico. También, la Materia Orgánica y el Fósforo disponible se 
+encuentran en niveles moderados (Cuadro 2). El Nitrógeno total 
+se presenta en un nivel medio, por lo que para especies de alto 
+rendimiento, puede ser un factor limitante. La textura del suelo es 
+Arcillo Limosa. De acuerdo a estos resultados, es posible aseverar 
+que el suelo experimental no presenta serias limitaciones para el 
+cultivo de arroz.
+Cuadro 2.  Resultados del Análisis físico-químico del suelo donde se realizó el 
+estudio “Respuesta del cultivo de Arroz (Oriza sativa L.) a la fertilización con 
+diferentes niveles de nitrógeno”. Chane, Verano 2008/2009
+Características del suelo Valores Interpretación
+pH 6,3 Suavemente ácido
+C.E. (micromhos cm-1) 133,0 Sin problemas de 
+salinidad
+Ca2+ (cmolc kg-1) 1,0 Medio
+Mg2+ (cmolc kg-1) 1,6 Alto
+Na+ (cmolc kg-1) 0,55 Medio
+K+ (cmolc kg-1) 0,24 Medio
+T.B.I. (cmolc kg-1) 12,8
+C.I.C.E. (cmolc kg-1) 13 Medio
+Saturación de Bases % 98
+Acidez cmolc kg-1 0,2
+Aluminio 0,0 Ausente
+Fósforo (mg kg-1) 14 Medio
+Matería Orgánica (%) 2,0 Medio
+Nitrógeno Total (%) 0,21 Medio
+Arena (%) 2,0
+Limo (%) 33,0
+Arcilla (%) 65,0
+Textura YL Arcillo Limoso
+Fuente:  Laboratorio de Suelos – CIAT, 2008
+- Número de plantas por metro lineal
+De acuerdo a los resultados del análisis estadístico, esta variable 
+presentó diferencias estadísticamente significativas con respecto a 
+los tratamientos de fertilización. 
+Entre los tratamientos de fertilización con Sulfammo, se destaca el 
+nivel de 100 kg ha-1 (54 plantas m-1), el mismo que difiere en 23 
+=====PAGE 5=====
+48
+% con respecto al tratamiento testigo (Figura 3) y que, según la 
+prueba de comparación de medias (DMS P<0.05) resultó estadís-
+ticamente superior al resto de los tratamientos estudiados (Cuadro 
+3). Un comportamiento similar es observado entre los tratamientos 
+con CompoMaster, en el que sobresale la dosis de 100 kg ha-1 (50 
+plantas m-1) con una diferencia de 14 % con respecto al testigo. En 
+valores absolutos, todos los tratamientos de fertilización superaron 
+al testigo, aunque los tratamientos con 80 y 120 kg ha-1 de Com-
+poMaster no difieren estadísticamente con el tratamiento testigo. 
+Aparentemente, en este suelo, la aplicación de 100 kg ha-1 de Sul-
+fammo, sería la más adecuada para asegurar una buena población 
+de plantas del cultivo de arroz.
+Cuadro 3. Resultados de la prueba de comparación de medias (DMS P<0.05) 
+del Número de plantas por metro lineal en el estudio “Respuesta del cultivo de 
+Arroz (Oriza sativa L.) a la fertilización con diferentes niveles de nitrógeno”. Cha-
+ne, Verano 2008/2009
+Tratamientos
+Dosis
+(kg ha-1)
+Media
+Significancia
+Estadística
+Comparación 
+Medias
+(DMS P< 
+0.05)
+T1 Sulfammo 120 51
+**
+AB
+T2 Sulfammo 100 54 A
+T3 Sulfammo 80 47 BC
+T4 CompoMaster 120 45 C
+T5 CompoMaster 100 50 B
+T6 CompoMaster 80 45 C
+T7 Testigo 0 44 C
+Grado de significancia: ** Altamente significativo, * Significativo, NS no signifi-
+cativo. Distintas letras en la misma columna indican diferencias entre tratamien-
+tos según la prueba de DMS (P < 0.05).
+40
+45
+50
+55
+60
+Sulfammo 
+80 kg /ha
+Sulfammo 
+100  kg /ha
+Sulf amo 
+120 kg /ha
+Te st i go Compo 
+Master 80 
+kg/ ha
+Compo 
+Master 100 
+kg/ ha
+Compo 
+Master 120 
+kg/ ha
+47
+54
+51
+44 45
+50
+45
+Plantas m -1
+Figura 3. Número de planta por metro lineal, registrada en el estudio “Res-
+puesta del cultivo de Arroz (Oriza sativa L.) a la fertilización con diferentes niveles 
+de nitrógeno”. Chane, Verano 2008/2009.
+Altura de planta
+De acuerdo a los resultados del análisis estadístico, la altura de 
+planta del arroz presentó diferencias estadísticamente significativas 
+con respecto a los tratamientos de fertilización. 
+En valores absolutos, todos los tratamientos de fertilización resul-
+taron superiores al testigo. Se destaca el tratamiento Sulfamo 120 
+kg ha-1 (101 cm) el mismo que presentó el mayor valor de altura 
+de planta. Aunque, de acuerdo a la prueba de comparación de 
+medias (DMS P<0.05), no existen diferencias estadísticas entre los 
+tratamientos de fertilización (Cuadro 4). En la Figura 4 se puede 
+observar que entre los tratamientos con Sulfamo ocurre una cierta 
+tendencia de aumento de la altura de planta conforme aumenta 
+la dosis de fertilizante. Este comportamiento no es observado en 
+los tratamientos con CompoMaster. Está bien documentado que 
+la fertilización con nitrógeno favorece al crecimiento de la plantas. 
+El nitrógeno promueve el aumento de la altura y la formación de 
+macollos productivos que favorecen al incremento del rendimiento 
+de grano (Doyle, 1986).
+Cuadro 4. Resultados de la prueba de comparación de medias (DMS P<0.05) 
+de Altura de Planta (cm) en el estudio “Respuesta del cultivo de Arroz (Oriza 
+sativa L.) a la fertilización con diferentes niveles de nitrógeno”. Chane, Verano 
+2008/2009
+Tratamientos
+Dosis
+(kg ha-1)
+Media
+Significancia
+Estadística
+Comparación 
+Medias
+(DMS P< 0,05)
+T1 Sulfammo 120 100.8
+*
+A
+T2 Sulfammo 100 99.0 AB
+T3 Sulfammo 80 97.9 AB
+T4 CompoMaster 120 98.8 AB
+T5 CompoMaster 100 93.5 BC
+T6 CompoMaster 80 93.8 BC
+T7 Testigo 0 90.8 C
+Grado de significancia: ** Altamente significativo, * Significativo, NS no signifi-
+cativo. Distintas letras en la misma columna indican diferencias entre tratamien-
+tos según la prueba de DMS (P < 0.05).
+85
+90
+95
+100
+105
+110
+Sulfammo 
+80 kg /ha
+Sulfammo 
+100  kg /ha
+Sulf amo 120 
+kg/ ha
+Te st i go Compo 
+Master 80 
+kg/ ha
+Compo 
+Master 100 
+kg/ ha
+Compo 
+Master 120 
+kg/ ha
+98 99
+101
+91
+94 94
+99
+Altura de planta (cm)
+Figura 4.  Altura de planta, registrada en el estudio “Respuesta del cultivo de 
+Arroz (Oriza sativa L.) a la fertilización con diferentes niveles de nitrógeno”. Cha-
+né, Verano 2008/2009.
+- Número de Panículas por planta
+De acuerdo a los resultados del análisis estadístico los tratamientos 
+de fertilización no provocaron cambios en el Número de Panículas 
+por planta de arroz.
+En valores absolutos, las plantas fertilizadas con Sulfamo, presenta-
+ron un mayor número de panículas, en comparación con el testigo, 
+siendo el mejor tratamiento la aplicación de 120 kg ha-1 (Figura 
+5). En el caso del fertilizante CompoMaster se logró un incremento 
+de apenas 5 % con la aplicación de 100 y 120 kg ha-1. Aparen-
+temente, bajo las condiciones en las que se llevó este estudio, las 
+dosis utilizadas en ambos fertilizantes, no fueron suficientes para 
+provocar diferencias estadísticamente significativas en el Número 
+de panículas por planta.
+=====PAGE 6=====
+49
+15
+20
+25
+30
+Sulfammo 
+80 kg /ha
+Sulfammo 
+100  kg /ha
+Sulf amo 
+120 kg /ha
+Te st i go Compo 
+Master 80 
+kg/ ha
+Compo 
+M aste r 100 
+kg/ ha
+Compo 
+M aste r 120 
+kg/ ha
+22 23
+22
+20 20 21 21
+Nº   Paniculas
+Figura 5. Número de panículas por metro lineal, registrada en el estudio 
+“Respuesta del cultivo de Arroz (Oriza sativa L.) a la fertilización con 
+diferentes niveles de nitrógeno”. Chané, Verano 2008/2009.
+- Longitud de panículas
+El análisis de varianza para los datos de Longitud de paní -
+culas no verificó diferencias estadísticamente significativas 
+entre los tratamientos de fertilización. 
+Aunque sin diferencias estadísticamente significativas, la 
+aplicación de los fertilizantes provocó ligeros incrementos en 
+la longitud de panículas del arroz. En la Figura 6, se puede 
+observar que en las tres dosis de Sulfammo, como también 
+de CompoMaster, la longitud de panícula es superior al tes-
+tigo. El mayor incremento (16 %) fue conseguido con 120 kg 
+de Sulfammo por hectárea.
+15,0
+20,0
+25,0
+30,0
+Sulfammo 
+80 kg /ha
+Sulfammo 
+100  kg /ha
+Sulf amo 
+120 kg /ha
+Te st i go Compo 
+Master 80 
+kg/ ha
+Compo 
+Master 100 
+kg/ ha
+Compo 
+Master 120 
+kg/ ha
+23,2
+24,8 25,0
+21,5 22,5 22,0
+24,5
+Longit ud de panículas (cm)
+Figura 6.  Longitud de panículas (cm), registrada en el estudio “Res -
+puesta del cultivo de Arroz (Oriza sativa L.) a la fertilización con diferen -
+tes niveles de nitrógeno”. Chane, Verano 2008/2009.
+-Número de granos por panícula
+De acuerdo a los resultados del análisis estadístico, los trata-
+mientos de fertilización provocaron diferencias significativas 
+en el Número de granos por panícula del arroz. 
+El tratamiento testigo fue superado estadísticamente por to-
+dos los tratamientos de fertilización (Cuadro 5). El promedio 
+más alto fue observado en el tratamiento Sulfamo 100 kg 
+ha-1 (54 granos), el mismo que es superior en 17 % con res-
+pecto al testigo. En segundo lugar, el tratamiento Sulfamo 
+120 kg ha-1 (52 granos), resultó superior en 13 % con res -
+pecto al testigo. De la misma manera, los tratamientos con 
+100 y 120 kg ha-1 de CompoMaster (ambos con 50 granos) 
+presentaron una diferencia de 8.7 % con respecto al testigo. 
+De esta manera, queda evidenciado que la fertilización con 
+Sulfammo y/o CompoMaster pueden incrementar el número 
+de granos por panícula del cultivo de arroz.
+Cuadro 5. Resultados de la prueba de comparación de medias (DMS P<0.05) 
+del Número de granos por panícula en el estudio “Respuesta del cultivo de Arroz 
+(Oriza sativa L.) a la fertilización con diferentes niveles de nitrógeno”. Chané, 
+Verano 2008/2009
+Tratamientos
+Dosis
+(kg ha-1)
+Media
+Significancia
+Estadística
+Comparación 
+Medias
+(DMS P< 0,05)
+T1 Sulfammo 120 52
+**
+AB
+T2 Sulfammo 100 54 A
+T3 Sulfammo 80 48 CD
+T4 CompoMaster 120 50 BC
+T5 CompoMaster 100 50 BC
+T6 CompoMaster 80 46 D
+T7 Testigo 0 46 D
+Grado de significancia: ** Altamente significativo, * Significativo, NS no signifi-
+cativo. Distintas letras en la misma columna indican diferencias entre tratamien-
+tos según la prueba de DMS (P < 0.05).
+En la Figura 7 se puede apreciar que los mayores incrementos en el 
+número de granos por panícula fueron alcanzados con la aplicación 
+de Sulfammo.
+40
+45
+50
+55
+60
+Sulfammo 
+80 kg /ha
+Sulfammo 
+100  kg /ha
+Sulf amo 
+120 kg /ha
+Te st i go Compo 
+Master 80 
+kg/ ha
+Compo 
+M aste r 100 
+kg/ ha
+Compo 
+M aste r 120 
+kg/ ha
+48
+54
+52
+46 46
+50 50
+Granos por panícula
+Figura 7. Número de granos por panícula, registrado en el estudio “Respuesta 
+del cultivo de Arroz (Oriza sativa L.) a la fertilización con diferentes niveles de 
+nitrógeno”. Chané, Verano 2008/2009.
+-Humedad de grano
+La variable Humedad de grano no presentó diferencia estadística 
+significativa (P<0.05) entre tratamientos según el análisis de va-
+rianza. En la Figura 8 se muestran los resultados del efecto de la 
+aplicación de fertilizantes nitrogenados en la Humedad de grano 
+del arroz.
+Aparentemente, la fertilización con nitrógeno no provocó modifi-
+caciones en la fase vegetativa del cultivo de arroz, por lo que, en 
+todos los tratamientos se alcanzó una maduración relativamente 
+uniforme.
+Figura 8. Humedad de grano (%), registrada durante el estudio de “Respuesta 
+del cultivos de arroz (Oriza sativa L.) a la fertilización con diferentes niveles de 
+nitrógeno. Chané, Verano 2008/2009.
+=====PAGE 7=====
+50
+- Rendimiento de grano
+El análisis de varianza para la variable Rendimiento de campo, en 
+kg ha-1, detectó diferencias altamente significativas entre trata-
+mientos de fertilización. 
+En general, todos los tratamientos de fertilización con nitrógeno 
+presentaron rendimientos promedios superiores al testigo. Cuando 
+se aplican 80 kg/ha del fertilizante Sulfammo, se observa un signi-
+ficativo incremento (1350 kg/ha de grano), se alcanza el máximo 
+incremento (1483 kg/ha) con la dosis de 100 kg/ha de fertilizante 
+y luego el incremento se reduce a 1425 con la dosis más alta de 
+Sulfammo (120 kg/ha). En el caso de CompoMaster, el incremento, 
+con respecto al tratamiento testigo es de 425, 625 y 891 kg/ha con 
+la aplicación de 80, 100 y 120 kg/ha de fertilizante, respectivamen-
+te (Cuadro 6).
+La respuesta diferenciada entre los dos fertilizantes, favorable a 
+Sulfammo, puede estar relacionada al hecho de que el fertilizante 
+CompoMaster es una mezcla física, lo que no ha permitido una 
+aplicación homogénea. En este tipo de fertilizantes, en el que se 
+mezclan partículas de diferente tamaño, se tiene la dificultad de 
+que al aplicarlos, por el peso y el tamaño de la partícula y por la 
+fuerza de la gravedad, ocurre un asentamiento de las partículas de 
+mayor peso, las mismas que caen primero.
+En la Figura 9, se puede observar que se destaca el tratamiento 
+Sulfammo 100 kg ha-1 con un incremento de 41.9 % con respecto 
+al tratamiento testigo. De igual manera, los tratamientos Sulfammo 
+120 y 80 kg ha-1, sin diferencias estadísticas entre sí presentaron 
+incrementos de 40 y 38 %, respectivamente. Entre los tratamientos 
+con CompoMaster fue observado un incremento sostenido confor-
+me se aumentaron las dosis del fertilizante; con relación al testigo, 
+los incrementos relativos fueron de 12, 18 y 25 %, respectivamen-
+te.
+Cuadro 6. Resultados de la prueba de comparación de medias (DMS P<0.05) 
+del Rendimiento de grano en el estudio “Respuesta del cultivo de Arroz (Oriza 
+sativa L.) a la fertilización con diferentes niveles de nitrógeno”. Chané, Verano 
+2008/2009
+Tratamientos
+Dosis
+(kg ha-1)
+Media
+Significancia
+Estadística
+Comparación  
+Medias
+(DMS P< 0,05)
+T1 Sulfammo 120 4967
+**
+AB
+T2 Sulfammo 100 5025 A
+T3 Sulfammo 80 4892 CD
+T4 CompoMaster 120 4433 BC
+T5 CompoMaster 100 4167 BC
+T6 CompoMaster 80 3967 D
+T7 Testigo 0 3542 D
+Grado de significancia: ** Altamente significativo, * Significativo, NS no signifi-
+cativo. Distintas letras en la misma columna indican diferencias entre tratamien-
+tos según la prueba de DMS (P < 0.05).
+Estos resultados concuerdan plenamente con los observados en 
+diversos trabajos de investigación (Cordero, 1964; Sánchez, 1972; 
+Angulo et al., 1981; Morales, 1982; Ricaldez, 1988; Tinarelli, 1989; 
+Ortíz, 1993) los mismos que han reportado respuestas altamente 
+positivas a la fertilización nitrogenada. La corrección de las defi-
+ciencias de nitrógeno promueve un rápido crecimiento de la planta, 
+la formación de macollos, al incremento del número de granos por 
+panícula, al porcentaje de granos maduros y al tamaño y peso del 
+grano y al incremento del rendimiento y la calidad del grano de 
+arroz.
+0
+1000
+2000
+3000
+4000
+5000
+Su l f ammo  80  
+kg/ ha
+Sulfammo 
+100  kg /ha
+Sulfamo 120 
+kg/ ha
+Te st i go Compo 
+Master 80 
+kg/ ha
+Compo 
+Master 100 
+kg/ ha
+Compo 
+Master 120 
+kg/ ha
+4891,7 5025,0 4966,7
+3541,7
+3966,7 4166,7 4433,3
+(  Rendimiento kg ha-1)
+Figura 9. Rendimiento de grano (kg ha-1), registrado en el estudio “Respuesta 
+del cultivo de Arroz (Oriza sativa L.) a la fertilización con diferentes niveles de 
+nitrógeno”. Chané, Verano 2008/2009.
+En las Figuras 10 y 11, se puede observar que con la aplicación de 
+dosis crecientes de Sulfammo se obtiene una respuesta de tenden-
+cia cuadrática (Anexo 11) con una máximo técnico de 106.7 kg 
+de fertilizante, mientras que con la aplicación de CompoMaster la 
+respuesta es de tendencia líneal, con un incremento de aproxima-
+damente 7 kilos de grano por cada kilo del fertilizante.
+Figura 10. Rendimiento del cultivo de arroz (Oriza sativa L.) en función de la 
+fertilización con diferentes dosis de Sulfammo. Chané, Verano 2008/2009.
+Figura 11. Rendimiento del cultivo de arroz (Oriza sativa L.) en función de la 
+fertilización con diferentes dosis de CompoMaster. Chané, Verano 2008/2009.
+=====PAGE 8=====
+51
+Análisis económico
+El análisis económico (Cuadro 7) nos muestra que el T2 (100 kg 
+Sulfammo), presenta mayor rentabilidad con un ingreso de 209.3 
+$us/ha, seguido del T3 (80 kg Sulfammo), con 199.7 $us/ha, la 
+aplicación de fertilizante nitrogenado mostro rentabilidad en todos 
+los tratamientos, comparados con el testigo sin aplicación por lo 
+cual justifica su aplicación en términos de retorno para el agricultor.
+Cuadro 7. Resultados del análisis económico de la fertilización 
+con diferentes dosis de Sulfammo y CompoMaster. Chané, Verano 
+2008/2009
+No. Tratamientos Rendi -
+miento
+Ingreso 
+Bruto
+C o s t o 
+Fertili -
+zan-tes
+Ingreso 
+Neto
+Ingre -
+so/CF
+Kg/ha Bs.
+T1 Sulfammo 120 4967 982.11 100.8 881.31 180.98
+T2 Sulfammo 100 5025 993.64 84.0 909.64 209.30
+T3 Sulfammo 80 4892 967.28 67.2 900.08 199.75
+T4 CompoMaster 
+120 4433 876.65 93.6 783.05 82.72
+T5 CompoMaster 
+100 4167 823.92 78.0 745.92 45.59
+T6 CompoMaster 
+80 3967 784.37 62.4 721.97 21.64
+T7 Testigo 3542 700.33 0.0 700.33
+1 Tonelada de arroz = $us. 35.0
+TC 1 $us = 6.98
+CONCLUSIONES
+De acuerdo a los objetivos planteados y los resultados obtenidos se 
+concluye lo siguiente:
+La precipitación registrada durante el periodo de evaluación no 
+afectó al desarrollo del cultivo del arroz, más bien con estas preci-
+pitaciones se obtuvo buenos rendimientos.
+La temperatura promedio (30º C) registrada durante el periodo de 
+estudio fue adecuada para el desarrollo del cultivo del arroz.
+El número de plantas por metro lineal y la altura de planta se in-
+crementaron significativamente con la aplicación de 100 kilos de 
+Sulfammo. Un efecto similar se observa con la aplicación de 100 
+kilos por hectárea de CompoMaster.
+El número de panículas y longitud de panícula no variaron signifi-
+cativamente con la aplicación de las diferentes dosis de Sulfammo 
+y CompoMaster.
+El número de granos por panícula se incrementó significativamente 
+con la aplicación de 100 kilos de Sulfammo, como también con la 
+aplicación de 120 kilos por hectárea de CompoMaster.
+El mayor incremento de rendimiento del cultivo de arroz fue alcan-
+zado con la aplicación de 100 kilos de Sulfammo y con la aplicación 
+de 120 kilos de CompoMaster.
+El nivel óptimo de fertilización fue de 100 k/ha de Sulfammo, con 
+un beneficio neto de 209.3 $us/ha
+RECOMENDACIONES
+De acuerdo a los resultados obtenidos en el presenta trabajo de 
+investigación, se emiten las siguientes recomendaciones:
+En suelos de textura arcillosa, como el utilizado en este experimen-
+to, se recomienda el uso de 80 a 100 kilos del fertilizante Sulfam-
+mo.
+Se recomienda realizar este mismo trabajo de investigación en sue-
+los de texturas medias y livianas.
+Se recomienda realizar un análisis de suelo antes de planificar la 
+fertilización del cultivo de arroz.
+BIBLIOGRAFIA
+ANGULO, R. REYES, N. PAZ. 1981. Informe de ensayos en fertiliza-
+ción en el cultivo
+del arroz. CIAT. Santa Cruz, Bolivia, 42 pp.
+ARREGOCÉS, OSCAR; AHN, SANG-WON ; JENNINGS, PETER R.; 
+GONZÁLEZ, 
+J. 1982. Enfermedades del arroz en América Latina y su control. 
+Centro Internacional de Agricultura Tropical, Fundación Kelloggs. 
+Cali, COLOMBIA.
+AYALA, C.R. 1996. Respuesta del cultivo de arroz a niveles de fer-
+tilización mineral y
+orgánica con alta densidad de siembra en sistema chaqueado. Tesis 
+de Grado. Facultad de 
+Ciencias Agrícolas. Universidad Autónoma Gabriel René Moreno. 
+Santa Cruz – Bolivia. 101 p.
+CALANCHA J. (1983) Estudios Regionales de fertilización de Arroz 
+a secano. Tesis para 
+optar título de Ing. Agr. Facultad de Ciencias Agrícolas. Universidad 
+Autónoma Gabriel René Moreno. Santa Cruz – Bolivia.
+CAO. 2008. Números de mi Tierra. Datos estadísticos de la produc-
+ción del cultivo del  arroz. Santa Cruz, Bolivia.
+Caso Nº 1: (Viene de Pag. Nº 13)
+Carcinoma basocelular
+Se trata de una lesión de borde fijo, costroso, en una zona de exposición cutánea, que se mostró “activa” desde hace 
+relativamente poco tiempo. Tras la biopsia se confirmó la sospecha de carcinoma basocelular.

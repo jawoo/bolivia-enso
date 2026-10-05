@@ -1,0 +1,753 @@
+
+=====PAGE 1=====
+Diagnóstico situacional de la producción de soya 
+(glycine max) en Santa Cruz, Bolivia
+Ana Maria Subirana Gianella
+Zamorano, Honduras
+Diciembre, 2008
+=====PAGE 2=====
+ZAMORANO
+CARRERA DE ADMINISTRACIÓN DE AGRONEGOCIOS
+Diagnóstico situacional de la producción de soya 
+(glycine max) en Santa Cruz, Bolivia
+Proyecto especial presentado como requisito parcial para optar
+al título de Ingeniero en Administración de Agronegocios en el Grado
+Académico de Licenciatura
+Presentado por
+Ana Maria Subirana Gianella
+Zamorano, Honduras
+Diciembre, 2008
+ 
+=====PAGE 3=====
+Diagnóstico situacional de la producción de soya 
+(glycine max) en Santa Cruz, Bolivia
+Presentado por:
+Ana Maria Subirana Gianella
+Aprobado:
+ 
+Adolfo Fonseca Alcalá, M.A.E.
+Asesor Principal
+Adolfo Fonseca Alcalá, M.A.E.
+Director interino Carrera 
+Administración de Agronegocios
+Rosa Amada Zelaya M.Sc.
+Asesora Raúl Espinal, Ph.D.
+Decano Académico
+Kenneth Hoadley, D.B.A.
+Rector
+José Guillermo Berlioz, B.Sc.
+Coordinador de Tesis
+=====PAGE 4=====
+RESUMEN
+Subirana, A. 2008. Diagnóstico situacional de la producción de soya (Glycime max)  en 
+Bolivia. Proyecto de graduación del programa de Ingeniería en Administración de  
+Agronegocios, Escuela Agrícola Panamericana, Zamorano. Honduras. 24p.
+El objetivo general del estudio fue elaborar un diagnóstico de la situación actual de la  
+producción de soya en Bolivia, empleando la metodología CADIAC (Cadena y Diálogo  
+para la Acción) propuesta por el Instituto Interamericano de Cooperación para la  
+Agricultura (IICA) y diseñada para analizar sistemas agroalimentarios. El estudio se  
+enfocó tanto en la situación internacional como en la nacional. La producción de soya a  
+nivel mundial se encuentra concentrada en un grupo de pocos países: Estados Unidos,  
+Brasil y Argentina, que además son los principales exportadores del mundo. Entre los  
+principales importadores se encuentran: China, países de la Unión Europea y Japón. Los  
+precios internacionales de la soya,  desde el 2002 hasta el 2007 han subido, un 72% en la  
+Bolsa de Chicago (USA) alcanzando un promedio de  US$/TM 317.68 ; y un 56% en la  
+Bolsa de Rosario (Argentina) con un promedio de US$/TM 338.24 el año 2007. En  
+Bolivia, el 97% de la soya se cultiva en el departamento de Santa Cruz, en dos campañas:  
+verano e invierno. El complejo oleaginoso genera alrededor de 110,000 empleos directos  
+e indirectos, representa el  10% de las exportaciones totales de Bolivia (tercero mayor  
+exportado), y  contribuye con el 6% del PIB Nacional.  Este cultivo presenta una  
+rentabilidad positiva promedio de 43%, tanto en siembra directa (más eficiente) como en  
+convencional; con maquinaria alquilada o propia. Sin embargo los productores nacionales  
+se encuentran en desventaja frente a los productores vecinos,  en relación a los costos de  
+producción, precios percibidos, costo de logística, transporte y procesamiento industrial.
+Palabras clave: PIB, rentabilidad, sector oleaginoso.
+=====PAGE 5=====
+CONTENIDO
+Portadilla………………………………………………………………...
+Página de firmas........................................................................................
+Resumen....................................................................................................
+Contenido..................................................................................................
+Índice de Cuadros, Figuras y Anexos.…………......................................
+1 INTRODUCCIÓN.................................................................................
+2 ANTECEDENTES.................................................................................
+3 METODOLOGÍA..................................................................................
+4 RESULTADOS Y DISCUSIÓN...........................................................
+5 CONCLUSIONES..................................................................................
+6 RECOMENDACIONES.................................. .....................................
+7 BIBLIOGRAFÍA...................................................................................
+8 ANEXOS.................................................................................................
+i
+ii
+iii
+iv
+v
+1
+4
+5
+ 6
+17
+18
+19
+20
+=====PAGE 6=====
+ÍNDICE DE CUADROS, FIGURAS Y ANEXOS
+Cuadro          Página
+1. Cotizaciones a Futuro del grano de soya en la Bolsa de Chicago..
+2. Precio FOB del grano de soya en la Bolsa de Rosario……...........
+3. Distribución porcentual de productores de soya por escala de 
+siembra……………………………………………………….…..
+4.         Estructura de los costos de producción de soya con siembra 
+directa (2007)………………………………………………….....
+5. Estructura de los costos de producción de soya con siembra 
+convencional (2007)……………………………………………
+6. Cuadro de análisis de competitividad comparativo………………
+9
+9
+11
+15
+16
+17
+Figura          Página
+1. Principales productores de soya a nivel mundial............................
+2. Principales Exportadores de Soya en el Mundo..............................
+3. Principales exportadores de soya -gestión 2006/07……................
+4. Principales importadores de soya…………………........................
+5. Principales importadores de soya - gestión 2006/07………...........
+6. Evolución de la superficie, rendimiento y producción anual de 
+soya en Bolivia entre los años 1994 y 2006………………………
+7. Porcentaje de participación por tipo de productor - año 2003/04...
+8. Cluster boliviano de la Soya………………………………………
+9. Países de destino de las exportaciones – año 2007……………….
+6
+7
+7
+8
+8
+10
+11
+12
+15
+Anexo          Página
+1. Bolivia: Principales vías de exportación………………………….
+2. Santa Cruz: Entidades de investigación agrícola…………………
+3. Santa Cruz: Entidades gremiales de productores agropecuarios….
+4. Santa Cruz: Empresas que pertenecen a la APIA (Asociación de 
+Proveedores de Insumos Agrícolas)……...………………………
+5. Santa Cruz: Entidades financieras que otorgan créditos al sector 
+agropecuario…………………………………………………….
+20
+21
+21
+22
+23
+=====PAGE 7=====
+1 INTRODUCCIÓN
+La soya (Glycine max)  es una planta de la familia de las leguminosas fabáceas, que se  
+cultiva por el alto valor proteico de su semilla (35%). Presumiblemente, originaria de  
+China, se difunde hacia el “occidente” gracias  los estudios de George Washington  
+Carver, quien valorizó el uso de la soya como alimento además de planear la utilización  
+de los derivados de la soya para producir plásticos y combustibles (en especial biodiesel).  
+El cultivo se torna masivo en las Américas desde 1970, siendo los principales países  
+donde se cultivan: el Medio Oeste de EE.UU., Argentina, Brasil, Paraguay, Uruguay y  
+Bolivia.
+El ciclo vegetativo del cultivo de soya oscila entre tres a siete meses. Las hojas, los tallos  
+y la vainas son pubescentes, variando el color de los pelos, su tallo es rígido y erecto,  
+adquiere alturas variables, de 0.4 a 1.5 metros, según variedades y condiciones del cultivo. 
+Suele ser ramifica, con tendencia a encamarse, la raíz principal de esta planta puede  
+alcanzar hasta un metro de profundidad, aunque lo normal es que no sobrepase los 40-50  
+cm. Sus hojas son alternas, compuestas, excepto las basales, que son simples. Las hojas  
+son trifoliadas, con los folios oval-lanceolados. Tienen un color verde característico que  
+se torna amarillo en la madurez, quedando las plantas sin hojas. Sus flores se encuentran  
+en inflorescencias racimosas axilares en número variable, su fruto es una vaina dehiscente  
+por ambas suturas, cuya longitud varia de dos a siete centímetros. Cada fruto contiene de  
+tres a cuatro semillas, que es rica en proteínas y en aceites. 
+1.1 Manejo del cultivo
+1.1.1 Siembra 
+En cuanto a la profundidad de siembra lo recomendado es de 2 a 5cm., la densidad de  
+siembra debe estar dentro de un rango de 250 mil a 350 mil plantas/ha., esto se logra con  
+50 a 70 kg/ha. de semilla, siempre que el porcentaje de germinación de ésta no sea menor  
+de 80%; la distancia entre surcos dependerá de la variedad, la zona y la maquinaria  
+disponible, sin embargo se espera tener de 12 a 15 plantas establecidas por metro lineal. 
+1.1.2 Labranza 
+El objetivo principal de la labranza, es crear condiciones favorables para el suelo y el  
+cultivo, con el fin de aumentar el porcentaje de germinación de las semillas, mejorar la  
+infiltración y retención de agua de lluvia en el perfil del suelo, crear un ambiente  físico  
+donde las raíces del cultivo puedan desarrollarse normalmente y lograr un buen control de  
+malezas.
+=====PAGE 8=====
+1.1.3 Sistemas de Labranza
+• Labranza Convencional. Este método consiste en el uso de implementos de  
+discos como: arado, rome plow y rastras livianas con los que se roturan y  
+vuelcan el suelo.
+• Siembra Directa. Es un sistema basado en la no remoción del suelo, con  
+manejo de residuos en superficie y rotación de cultivos. 
+1.1.4 Manejo de malezas 
+Las malezas constituyen uno de los medios más importantes de difusión y sobrevivencia  
+de patógenos; por lo tanto el manejo de malezas es parte del manejo de enfermedades. Los 
+patógenos que sobreviven o se difunden a través  de las malezas son por lo general  
+aquellos capaces de infectar a un amplio rango de hospedantes, como  Sclerotinia  
+Sclerotiorum. 
+1.1.5 Cosecha de soya
+Cuando la semilla va madurando, su humedad decrece del 60 al 15% en un periodo de una 
+o dos semanas. La soya puede recogerse con una cosechadora de cereales bien regulada,  
+con unas pérdidas inferiores al 10%. El momento óptimo de recolección es cuando las  
+plantas han llegado a su completa maduración, los tallos no están verdes y el grano está  
+maduro con un porcentaje de humedad del 12-14%, es decir, cuando el 95% de las vainas  
+adquieren un color marrón. 
+1.1.6 Plagas y enfermedades 
+Entre las principales plagas que atacan al cultivo de la soya, se encuentran las siguientes:
+• Pulgón (Aphis sp.), que suele aparecer hacia el fin de la primavera, causando  
+daños en las hojas y brotes.
+• Arañuela o araña roja ( Tetranychus bimaculatus ), que a taca durante todo el  
+verano, dando a las plantas un color característico y pudiendo llegar a defoliar  
+toda la plantación si no se combate a tiempo. 
+• Gardama (Laphygma exigua ), las orugas de este lepidóptero suelen atacar en  
+junio y julio, produciendo daños importantes en hojas. 
+• Heliothis  armigera,  oruga que ataca a las hojas tiernas, botones florales y  
+vainas jóvenes.
+• Rosquilla  negra  (Spodoptera  littoralis ),  oruga  que ataca  a  las  hojas,  
+provocando defoliaciones, también puede afectar a las vainas. causa daños  
+muy graves al final del verano.
+Referido al ataque de insectos, según los agricultores, las chinches son la que más afectan  
+al cultivo. La principal enfermedad que ataca al cultivo es la roya,  que afecta seriamente  
+sus rendimientos.
+2
+=====PAGE 9=====
+1.2 Límites del Estudio
+El diagnóstico de la producción de soya, se enfocó principalmente en el departamento de  
+Santa Cruz, Bolivia.
+1.3 Objetivo General
+• Elaborar un diagnóstico de la situación actual de la producción de soya en Bolivia.
+1.4 Objetivos Específicos
+• Describir la situación actual de la soya en el mundo.
+• Describir y analizar la situación actual de la producción de soya, y determinar su  
+impacto económico en el departamento de Santa Cruz, Bolivia. 
+• Determinar los costos operativos y de producción para establecer la rentabilidad  
+del cultivo de soya en Bolivia.
+3
+=====PAGE 10=====
+2 ANTECEDENTES
+El cultivo de soya en Bolivia, ha crecido constantemente desde la década de 1980, hasta  
+convertirse  en  el  tercer  producto  mayor  exportado  y  representar  una  proporción 
+significativa de los ingresos del país.
+En Bolivia, el 97% de la soya se cultiva soya en dos zonas: la zona de “Expansión”  
+(tierras bajas del Este) y la zona “Integrada” (norte integrado), ambas localizadas en el  
+departamento de Santa Cruz, ya que posee un excelente clima que favorece a la actividad  
+agropecuaria, con temperaturas máximas promedio de 32ºC. y mínimas de 14ºC., y  
+precipitaciones medias anuales entre 1,100mm y 1,300 mm. 
+La zona de “Expansión” consta de aproximadamente 380,000 hectáreas cultivadas con  
+soya, producidas principalmente por el segmento de medianos y grandes productores. La  
+zona “Integrada” con aproximadamente 300,000 hectáreas de cultivo de soya en la  
+campaña de verano y 260,000 hectáreas en invierno, agrupa al segmento de pequeños  
+productores, que en su conjunto suman unos 8,000 productores.
+A su vez, el cultivo de soya se divide en dos campañas: la de verano y la de invierno. La  
+campaña de verano comprende los meses de noviembre a abril, y la de invierno de mayo a 
+septiembre. En la campaña de verano se produce el mayor volumen de producción  
+(aproximadamente el 80% del total). La producción de ambas campañas se destina a la  
+exportación  y  a  la  industria  doméstica.  De  la  campaña  de  invierno,  se  destina 
+aproximadamente un 20% para la producción de semilla de soya. 
+El sector oleaginoso boliviano está compuesto por: productores, proveedores de insumos  
+y maquinaria, acopiadores, industrias y organizaciones de apoyo relacionadas con el  
+cultivo de soya, trigo, girasol y maní. Éste sector, está compuesto en más del 80% por el  
+cultivo de soya, que representa uno de los cluster más organizados del país.
+=====PAGE 11=====
+3 METODOLOGÍA
+La metodología que se utilizó para llevar a cabo este estudio se dividió en tres etapas,  
+como se describen a continuación:
+3.1 Primera etapa
+Consistió en un estudio exploratorio donde se recopiló información sobre la producción  
+de soya, por medio de entrevistas a expertos, documentos gubernamentales, publicaciones  
+científicas, libros y revistas. Esta de información fue encontrada en las siguientes  
+instituciones, organismos y empresas involucradas  con el sector, entre ellos:
+• ANAPO (Asociación de Productores de Oleaginosas y Trigo), 
+• FAO (Food and Drugs Administration)
+• SEDAG (Servicio Departamental Agropecuario), 
+• IBCE (Instituto Boliviano de Comercio Exterior)
+• INE (Instituto Nacional de estadísticas), 
+• BCB (Banco Central de Bolivia). 
+• USDA (United States Department of Agriculture)
+3.2 Segunda etapa
+Se realizó un análisis de la información recolectada, se describió la situación actual del  
+sector oleaginoso en el mundo y luego en Bolivia, utilizando la metodología del enfoque  
+participativo  para  el  desarrollo  de  la  competitividad  de  los  SSA  (sistemas  
+agroalimentarios), llamado CADIAC (Cadenas y Diálogo para la Acción), método  
+elaborado por el IICA (Instituto Interamericano de Cooperación para la Agricultura).
+Se caracterizó la estructura, el funcionamiento y la dinámica del sistema agroalimentario  
+considerando a los actores involucrados y sus relaciones: los que producen, transportan,  
+transforman, venden, consumen el producto y sus derivados, los que proveen servicios e  
+insumos. Se trató también de caracterizar la importancia económica y social y la  
+influencia en el contexto internacional, regional y nacional (Herrera, 1996).
+Se describió y diagnosticó la situación de la producción de soya en Santa Cruz, Bolivia  
+por medio de la técnica de CADIAC. Sin embargo, en cuanto al uso de los cuadros y  
+tablas sugeridas por ésta técnica, se cambió por el uso de figuras más ilustrativas y de  
+mayor entendimiento. 
+3.3 Tercera etapa
+Esta etapa consistió básicamente en la redacción y presentación del documento final.
+=====PAGE 12=====
+4 RESULTADOS Y DISCUSIÓN
+4.1 Situación internacional
+La expansión de las siembras de soya en diferentes zonas agrícolas, refleja la importancia  
+de este cultivo a nivel mundial. La producción  de soya está concentrada en pocos países.  
+A la par de la creciente producción de soya se despliega la de otros productos que son  
+sustitutos como materia prima para la fabricación de aceites comestibles, como el girasol,  
+la colza y la palma africana. 
+Los principales países productores de soya son Estados Unidos, Brasil y Argentina, que  
+juntos conforman aproximadamente el 90% de la producción mundial. Le siguen países  
+como China, India, Paraguay, Canadá y Bolivia, este último con menos del 1% de la  
+producción mundial.
+Figura 1. Principales productores de soya a nivel mundial (en millones de toneladas)
+Fuente: FAO
+4.1.1 Principales exportadores e importadores
+Los  principales  exportadores  de  soya  en  el  mundo  son  también  los  principales 
+productores: Estados Unidos, con un 46% de las exportaciones; Brasil con un 35% y  
+Argentina con un 9% en la gestión 2006/07(Figura 2). Entre los tres concentran alrededor 
+del 90% de las exportaciones mundiales. En la Figura 3 se observa la participación de los 
+países exportadores de soya en la oferta mundial, entre 2004 y 2007.
+SOYA: Principales Productores Mundiales
+0.00
+10.00
+20.00
+30.00
+40.00
+50.00
+60.00
+70.00
+80.00
+90.00
+100.00
+Estados Unidos
+Brasil
+Argentina
+China India
+ParaguayCanadaBolivia
+Ex URSS
+Millones de Toneladas
+2002
+2003
+2004
+2005
+2006
+2007
+=====PAGE 13=====
+Figura 2. Principales Exportadores de Soya gestión 2006/07
+Fuente: FAO
+Figura 3. Principales exportadores de soya en el Mundo (en millones de toneladas)
+Fuente: FAO
+La demanda mundial de la soya se encuentra concentrada principalmente en China,  los  
+países de la Unión Europea, Japón, México y Taiwán. China importó el 46%, la Unión  
+Europea el 20% y Japón el 6% de las importaciones mundiales en la gestión 2006/07  
+(Figura 5). En la Figura 4 se observa la participación de los países importadores de soya  
+en la oferta mundial entre 2004 y 2007.
+SOYA: Principales exportadores 
+0.00
+5.00
+10.00
+15.00
+20.00
+25.00
+30.00
+35.00
+2004/05 2005/06 2006/07
+Estados Unidos Brasil Argentina
+Paraguay Canadá Otros
+SOYA: Principales países exportadores (2006/07)
+46%
+35%
+9%
+5% 2% 3%
+Estados Unidos Brasil Argentina Paraguay Canadá Otros
+7
+=====PAGE 14=====
+Figura 4. Principales importadores de soya (en millones de toneladas)
+Fuente: FAO
+Figura 5. Principales importadores de soya – gestión 2006/07- (en millones de toneladas)
+Fuente: FAO
+SOYA: Principales Importadores
+0.00
+5.00
+10.00
+15.00
+20.00
+25.00
+30.00
+35.00
+2004/05 2005/06 2006/07
+China UE-25 Japón México Taiwan Otros
+SOYA: Principales Importadores (2006/07)
+46%
+20%
+6%
+6%
+4%
+18%
+China UE-25 Japón México Taiwan Otros
+8
+=====PAGE 15=====
+4.1.2 Precios internacionales
+Los precios internacionales de las dos principales bolsas de valores donde se cotiza el  
+grano de soya: CBOT – Chicago Board of Trade (USA) y la Bolsa Rosario (Argentina) se  
+muestran en los siguientes cuadros. 
+Cuadro 1. Cotizaciones a Futuro del grano de soya en la Bolsa de Chicago (en US$/TM)
+Fuente: CBOT
+Cuadro 2. Precio FOB del grano de soya en la Bolsa de Rosario (en US$/TM.)
+Fuente: Bolsa de Rosario
+El precio promedio entre los años 2002 y 2006 en la Bolsa  Chicago (Cuadro 1) fue de 
+US$/TM 216.67, y el promedio en el año 2007 subió a US$/TM 317.58. En la Bolsa de  
+Rosario el precio promedio entre 2002 y 2006 fue de US$/TM 253.51, y el año 2007 el  
+precio alcanzó US$/TM 338.24. (Cuadro 2).  
+FECHA 2002 2003 2004 2005 2006 2007
+Enero 164.59 190.83 241.90 199.91 227.45 274.63
+Febrero 165.11 193.27 248.22 206.07 227.28 296.88
+Marzo 173.18 190.00 277.44 226.89 222.90 294.20
+Abril 170.04 195.09 276.64 225.87 223.59 285.83
+Mayo 171.10 206.66 265.38 233.89 227.40 299.28
+Junio 176.30 207.73 250.74 260.84 226.89 316.64
+Julio 192.20 193.51 230.19 257.04 221.60 322.29
+Agosto 199.66 203.35 215.24 231.45 204.93 316.81
+Septiembre 206.84 228.95 206.42 213.12 202.64 349.91
+Octubre 199.87 267.94 193.31 211.32 227.99 359.93
+Noviembre 209.55 281.78 189.70 214.62 240.39 376.95
+Diciembre 184.40 214.47 235.93 225.55 223.01 317.58
+Promedio Anual 184.40 214.47 235.93 225.55 223.01 317.58
+FECHA 2002 2003 2004 2005 2006 2007
+Enero 193.39 246.65 328.65 235.10 254.39 295.32
+Febrero 195.62 243.07 338.59 224.86 255.48 317.34
+Marzo 190.23 227.48 345.87 249.48 236.52 291.97
+Abril 185.43 235.47 345.73 243.77 232.53 281.70
+Mayo 196.03 244.37 317.30 248.53 246.30 289.67
+Junio 208.47 245.47 287.67 264.53 246.93 302.30
+Julio 224.61 236.29 266.16 271.06 251.03 306.81
+Agosto 232.26 238.39 253.55 261.48 246.52 325.84
+Septiembre 239.67 260.43 248.23 254.57 242.27 371.30
+Octubre 234.71 299.32 237.74 251.13 263.00 391.94
+Noviembre 251.67 313.40 238.60 246.80 286.00 424.13
+Diciembre 246.35 313.45 243.00 257.35 287.90 460.52
+Promedio Anual 216.54 258.65 287.59 250.72 254.07 338.24
+9
+=====PAGE 16=====
+4.2 Situación nacional
+En Bolivia existen aproximadamente 1.9 millones de hectáreas destinadas a la producción  
+agrícola, de las cuales la soya ocupa aproximadamente 940,000 hectáreas, es decir,  casi  
+un 50% de superficie destinada a la producción. 
+La soya se ha convertido en el cultivo líder de los agroindustriales, en los últimos años la  
+producción de soya ha aumentado de aproximadamente 390,000 toneladas el año 1994, a  
+más de 1,620,000 toneladas el 2007 (Figura 6).
+Figura 6. Evolución de la superficie, rendimiento y producción anual de soya en Bolivia  
+entre los años 1994 y 2006.
+Fuente: ANAPO
+4.2.1 Caracterización de los productores de soya 
+• Por escala de siembra:  En la producción agrícola, intervienen más de 14,000  
+productores de soya, donde más del 50% son considerados pequeños productores,  
+al tener áreas sembradas menores a 50 hectáreas. Aproximadamente un tercio del  
+total de los productores poseen entre 51 y 200 hectáreas (productores medianos) y  
+menos del 10% son grandes productores, con 201 o más hectáreas sembradas  
+(Cuadro 3). 
+0
+200,000
+400,000
+600,000
+800,000
+1,000,000
+1,200,000
+1,400,000
+1,600,000
+1,800,000
+0
+0.5
+1
+1.5
+2
+2.5
+SUPERFICIE (Has) 419000 454000 517990 580000 619000 608500 606900 629000 676200 796100 910600 950500 928200
+PRODUCCIÓN (TM) 735300 809500 895319 1008000 1100500 959465 1267150 1201500 1201500 1699950 1627500 1707600 1632080
+RENDIMIENTO (TM/Ha) 1.88 1.74 1.83 1.94 1.56 1.8 2.05 2.08 2.19 2.06 1.98 1.8 1.76
+1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006
+10
+=====PAGE 17=====
+Cuadro 3. Distribución porcentual de productores de soya por escala de siembra 
+Fuente: ANAPO
+• Por tipo de productores: La clasificación por tipos de productores divide a los  
+agricultores  en  nacionales,  brasileros,  menonitas,  japoneses  y  otros.  Esta  
+clasificación la realiza ANAPO, con el objetivo de segmentar el universo de  
+beneficiarios para fines de transferencia de tecnología para cada uno de los grupos. 
+Los mayores productores de soya son los nacionales, seguidos por los brasileños y  
+menonitas (Figura 7). 
+Figura 7. Porcentaje de participación por tipo de productor - año 2003/04
+Fuente: ANAPO
+Tamaño de Productor 2003 2004
+Pequeño (5 - 50ha) 55% 55.50%
+Mediano (51 - 200ha) 35% 35%
+Grande (201 > ha) 10% 9.50%
+Total Porcentaje 100% 100%
+Productores - 2003/04
+Nacionales 
+38%
+Japoneses
+6%
+Brasileños
+34%
+Menonitas 
+15%
+Otros 
+7%
+Nacionales Japoneses Brasileños Menonitas Otros 
+11
+=====PAGE 18=====
+4.2.2 Cluster de la Soya
+Todo el conjunto económico involucra a diferentes actores públicos y privados, tal como  
+se aprecia en la Figura 8.
+Figura 8. Cluster boliviano de la Soya
+Fuente: ANAPO
+Los principales componentes del cluster son los siguientes:
+• La producción agrícola, en la que intervienen más de 14,000 productores de soya.  
+Casi un 80% de ellos tienen áreas sembradas menores a 50 hectáreas.
+• El acopio del grano ha sido asumido principalmente por la industria aceitera que  
+se ha visto necesitada de suplir las carencias de centros de acopio en áreas rurales.
+• El sector industrial, orientado hacia la exportación, el cual se concentra en siete  
+plantas procesadoras que en conjunto tienen una capacidad instalada de de  
+1,916,000 TM/año, es decir, 5,249 TM/día. 
+• Las industrias y organizaciones de apoyo, que se describen a continuación.
+12
+=====PAGE 19=====
+4.2.2.1 Organizaciones de productores. La organización gremial de los productores
+primarios de soya del Departamento de Santa Cruz es la Asociación de Productores de  
+Oleaginosas y Trigo (ANAPO), la cual defiende los intereses y derechos de los  
+productores de soya, trigo, girasol y maní. Este gremio es una entidad sin fines de lucro,  
+agrupa aproximadamente el 70% de los más de 14,000 productores de soya del  
+Departamento de Santa Cruz. 
+Los servicios que brinda la asociación, van desde la representación de los derechos e  
+intereses de sus afiliados a través de cabildeo y negociaciones con diferentes entidades  
+públicas y privadas, hasta las actividades de investigación, transferencia de tecnología,  
+comercialización, acondicionamiento y almacenamiento de semilla, asesoramiento legal y  
+tributario e identificación de nuevos proyectos productivos. 
+ANAPO se ha constituido en interlocutor de sus representados ante el gobierno central,  
+las entidades públicas departamentales y los organismos internacionales para el diseño,  
+promoción y ejecución de planes, programas y proyectos sectoriales. Al igual que varias  
+otras asociaciones y federaciones de agricultores de diferentes rubros productivos, está  
+afiliada a una organización central denominada Cámara Agropecuaria del Oriente (CAO). 
+4.2.2.2 Proveedores de insumos. La provisión de productos especializados para la
+industria de la soya proviene de importaciones del Brasil, Argentina, Paraguay, China,  
+Estados Unidos y Europa. Se han identificado 43 empresas proveedoras de insumos y  
+maquinaria. Las importaciones anuales de 22 de estas empresas, que pertenecen a la  
+Asociación de Proveedores de Insumos (APIA), ascienden a US$ 60 millones en  
+plaguicidas y semillas (a precios locales); y aproximadamente US$ 30 millones en  
+maquinaria y equipos. Algunas empresas proveedoras de insumos, otorgan asistencia  
+técnica a los productores como un servicio complementario a la venta de insumos. Estas  
+empresas mantienen una estrecha relación con el sistema bancario para financiar sus  
+importaciones, además de otorgar crédito directo a los productores con plazos máximos  
+de 4 a 6 meses para los insumos y de hasta 5 años para maquinaria. 
+Los costos de insumos son a menudo más altos que en otros países sudamericanos con  
+industrias competidoras. En Santa Cruz, los agroquímicos están casi un 60% por encima  
+de los precios pagados en el Brasil. 
+4.2.2.3 Transporte para la exportación. La Hidrovía Paraná-Paraguay es todavía la
+ruta más empleada para exportar soya y sus derivados. Por la hidrovía se trasladan más de  
+647,000 toneladas de exportaciones de diferentes productos, además de un valor de  
+comercio equivalente al 49% de las exportaciones del departamento de Santa Cruz y al  
+13% de las exportaciones nacionales. 
+Todavía son muy marcados los problemas asociados a la reducida navegabilidad de la  
+Hidrovía Paraná – Paraguay en ciertas épocas del año. Aún después de las inversiones  
+realizadas por un nuevo socio estratégico, la infraestructura para el manipuleo de granos  
+en Puerto Aguirre, todavía no es la más adecuada. Además, los costos de dragado son  
+muy altos. En  Santa Cruz el costo de dragado por metro cúbico es de US$ 11.00, un  
+monto mucho mayor que el de Paraguay, que es cercano a los US$0.64. 
+13
+=====PAGE 20=====
+En los últimos años, se ha empezado a usar con mayor frecuencia otras rutas de  
+exportación, hacia los puertos del Pacífico, por la carretera de La Paz -Ilo - Matarani,  
+destinados a mercados andinos. Según empresas exportadoras, por esta vía se están  
+logrando menores costos que en los incurridos en la hidrovía. 
+La ruta tradicional de exportación, conocida como la hidrovía, implica una distancia de  
+traslado excesivamente alta. Para recorrerla, los productos deben ser trasladados por  
+carretera hasta Puerto Suárez en el río Paraguay, para que luego tomen la vía fluvial hasta  
+el Río de la Plata en  Argentina, y luego sean embarcados por el Océano Atlántico para  
+darle la vuelta al Cono Sur hasta llegar al Océano Pacífico, y de esta forma llegar a los  
+puertos de los países andinos que están en ese océano. 
+Es evidentemente una ruta excesivamente larga e irracional, si se considera que Santa  
+Cruz se encuentra en la vertiente pacífica de la Cordillera de los Andes. La ruta más corta  
+sería aquella que traslade los productos por carretera hasta Cochabamba, para que  
+traspasen la frontera por Oruro y lleguen al puerto de Arica en Chile. Sin embargo, la  
+muralla natural del altiplano andino y el mal estado de las carreteras la impide el uso de  
+esa ruta.
+ 
+4.2.2.4 Servicios financieros. Se estima que cerca del 60% del capital operativo 
+requerido para encarar las labores de siembra y manejo de los cultivos de soya proviene  
+de industrias aceiteras, empresas exportadoras y  proveedoras de insumos. Esta situación  
+expresa las serias limitaciones del sector financiero orientado a la producción en el  
+Departamento de Santa Cruz y en toda Bolivia. En estas limitaciones reside uno de los  
+principales obstáculos para la competitividad del cluster boliviano de la soya. 
+El sistema financiero se encuentra regulado por las normas de Basilea y opera en un  
+marco estrictamente privado. No existe una banca estatal de fomento a la agricultura,  
+razón por la cual las operaciones de crédito del sistema financiero están dirigidas a  
+aquellos agricultores que poseen garantías reales inmuebles. De acuerdo a datos del Banco 
+Central de Bolivia, la cartera agrícola es de 158 millones de dólares, equivalente a un  
+3.75% de la cartera total, de los cuales más del 80% son recursos a corto plazo. 
+4.2.3 Destino de las exportaciones 
+La producción de soya de Bolivia se destina principalmente a la Comunidad Andina,  
+como se puede ver  en la Figura 9. Los principales compradores de éste producto son  
+Venezuela, Colombia y Perú. 
+14
+=====PAGE 21=====
+A R G E N TI N A  ; 3 %
+CH I L E ; 5 %
+E CU A D OR ; 3 %
+PE R U ; 1 4 %
+COL OM B I A ; 3 0 %
+OTR OS; 3 %
+V E N E Z U E L A ; 4 1 %
+Figura 9. Países de destino de las exportaciones – año 2007
+Fuente: IBCE
+4.2.4 Costos de producción 
+Para establecer los costos de producción es pertinente considerar las tablas que se  
+presentan a continuación; sin embargo, los ingresos mostrados no representan el ingreso  
+neto final del proceso ya que falta el último paso que es la venta o recepción en mucho de  
+los casos por una agroindustria. 
+Cuadro4. Estructura de los costos de producción de soya – siembra directa (2007) 
+Fuente: ANAPO
+EXPANSION INTEGRADA EXPANSION INTEGRADA
+PRODUCTIVIDAD (TM/Ha) 2.15 1.22 2.15 1.22
+DESCRIPCIÓN $us./Ha. $us./Ha. $us./Ha. $us./Ha.
+A - OPERACIONES 103.15 120.15 71.40 85.65
+B - INSUMOS 207.50 231.50 207.50 231.50
+C- ADMINISTRACIÓN 3.21 2.74 3.21 2.74
+D- DESPUES DE LA COSECHA 27.95 15.86 27.95 15.86
+Costo Total ($us/Ha) 341.81 370.25 310.06 335.75
+Precio US$/TM 400.00 400.00 400.00 400.00
+Ingreso (US$/Ha) 860.00 488.00 860.00 488.00
+Resultado (US$/Ha) 518.19 117.75 549.94 152.25
+Rentabilidad (%) 60.26% 24.13% 63.95% 31.20%
+Propiedad de 200 ha.   (100 km. 
+de distancia)
+MAQUINARIA ALQUILADA MAQUINARIA PROPIA
+Soya - Siembra Directa
+15
+=====PAGE 22=====
+Cuadro 5. Estructura de los costos de producción de soya – siembra convencional (2007)
+Fuente: ANAPO
+La estructura de costos de los productores de soya presenta una rentabilidad positiva,  
+tanto en la siembra directa como en la convencional. Se puede apreciar diferencia de los  
+costos entre el sistema de labranza convencional o siembra directa, sobre todo por efecto  
+de preparación del suelo. 
+El hecho de que posean maquinaria propia, también influye en los beneficios finales, la  
+diferencia entre los productores que poseen maquinaria propia y los que no, llegan casi a  
+20% en su rentabilidad. Claro que para indagar aún más en este análisis habría que  
+considerar el costo financiero por la adquisición de la maquinaria.
+4.2.5 Competitividad del sector oleaginoso    
+La competitividad de soya en Bolivia se ve afectada por su capacidad de molienda, que es  
+de 5,250 toneladas/día, mientras que en Argentina es de 71,000 toneladas/día y en Brasil  
+96,000 toneladas/día (más de 17 veces la capacidad instalada en Bolivia). Otra limitante  
+importante es la ausencia de industrias productoras de agroquímicos, bienes de capital y  
+otros insumos. Cerca del 80% de los insumos son importados.
+EXPANSION INTEGRADA EXPANSION INTEGRADA
+PRODUCTIVIDAD (TM/Ha) 2.15 1.22 2.15 1.22
+DESCRIPCIÓN $us./Ha. $us./Ha. $us./Ha. $us./Ha.
+A - OPERACIONES 206.15 213.15 154.40 138.15
+B - INSUMOS 150.80 169.30 150.80 169.30
+C- ADMINISTRACIÓN 3.21 2.74 3.21 2.74
+D- DESPUES DE LA COSECHA 27.95 15.86 27.95 15.86
+Costo Total ($us/Ha) 388.11 401.05 336.36 326.05
+Precio US$/TM 400.00 400.00 400.00 400.00
+Ingreso (US$/Ha) 860.00 488.00 860.00 488.00
+Resultado (US$/Ha) 471.89 86.95 523.64 161.95
+Rentabilidad (%) 54.87% 17.82% 60.89% 33.19%
+Propiedad de 200 ha.   (100 km. 
+de distancia)
+MAQUINARIA ALQUILADA MAQUINARIA PROPIA
+Soya - Siembra Convencional
+16
+=====PAGE 23=====
+Cuadro 6. Cuadro de análisis de competitividad comparativo
+Fuente: ANAPO
+Indicadores Argentina Bolivia Brasil Paraguay
+Costos de producción 
+(US$/ha) 210 270 330 250
+Rendimiento (TM/ha) 2.53 2.1 2.56 2.51
+Precio al productor 
+(US$/TM) 200 160 210 180
+Costos de logística de 
+exportación (US$) 55 110 57 75
+Capacidad de molienda 
+(TM/día) 71,000 5,250 96,000 5,500
+Costos de procesamiento 
+industrial (US$/TM) 7 a 9 15 a 17 12 a 14 12 a 14
+17
+=====PAGE 24=====
+5 CONCLUSIONES 
+• La producción mundial de soya está concentrada en Estados Unidos, Brasil y  
+Argentina, que juntos constituyen aproximadamente el 90% de la oferta mundial;  
+estos países productores son también los principales exportadores. Los principales  
+importadores son: China, los países de la Unión Europea, Japón y México, entre  
+otros. El precio de la soya se cotiza principalmente en la Bolsa de Chicago (USA)  
+y en la Bolsa de Rosario (Argentina); el precio promedio en el año 2007 fue de  
+US$/TM 317.58 (USA) y de US$/TM 338.24 (Argentina), el precio de la soya  
+subió un 72% en la Bolsa de Chicago (USA),  y un 56% en la Bolsa de Rosario  
+(Argentina), con relación a los precios del año 2002.  
+• En Bolivia, el 97% de la soya se cultiva en dos zonas del departamento de Santa  
+Cruz: zona “Integrada” y de “Expansión”; a su vez, se siembra una campaña de  
+verano y otra de invierno.  El complejo oleaginoso  refleja el  10% de las  
+exportaciones totales de Bolivia, contribuye con el 6% del PIB Nacional, y genera  
+aproximadamente unos 110,000 empleos directos e indirectos.
+• La estructura de costos de producción para los productores de soya muestra una  
+rentabilidad positiva de aproximadamente el 43% en relación a los ingresos  
+percibidos, tanto en la siembra directa como en la convencional; sin embargo  
+Bolivia se encuentra en desventaja , con los costos de producción, precios  
+percibidos  por  los  productores,  costos  de  transporte  hasta  los  mercados  
+compradores y costos de procesamiento industrial, por la limitada capacidad de  
+molienda del país.
+=====PAGE 25=====
+6 RECOMENDACIONES
+• Determinar la rentabilidad del cultivo de soya tanto con maquinaria alquilada  
+como propia, considerando el financiamiento de la misma.
+• Que el Gobierno apoye a los pequeños productores con el establecimiento de  
+centros de acopios, donde éstos puedan almacenar sus granos; además de apoyar  
+con las carreteras nacionales para facilitar la logística de exportación.
+=====PAGE 26=====
+7 BIBLIOGRAFÍA
+ANAPO. 2008. Indicadores de generación de empleo del sector oleaginoso 2007.
+ANAPO. 2008. Anuario estadístico del cultivo de soya en Santa Cruz, Bolivia.
+BCB – Banco Central de Bolivia. www.bcb.gov.bo
+Brenes, E., Madrigal, K., Montenegro, D. 2001. El cluster de la soya en Bolivia:  
+Diagnóstico competitivo y recomendaciones estratégicas. INCAE. 81 p.
+CEPAL.  2008.  Estudio  económico  de  América  Latina  y  el  Caribe,  2007-2008.  
+Publicación de las Naciones Unidas. 198 p.
+Herrera, D; Bourgeois, R. 1996. Cadenas y Dialogo para la Acción (CADIAC). 1 ed.
+Costa Rica, IICA. 226 p.
+IBCE – Instituto Boliviano de Comercio Exterior. 2008. Bolivia: Desarrollo del Sector  
+Oleaginoso 1980 – 2007. Comercio Exterior nº 161. 32 p.
+IBCE – Instituto Boliviano de Comercio Exterior. 2008. Bolivia: Oportunidades y  
+desafíos de la crisis alimentaria mundial. Comercio Exterior nº164. 20 p.
+INE – Instituto Nacional de Estadística. www.ine.gov.bo
+FAO – Organización de las Naciones Unidas para la Alimentación y la Agricultura. 
+www.fao.org
+Kreidler, A.; Rodríguez G. ; Rocha A.; Antelo. E. 2004. La soya boliviana hacia el  
+mercado libre en las Américas. USAID/Bolivia. 206 p.
+Porter, M. 1982. Estrategia competitiva:  técnicas  para el análisis  de los sectores  
+industriales y de la competencia. Trad. Vasseur, A. 1 ed. México, Continental. 397 p.
+Svarzman G.; Rua R.; Rozemberg R.; Garcia P.; Requena J. 2004. Estudio de impacto:  
+Oportunidades y amenazas del ALCA para la economía boliviana. 235 p.
+The World Bank. 2007. Reforming Agriculture and rural development agricultural trade  
+for developing countries. 330 p.
+=====PAGE 27=====
+USDA – Departamento de Agricultura de los Estados Unidos. www.usda.gov 
+21
+=====PAGE 28=====
+8 ANEXOS
+Anexo 1. Bolivia: Principales vías de exportación 
+Fuente: ANAPO
+=====PAGE 29=====
+Anexo 2. Santa Cruz: Entidades de investigación agrícola
+                                                               
+Fuente: ANAPO
+Anexo 3. Santa Cruz: Entidades gremiales de productores agropecuarios
+Fuente: ANAPO
+21
+=====PAGE 30=====
+Anexo 4. Santa Cruz: Empresas que pertenecen a la APIA (Asociación de Proveedores de 
+Insumos Agrícolas).
+Fuente: ANAPO
+22
+=====PAGE 31=====
+Anexo 5. Santa Cruz: Entidades financieras que otorgan créditos al sector agropecuario
+Fuente: ANAPO
+ 
+23

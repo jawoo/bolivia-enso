@@ -1,0 +1,2306 @@
+
+=====PAGE 1=====
+
+=====PAGE 2=====
+
+=====PAGE 3=====
+
+=====PAGE 4=====
+MINISTERIO DE DESARROLLO PRODUCTIVO Y 
+ECONOMÍA PLURAL
+Néstor Huanca Chura
+Ministro de Desarrollo Productivo y Economía Plural
+Luis Joshua Siles Castro
+Viceministro de Políticas de Industrialización
+Coordinación:
+Giovani Hugo Luis Tórrez Y áñez 
+Director General de Análisis Productivo, Industrial y Economía Plural
+ 
+Juan Edgar Condori Gutiérrez 
+Jefe de Unidad de Análisis Productivo e Industrial 
+Contenido y redacción:
+Israel Gutiérrez Ulo
+Miguel Molina Argandoña
+Diseño:
+Alexandra Enriquez Cordero
+Dirección:
+Av. Mcal. Santa Cruz, Edif. Centro de Comunicaciones La Paz, piso 16 y 20
+Teléfono: +591 (2) 2184444 – Fax:+591 (2) 2124933
+ 
+www.produccion.gob.bo
+ 
+La Paz – Bolivia 
+Octubre 2023
+=====PAGE 5=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+3
+Luis Alberto Arce Catacora
+PRESIDENTE CONSTITUCIONAL
+DEL ESTADO PLURINACIONAL DE BOLIVIA
+=====PAGE 6=====
+
+=====PAGE 7=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+5
+David Choquehuanca Céspedes
+VICEPRESIDENTE CONSTITUCIONAL
+DEL ESTADO PLURINACIONAL DE BOLIVIA
+=====PAGE 8=====
+
+=====PAGE 9=====
+ÍNDICE
+1. Introducción ................................................................................................................................................  15
+2. Consideraciones generales del cultivo de trigo................................................................................................. 17
+2.1. Orígenes............................................................................................................................................................... 18
+ 
+2.2. Valor nutritivo..................................................................................................................................................... 18
+2.3. Características alimenticias............................................................................................................................... 18
+3. Marco normativo del complejo productivo de granos (trigo)......................................................................... 19
+3.1. Decreto Supremo 255 aprueba la política de subvención.............................................................................. 20
+3.2. Decreto Supremo 3919 aprueba el programa trigo........................................................................................ 20
+4. Análisis del complejo productivo de trigo..........................................................................................................21
+4.1.       Regiones productoras de trigo............................................................................................................................. 24
+4.2.        Evolución y distribución geográfica de la producción primaria del cultivo de trigo ................................. 26
+4.3.        Zonas tradicionales de cultivo de trigo del departamento de Santa Cruz.................................................... 31
+4.4.        Estimación de la producción del cultivo de trigo para la campaña de invierno 2024 ............................... 33
+4.4.1.     Análisis del comportamiento espacial de la precipitación acumulada en las
+              zonas productoras del departamento de Santa Cruz....................................................................................... 34
+4.4.2.     Análisis del comportamiento espacial de la temperatura suelo en las zonas productoras
+              del departamento de Santa Cruz........................................................................................................................ 38
+4.4.3.     Análisis del comportamiento espacial de la evapotranspiración en las zonas productoras del
+              departamento de Santa Cruz.............................................................................................................................. 40
+4.4.4.     Análisis del comportamiento espacial del índice de vegetación en las zonas productoras del
+              departamento de Santa Cruz...............................................................................................................................43
+4.5.       Identificación de áreas de cultivo de trigo del departamento de Santa Cruz.................................................45
+=====PAGE 10=====
+5.          Dinámica del proceso de transformación de los productos derivados del trigo................................................ 49
+5.1.        Importación de la semilla de trigo..................................................................................................................... 50
+5.2.         Destino de la producción del trigo.................................................................................................................... 52
+5.2.1. Zona Occidental.................................................................................................................................................. 52
+5.2.2. Zona Oriental...................................................................................................................................................... 52
+6. Transformación e industrialización................................................................................................................... 55 
+6.1. Composición de la industria............................................................................................................................. 56 
+7. Proceso de producción e industria molinera..................................................................................................... 65 
+7.1. Proceso de producción de harina de trigo....................................................................................................... 66 
+7.2. Capacidades de la industria molinera y de granos......................................................................................... 70 
+7.3. Acopio de harina de trigo en EMAPA............................................................................................................. 71
+7.4. Proceso de producción e industrias de transformación de pastas............................................................... 73 
+7.4.1. Proceso de producción de pastas...................................................................................................................... 74 
+7.4.2. Capacidades de la industria de pastas y fideos............................................................................................... 76
+7.4.3. Proceso de producción e industrias de galletería........................................................................................... 77
+8. Dinámica de los rendimientos, importación, exportación y precios de los 
+ productos derivados del trigo............................................................................................................................  79
+8.1. Rendimiento Sud Americano del cultivo de trigo.........................................................................................  80 
+8.2. Importaciones de harina de trigo...................................................................................................................... 81 
+8.3. Importaciones y exportaciones de pastas y fideos.......................................................................................... 83 
+8.4. Comportamiento del precio de los sub productos del trigo.......................................................................... 84 
+9. Comportamiento de la banca en la industria del trigo..................................................................................... 87 
+10. Referencias........................................................................................................................................................... 90
+11.        ANEXOS....................................................................................................................................................................91
+=====PAGE 11=====
+  ÍNDICE DE GRÁFICOS
+Gráfico 1: Ranking de municipios productores de trigo – 2022.................................................................................. 26 
+Gráfico 2: Bolivia - Superficie, producción y rendimiento del grano trigo, año 2022.............................................. 27 
+Gráfico 3: Municipios productores de cultivo de trigo, Año 2022.............................................................................. 30 
+Gráfico 4: Dispersión de la precipitación acumulada mensual, meses mayo-julio, años 2011-2023...................... 37 
+Gráfico 5: Dispersión de la temperatura suelo, meses mayo-julio, años 2011-2023................................................. 40
+Gráfico 6: Dispersión de la evapotranspiración total, meses mayo-junio, años 2013-2023......................................43 
+Gráfico 7: Tendencia del promedio mensual del NDVI, meses mayo-julio, años 2013-2023.................................. 45
+Gráfico 8: Producción e importación del grano trigo en toneladas. Bolivia 2022..................................................... 50 
+Gráfico 9: Importación de semilla de trigo, Bolivia....................................................................................................... 51 
+Gráfico 10: Tipos de sociedades en las industrias molinera, de pastas y repostería................................................. 56 
+Gráfico 11: Industrias, panadería y repostería por departamento y tamaño de empresa 
+(en porcentaje).................................................................................................................................................................... 60 
+Gráfico 12: Industrias molinera por departamento y tamaño de empresa (en porcentaje)..................................... 60 
+Gráfico 13: Industrias de pastas, fideos, por departamento y tamaño de empresa (en porcentaje)........................ 61 
+ Gráfico 14: Industrias, panadería y repostería por departamento y tipo de empresa 
+(en número de unidades)................................................................................................................................................... 61
+ Gráfico 15: Industrias molinera por departamento y tipo de empresa (en número de unidades)......................... 62 
+ Gráfico 16: Industrias de pastas, fideos, por departamento y tipo de empresa 
+(en número de Unidades).................................................................................................................................................. 62 
+ Gráfico 17: Empleo por tipo de empresa (en número de personas)........................................................................... 63
+ Gráfico 18: Empleo por rubro y tamaño de empresa (en porcentaje)........................................................................ 63 
+ Gráfico 19: Producción de harina de trigo (en toneladas)........................................................................................... 70 
+ Gráfico 20: Acopio de grano de trigo por la Estatal EMAPA (en toneladas)............................................................ 72 
+Gráfico 21: Rendimiento del cultivo de trigo en Sud América, Año 2021 (en toneladas/hectárea)....................... 80
+ Gráfico 22: Producción primaria de trigo en Sud América, Año 2021 (en toneladas)............................................ 81 
+=====PAGE 12=====
+ Gráfico 23: Importaciones de harina de trigo (toneladas)........................................................................................... 81 
+ Gráfico 24: Comportamiento mensual de las importaciones de harina de trigo. 
+(En miles de toneladas)..................................................................................................................................................... 82  
+Gráfico 25: Exportaciones e importaciones de pastas y fideos..................................................................................... 83 
+ Gráfico 26: Serie histórica de precios promedios en el mercado mayorista de productos derivados.................... 85 
+Gráfico 27: Serie histórica de precios promedios anules al consumidor de la harina de trigo
+ blanca/integral................................................................................................................................................................... 85 
+ Gráfico 28: Serie histórica de los precios internacionales del trigo y su relación con el precio en  
+Bolivia (en USD/Tn).......................................................................................................................................................... 86
+ Gráfico 29: Crédito al sector de la preparación y molienda de trigo (en dólares).................................................... 88
+ 
+ Gráfico 30: Variación porcentual de la cartera de créditos a la actividad de preparación 
+                     y molienda de trigo (en millones de dólares)............................................................................................ 89 
+ Gráfico 31: Número de prestatarios del sector de preparación y molienda de trigo................................................ 90 
+ÍNDICE DE TABLAS
+Tabla 1: Características Alimenticias del trigo............................................................................................................... 18 
+Tabla 2: Superficie Cultivada del Grano de trigo año 2022.......................................................................................... 25 
+Tabla 3: Época de Siembra y Cosecha de trigo en Bolivia............................................................................................ 31
+Tabla 4: Superficie identificada de trigo en las zonas de cultivo para
+ la campaña de invierno 2023........................................................................................................................................... 47
+Tabla 5: Estimación de producción y rendimiento campaña de invierno 2024 cultivo de trigo............................. 48
+Tabla 6: Destino de la Producción de la Zona de los Valles (%).................................................................................. 52
+Tabla 7: Destino de la Producción de la Zona Oriental (%)......................................................................................... 53 
+Tabla 8: Número de unidades productivas vigentes...................................................................................................... 56 
+Tabla 9: Industrias molinera, de pastas, fideos, panadería y repostería por 
+departamento..................................................................................................................................................................... 59 
+Tabla 10: Balance másico de la molienda de grano de trigo blando........................................................................... 69
+Tabla 11: Industrias molineras, de pastas, fideos, panadería y repostería por departamento ................................ 70 
+Tabla 12: Capacidad de acopio de la industria molinera 2019.................................................................................... 71
+=====PAGE 13=====
+Tabla 13: Valor de la producción de los productos derivados del trigo....................................................................... 73
+Tabla 14: Capacidad instalada y utilizada para la producción de pastas y fideos 2020............................................. 76
+ 
+ÍNDICE DE MAP AS
+Mapa 1: Zonas tradicionales de producción de trigo, 2022.......................................................................................... 24
+Mapa 2: Distribución Geográfica de Producción departamental de trigo, Año 2022.............................................. 28
+ Mapa 3: Municipios productores de trigo, Año 2022 - 2023....................................................................................... 29
+Mapa 4. Zonas tradicionales de producción de trigo en el departamento de Santa Cruz........................................ 32
+Mapa 5: Distribución espacio temporal de la precipitación acumulada 2013-2023................................................. 36
+Mapa 6: Distribución espacio temporal de la temperatura suelo, 2011-2023............................................................ 39
+ Mapa 7: Distribución espacio temporal de la evapotranspiración, 2011-2023..........................................................42
+ Mapa 8: Distribución espacio temporal del promedio mensual del NDVI, años 2013 a 2023............................... 44
+Mapa 9: Identificación de superficies de cultivos de trigo campaña de invierno 2023............................................. 46
+Mapa 10: Distribución georeferenciada por tamaño de empresa de la industria del trigo....................................... 57
+Mapa 11: Distribución georreferenciada de actividades y servicios de las empresas
+                  manufactureras de procesamiento de trigo .................................................................................................. 58
+Mapa 12: Distribución Geográfica de las plantas de almacenamiento de granos – EMAPA .................................  72 
+ÍNDICE DE FIGURAS
+Figura 1: Mapeo de actores en el complejo productivo del trigo.................................................................................. 23 
+Figura 2: Proceso de producción de harina de trigo...................................................................................................... 68
+Figura 3: Proceso de Fabricación de pastas, macarrones y fideos................................................................................ 75
+Figura 4: Esquema metodológico de identificación de cultivos de trigo.................................................................... 94 
+Figura 5: Combinación de bandas Municipios: Okinawa Uno y Cuatro Cañadas.................................................... 96
+Figura 6: Zona de muestro departamento de Santa Cruz.......................................................................................... 97
+Figura 7: Firma espectral del cultivo de trigo................................................................................................................. 98
+Figura 8: Clasificación supervisada para determinar cultivos de trigo....................................................................... 99
+=====PAGE 14=====
+
+=====PAGE 15=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+13
+El Modelo Económico Social Comunitario Pro -
+ductivo, aplicado en el periodo 2006 a 2019, por 
+el Gobierno de la Revolución Democrática Cul -
+tural, basa su enfoque en el Estado como pro -
+motor y protagonista del desarrollo económico, 
+social y ambiental, prioriza el mercado interno y 
+la industrialización de los recursos naturales. El 
+modelo identifica a los Sectores Generadores de 
+Excedentes como Hidrocarburos, Minería y Ener -
+gía eléctrica y a los Sectores Generadores de Em -
+pleo e Ingresos, en este segundo sector se ubica 
+la Industria Manufacturera y Artesanía, Turismo, 
+Desarrollo Agropecuario, Vivienda y Servicios.
+La crisis política y económica a la que condujo 
+el Gobierno de facto, en la gestión 2020, impactó 
+de sobre manera en el sector productivo transfor -
+mador de la economía, así la ausencia de políticas 
+productivas y las limitadas acciones para enfren -
+tar las consecuencias de la pandemia determinan 
+que en la gestión 2020 la economía registra una 
+caída del PIB de -8.8%, donde entre otros sectores 
+afectados se observa la caída de -8.3% de la Indus -
+tria Manufacturera.
+En el año 2020 se recupera la democracia en Bo -
+livia donde el Movimiento al Socialismo Instru -
+PRESENTACIÓN
+
+=====PAGE 16=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+14
+Néstor Huanca Chura
+MINISTRO DE DESARROLLO PRODUCTIVO Y ECONOMÍA PLURAL
+mento Político para la Soberanía de los Pueblos 
+logra una victoria electoral con el 55% de los votos 
+y proclama al Hermano Luis Arce Catacora y al 
+Hermano David Choquehuanca Cespedes Presi -
+dente y Vicepresidente del Estado Plurinacional 
+de Bolivia, a partir de ese instante se tomaron 
+medidas económicas para la reactivación del apa -
+rato productivo, como el financiamiento para el 
+sector productivo, la reactivación de la inversión 
+pública, la articulación y el fortalecimiento de la 
+producción nacional con el mercado interno, la 
+protección de la producción nacional, la reacti -
+vación de las empresas del Estado y el apoyo a la 
+recuperación del sector turismo, entre otras. 
+Uno de los sectores priorizados es el sector de tri -
+go para garantizar el abastecimiento al mercado 
+interno de harina y sustituir importaciones que 
+permita ahorrar más de 100 millones de dólares 
+anuales. Es así que, el 29 de mayo de 2019, a través 
+del Decreto Supremo No. 3919 se crea el Progra -
+ma Multisectorial de Fomento a la Producción de 
+Trigo, con el propósito de incrementar la produc -
+ción y el rendimiento del cultivo de trigo en las 
+zonas tradicionales de la región oriental, como 
+también, en los climas templados y fríos en la re -
+gión de los valles y la región del altiplano sur del 
+territorio nacional. 
+El Ministerio de Desarrollo Productivo y Econo -
+mía Plural, con el objetivo de brindar información 
+técnica como sustento para la implementación 
+de políticas en desarrollo Productivo e indus -
+trialización establecidas en el Plan de Desarrollo 
+Económico Social 2021-2025, ponemos dispo -
+sición de nuestra población boliviana el análisis 
+del: “COMPLEJO PRODUCTIVO DEL TRIGO 
+EN BOLIVIA ” , documento que identifica infor -
+mación agro meteorológica, territorial y satelital 
+referente a las actividades económicas que vie -
+nen dinamizando el desarrollo económico local 
+y hacia donde se orienta prospectivamente su 
+potencial productivo. Número de Unidades 
+Económicas dedicadas a la industrialización 
+de los derivados del trigo. Información de los 
+créditos otorgados por el Sistema Financiero 
+por destino del crédito. Dinámica de las im -
+portaciones y exportaciones de los derivados 
+del trigo, y finalmente información +de la 
+Transformación e Industrialización del trigo 
+y sus derivados. El contenido de este docu -
+mento pretende que sea un instrumento de 
+información sectorial productiva para uso de 
+todos los niveles del Estado, actores producti -
+vos y la sociedad en su conjunto, para la toma 
+de decisiones en la optimización de mejorar la 
+competitividad e incrementar las capacidades 
+de producción e industrialización del trigo.
+=====PAGE 17=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+15
+
+=====PAGE 18=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+16
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+El trigo común (Triticum aestivum) es el trigo 
+que se cultiva en Bolivia, también conocido como 
+trigo para producción de pan. Generalmente tie -
+ne un contenido alto de proteínas y gluten con el 
+endosperma de textura dura o blanda.
+En Bolivia, el trigo se cultiva en dos regiones de -
+finidas: occidental y oriental. La región occiden -
+tal (tradicional), que comprende zonas agrícolas 
+en los departamentos de Cochabamba, Chuqui -
+saca, Potosí, Tarija y en menor superficie en Oru -
+ro y La Paz; producción de verano relativamente 
+estable, con un ligero incremento en los últimos 
+años. La región oriental, que corresponde al de -
+partamento de Santa Cruz, y cuya producción se 
+la realiza en invierno a escala empresarial y en 
+rotación con el cultivo de soya.
+En promedio nacional, dentro de la estructura 
+productiva boliviana, el 75% de la producción 
+de invierno se encuentra en el departamento de 
+Santa Cruz, orientada en su mayoría a la molien -
+da para la producción de harina; el occidente con 
+el 25% en campaña de verano, con una cobertura 
+dirigida principalmente al autoconsumo, semilla 
+y una tercera parte a la venta para uso industrial.
+Los factores limitantes para la producción de tri -
+go en la región occidente son: el minifundio, la 
+erosión de suelos, el estrés hídrico y nutricional, 
+la baja densidad de plantas, el ataque de plagas y 
+enfermedades, variedades de bajo rendimiento, 
+heladas, granizadas, limitación en la infraestruc -
+tura productiva, problemas post cosecha y culti -
+vos alternativos más rentables. Por otro lado, en 
+el oriente, los factores limitantes como plagas y 
+enfermedades, estrés hídrico, entre otros factores 
+fueron relativamente menores con respecto a la 
+oportunidad de producir otros cultivos económi -
+camente más rentables por lo que la producción 
+de trigo en el oriente es practicada principalmen -
+te en época de invierno, en rotación con otros 
+cultivos como ser: soya, sorgo, girasol y maíz.
+En el proceso industrial el grano de trigo es uti -
+lizado para la producción de harina, harina in -
+tegral, sémola, cerveza y una gran variedad de 
+productos alimenticios. Más del 90% del trigo 
+producido es el denominado trigo harinero, per -
+teneciente a la especie (Triticum aestivum).
+La harina de trigo producida por la industria 
+nacional junto a la importada, es utilizada de la 
+siguiente forma: Un 73% para panificación, 24% 
+para producción de pastas alimenticias y el 2% 
+destinada a la industria de galletas, pastelería y 
+otros.
+=====PAGE 19=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+17
+
+=====PAGE 20=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+18
+El trigo se cultiva en dos regiones definidas en 
+Bolivia: La región occidental (tradicional), que 
+comprende zonas agrícolas en los departamentos 
+de Cochabamba, Chuquisaca, Potosí, Tarija y en 
+menor superficie en Oruro y La Paz; producción 
+de verano relativamente estable, con un ligero in -
+cremento en los últimos años. La región oriental, 
+que corresponde al departamento de Santa Cruz, 
+y cuya producción se la realiza en invierno a esca -
+la empresarial y en rotación con el cultivo de soya.
+2.1. Orígenes
+El origen del trigo se encuentra en la región asiá -
+tica comprendida entre los ríos Tigres y Eufrates, 
+habiendo numerosas gramíneas silvestres com -
+prendidas en esta área, que están emparentadas 
+con el trigo. Desde Oriente Medio el cultivo de 
+trigo se ha difundido en todas las direcciones del 
+mundo.
+2.2. Valor nutritivo
+El pan, las pastas alimenticias, las galletas, y el tri -
+go en grano, son alimentos que constituyen una 
+fuente de calorías y proteínas de la dieta diaria, 
+que en conjunto contribuyen con 817 kcal/día 
+equivalentes al 38,17 % del requerimiento diario 
+(2,140 kcal). Estos alimentos contribuyen en un 
+18% de la ingesta diaria de proteínas, cantidades 
+que están cubiertas en su mayoría por producto 
+importado.
+El grano de trigo contiene una pequeña partícu -
+la denominada germen de trigo, que resulta alta -
+mente beneficiosa al ser rica en vitamina E, ácidos 
+linoleicos, fosfolípidos y otros elementos indis -
+pensables para el buen equilibrio del organismo y 
+que éste no puede sintetizar. Su contenido protei -
+co es tres veces  superior a la carne y al pescado y 
+cinco veces a los huevos.
+2. CONSIDERACIONES GENERALES DEL CULTIVO DE 
+TRIGO
+Tabla 1: Características Alimenticias del 
+trigo
+2.3. Características 
+           alimenticias
+En la siguiente tabla, se muestra el porcen -
+taje de nutrientes en su forma natural del 
+grano de trigo en 100 gramos de muestra:
+=====PAGE 21=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+19
+DEDE
+=====PAGE 22=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+20
+         Fortalecer a la agricultura familiar campe -
+sina, indígena y originaria con base comunitaria, 
+valorizando su rol productor de alimentos bási -
+cos, reconociendo su aporte.
+3.2.   Decreto Supremo 3919 
+          aprueba el programa trigo
+Promulgado el 29 de mayo de 2019, tiene por 
+objeto crear el Programa Multisectorial de Fo -
+mento a la Producción de Trigo, que tiene por 
+objetivo incrementar los volúmenes de produc -
+ción y 
+superficie. Las entidades encargadas de la ejecu -
+ción son:
+          Empresa de Apoyo a la Producción de 
+  Alimentos - EMAPA.
+          Servicio de Desarrollo de las Empresas 
+Públicas Productivas-SEDEM, destinados a la 
+Empresa Estratégica de Producción de Semi -
+llas-EEPS.
+         Servicio de Desarrollo de las Empresas Pú -
+blicas Productivas - SEDEM, destinados a la Em -
+presa Estratégica de Producción de Abonos y Fer -
+tilizantes - EEPAF .
+3.1. Decreto Supremo 255 aprue -
+ba la política de subvención
+Fue promulgado el 19 de agosto del 2009, tiene 
+por objeto aprobar la política de subvención a 
+la producción y comercialización de productos 
+agropecuarios y sus derivados, a precio justo, a ser 
+implementada a través de la Empresa de Apoyo a 
+la Producción de Alimentos - EMAPA, sus princi-
+pales objetivos son: 
+             Fortalecer el rol del Estado como actor
+protagónico en el desarrollo agropecuario.
+         Fomentar e incentivar la producción na -
+cional, en  el .marco de la seguridad y soberanía 
+alimentaria del  país y el derecho humano a una 
+alimentación adecuada, para satisfacer las necesi -
+dades de consumo de la población boliviana, im -
+pulsando la autosuficiencia de la producción y el 
+consumo de alimentos
+ nacionales.
+           Apoyar a los pequeños y medianos pro -
+ductores en la recuperación y potenciamiento de 
+sus capacidades productivas, impulsando condi -
+ciones más equitativas de desarrollo en el campo 
+y contribuyendo en los procesos de acumulación 
+interna de los actores privados y comunitarios 
+para combatir la extrema pobreza rural.
+              Crear estímulos directos a la producción
+ agropecuaria.
+  
+     
+3. MARCO NORMATIVO DEL COMPLEJO PRODUCTIVO DE 
+GRANOS  (TRIGO)
+
+=====PAGE 23=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+21
+PRODUCTIVO DE TRIGO
+=====PAGE 24=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+22
+4.    ANÁLISIS DEL COMPLEJO PRODUCTIVO DE TRIGO
+Los complejos productivos son concebidos como 
+conjuntos articulados de actores, actividades, 
+condiciones y relaciones sociales de producción 
+en torno a las potencialidades productivas, cuyo 
+objetivo es dinamizar el desarrollo económico y 
+social sustentable, integral y diversificado en el 
+territorio nacional con una orientación al merca -
+do interno y la inserción selectiva en el mercado 
+externo.
+El complejo productivo del trigo se compone por 
+varios entes. El siguiente esquema muestra la in -
+terrelación de actores dentro del complejo del 
+Trigo.
+Producción primaria
+La producción primaria nacional principalmente 
+se desarrolla en dos regiones: la región oriental 
+(Santa Cruz) y la región occidental o también lla -
+mada tradicional o andina (valles de Cochabam -
+ba, Potosí, Tarija y altiplano), a su vez el mercado 
+recibe trigo de importación principalmente de 
+Argentina y Canada.
+Transformación
+La industria panificadora y de pastas son las prin -
+cipales consumidoras de harina. De igual manera 
+que en los casos anteriores la industria de pastas 
+se fue mermando por el incremento de productos 
+importados legal e ilegalmente. Por otro lado, la 
+industria de panificación sigue una tendencia cre -
+ciente sostenida .
+Comercialización
+La producción nacional de trigo, dependiendo si 
+es de la región oriental o la región occidental está 
+orientado a cubrir el consumo interno, principal -
+mente para la panificación y en menor 
+porcentaje para la elaboración de pastas y repos -
+tería. El mercado está compuesto por industrias 
+que en su mayoría compran directamente a los 
+productores intermediarios, especialmente en la 
+comercialización de Harina. EMAPA, como en -
+tidad que apoya en la regulación de precios y el 
+abastecimiento al mercado a 
+precio justo.
+ 
+Organizaciones de apoyo
+En la producción de trigo nacional, están  invo -
+lucrados instituciones públicas y privadas, y or -
+ganizaciones productoras quienes apoyan con 
+asistencia técnica en la producción primaria, 
+transformación y comercialización .
+=====PAGE 25=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+23
+Figura Nº 1: -Mapeo de actores en el Complejo Productivo del Trigo
+
+=====PAGE 26=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+24
+A diferencia de otros países, la producción de trigo en Bolivia responde a dos características económicas: 
+Una ligada a la agricultura familiar en la región de los valles (occidente) y otra a una producción de ca -
+rácter empresarial, concentrada en el departamento de Santa Cruz (oriente).
+Mapa 1: Concentración de producción de trigo, 2020
+Fuente: Censo Nacional Agropecuario, 2013, Encuesta Nacional Agropecuario, 2015, Plan del Sector Agrope-
+cuario y Rural, 2017. Atlas de Vocación y Potencialidades Productivas, 2017.
+4.1. Regiones productoras de trigo
+=====PAGE 27=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+25
+De acuerdo con los datos del Instituto Nacional de Estadística en base a información del Observatorio 
+Agroambiental y Productivo periodo 2021-2022, el trigo cultivado para la transformación de harina se 
+produce en Santa Cruz con el 75,2% y Cochabamba con casi el 8,2% del total de la producción nacional 
+(Tabla 2).
+De los 339 municipios a nivel nacional, 235 municipios tienen actividades relacionadas al cultivo de trigo 
+en sus distintas variedades, teniendo los departamentos de Cochabamba y Potosí el mayor número de
+municipios productores; 75 municipios en total, seguido del departamento de Chuquisaca con 27 mu -
+nicipios.
+Cabe resaltar que la producción de estos municipios  es relativamete baja en comparación con los muni -
+cipios productores del departamento de Santa Cruz que tienen mayor participación de producción del 
+cultivo de trigo a nivel nacional.
+Tabla 2: Superficie cultivada del grano de trigo. Año 2022
+=====PAGE 28=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+26
+los valles  bolivianos, donde se cultiva el trigo en 
+sistemas intensivos, rústicos, poco tecnificados, 
+desarrollados por pequeños productores; y en la 
+zona oriental que comprende el norte y este del 
+departamento de Santa Cruz, donde se trabaja 
+agricultura extensiva comercial, con mayor incor -
+poración de tecnología, heterogeneidad de pro -
+ductores (pequeños, medianos y empresariales).
+Según información del MDRyT (OAP), al año 
+2022 la producción nacional de trigo alcanzo las 
+310.730 toneladas (Tn), en una superficie efecti -
+va sembrada (campaña de verano-invierno) de 
+214.962 hectáreas y un rendimiento promedio de 
+1,4 toneladas por hectárea.  
+Gráfico Nº 1: Ranking de municipios productores de trigo – 2022
+El gráfico 1, muestra el Ranking de los 15 muni -
+cipios que cuentan con mayor participación de 
+producción de cultivo de trigo a nivel nacional. 
+Del 100% de participación nacional, seis munici -
+pios del departamento de Santa Cruz, concentran 
+el 68% de participación de la producción del cul -
+tivo de trigo, un registro que supone ventaja de la 
+región principalmente en la mecanización y semi 
+mecanización del cultivo de trigo. (Ver gráfico 2).
+4.2.  Evolución y distribución 
+geográfica de la producción
+primaria del cultivo de trigo
+La producción de trigo en Bolivia se realiza en dos
+áreas geográficas con características muy diferen -
+tes; en la zona tradicional que concentra a 
+=====PAGE 29=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+27
+Gráfico Nº 2: Bolivia - Superficie, Producción y Rendimiento del Grano Trigo, Año 2022
+En el gráfico 2, se muestra el comportamiento de 
+la producción del cultivo de trigo a nivel nacio -
+nal. Se denota que la tendencia del rendimiento 
+es anómala y se debe a las condiciones climáti -
+cas y presencia de mecanización en las zonas de 
+producción. Desde el censo agrícola del año 2013 
+donde el rendimiento alcanzo las 1,4 toneladas 
+por hectárea que representa una producción de 
+186.023 toneladas y una superficie de 129.983 
+hectáreas. 
+Esta disminuyó a 1,1 toneladas por hectáreas, 
+es decir, 14% menos en comparación al año 2013. 
+En el año 2015 la producción fue de 337.598 to -
+neladas, 111% más en relación al año 2014, cre -
+ciendo la superficie cultivada en 46.285 hectáreas 
+en comparación con el año 2014 y el rendimiento 
+también creció en 62%. En los años 2016 y 2017, 
+nuevamente el rendimiento bajo de 1,4 a 0,9 to -
+neladas por hectáreas, debido a la presencia de 
+sequias.   
+Al año 2018, nuevamente la producción presentó 
+signos de recuperación aumentándose en 95%, es
+decir, 147.253 toneladas más, en cuanto a la su -
+perficie también creció en 25.183 hectáreas y el 
+rendimiento creció en 71%.
+ 
+Al cierre del año 2019, la producción disminuyó 
+en 64.561 toneladas y de igual tendencia el rendi -
+miento promedio bajo de 1,5 (en 2018)
+a 1,2 toneladas por hectáreas. Tomando en cuenta 
+que el Programa Multisectorial de Fomento a la 
+Producción de Trigo, entró en vigencia del 29 de 
+mayo 2019, se puede notar el aumento relativo de 
+la producción a nivel nacional con principal énfa -
+sis en las zonas de producción del departamento 
+de Santa Cruz. 
+En ese contexto, entre los años 2020 a 2022, el 
+promedio de producción anual fue de 319.421 to -
+neladas, la media de la superficie efectiva sembra -
+da alcanzo las 206.763 hectáreas y el rendimiento
+promedio anual fue de 1,5 toneladas por hectá -
+reas.
+=====PAGE 30=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+28
+Mapa 2: Distribución Geográfica de Producción Departamental de Trigo, Año 2022
+Fuente: INE – MDRyT, 2022 Fuente: Censo Nacional Agropecuario, 2013, Encuesta Nacional Agropecuario, 2015, 
+Plan del Sector Agropecuario y Rural, 2017. Atlas de Vocación y Potencialidades Productivas, 2017
+El departamento de Santa Cruz, agrupa la mayor producción con más del 233.769 toneladas para el 
+año 2022. Los departamentos de Cochabamba, Potosí, Chuquisaca y Tarija alcanzan una producción de 
+73.568 toneladas, estos departamentos, pese a tener una superficie de siembra considerable la produc -
+ción es relativamente baja,  debido a las condiciones de biofísicas del suelo.  Los demás departamentos 
+tienen una producción baja destinadas principalmente para el intercambio y  consumo local.
+=====PAGE 31=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+29
+ Los principales municipios productores del país se encuentran en el departamento de Santa Cruz. De 
+acuerdo a las fuentes de información citadas anteriormente, los principales municipios productores son 
+cuatro: Okinawa Uno, Cuatro Cañadas, Pailón y San Julián que participan con 65% del total nacional 
+demostrándose la alta concentración geográfica de la producción de trigo.
+Mapa 3: Municipios productores de trigo. Año 2022
+Fuente: Censo Nacional Agropecuario, 2013, Encuesta Nacional Agropecuario, 2015, Plan del Sector Agropecuario 
+y Rural, 2017. Atlas de Vocación y Potencialidades Productivas, 2017. SITAP , 2022
+=====PAGE 32=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+30
+El cultivo de trigo en Bolivia se siembra en dos épocas agrícolas, se observa en la tabla 3, las mismas 
+se desarrollan en dos zonas definidas, por características climáticas: Occidente (Cochabamba Potosí, 
+Chuquisaca, Tarija, Oruro y La Paz) y oriente (Santa Cruz y Beni).
+Gráfico 3: Municipios productores de cultivo de trigo (2022)
+En los departamentos de Cochabamba, Tarija, Chuquisaca y Potosí; existen 77 municipios que se dedi -
+can a las actividades de siembra y cosecha del cultivo de trigo, representando el 12% de participación 
+nacional. En los departamentos de La Paz, Oruro, Beni y Pando, existen 31 municipios dedicadas a la 
+producción del cultivo de  trigo, representa el 2% de la producción nacional.
+=====PAGE 33=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+31
+Tabla 3: Época de Siembra y Cosecha de Trigo en Bolivia
+El trigo se siembra en un terreno asentado, mu -
+llido y limpio de malezas. La naturaleza de las 
+labores, el modo de ejecutarlas y la época opor -
+tuna para su realización varían con el cultivo 
+que precedió al trigo, con la naturaleza del suelo 
+y con el clima.
+Épocas de siembra
+En nuestro país existen siembras de verano y de 
+invierno por regiones. En el área tradicional la 
+siembra de trigo se realiza en verano, desde el 
+20 de noviembre hasta el 30 de enero, y está en 
+función de la característica climática de hume -
+dad y temperatura. 
+En la zona oriental, que comprende básicamen -
+te el departamento de Santa Cruz, el trigo se
+cultiva en invierno, entre los meses de mayo, 
+junio y julio. 
+4.3.  Zonas tradicionales de 
+cultivo de trigo del departa -
+mento de Santa Cruz
+En Santa Cruz, aproximadamente 15.000 fami -
+lias entre interculturales, productores meno -
+nitas, japoneses, brasileños y argentinos, entre 
+los más importantes, se dedican a las labores de 
+siembra y cosecha en una superficie de 140.789 
+hectáreas y una producción que supera los 
+233.769 toneladas, con un rendimiento de 1,7 
+toneladas por hectárea, para el año 2022 .
+=====PAGE 34=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+32
+Mapa 4. Zonas tradicionales de producción de trigo en el departamento de Santa Cruz
+Fuente: Censo Nacional Agropecuario, 2013, Encuesta Nacional Agropecuario, 2015, Plan del Sector Agropecuario 
+y Rural, 2017. Atlas de Vocación y Potencialidades Productivas, 2012.
+=====PAGE 35=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+33
+El factor más determinante para este limitado 
+crecimiento, es que no todas las hectáreas en las 
+que no se siembra soya de invierno son utiliza -
+das por el trigo. Los actores económicos toman 
+sus decisiones en función de las condiciones 
+climáticas (sobre todo humedad) y los precios 
+de cultivos alternativos al trigo, el girasol, el 
+sorgo y maíz.  En cuanto al sistema mecanizado 
+de siembra presenta diversas ventajas sobre la 
+siembra a voleo o a chorrillo:
+ Ahorro de semilla entre el 30 a 50 %.
+ Uniformidad en la distribución de 
+            los  surcos.
+ Profundidad de siembra, según 
+               necesidades.
+ Permite el laboreo entre líneas.
+4.4. Estimación de la produc -
+ción del cultivo de trigo para 
+la campaña de invierno 2024  
+La ejecución de planes y programas en las di -
+ferentes zonas de producción del país, depende 
+directamente de la disponibilidad de informa -
+ción geo estadística y un conocimiento claro de 
+la superficie ocupada por los principales culti -
+vos, y la tendencia de producción y rendimiento.
+El conocimiento de la diversidad de los cultivos 
+y su distribución geográfica, resulta muy impor -
+tante tanto para la actividad privada, como para 
+el Estado, con el propósito de mejorar la calidad 
+de sus intervenciones y satisfacer los requeri -
+mientos propios de un proceso de planificación. 
+En ese marco, el Ministerio de Desarrollo Pro -
+ductivo y Economía Plural ha utilizado los sen -
+sores remotos, sistemas de procesamiento de 
+imágenes digitales, para realizar estudios de 
+monitoreo, identificación y cuantificación de 
+cultivos. 
+En este sentido, se identificó y cuantificó las zo -
+nas de cultivo de trigo, a partir de la captura, 
+procesamiento y análisis digital de imágenes 
+satelitales de resolución espacial adecuada ha 
+permitido evaluar las variables meteorológicas 
+y estimar su producción para la campaña de in -
+vierno 2024. Efectuándose las siguientes tareas:
+      Procesamiento de imágenes satelitales de 
+variables meteorológicas que cubran las zonas 
+de cultivos de trigo.
+         Tratamiento e interpretación de las imáge -
+nes de satélite para la identificación de la super -
+ficie cultivada de trigo.
+        Estimar los volúmenes y rendimientos pro -
+yectados en las zonas productoras de cultivo de 
+trigo.
+El factor más importante para obtener los volú -
+menes estimados de la producción del cultivo 
+de trigo depende directamente de la precipita -
+ción y la temperatura suelo, en este caso de la 
+acumulación en la superficie caracterizada por 
+los pisos ecológicos en las zonas de producción.
+En ese contexto, se ha focalizado las comu -
+nidades dedicadas a la producción agrícola, 
+analizando su distribución, las conexiones y la 
+correlación entre los datos y la representación 
+espacial, para lo cual, se empleó los datos del
+
+=====PAGE 36=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+34
+Censo Nacional Agropecuario del año 2013, 
+como línea base, Encuesta Agropecuaria del 
+2015 – INE, los volúmenes de producción
+agrícola proyectados en el Plan Sectorial 
+del MDRyT de 2017 y el Atlas de Vocacio -
+nes y Potencialidades Productivas, 2019.
+En esa línea metodológica, la información de 
+las comunidades agro productivas se estructu -
+ro de acuerdo a condiciones de clasificación por 
+la cantidad de producción, y fueron sometidos 
+a criterios algebraicos de carácter cartográfico; 
+resultando información cuantitativa y cualitati -
+va de aquellos volúmenes de producción que se 
+manifiestan en el espacio territorial de acuerdo 
+al tipo de actividad agrícola.
+Se obtuvo imágenes satelitales de la época hú -
+meda (mayo, junio y julio) en una serie de tiem -
+po de 2011 al 2023, debido principalmente a 
+que partir del año 2010, en adelante, los efec -
+tos del cambio climático inciden en el proceso 
+de frecuencia paramétrica de la precipitación 
+y temperatura a nivel nacional. El conjunto de 
+datos de los productos satelitales, se detallan a 
+continuación:
+ Precipitación acumulada mensual, ob -
+tenidas del sensor TRMM (Tropical Rainfall 
+Measuring Mission).
+ Temperatura suelo día mensual, obteni-
+das del sensor MODIS-Terra (Moderate-Reso -
+lution Imaging Spectroradiometer).
+ Índice de vegetación NDVI obtenidas 
+del sensor MODIS-Terra.
+ 
+       Evapotranspiración, obtenidas del Modelo 
+GLDAS (Global Land Data Assimilation Sys -
+tem).
+        Modelo Digital de Elevación obtenido de 
+SRTM (Shuttle Radar Topography Mission)
+ 
+Se utilizó la tecnología de geo procesamiento de 
+datos de tipo raster; en el software QGis 3.X, se 
+procedió al análisis de la variabilidad meteoro -
+lógica y su correlación la producción del cultivo 
+de trigo, abordándose desde dos perspectivas: 
+una es la aplicación de la geo estadística; em -
+pleándose el software estadístico Rstudio, y otra 
+es el análisis multivariado de las imágenes de sa -
+télite empleándose el Google Engine .
+4.4.1. Análisis del comportamien -
+to espacial de la precipitación acu-
+mulada en las zonas productoras 
+del departamento de Santa Cruz
+En la época seca a partir del año 2011, el com -
+portamiento del promedio mensual de la preci -
+pitación acumulada presenta una distribución 
+de acumulación en un 35% en las zonas de pro -
+ducción del departamento de Santa Cruz.
+Este comportamiento disminuye para el año 
+2014, debido al comienzo notorio de la defores -
+tación de especies maderables y agroforestales 
+de las zonas boscosas de la Región Amazónica 
+donde se encuentra la mayor extensión de zo -
+nas boscosas, aportantes de grandes volúmenes 
+de vapor de agua; componente de origen para 
+la descarga de precipitación en las principales 
+zonas de cultivo. 
+
+=====PAGE 37=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+35
+En el año 2015 ocurre un excedente en la des -
+carga de las precipitaciones que se acumulan en 
+un 50% de la superficie de cultivo, provocándo -
+se exceso de humedad en los cultivos de trigo 
+afectando a su crecimiento fenológico. Entre los 
+años 2016 al 2018, el comportamiento de la pre -
+cipitación acumulada presentó niveles interme -
+dios de acumulación a lo largo de los tres pisos 
+ecológicos. 
+El año 2019, la precipitación acumulada presenta 
+descenso de casi 50 mm  en su acumulación que 
+están distribuidas al noreste del departamento 
+de Santa Cruz, las zonas en quemas progresi -
+vas, donde además se genera la mayor cantidad 
+de evapotranspiración por efecto de la energía
+calorífica reflejada en su cobertura boscosa, el 
+efecto contrario ocurre hacia el sur del área de 
+estudio en las zonas altiplánicas, donde la dismi -
+nución de la precipitación acumulada es abrup -
+ta afectando a los embalses del conjunto de los 
+cuerpos de agua. Al año 2020 y 2021, la preci -
+pitación acumulada presenta niveles muy bajos 
+de cosecha que afectaron a los embalses de los 
+cuerpos de agua y red hidrográfica destinados 
+principalmente a las actividades de cosecha del 
+cultivo de trigo. Entre los años 2022 y 2023, el 
+promedio de precipitación acumulada disminu -
+yo en 21%, es decir, 43 mm menos en compara -
+ción al año 2021.
+=====PAGE 38=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+36
+ Mapa 5: Distribución espacio temporal de la precipitación acumulada 2013-2023
+Fuente: DGAPIyEP , 2023
+=====PAGE 39=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+37
+Debido al marcado carácter estacional (que afec -
+ta a los tres pisos ecológicos), del clima en los de -
+partamentos de Santa Cruz, las implicaciones de 
+las tendencias, serán diferentes dependiendo de la 
+estación del año y de la elevación y la variación 
+térmica en las zonas productoras de trigo.
+De manera, que se procedió a realizar el análisis 
+de la distribución geográfica de la variable de la 
+precipitación respecto a la altura, ya que, existe la 
+posibilidad de error de sensoramiento por pixel, 
+es decir; el sensor del satélite obtiene el valor de la 
+precipitación acumulada como si esta fuese den  tro
+Gráfico 4: Dispersión de la precipitación acumulada mensual, meses Mayo-Julio, años 2011-2023
+Fuente: DGAPIyEP , 2023
+de una superficie plana, pero las diferencias de 
+alturas prominentes distribuidas desde la región 
+amazónica hacia la región altiplánica, pueden 
+afectar al resultado y evaluación de los datos de la 
+precipitación acumulada. Cabe resaltar que el pro -
+cedimiento se restringe al cambio relativo
+promedio, empleando métodos estadísti cos de se -
+ries de tiempo para determinar la tendencia y es -
+tablecer el patrón de la preci  pitación en los años y 
+meses mencionados.
+El gráfico 4, de acuerdo a los datos dispersos, muestra estadísticamente una tendencia decreciente del 
+promedio mensual de la precipitación acumulada, para los meses de la época seca, de la serie de datos 
+entre los años 2011 y 2023.
+=====PAGE 40=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+38
+De acuerdo a este comportamiento para los meses de la época seca, se puede estimar que la precipitación 
+acumulada tiende a bajar a razón de 9%, esto significa la reducción aproximada de 69 mm mensualmen -
+te, deducido a partir de la tendencia negativa del gráfico de dispersión.
+4.4.2. Análisis del comportamiento espacial de la temperatu -
+ra suelo en las zonas productoras del departamento de Santa Cruz
+La incidencia de la energía calorífica en la época seca entre los años 2011 y 2013, provocaron en las zonas 
+de producción emplazadas en el Norte
+Integrado del departamento de Santa Cruz, presentó incrementos de la temperatura media en el suelo 
+en 2.8 °C y en el resto de las zonas de producción de trigo la temperatura suelo promedio varía hasta los 
+1.7 a 2.5 °C, según su distribución geográfica. 
+Los años 2014 y 2015, presenta un aumento de más del 5% de la temperatura suelo a lo largo de la exten -
+sión de la superficie del departamento de Santa Cruz, con respecto a los años anteriores; este aumento 
+en las temperaturas se debe a que en estos años el efecto del fenómeno del niño se presentó con mayor 
+fuerza. En el año 2016 la temperatura del suelo baja de manera anómala aproximadamente en un 2%. 
+A partir del año 2017 hasta el 2023, la temperatura promedio del suelo, aumentó considerablemente en 
+un 5,8% con relación a los años anteriores, presentándose las mayores temperaturas
+en el suelo en la región de los Chaco, Chuquisaqueño y Tarijeño, debido a que en esta región la co -
+bertura vegetal es escasa, por lo tanto al no poseer vegetación que pueda absorber la energía calorífica 
+provocando que el suelo tienda a erosionarse y los cuerpos de agua sufran una acelerado proceso de 
+evapotranspiración.  
+=====PAGE 41=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+39
+ Mapa 6: Distribución espacio temporal de la temperatura suelo, 2011-2023
+Fuente: DGAPIyEP , 2023
+De acuerdo a la distribución espacial del comportamiento de la temperatura del suelo en el día es posible deducir que la temperatura 
+está en aumentando no de forma simétrica más bien de manera acelerada provocando anomalías en ciclo normal de la evapotrans -
+piración.
+=====PAGE 42=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+40
+Gráfico 5: Dispersión de la Temperatura Suelo, meses Mayo-Julio, años 2011-2023
+Fuente: DGAPIyEP , 2023
+En el gráfico de dispersión, muestra el compor -
+tamiento de la temperatura en el suelo, entre los 
+años 2011 al 2023, el promedio de temperatura 
+suelo se incrementó en aproximadamente 1 °C. 
+Entre los años 2019 a 2023 se presentó un com -
+portamiento singular en el crecimiento de la 
+temperatura del suelo, el promedio anual de la 
+temperatura de suelo (en los meses de la época 
+seca) aumento en 1,9 °C, debido a la presencia 
+del fenómeno del niño, este comportamiento 
+puede ser considerado anómalo ya que en este 
+periodo estacional las temperaturas normales 
+abarcan entre los 22.1 a 23.2 °C. En el año 2023, 
+la temperatura del suelo aumento en 3,2 °C en 
+comparación al año 2022. Esta tendencia de cre-
+cimiento de la temperatura suelo puede causar 
+dificultades criticas en el crecimiento fenológi -
+co del cultivo de trigo, ya que, relacionado a la 
+humedad del suelo cultivado.
+Cabe señalar que los valores mensuales de pro -
+medio de evapotranspiración tienden a ser ge -
+neralizados siendo su unidad de medida
+ milímetros por día, que refiere a la pérdida de 
+agua por la incidencia de la energía calorífica.
+4.4.3. Análisis del comportamien -
+to espacial de la evapotranspira -
+ción en las zonas productoras del 
+departamento de Santa Cruz
+La variabilidad espacial de este factor meteoro -
+lógico depende directamente de la temperatura.
+suelo (energía calorífica); es decir, si la tempera -
+tura suelo es mayor entonces se concentra ma -
+yores niveles de evapotranspiración lo inverso 
+ocurre cuando se presenta bajas temperaturas 
+que implica similar comportamiento con la 
+precipitación acumulada en función a la evapo -
+transpiración total de los cuerpos de agua dis -
+tribuidas en las zonas de producción del cultivo 
+de trigo.  
+=====PAGE 43=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+41
+ Cabe señalar que los valores mensuales de pro -
+medio de evapotranspiración tienden a ser ge -
+neralizados siendo su unidad de medida milí -
+metros por día, que refiere a la pérdida de agua 
+por la incidencia de la energía calorífica. 
+La distribución geográfica de la evapotranspi -
+ración total en la época húmeda, para los años 
+2011 al 2016, ésta presenta en casi el 53% en las 
+zonas de cultivo de trigo que abarca desde los 
+Llanos y Norte Integrado de Santa Cruz, y la 
+zona productora de los valles de Cochabamba, y 
+que aparecen con un valor máximo de 2.1 mm/
+día de evaporación total. 
+Desde el año 2017 al 2021, los valores de eva -
+potranspiración presentan una disminución 
+considerable en promedio máximo mensual de 
+4 mm/día, esto se debe al aumento de las tem -
+peraturas del suelo en todas las zonas de cultivo
+de trigo, lo que produce una sobresaturación de 
+la pérdida del vapor de agua en el crecimiento 
+fenológico del trigo y del conjunto de los cuer -
+pos de agua.
+En el mapa 7, se muestra que entre los años 
+2011 a 2015 la pérdida de vapor de agua alcanzó 
+aproximadamente a un valor de 0.5 mm/día del 
+promedio mensual, el valor evapotranspiración 
+en el año 2016 puede ser considerado anóma -
+lo ya que está por debajo del promedio total 
+mensual del conjunto de los datos. Entre los 
+años 2017 al 2021, la evapotranspiración total 
+presenta un aumento de aproximadamente 1.2 
+mm/día del promedio mensual, en la pérdida de 
+vapor de agua del conjunto de los cuerpos de 
+agua y de las coberturas boscosa.
+=====PAGE 44=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+42
+Mapa 7: Distribución espacio temporal de la Evapotranspiración, 2011-2023
+Fuente: DGAPIyEP , 2023
+=====PAGE 45=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+43
+En el grafico 6, se muestra el comportamiento de la evapotranspiración entre los meses de la época seca. 
+Entre los años 2013 a 2023 el promedio mensual interanual de la evapotranspiración alcanzo los 2,83 mi -
+límetros por mes afectando principalmente la reserva forestal de Guarayos y la zona productora del norte 
+integrado. A partir del año 2019 el comportamiento de la evapotranspiración aumento considerablemen -
+te de 2,85 aumento a 3,05 mm/mes, es decir, un 7% de incremento que supone la acelerada perdida de 
+humedad de la cobertura vegetal incluido las zonas de producción de trigo.
+Fuente: DGAPIyEP , 2023
+Gráfico 6: Dispersión de la Evapotranspiración Total, meses Mayo-Junio, años 2013-2023
+4.4.4.           Análisis del comportamiento espacial del índice de
+ vegetación en las zonas productoras del departamento de Santa Cruz
+La categorización de las unidades de vegetación se distribuye en la superficie de acuerdo a las condicio -
+nes del clima, suelo y topografía. A diferencia del mapeo de los patrones espaciales de la precipitación 
+acumulada, temperatura suelo día y evapotranspiración total; el mapeo del NDVI de los niveles digitales 
+presentan variabilidad mínima en su interpretación, a tal efecto, se territorializará el promedio mensual 
+total que comprenden a la época húmeda para los años 2013 y 2023.
+=====PAGE 46=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+44
+Mapa 8: Distribución espacio temporal del promedio mensual del NDVI, años 2013 a 2023
+La distribución geográfica del comportamiento de NDVI, para la serie temporal objeto de estudio, muestra una mayor cobertura 
+aproximadamente en 49% de suelos desnudos en la época húmeda; esto se debe a la deforestación expansiva y ampliación de la 
+frontera agrícola.
+Fuente: DGAPIyEP , 2023
+=====PAGE 47=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+45
+La identificación de los procesos de clasificación 
+para las imágenes de satélite Sentinel 2, se reali -
+zaron pruebas para los conglomerados existen -
+tes en diferentes  municipios  del departamento  
+de Santa Cruz. A través de estas pruebas geoes -
+tadisticas, se consolidaron los pasos a realizar 
+para integrar de forma efectiva los insumos  y se 
+identificaron los actores del proceso,  obtenien -
+do  el  flujo  metodológico,  correspondiente  a  
+los  procesos que  permiten  realizar  la  clasifi -
+cación  a  partir  de  la  imagen  satelital  para la 
+identificación de los cultivos de trigo.
+4.5. Identificación de áreas 
+de cultivo de trigo del depar -
+tamento de Santa Cruz
+Las unidades de vegetación presentaron entre 
+los años 2013 y 2014 presentan condiciones nor-
+males de distribución de vegetación de acuerdo 
+a las condiciones ambientales propias de la es -
+tación. Se presenta diferencias en las tendencias 
+de las anomalías de NDVI a lo largo de los me -
+ses de la seca en los años 2015 y 2016; donde se 
+presentó el fenómeno del niño con presencia de 
+eventos de sequía.
+Las unidades de vegetación con pasto verde con 
+baja cobertura presentaron anomalías negativas 
+(NDVI inferior al promedio) en la época seca, 
+lo cual puede relacionarse con la deforestación 
+en la región Amazónica, que afectó a las zonas 
+con cobertura boscosa de la región de los Valles.  
+Para el resto de las unidades se observa una ten -
+dencia positiva de las anomalías del NDVI hasta 
+mediados de diciembre y luego se observar una 
+tendencia decreciente.
+En ese entendido, se estima que las unidades de 
+vegetación tienden a la desertificación, erosión
+Gráfico 7: Tendencia del promedio mensual del NDVI, meses Mayo-Julio, años 2013-2023
+Fuente: DGAPIyEP , 2023
+de los suelos y pérdida de la humedad en las 
+zonas productoras debido principalmente a los 
+incendios forestales del año 2019 hasta el año 
+2023 que provocaron perdida en el índice de 
+humedad en las zonas productoras de trigo en -
+tre otros.  
+=====PAGE 48=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+46
+Mapa 9: Identificación de superficies de cultivos de trigo campaña de  invierno 2023
+Fuente: DGAPIyEP , 2023
+=====PAGE 49=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+47
+De acuerdo al análisis y procesamiento geoes -
+tadístico del resultado del mapa 10 y figura 8 
+de la imagen clasificada, se observa que en el 
+departamento de Santa Cruz tiene una super -
+ficie aproximada de 134.489 Ha, que represen -
+ta el 95% de área cultivada a nivel nacional en 
+la campaña de invierno; donde el municipio de 
+Pailón tiene la mayor superficie de cultivos de 
+trigo.
+Las superficies identificadas cultivadas de tri -
+go son susceptibles a ser afectados en la canti -
+dad producida por la variabilidad de la preci -
+pitación acumulada estacional en la época de 
+siembra.
+En ese contexto, se realizó el cálculo estimado 
+de la precipitación acumulada para el año 2024 
+empleando el modelo geoestadístico de regre -
+sión lineal múltiple para la época de siembra 
+para la campaña de invierno, tomándose en 
+cuenta que para su crecimiento fenológico se 
+requiere una precipitación de 150 a 300 mm y 
+a una temperatura suelo entre 15 y 24 °C.
+Con las imágenes resultado de la clasificación supervisada donde se identificó las áreas de cultivo de trigo 
+en el departamento de Santa Cruz, se procedió a poligonizar estas zonas de cultivo identificadas para cal -
+cular el área aproximada de cultivos de trigo para la campaña de invierno.
+Tabla 4: Superficie identificada de trigo en las zonas de cultivo para la campaña de  
+invierno 2023
+Para estimar el rendimiento del cultivo de trigo, se empleó la colección de imágenes de satélite meteoro -
+lógicas (citadas en el punto 4.3.2) de precipitación acumulada, temperatura suelo, evapotranspiración y 
+el índice de vegetación, bajo un análisis de multivariante, se aplicó un modelo un modelo geoestadístico 
+de regresión lineal múltiple para las áreas de cultivo de trigo identificadas por las imágenes de satélite.
+Este modelo ajustado tiene un 90% de confianza y un coeficiente de correlación múltiple del 94%.
+=====PAGE 50=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+48
+Aplicando este modelo de regresión lineal múltiple, se obtuvieron los volúmenes proyectados de produc -
+ción y rendimiento para la campaña de invierno en las zonas productoras de trigo del departamento de 
+Santa Cruz para la campaña de invierno 2024.
+En la tabla 5, se describe la comparación de valores es-timados de precipitación acumulada calculados a 
+partir del modelo geoestadístico para la época seca respecto a la precipitación mínima requerida para el 
+crecimiento fenológico del cultivo de trigo.
+Las zonas productoras de trigo el departamento de Santa Cruz tendrá una producción estimada de más 
+de 153.509 toneladas y un rendimiento aproximado de 1,14 toneladas por hectáreas, pero se debe tomar 
+en cuenta los altos niveles de temperatura suelo, considerando que a mayor temperatura mayor la perdi -
+da de humedad. Por otro lado, las condiciones atmosféricas provocan los descensos bruscos de tempera -
+tura suelo desarrollándose heladas al punto de congelación que podrían afectar a los valles cruceños en 
+la campaña de invierno 2024.
+Tabla 5: Estimación de producción y rendimiento campaña de invierno 2024 cultivo 
+de trigo
+  Fuente: DGAPIyEP, 2023
+
+=====PAGE 51=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+49
+
+=====PAGE 52=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+50
+De acuerdo a información del INE se tiene el siguiente comportamiento en referencia a la producción e 
+importación de trigo.
+ Gráfico 8: Producción e Importación del Grano Trigo en toneladas. Bolivia 2022
+Fuente: https:/ /siip.produccion.gob.bo/. Procesado por: DGAPIyEP, 2023
+En el grafico 8, se observa el comportamien -
+to de la producción del cultivo de trigo a nivel 
+nacional, considerando que la implementación 
+del Programa de Trigo se efectuó desde el año 
+2019, se evidencia un crecimiento del 17% de 
+importación de harina de trigo en comparación 
+al año 2020, es decir, 53.184 toneladas más. La 
+producción de harina de trigo en el año 2021 
+alcanzo 252.824 toneladas y se importó 266.242 
+toneladas disminuyéndose en 27% con respec -
+to al 2020. Esa misma tendencia de reducción 
+del 45% en la importación de harina de trigo se 
+presentó en el año 2022. Este comportamiento 
+suponen que el programa multisectorial del tri -
+go está fortaleciendo la capacidad productiva 
+del cultivo trigo en el entendido de aumentar
+sosteniblemente el rendimiento del cultivo con 
+el propósito de sustituir de manera creciente 
+las importaciones de los derivados de trigo.
+5.1. Importación de la semilla 
+de Trigo 
+Existen factores limitantes a la producción, di -
+ferentes para ambas áreas. En el área tradicio -
+nal: la disponibilidad de tierras por el minifun -
+dio, la erosión, el estrés hídrico y nutricional, la 
+baja densidad de plantas, el ataque de enferme -
+dades, variedades de bajo rendimiento, heladas 
+y granizadas, limitación en la infraestructura 
+productiva, problemas post cosecha y cultivos 
+alternativos. 
+5. DINÁMICA DEL PROCESO DE TRANSFORMACIÓN DE LOS
+ PRODUCTOS DERIV ADOS DEL TRIGO
+=====PAGE 53=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+51
+En el área oriental: la enfermedad “Piricularia” y otras, el estrés hídrico, la infraestructura productiva 
+y la falta de incentivos de crédito. La insuficiencia de trigo data de los últimos cincuenta años. Durante 
+la colonia y gran parte de la época republicana, Bolivia se autoabastecía de trigo. En líneas generales, 
+el crecimiento poblacional y el aumento en la tasa de consumo de trigo por el lado de la demanda y las 
+corrientes migratorias campo ciudad por el lado de la oferta, impulsadas por el ingreso del país a una tí -
+mida modernidad sustentada en la economía del estaño, redujeron la producción del cereal hasta volcar 
+la ecuación a una situación altamente deficitaria y dependiente de la producción extranjera.
+ Gráfico 9: Importación de semilla de Trigo Bolivia
+Fuente: https:/ /siip.produccion.gob.bo/. Procesado por: DGAPIyEP, 2023
+La importación de semilla de trigo en el año 
+2019 alcanzó los 135.613 kilogramos con un 
+valor de 70.633 USD, paralelamente el mismo 
+año con la implementación del Programa Mul -
+tisectorial del Programa Trigo, en comparación 
+al año 2020 la importación de semilla de trigo 
+se redujo en 99%, es decir, 133.605 kilogramos 
+menos. Pese a los efectos de la post pandemia 
+al finalizar el año 2021 la importación sumo 
+19.402 kilogramos mas que el año 2020. 
+Si bien la guerra entre Ucrania (mayor provee -
+dor de grano de trigo a nivel mundial) y Rusia
+Con la implementación del Plan Sectorial del Programa Trigo el año 2019.
+mermó el comercio exterior del grano y hari -
+na de trigo.  El estado Boliviano con la imple -
+mentación de políticas adecuadas respecto a la 
+soberanía alimentaria redujo la importación en 
+100% con respecto al 2021. Este comportamien -
+to de reducción tanto en volumen como en va -
+lor será sostenible con la puesta en marcha de 
+la política de sustituciones de importaciones en 
+cuanto a insumos para la producción agrícola.
+=====PAGE 54=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+52
+5.2. Destino de la producción    
+del trigo
+A continuación, se refleja la orientación y prio -
+ridad del destino de la producción de trigo en 
+las dos zonas productoras. En los Valles princi -
+palmente para el consumo y en el oriente para 
+el mercado.
+5.2.1 .  Zona Occidental
+La producción de trigo en los departamentos 
+de Chuquisaca, Cochabamba, Potosí y Tarija se 
+destinaron en promedio a los siguientes usos: 
+33,4%.
+al autoconsumo, 10,3% para semilla, 15,8% 
+transformación artesanal y 32,6% a la venta 
+para uso industrial o artesanal. La comerciali -
+zación en este caso se la lleva a cabo en las ferias 
+locales, donde de manera gradual se realiza la 
+venta en función de las necesidades o llevando 
+directamente a los molinos.
+ En muchos casos la intervención de los inter -
+mediarios, también llamados rescatistas, es im -
+portante ya que realizan el acopio en los lugares 
+de producción. Véase Tabla 6.
+Tabla 6: Destino de la Producción de la Zona de los Valles (%)
+Esta distribución se da cuando existe una buena producción, cuando la cosecha es mala, en contrapar -
+tida, alrededor del 80% se destina para consumo y el 20% para semilla.
+5.2.2 .  Zona Oriental
+En el área oriental, la distribución es diferente, aproximadamente el 90,9% de la producción es desti -
+nada a la venta, principalmente a los molineros, un 0,4% a la transformación, el 0,8% se destina para 
+semilla y el 3,1% para su consumo, véase Tabla 7.
+=====PAGE 55=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+53
+Tabla 6: Destino de la Producción de la Zona de los Valles (%)
+Tabla 7: Destino de la Producción de la Zona Oriental (%)
+Por lo general esta distribución la realizan los pequeños productores. Sin embargo, por las condiciones 
+climáticas y la presencia de las enfermedades que atacan al cultivo, la mayoría de los agricultores media -
+nos y grandes comercializan el 100% de su producción principalmente a los molineros.
+=====PAGE 56=====
+
+=====PAGE 57=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+55
+
+=====PAGE 58=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+56
+6.1 Composición de la industria
+Las unidades productivas de este sector industrial pertenecen básicamente a tres rubros, siendo la elabo -
+ración de productos de panadería la actividad predominante con las tres cuartas partes de las unidades 
+productivas de esta composición.
+6. TRANSFORMACIÓN E INDUSTRIALIZACIÓN
+La industria procesadora de trigo en Bolivia se compone por las siguientes industrias: Molinera, de Pas -
+tas y de Galletería. De estas tres la de mayor relevancia es la industria Molinera dado que genera insumos 
+para otras industrias como la de panificación y de repostería.
+Tabla 8: Número de unidades productivas vigentes
+Gráfico 10: Tipos de Sociedades en las Industrias Molinera, de Pastas y Repostería
+=====PAGE 59=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+57
+Las industrias: Molinera, de pastas, fideos, panadería,   repostería     y     galletería     están     compuestas 
+principalmente por empresas Unipersonales (Ver gráfico 10).
+En la industria molinera el 55% de las empresas son unipersonales, el 7% sociedades anónimas y el 38% 
+sociedades de responsabilidad limitada.  
+La industria nacional de pastas está compuesta por: 57% empresas unipersonales, 33% sociedades de 
+responsabilidad limitada y el 10% sociedades anónimas.
+La industria de productos de panadería se compone de la siguiente manera: El 74% de las empresas uni -
+personales, el 24% sociedades de responsabilidad limitada y solo el 2% de sociedades anónimas.
+Mapa 10: Distribución georeferenciada por tamaño de empresa de empresa de la
+ industria del trigo
+Fuente: https://siip.produccion.gob.bo/. Procesado por: DGAPIyEP
+=====PAGE 60=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+58
+Según el registro de comercio, la industria moli -
+nera se compone por aproximadamente 45 em -
+presas ubicadas principalmente en Cochabam -
+ba, seguido de La Paz y Santa Cruz. 
+La industria de pastas, macarrones y fideos se 
+compone por 30 empresas concentradas prin -
+cipalmente en Santa Cruz, seguidas por Cocha -
+bamba y La Paz.
+La industria de productos de panadería está 
+compuesta por 354 empresas ubicadas princi -
+palmente en Santa Cruz, La Paz y Cochabamba.
+Mapa 11: Distribución georreferenciada de actividades y servicios de las empresas 
+manufactureras de procesamiento de trigo
+Fuente: https://siip.produccion.gob.bo/. Procesado por: DGAPIyEP
+=====PAGE 61=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+59
+Tabla 9: Industrias molinera, de pastas, fideos, panadería y repostería por
+                departamento
+
+=====PAGE 62=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+60
+En la industria molinera, de pastas, fideos, 
+panadería y repostería; los departamentos de 
+La Paz, Cocha-bamba y Santa Cruz registran 
+una diferencia marca-da en todos los rubros 
+de elaboración y beneficiado, incluso tenien -
+do la sumatoria de los demás departamen -
+tos, no alcanzaría el volumen de los primeros. 
+Santa Cruz lleva la delantera en la elabora -
+ción de productos de panadería con el 36% 
+y La Paz con la elaboración de pastas, ma -
+carrones y fideos con un 40%. (Ver tabla 9).
+Gráfico 12: Industrias molineras por departamento y tamaño de empresa (en porcentaje)
+Gráfico 11: Industrias, panadería y repostería por departamento y tamaño de empresa 
+(en porcentaje)
+Las micro y pequeñas empresas son las más representativas en este sector industrial de panadería y 
+repostería con el 100% de representación en los departamentos de Beni y Potosí. En los demás depar -
+tamentos es significativa la diferencia, pero se debe tener en cuenta que la cantidad de habitantes es un 
+factor de interpretación (Ver gráfico 11).
+=====PAGE 63=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+61
+Similar al cuadro anterior y coincidentemente también con el departamento de Beni que junto a Tarija, 
+Oruro y Chuquisaca tienen en su departamento el 100% de mi-cros y pequeñas empresas de la industria 
+molinera. La mediana empresa tiene total representación en el departamento de Potosí en este sector 
+industrial de acuerdo al Registro de Comercio de 2020 (Ver gráfico 12).
+Gráfico 13: Industrias de pastas, fideos, por departamento y tamaño de empresa (en 
+porcentaje)
+ Mayor diversidad en cuanto a la proporción de empresas en este sector industrial de pastas y fideos, 
+como se vio anteriormente hay predominio de las micro y pequeñas empresas. Sin embargo, en este ru -
+bro se nota más la presencia de la mediana y gran empresa. (Ver gráfico 13)
+ Gráfico 14: Industrias, panadería y repostería por departamento y tipo de empresa 
+(en número de unidades)
+
+=====PAGE 64=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+62
+ La industria de pastas y fideos en el país se está con-formada en su mayoría entre empresas uniperso -
+nales y responsabilidad limitada, con la observación no menos importante que en los departamentos 
+del eje central: Santa Cruz y Cochabamba las sociedades anónimas tienen una presencia notoria. (Ver 
+gráfico 16)
+Gráfico 15: Industrias molinera por departamento y tipo de empresa (en número de unidades)
+ En este sector industrial hay un equilibrio en el tipo empresarial de selección entre empresas uniperso -
+nales y las de responsabilidad limitada, mostrando dentro la pequeña diversidad de esta actividad que las 
+asociaciones o sociedades de responsabilidad limitada tienen un rol importante y de competencia con las 
+empresas unipersonales.  (Ver gráfico 15)
+ Gráfico 16: Industrias de pastas, fideos, por departamento y tipo de empresa
+ (en número de unidades)
+
+=====PAGE 65=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+63
+La industria de pastas y fideos en el país se está conformada en su mayoría entre empresas unipersonales 
+y responsabilidad limitada, con la observación no menos importante que en los departamentos del eje 
+central: Santa Cruz y Cochabamba las sociedades anónimas tienen una presencia notoria. 
+(Ver gráfico 16) 
+Gráfico 17: Empleo por tipo de empresa (en número de personas)
+ Las sociedades de responsabilidad limitada son el sector empresarial que más empleos genera en el 
+rubro de la elaboración de productos de panadería se-guida de las sociedades anónimas y las empresas 
+unipersonales. Las sociedades anónimas marcan diferencia en los rubros de elaboración de pastas y fi -
+deos, así como en el beneficiado (Ver gráfico 17).
+Gráfico 18: Empleo por rubro y tamaño de empresa (en porcentaje)
+La gran empresa en nuestro país abarca la mayor generación de empleo en los tres rubros de este sector 
+industrial con más del 50%, en cada uno de ellos la gran empresa es la mayor generadora de empleo se -
+guida de mediana y por último la micro y la pequeña empresa (Ver gráfico 18).
+=====PAGE 66=====
+
+=====PAGE 67=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+65
+
+=====PAGE 68=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+66
+7. PROCESO DE PRODUCCIÓN E INDUSTRIA MOLINERA
+La industria molinera en Bolivia cuenta con 
+maquinaria y equipo para molienda de origen 
+Alemana, Suiza, Argentina, Italiana e Inglesa, 
+de marcas Buhler Miag, Simon y Golfeto.
+La materia prima básica de la harina es el trigo. 
+Se usa trigo del tipo semiduro, de las variedades 
+Hard Red Winter II, trigo Pan, en menores can -
+tidades trigos blandos de procedencia europea 
+y trigos duros de la variedad Hard Red Spring 
+y trigo nacional que en su generalidad es trigo 
+semiduro a duro.
+El proceso de elaboración de harina es por re -
+ducción gradual del trigo y separación de sub -
+productos, es decir se separa gradualmente la 
+cáscara del endospermo para reducirlo en fases 
+sucesivas de pasajes de trituración, despren -
+dimiento y conversión (bancos de cilindros), 
+purificación y cernido hasta la obtención de la 
+harina de diferentes grados de granulometría. 
+Generalmente la harina para panadería se la ob -
+tiene a partir del grano de trigo blando.
+Las operaciones que se realizan en una indus -
+tria molinera comprenden las siguientes gran -
+des fases:
+Recepción de trigo y almacenaje (control de 
+peso, calidad).
+       Limpieza primera del grano.
+        Almacenamiento del grano. 
+ 
+ 
+Limpieza y acondicionamiento del grano. 
+Molienda (trituración, purificación, afinado, 
+cernido fortificado y otros).
+Envasado y almacenamiento (reposo).
+7.1. Proceso de Producción de 
+harina de trigo
+El diagrama de flujo de una industria molinera 
+de la figura 1, se muestra en general las fases de 
+proceso y operaciones que se realizan para la
+obtención de la harina de trigo que en términos 
+generales comprende:
+a) Recepción del trigo.-  Se realiza un control de 
+peso y calidad considerando el peso hectolítri -
+co, porcentaje de impurezas y otros factores que 
+define la calidad del grano, el grado de extrac -
+ción y el tipo de harina a obtener.
+b) Prelimpieza.- Proceso de separación de ma -
+terias extrañas como: paja, piedras, trozos de 
+madera, cuerpos metálicos, antes que el grano 
+vaya a los silos, operación que se realiza en cri -
+bas de tambor. 
+c) Almacenaje.-  Toda la industria molinera 
+cuenta con la capacidad suficiente de almacena -
+je de trigo en silos, construidos de metal y hor -
+migón. El almacenaje en cantidad y por tipos y 
+calidad de trigo sirve para la programación de la 
+molienda, permite la homogeneización del trigo 
+o las mezclas de trigos de diferentes tipos para la 
+elaboración de harinas de acuerdo al uso.
+
+=====PAGE 69=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+67
+En esta fase se realizan controles permanentes 
+de humedad y temperatura para evitar 
+recalentamiento del grano, aumento de la aci -
+dez y otros factores que permiten mantener la 
+calidad intrínseca del grano. 
+d) Limpieza.- Esta operación es el comienzo del 
+proceso de molienda del trigo previo al acon -
+dicionamiento del grano tal como se muestra 
+en el diagrama de flujo, esta operación general -
+mente hoy en día se hace en seco donde deben 
+eliminarse todas las impurezas que acompaña al 
+grano, se realiza una clasificación aprovechan -
+do el tamaño, peso específico en equipos como 
+las máquinas limpiadora combinada, se realiza 
+la operación de cepillado (en cepilladoras), eli -
+minación del polvo adherido al grano en des -
+puntadora, la extracción de piedras en las des -
+chinadoras; así mismo se realiza la clasificación 
+de acuerdo a la longitud en equipos llamados 
+triarvejón. 
+e) Acondicionamiento del grano (reposo).-  
+Fase importante de la cual depende el grado 
+de dificultad de la reducción y separación de 
+la cáscara en los pasajes sucesivos, se regula el 
+quebramiento de los gránulos de almidón, y se 
+logrará niveles adecuados de maltosa, las carac -
+terísticas del gluten y contenido de cenizas en la 
+harina. Por tanto esta fase tiene por objeto: 
+       Dar la humedad necesaria al grano para 
+separar las envueltas del endosperma. 
+      Dar flexibilidad al salvado (cáscara) para 
+evitar su rompimiento en la trituración.
+        Permitir el reblandamiento del endosperma. 
+      Obtener el grado de extracción (Rendi mien-
+to: harina/trigo), acorde al tipo de trigo y a la 
+regulación de la maquinaria y
+ equipo. 
+El tiempo de acondicionamiento esta en relación 
+directa al tipo de trigo, a la humedad inicial; así 
+mismo se cuenta con rociadores o pulverizador 
+que regula automáticamente la humedad nece -
+saria lo que dará la eficiencia de la molienda. 
+f) Molienda.- La molienda del trigo es un pro -
+ceso de trituración y reducción gradual, por 
+acción de los cilindros estriados que separa la 
+parte harinosa del salvado mediante las cepilla -
+doras de salvado y se va clasificando. 
+El afinado de los gránulos y obtención de harina 
+se realiza en cilindros lisos de compresión, que 
+cuenta también con las cepilladoras de salvado 
+restante. Algunos molinos cuentan con los saso-
+res que limpian y separan sémolas y semolinas 
+de trigos duros y blandos. 
+g) Cernido.-  Mediante los cernidores planos 
+(plansichter) se separa y clasifica los productos 
+de la trituración y compresión mediante tami -
+ces de diferente micraje y superpuestos, así mis -
+mo existen cernidores neumáticos.
+
+=====PAGE 70=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+68
+    Figura 2: Proceso de producción de harina de trigo
+=====PAGE 71=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+69
+h) Homogeneización de harinas y fortifica -
+ción.- 
+En la fase final del proceso las harinas prove -
+nientes de los cernidores son homogeneizados 
+en transportadores o tornillos sin fin, para tener 
+obtener harinas de una sola calidad y caracterís -
+ticas; asimismo en esta fase se procede a realizar 
+la fortificación de la harina en cumplimiento 
+a la Norma Boliviana y disposición que obliga 
+al fortalecimiento de las harinas producidas y 
+consumidas localmente, con micronutrientes 
+como: hierro reducido micronizado, Tiamina 
+(B1), Ácido Fólico, Riboflavina (B2) y Niacina.
+i) Envasado y almacenaje.-  
+El producto final es almacenado temporal -
+mente en tolvas de ensacado que disponen 
+de vibradoras para facilitar el caída por gra -
+vedad de la harina; así mismo se dispone de
+Tabla 10: Balance másico de la molienda de grano de trigo blando
+equipos de pesaje automático para envases 
+de 45 kg de harina en los molinos de La Paz y 
+45,36 en los molinos del interior, así mismo 
+EMAPA produce envases de 50 kg.
+Cuando no existen procesos adicionales de 
+blanqueo u otro que acelere los cambios 
+bioquímicos de la harina, esta debe ser al -
+macenada para el reposo suficiente para la 
+decoloración (por oxidación) de los pigmen -
+tos naturales del endospermo y mejorar las 
+cualidades de la harina para el manipuleo y 
+fermentación.
+El Gráfico 19, muestra la evolución de la producción de harina de trigo desde 2016 al 2021. Los datos de 
+la industria molinera sistematizados por el Viceministerio de Producción a Mediana y Gran Escala (VI -
+CEMINISTERIO DE POLÍTICAS INDUSTRIALES, MDPYEP), muestra que los balances comerciales 
+de producción de harina de trigo tienen una tendencia cíclica.
+=====PAGE 72=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+70
+Gráfico 19: Producción de harina de trigo (en toneladas) 
+7.2. Capacidades de la industria molinera y de granos
+La industria molinera nacional está compuesta por unidades productivas dispuestas con el 93% empre -
+sas privadas y 7% molinos estatales, con una capacidad instalada de molienda de 3.416 toneladas día, con 
+un procesamiento de 330 días al año se tiene 1.127.280 toneladas anuales de procesamiento de trigo, las 
+capacidades de estas empresas pueden procesar la demanda nacional de harina que en términos de trigo 
+en la gestión 2020 alcanzó aproximadamente a 494.847 toneladas que representa una capacidad utilizada 
+del 48.3%.
+Tabla 11: Industrias molineras, de pastas, fideos, panadería y repostería por 
+                   departamento
+
+=====PAGE 73=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+71
+La capacidad instalada total de las industrias de grano (soya, arroz, trigo, maíz) es de aproximadamente 
+de 3,5 millones de toneladas estáticas, en el caso de las industrias de trigo alcanzan a 549.411 toneladas 
+estáticas, con una rotación de 1,5 la capacidad dinámica puede alcanzar por lo menos 5 millones de 
+toneladas de almacenamiento en Bolivia.
+Existen industrias privadas particularmente en el departamento de Santa Cruz, que tienen una capaci -
+dad estática de 1,1 millones de toneladas y su almacenamiento es utilizado para distintos granos como 
+ser, soya, trigo, maíz y arroz. 
+Tabla 12: Capacidad de acopio de la industria molinera 2019 
+EMAPA cuenta con cinco plantas de almacena -
+miento, las cuales tienen una capacidad estática 
+de 307.000 toneladas, cuatro de estos centros de 
+almacenamientos se encuentran en el departa -
+mento de Santa Cruz, ubicado en los municipios 
+de San Julián con capacidad de almacenamiento 
+de 50.000 toneladas, San Pedro que tiene una 
+capacidad de 36.000 toneladas, Cuatro Cañadas 
+que tiene una capacidad de 50.000 toneladas y 
+Cabezas con capacidad de 31.000 toneladas, y 
+en el departamento de Oruro en el municipio 
+de Caracollo que tiene una capacidad de 50.000. 
+Estos centros cuentan con línea de molienda de 
+trigo y otra de elaboración de alimento balan -
+ceado.
+Los centros de almacenamiento de EMAPA, tie -
+nen un 13% de participación de cobertura de al -
+macenamiento de grano de trigo de los peque -
+ños y medianos productores.
+7.3. Acopio de harina de trigo en EMAPA
+=====PAGE 74=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+72
+Mapa 12: Distribución Geográfica de las plantas de almacenamiento de granos – EMAPA
+En la campaña de invierno 2022, la estatal acopió y almacenó 66.159 toneladas de grano de trigo, benefi -
+ciando por la compra de grano a un precio de 390 USD la tonelada a más de 30 mil pequeños y medianos 
+productores.
+ 
+ 
+Fuente: EMAPA. Elaboración DGAPIYEP , 2023
+Fuente: EMAPA. Elaboración DGAPIYEP , 2023
+Gráfico 20: Acopio de Grano de Trigo por la Estatal EMAPA (En toneladas)
+=====PAGE 75=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+73
+Tabla 13: Valor de la producción de los productos derivados del trigo
+Las pastas son alimentos consumidos cotidiana -
+mente en los hogares, se encuentran dentro de 
+los bienes de consumo masivo más importantes 
+al igual que el arroz 1; además, presentan un pa -
+pel importante en la nutrición y la alimentación 
+al proporcionar una gran cantidad de carbohi -
+dratos como una fuente importante de energía 
+para el ser humano. Es así, que se recomienda el 
+consumo entre cuatro o cinco veces por sema -
+na2, motivo por el que fue adquiriendo diversas 
+presentaciones y variedades. 
+ Se presentan en diversas formas y figuras, cuyo 
+ingrediente básico es la harina de trigo, mez -
+clada con agua,  pudiéndose añadir a la masa 
+ingredientes como colorantes (p.ej. pasta de to -
+mate) y huevos, entre otros 3. 
+Por la forma de preparación, a las pastas se les 
+puede adicionar diferentes alimentos que po -
+tencian su capacidad nutritiva. La Organización 
+de las Naciones Unidas para la Agricultura y la 
+Alimentación (FAO) describe a las pastas 
+instantáneas como un producto preparado con 
+harina de trigo u otras harinas (féculas) como 
+ingrediente principal, con o sin la adición de 
+otros  ingredientes 4. 
+Existen plantas grandes, medianas y pequeñas, 
+con maquinaria de procedencia italiana, brasi -
+leña y Argentina de las marcas: Braibanti, Pa -
+van, Tecali Cerrini.
+1. José Luis Murcia (2013). El mercado de arroces y pastas en auge en el mundo. Disponible en: http://www.mercasa.
+es/files/multimedios/1380902850_El_mercado_arroces_y_pastas_en_auge_  en_el_mundo_58-63.pdf. 
+2. Escuela hotelería (2014). La pasta propiedades y beneficios en nuestra dieta. Disponible en: http://www.escue-
+lahosteleria.org/portal/recetas/materiales/FWD2hCNIo.pdf.
+3. Embajada de la República Argentina en Ucrania (2011). Estudio de Mercado de Pastas Secas.
+4. FAO (2007). Ley de Código de Alimentos (pág. 85). Disponible en: www.fao.org/input/download/stan-
+dards/10658/CXS_249s.pdf.
+  
+7.4. Proceso de producción e industrias de transformación de 
+pastas
+ 
+=====PAGE 76=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+74
+A nivel desagregado, el valor de la producción 
+de los sub productos del trigo asciende a 2.510 
+millones de bolivianos, donde el rubro de los 
+beneficiados que elaboran productos de moli -
+nería tiene un valor de 548 millones de bolivia -
+nos. El rubro que se dedica a la actividad de la 
+elaboración de pastas, macarrones y fideos, tuvo 
+un valor de producción de 555 millones de boli -
+vianos; ambos rubros tienen una participación 
+del 44%. El rubro dedicado a la elaboración de 
+productos de panadería tiene una participación 
+del 56%, lo que significa que el valor de la pro -
+ducción tuvo un fluctuante monetario de 1.408 
+millones de bolivianos.
+7.4.1. Proceso de producción de 
+pastas
+El proceso de la elaboración de pastas alimen -
+ticias inicia con la recepción, evaluación de 
+la calidad e inocuidad de las materias primas 
+(principalmente de harina de trigo). Una vez 
+realizada la recepción se procede a pesar la hari-
+na y los ingredientes con la finalidad de estable -
+cer la cantidad óptima de producción y calibrar 
+el proceso de producción. 
+Posterior al establecimiento de la cantidad de 
+producción y la materia prima, los diferentes 
+ingredientes son introducidos a la mezcladora, 
+añadiéndose el agua para la generación de una 
+masa compacta (estableciendo un tiempo máxi -
+mo para el amasado), facilitando las siguientes 
+operaciones:
+ 
+a) En el amasado se adicionan los diferentes 
+componentes, como colorantes y otras harinas 
+(p.ej. de quinua), brindando sus nutrientes, 
+  
+uniformidad y manejabilidad al producto en 
+proceso.
+b) En el proceso de laminado se empieza a dar 
+una forma determinada y un espesor a las pas -
+tas, es del tipo continuo y uniforme, para evitar 
+deficiencias en los productos.
+Posteriormente, se procede a enrollar varias ve -
+ces la masa, a través de dos cilindros lisos que se 
+acercan uno al otro al pasar con una determi -
+nada medida, para luego obtener una lámina de 
+color uniforme, pulida y perfectamente homo -
+génea. El tiempo de laminado depende del 
+tipo de mezclas de la harina y otros ingredien -
+tes.
+c) El trefilado, denominado también moldeado 
+es el proceso en el que se introduce la masa pre -
+viamente laminada en dos cilindros o moldes, 
+calibrando a la figura específica del producto. 
+Este proceso define las formas de cintas largas 
+para la fabricación de tallarines (pastas largas), 
+se cortan de trecho en trecho de tal forma que se 
+puedan enrollar. Al salir del trefilado se pueden 
+dar diferentes formas atractivas antes de enviar -
+las al secado.
+Las pastas también se pueden fabricar por el 
+método de extrusión, consistente en forzar y dar 
+forma a la masa mediante moldes con agujeros, 
+generado distintos diseños y formas (proceso 
+para la producción de fideos y macarrones).
+De forma común se continúa con:
+ 
+ 
+=====PAGE 77=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+75
+Las principales maquinarias empleadas 
+para la producción de pastas son: la pesa -
+dora, la prensa amasadora extrusora, la má -
+quina laminadora, la pre secadora, la má -
+quina para trefilar y la empaquetadora 5.
+Entre los principales insumos utilizados para la 
+preparación y producción de pastas alimenticias 
+se tienen:
+Harina de trigo.- Principal materia prima para la 
+preparación de pastas.
+d) Una vez concluido el anterior proceso se procede al extendido o secado del producto con la finalidad 
+de evitar que estos puedan pegarse o deformarse, conservando la forma previamente definida.
+e) El enfriamiento se lo realiza en un lugarfresco y seco hasta lograr una temperatura ambiente, por lo 
+que, este proceso varía en función de las condiciones climáticas. 
+f) Finalmente, para el empaquetado usualmente se utilizan bolsas plásticas, con la característica de crear 
+microclimas que permiten la conservación de las pastas. 
+g) Una vez concluido el proceso de producción se almacena según el producto, para ser transportado a 
+los diferentes mercados e intermediarios, llegando por último al consumidor final. 
+Figura 3: Proceso de fabricación de pastas, macarrones y fideos
+Quinua orgánica.-  Alimento con alto grado ali -
+menticio. 
+Agua.- Insumo principal para compactar la 
+masa y unir todos los ingredientes.
+Vegetales orgánicos.-  Estos insumos permiten 
+que los alimentos preparados contengan un alto 
+grado alimenticio al complementar la composi -
+ción de las pastas.
+=====PAGE 78=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+76
+7.4.2 . Capacidades de la industria de pastas y fideos
+En Bolivia la producción de pastas alimenticias está caracterizada por su alto grado de automatización, 
+diversa en cuanto a presentación, tipo, cantidad y por sus distintos canales de comercialización, pudien -
+do clasificarlas en las siguientes variedades 6:
+ 
+Fideos: Son compactas y toman diferentes formas.
+Pastas largas: Conforman los productos delgados y largos. Incluye a tallarines, espaguetis y demás pastas 
+del tipo largas.
+Macarrones: Conforman los productos que tienen orificios y toman diferentes formas.
+Lasañas: Son productos que incluyen dentro de su presentación otro tipo de preparación (salsa, 
+jigote entre otros alimentos).
+Tabla 14: Capacidad instalada y utilizada para la producción de pastas y fideos (2020)
+La capacidad instalada de las industrias de pastas y fideos para el año 2020 fue de 2.869.485 toneladas y 
+su producción fue de 1.421.102 toneladas, teniendo una capacidad utilizada del 49,5%.
+  5. Secretaria Nacional de Educación Superior Ciencia Tecnología e Innovación (2011). Manual de elaboración de 
+pastas alimenticias. Argentina.
+6.   AEMP Estudio de Mercado de Pastas Alimenticias en Bolivia
+=====PAGE 79=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+77
+7.4.3 . Proceso de producción 
+e industrias de galletería
+La materia prima principal es la harina de trigo 
+de producción nacional o importada (harina de 
+trigo blando), agua, sólidos como frutas deshi -
+dratadas, lácteos, huevos, cocoa, chocolate, in -
+gredientes que tiene diferente función como dar 
+sabor y consistencia al producto final.
+Las galletas son productos de consistencia más 
+o me-nos dura y crocante de forma variable ob -
+tenidas por el cocimiento de masas preparadas 
+con: Harina de trigo con o sin leudantes, leche, 
+féculas, sal, huevo, azúcar, mantequilla, grasas 
+comestibles, colorantes, conservadores, agua y 
+otros ingredientes permitidos. Las galletas pro -
+ducidas localmente pueden clasificarse por su 
+sabor en saladas, dulces y de sabores especiales.
+Por su presentación e ingredientes en: Simples, 
+rellenas y revestidas.
+Por la forma de su comercialización están cla -
+sificadas como: Galletas envasadas, galletas a 
+granel.
+Por su proceso de producción y tipo de masa se 
+clasifican en: Galletas depositadas (dulces y de 
+masa suave), galle-tas recortadas con alambre 
+(dulces simples), galletas troqueladas a máqui -
+na (semidulces), galletas moldea- das (dulces) y 
+galletas de masa fermentada (cracker y maría).
+A continuación, se indica el proceso básico para 
+la obtención de galletas:
+a) Moldeado:  Operación consistente en el lami -
+nado de las masas preparadas, para luego hacer -
+las pasar por una matriz o troqueladoras para 
+que cortadas y con la impresión deseada, sean 
+transportadas hacia el horno de cocimiento.
+b) Horneado:  Se realiza en hornos continuos 
+con gradiente de temperatura hasta la obten -
+ción del producto completamente frío y listo 
+para el empaque. En plantas pequeñas esta ope -
+ración se realiza en hornos estáticos en los cua -
+les se introduce el producto en bandejas para su 
+cocimiento.
+
+=====PAGE 80=====
+
+=====PAGE 81=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+79
+
+=====PAGE 82=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+80
+8. DINÁMICA DE LOS RENDIMIENTOS, IMPORTACIÓN, EXPORTACIÓN 
+Y PRECIOS DE LOS PRODUCTOS DERIV ADOS DEL TRIGO
+8.1. Rendimiento Sud Americano del cultivo de trigo
+El rendimiento del cultivo de trigo en las zonas de cultivos de Sud América está marcado principalmente 
+por el factor de la inestabilidad climática, tipo de suelo y la variedad de semilla genéticamente modifi -
+cable.  En el último quinquenio ha causado desvaríos en la siembra y cosecha en Argentina, Uru -
+guay, el sur de Brasil, Chile y Paraguay.
+Gráfico 21: Rendimiento del cultivo de trigo en Sud América, Año 2021. (En toneladas/hectárea)
+En el grafico 21, se observa el comportamien-
+to del rendimiento del cultivo de trigo al año 
+2021 en los países productores de Sudaméri -
+ca. Bolivia ocupa el décimo lugar en la región 
+con 1,67 toneladas por hectáreas frente a las 
+5,98 toneladas por hectáreas de rendimiento 
+que presenta el país productor de Chile, le 
+sigue el país de Uruguay con 4,18 toneladas 
+por hectáreas y en tercer lugar se encuentra 
+el país de Brasil con un rendimiento anual de 
+2,86 toneladas por hectáreas. 
+Estos rendimientos sostenidos de estos tres paí -
+ses se deben a la incorporación de medidas de 
+resiliencia con la variedad de semilla de trigo, 
+en función al cambio climático y las variables 
+bioclimáticas en las zonas productoras de cul -
+tivo de trigo en sus distintos pisos ecológicos. 
+=====PAGE 83=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+81
+Argentina es el principal productor 
+de trigo con mas de 17 millones de 
+toneladas, que representa el 60% del 
+total de la producción a nivel Sud 
+Americano. En segundo lugar, se en -
+cuentra Brasil con una producción 
+mayor a los 7 millones de toneladas 
+con una participación del 27% del 
+total de la producción de la región 
+y en tercer lugar se encuentra Chile 
+con mas 1,3 millones de toneladas.
+Bolivia es el sexto productor de tri -
+go en Sud América, con mas de 300 
+mil toneladas, 100 mil toneladas mas 
+que Perú y 300 mil toneladas por de -
+bajo de Paraguay.
+Gráfico 22: Producción primaria de trigo en Sud América, año 2021 (en toneladas)
+8.2. Importaciones de harina de trigo
+El Gobierno, ha incrementado las importaciones del producto para abastecer el mercado nacional; pero 
+también, ha emitido medidas legales y ha creado instancias, para fomentar la producción de trigo: como 
+el Instituto Nacional de Innovación Agropecuaria y Forestal (INIAF), la Empresa de Apoyo a la Produc -
+ción de Alimentos (EMAPA) y el Banco de Desarrollo Productivo (BDP). El origen de las importaciones 
+de la harina de trigo en los últimos años son Argentina, Estados Unidos, Canadá, y Uruguay.
+Gráfico 23: Importaciones de Harina de Trigo (Toneladas)
+=====PAGE 84=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+82
+Entre los años 2015 y 2016, el promedio de la 
+importación de trigo estuvo alrededor de 238 
+mil toneladas. Al 2017 la importación creció en 
+21% con relación al año 2016. En el año 2018, 
+la importación de harina de trigo disminuyo en 
+13%, es decir, 40.000 toneladas menos en com -
+paración al año 2017. En los años 2019 y 2020, 
+el promedio de importación alcanzó las 337 mil 
+toneladas, casi 15% más con respecto al año 
+2018.   
+Fruto de la ejecución del Programa Trigo lan -
+zado el año 2019, el año 2021, la importación 
+disminuyó en 27% similar comportamiento se 
+presento el año 2022 reduciéndose en 45%, es 
+decir, 121.091 toneladas menos de importación 
+de harina de trigo lo que supone un ahorro al 
+erario nacional de 26 millones de dólares con 
+relación al 2021.  
+Gráfico 24: Comportamiento mensual de las importaciones de harina de trigo (en miles de 
+toneladas)
+Fuente: Instituto Nacional de Estadisticas (INE). Elaboración: DGAPIyEP
+Por otro lado, en los meses de mayo, junio y
+julio; entre los años 2015 a 2022, se presenta el 
+mayor volumen de importación que en prome -
+dio alcanzo las 23.558 toneladas con un valor 
+medio de 8.501.782 USD.
+ 
+Para el año 2022, el 99% de las importaciones de 
+harina de trigo se realizó del país de Argentina, 
+con un valor superior a los 40 millones de dóla -
+res y un volumen de 93 mil toneladas, compran-
+do con el año 2021 se redujo un 56% el valor 
+de las importaciones y en 65% el volumen de 
+harina de trigo. 
+Del total de la importación de la harina (año 
+2022), mas de 56 mil toneladas se destina al 
+mercado interno del departamento de Potosí 
+con un valor superior a los 24 millones de dó -
+lares.
+ 
+El 99% de la importación de harina de trigo (al 
+2022) de Argentina se destina con mas de 56 mil 
+toneladas al departamento de Potosí con un va -
+lor de 24 millones de dólares. El segundo depar -
+tamento destino es Tarija con 37.922 toneladas 
+y un valor de 16.589.797 USD.  
+=====PAGE 85=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+83
+Las pastas alimenticias para su importación re -
+quieren cumplir con la certificación del Servicio 
+Nacional de Sanidad Agropecuaria e Inocuidad 
+Alimentaria (SENASAG), según lo dispone el 
+Decreto Supremo Nº 26590, y efectuar los pagos 
+correspondientes al Gravamen Arancelario que 
+en general es del 10% y de 0% para países de la 
+Comunidad Andina y MERCOSUR.
+En el siguiente gráfico se muestran los volúme -
+nes totales de exportación e importación de 
+pastas alimenticias en volumen de toneladas, 
+comercio realizado entre Bolivia y el resto del 
+mundo en el periodo 2015-2022.
+ 
+Gráfico 25: Exportaciones e importaciones de pastas y fideos
+Al año 2022, las exportaciones de pastas y fi -
+deos alcanzo las 718 toneladas y con un valor 
+de 670.502 USD con principal destino al país 
+de Paraguay, seguido de Chile y Brasil. Tanto el 
+volumen como el valor crecieron en 27% y 41%; 
+respectivamente.
+En los años 2019 y 2020, el promedio del volu -
+men de las exportaciones alcanzo las 548 tone -
+ladas. El año 2018, la exportación disminuyo en 
+41% en comparación con el año 2019. 
+Entre los años 2015 a 2017, se exportaron en 
+promedio un volumen de 492 toneladas con un 
+valor aproximado de 451.493 USD.
+En cuanto a las importaciones de pastas y fi -
+deos, el año 2020,  se alcanzo un volumen de 
+16.671 toneladas con un valor que supera los 11 
+millones de 
+dólares.  El 76% de las importaciones se realizó 
+del país de Perú, de Chile con el 8%, seguido de
+ Chile y México, con el 8 y 6%; respectivamente.
+8.3. Importaciones y Exportaciones de pastas y fideos
+=====PAGE 86=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+84
+Al año 2021 y 2022, la importación de 
+pastas y fideos, se redujo en un prome -
+dio anual de 20,7%. Esta tendencia en 
+la reducción de la importación de pas -
+tas y fideos se debe a la implementa -
+ción del Programa Trigo en el año 2019.
+ 
+8.4. Comportamiento del 
+precio de los sub productos 
+del trigo
+En el grafico 26, se observa una relación de los 
+precios fijados por el mercado mayorista res -
+pecto a los sub productos del trigo. En el año 
+2022 el trigo pelado alcanzo los Bs 334 por 
+quintal, 17% más en relación al 2021. El de -
+partamento de Cochabamba lidera el mercado 
+mayorista con un valor de Bs 355,2 por quintal, 
+seguido del departamento de Tarija con Bs 347 
+por quintal y el departamento de La Paz con Bs 
+344,2 por quintal. Al año 2021, se cotizo en Bs 
+328,6 por quintal. En los restantes departamen -
+tos se tiene un valor promedio de Bs 317,1 por 
+quintal; exceptuando al departamento de Pan -
+do, debido a la fluctuación de los precios en las 
+distintas zonas francas.
+La harina blanca importado, al año 2022 alcan -
+zo un precio de Bs 221,4 la bolsa de 50 kg, 35% 
+mas que el año 2021, donde el precio tuvo un 
+valor promedio de Bs 163,6 la bolsa de 50 Kg.
+ 
+En el departamento de Pando este producto tie -
+ne el mayor precio de Bs 212,8 la bolsa de 50 Kg. 
+Mientras que en los restantes departamentos se 
+registra un precio promedio de Bs 160 la bolsa 
+de 50 Kg.
+En el año 2022, el comportamiento del precio de 
+la harina blanca de procedencia nacional, tiene 
+un precio promedio a nivel nacional de Bs 234,3 
+el quintal, Bs 57,8 mas con respecto al año an -
+terior.
+El departamento de Beni registra el precio de
+este producto en Bs 201,5, un valor mayor res -
+pecto al costo en los departamentos de La Paz, 
+Cochabamba, Tarija, Santa Cruz y la ciudad 
+de El Alto, regiones donde el precio promedio 
+del quintal de harina es de Bs 179. Al año 2021, 
+el precio promedio llego Bs 182,2 el quintal.
+El precio promedio anual de los fideos de pro -
+cedencia nacional, al año 2022, alcanzo los Bs 
+83,4 la arroba, aumentándose los precios en Bs 
+10 en comparación al año 2021, donde el precio 
+promedio se fijo en Bs 73,1 dentro los mercados 
+mayoristas a nivel nacional. En el departamen -
+to de Pando se presenta el mayor precio con Bs 
+93,4 el quintal, seguido del departamento de 
+Tarija con Bs 90,8 y Chuquisaca con un precio 
+de Bs 86,0. En los restantes departamentos, in -
+cluida la ciudad del El Alto, el precio promedio 
+alcanzo los Bs 80,7 el quintal .
+ 
+=====PAGE 87=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+85
+Gráfico 26: Serie histórica de precios promedios en el mercado mayorista de productos 
+derivados
+Gráfico 27: Serie histórica de precios promedios anules al consumidor de la harina 
+de trigo blanca/integral 
+=====PAGE 88=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+86
+Con relación a los precios al consumidor, en el 
+año 2022, el departamento de Pando tiene el 
+mayor precio de la harina de trigo con un valor 
+de Bs 7,33 por kilogramo. En los departamentos 
+de Santa Cruz, Cochabamba, Oruro y Beni el 
+kilogramo tiene un precio promedio de Bs 6,3.
+Para el departamento de La Paz el precio de la 
+harina de trigo por libra tiene un valor de Bs 
+2,75 y en el departamento de Chuquisaca el pre -
+cio por cuartilla es de Bs 14,91.
+Cabe señalar que estos precios al consumidor 
+final relativamente se mantienen estables de -
+bido a la subvención que ejecuta EMAPA que 
+incentiva la producción del cultivo de trigo con 
+el propósito de rebajar la importación la harina 
+de trigo para la elaboración de productos deri -
+vados.
+ 
+Gráfico 28: Serie histórica de los precios internacionales del trigo y su relación 
+con el precio en Bolivia (en USD/Tn)
+EMAPA, es importante en la regulación y fijación de precios del trigo en Bolivia, cada año establece 
+precios de acopio e incentivo a la producción de trigo, como se muestra en el grafico anterior, donde se 
+puede observar que los precios de compra de trigo al productor han sido superiores a las cotizaciones 
+internaciones de este producto.
+ 
+=====PAGE 89=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+87
+
+=====PAGE 90=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+88
+9. COMPORTAMIENTO DE LA BANCA EN LA INDUSTRIA DEL 
+TRIGO
+Históricamente los productores agropecuarios 
+han accedido a financiamiento para campañas 
+agrícolas, desde lo comercial con proveedores 
+y clientes o compradores más que el financiero 
+(bancos, instrumentos financieros y estructura -
+dos). Ello, debido a la naturaleza del sector y 
+sus actores intervinientes. Inicialmente se debe 
+tomar en cuenta que la actividad agrícola es 
+riesgosa debido a muchos factores que el pro -
+ductor no controla, como las condiciones cli -
+máticas, el precio de los “commodities” y de 
+los insumos y la volatilidad del tipo de cambio 
+del dólar.
+Todos estos factores no controlables definen un 
+riesgo sistemático el cual es una limitante para 
+la diversificación y tiene una estrecha relación 
+con el crédito bancario o financiero. Con res -
+pecto al sector triguero el acceso a créditos ban -
+carios y/o financieros es de corto plazo y diri -
+gido principalmente a la fracción empresarial.
+Gráfico 29: Crédito al sector de la preparación y molienda de trigo (en dólares)
+
+=====PAGE 91=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+89
+Durante el periodo 2013 a 2022, el crédito al 
+sector de la molienda de trigo se desarrolló de 
+manera favorable impulsado por un fuerte desa-
+rrollo de la soya y su industria. Según los datos 
+de la ASFI, los productores del departamento 
+de La Paz, específicamente a los productores 
+situados en la ciudad de El Alto, accedieron al 
+51% de créditos para la preparación y molienda 
+de trigo, seguido por los productores de Santa 
+Cruz con el 45%, los productores de Cocha -
+bamba con el 3% y los restantes productores del 
+resto del país accedieron al 1% de los créditos 
+destinados al sector de preparación y molienda 
+de trigo. 
+En el año 2022, el crédito destinado a los pro -
+ductores de La Paz fue de 21,9 millones de dóla -
+res; 17,3% menos con relación al año 2020,  los 
+créditos para los manufactureros de Santa Cruz 
+fue de 18,2 millones de dólares; más de 1,9 mi -
+llones de dólares en comparación al 2020, en 
+tercer orden de importación de erogación de 
+créditos se encuentra a los manufactureros del 
+departamento de Cochabamba con 1,5 millo -
+nes de dólares, comparándose con el año 2021 
+creció en 193%, es decir, más de 1.000.0000 de 
+dólares. Mientras que los créditos colocados por 
+el sector bancario a los productores de otros de -
+partamentos alcanzo los 410.000 dólares. 
+Gráfico 30: Variación porcentual de la cartera de créditos a la actividad de pre -
+paración y molienda de trigo (en millones de dólares)
+
+=====PAGE 92=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+90
+En los años 2015 y 2017, se registró un decre -
+cimiento en el acceso a créditos para la prepa -
+ración y molienda del trigo de un 20% y 11%; 
+respectivamente, debido a que los precios in -
+ternacionales cayeron provocando que muchos 
+productores de trigo opten por la siembra de 
+soya, sorgo, maíz y girasol. En comparación a 
+los años 2014 y 2016, debido a que los precios 
+internacionales del trigo se cotizaban relativa -
+mente competitivos en la región. Al año 2018, el 
+crédito a este sector creció en 10,7 millones de 
+dólares con respecto al año 2017.  
+Nuevamente en los años 2019 y 2020, el acceso 
+a créditos bajó a un promedio anual del 3%. El 
+año 2021, el requerimiento de créditos creció 
+en 43%, es decir, mas de 13 millones de dólares 
+comparando con el año 2020. 
+Este incremento se explica por la aplicación en 
+sus distintas modalidades del Programa Multi -
+sectorial de Fomento a la Producción de Trigo 
+que tuvo mayor incidencia en los productores 
+de Santa Cruz y Cochabamba. 
+El año 2022, si bien cayo relativamente el acce -
+so a los créditos en un 3%, debido al conflicto 
+bélico entre Ucrania y Rusia, las perspectivas de 
+crecimiento del sector triguero son alentadoras 
+para el año 2023.
+ 
+Gráfico 31: Número de prestatarios del sector de preparación y molienda de trigo
+
+=====PAGE 93=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+91
+Entre los años 2013 a 2022 el número de prestatarios que se dedican a la preparación y molienda de trigo 
+están distribuidos su mayor número en el departamento de Cochabamba. En el año 2022, alcanzaron los 
+48 prestatarios y en este periodo de diez años alcanzo los 311 prestatarios. 
+Le sigue el departamento de La Paz con 35 prestatarios en la gestión 2022 y en estos 10 años alcanzo los 
+367 prestatarios. En tercer lugar, se encuentra el departamento de Chuquisaca donde la banca registra 
+para el año 2022, quince prestatarios y entre los años 2013 y 2020 se totalizo 149 prestatarios. 
+ 
+ 
+=====PAGE 94=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+92
+10. REFERENCIAS
+— AEMP (2012) “Estudio de la Harina de Trigo”
+— CEDIB “ Alza de Precios ¿Escasez o Especulación?”
+— Diagnostico Situacional del Trigo y Propuestas de Intervención (UCP - VICEMINISTERIO 
+DE POLÍTICAS INDUSTRIALES, MDPYEP) (2015).
+— MACA “Estudio de Identificación, Mapeo y Análisis Competitivo de la Cadena Productiva 
+del Trigo” .
+— MDRyT “Municipios Productores de Trigo”
+— MDRyT “Boletín Informativo Agroalimentario“ .
+— Observatorio Agroambiental y Productivo (OAP) (2018) “Comparación de Precios de Pro -
+ductos Agropecuarios en Ciudades Fronterizas” .
+— UDGAPIYEP (2018) “Sistema Integrado de Información Productiva” .
+— IBCE (2013) “Trigo, Una Oportunidad para la Soberanía Alimentaria Boliviana” .
+— AEMP (2017) “Estudio de Mercado de Pastas Alimenticias de Bolivia” . 
+ 
+ 
+=====PAGE 95=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+93
+
+=====PAGE 96=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+94
+11. ANEXOS
+Figura 4: Esquema metodológico de identificación de cultivos de trigo
+Fuente: DGAPIYEP , 2021
+=====PAGE 97=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+95
+Dentro del flujo trabajo definido, se establece 
+como primer paso el cargue del repositorio Sen -
+tinel-2 (COPERNICUS/S2_SR), tomando en 
+cuenta los siguientes aspectos: 
+- Porcentaje de nubosidad:   Se seleccionó las 
+imágenes  con  un  porcentaje  igual  o menor al 
+indicado al 10%. Se debe tener presente que esto 
+proviene de la metadata de la imagen, es decir, 
+es la concentración estimada que se encuentra 
+presente en el total de la imagen. 
+-   Rango de tiempo:  Se seleccionó las imágenes 
+correspondientes a fecha 01 de mayo al 31 de 
+julio de 2021.
+- Definición y  corte  a  partir  del  área  de  
+estudio:  este  filtro  define  y  realiza  el  corte  
+de  la  zonas productoras del departamento de 
+Santa Cruz; donde se realizara la búsqueda.
+- De forma adicional, es aplicada una máscara 
+ de nubosidad a cada imagen de la colección, 
+que es producto de la identificación y corte de 
+las zonas que, de acuerdo a la banda de calidad 
+QA60, posee presencia  de  nubes  y  cirrus. 
+ 
+ 
+Esta  acción  disminuye  la  posibilidad  de  que 
+existan nubes en el mosaico que es utilizado 
+como insumo de la clasificación.
+- Con el propósito de realizar la clasificación 
+a partir de una sola imagen, es empleada una 
+reducción de la colección de las imágenes, 
+generando un mosaico de valores de la me -
+diana, que consiste en seleccionar el valor  de  
+la  mediana  de  cada  pixel,  esta  técnica  es  
+plenamente  utilizada  porque,  su uso genera 
+una imagen homogénea en el espacio y tiem -
+po que disminuye las afectaciones por pre -
+sencia de nubes y fuentes de contaminación.
+Como se puede observar en la figura 5, el re -
+sultado del pre procesamiento de la combi -
+nación de bandas B8, B4, B3 y B2, presentan 
+diferencia visual debido a la reflectividad y 
+el color verdoso fenológico, ya que en las zo -
+nas de cultivo de trigo en el departamento de 
+Santa Cruz la altura promedio es de 55 cm.
+ 
+ 
+=====PAGE 98=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+96
+La clasificación se realiza a partir de los polígonos de entrenamiento trazados manualmente para la 
+cobertura que abarca las zonas de producción de trigo. La muestra es dividida en polígonos de entrena -
+miento  y  de  validación.  Para la selección del set  de  datos  de validación, se toman en cuenta el 30% del 
+total de los polígonos que corresponde a la información de validación; su selección es a partir de núme -
+ros aleatorios, que en este caso es cero, y producto de la verificación entre los datos de entrenamiento y 
+los preseleccionados de validación,  con  el  propósito  de  que  no  exista  autocorrelación  espacial  con  
+la  muestra  de entrenamiento. 
+Figura 5: Combinación de bandas Municipios: Okinawa Uno y Cuatro Cañadas
+Fuente: DGAPIYEP , 2021
+=====PAGE 99=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+97
+Figura 6: Zona de muestro departamento de Santa Cruz
+Fuente: DGAPIYEP , 2021
+Con los datos de validación obtenidos en campo se definió la matriz de confusión  como  el  resultado  del  
+cruce  tabulado  de  las  clases  de  la  imagen  y  de  la información  de  terreno.  Es importante mencionar 
+que todo cultivo posee una distribución única de radiación electromagnética que puede ser reflejada, 
+transmitida o absorbida. La firma espectral, en este caso, del cultivo de trigo presenta una reflectancia 
+influenciada por características morfológicas, fisiológicas o por efecto del déficit de humedad. 
+Una de las propiedades espectrales del cultivo de trigo es la presencia diferenciada de la clorofila que es 
+el pigmento más importante en la fotosíntesis, en las zonas de cultivo del departamento de Santa Cruz.
+En ese en entendido, se realizó un muestreo georreferenciado de correlación sobre las zonas de cultivo 
+de trigo, en fecha 24 y 25 de junio de 2021, en coordinación con EMAPA Regional Santa Cruz, confor -
+mándose dos brigadas de trabajo para la obtención de 51 puntos de control.
+=====PAGE 100=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+98
+Figura 7: Firma espectral del cultivo de trigo
+Fuente: DGAPIYEP , 2021
+Se observa que en la región del espectro visible tiene una alta reflectancia dada la fuerte absorción por 
+los pigmentos foliares, este comportamiento se presenta en las zonas del norte integrado de Santa Cruz. 
+De igual forma se observa, que existe un cambio al final de la longitud de onda de la zona roja, esta ca -
+racterística es una respuesta espectral de toda vegetación, esto se presenta por la baja reflectancia de la 
+clorofila y la alta reflectancia en el infrarrojo cercano, asociada con la estructura interna de cada cultivo 
+y el contenido de humedad en el tallo.
+ 
+ 
+=====PAGE 101=====
+ANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGOANÁLISIS DEL COMPLEJO PRODUCTIVO DEL TRIGO
+99
+Figura 8: Clasificación supervisada para determinar cultivos de trigo
+Fuente: DGAPIYEP , 2021
+La clasificación final es seleccionada producto de  la  revisión  exhausta  de  los  indicadores  de 
+exactitud  temática  junto  a  una  validación  visual  aleatoria  de las zonas de cultivo de trigo.
+=====PAGE 102=====

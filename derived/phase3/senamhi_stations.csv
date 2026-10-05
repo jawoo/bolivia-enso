@@ -1,0 +1,30 @@
+station,departamento,lat,lon,alt_m,zone,years,file
+Aiquile,Cochabamba,-17.833333333333332,-65.88333333333334,2700.0,valleys,1970-2009,AIQUILE_09.xls
+Azurduy,Chuquisaca,-19.833333333333332,-64.41666666666667,2530.0,valleys,1972-2009,AZURDUY_09.xls
+Andamarca,Oruro,-18.766666666666666,-67.5,3740.0,altiplano,1975-2009,Andamarca_09.xls
+Ascension De Guarayos,Santa Cruz,-15.7,-63.1,246.0,lowland,1970-2009,Asc_Guarayos_09.xls
+Camiri,Santa Cruz,-20.05,-63.56666666666667,810.0,valleys,1970-2009,Camiri _09.XLS
+Chimore,Cochabamba,,,,valleys,1970-2009,Chimore(La jota)_09.XLS
+Chinoli,Potosí,-19.633333333333333,-65.33333333333333,3450.0,altiplano,1970-2009,Chinoli_09.XLS
+Cochabamba,Cochabamba,-17.416666666666668,-66.16666666666667,2560.0,valleys,1970-2009,Cochabamba_2009.xls
+Concepcion,Santa Cruz,-16.25,-62.1,497.0,lowland,1970-2009,Concepcion_09.xls
+Copacabana,La Paz,-16.15,-69.08333333333333,3815.0,altiplano,1971-2009,Copacabana_09.xls
+Entre Rios - Tarija,Tarija,-21.503055555555555,-64.17055555555557,1260.0,valleys,1975-2009,ENTRE RIOS_09.xls
+El Belen,La Paz,-16.066666666666666,-68.66666666666667,3820.0,altiplano,1970-2009,El Belen_09.XLS
+Montero,Santa Cruz,-17.333333333333332,-63.38333333333333,,lowland,1991-2009,MONTERO_SC_09.xls
+Mizque (Mayra),Cochabamba,,,,valleys,1970-2009,Mayra (Mizque)_09.XLS
+Monteagudo,Chuquisaca,-19.816666666666666,-63.96666666666667,1130.0,valleys,1970-2009,Monteagudo_09.xls
+Padilla,Chuquisaca,-19.302222222222223,-64.30222222222221,2102.0,valleys,1970-2009,PADILLA_09.xls
+Potosí (Senamhi),Potosí,,,,altiplano,1970-2009,Potosí (LOS PINOS)_09.XLS
+San Borja,Beni,-14.866666666666667,-66.86666666666666,194.0,lowland,1970-2009,San_Borja_09.xls
+San Ignacio De Velasco,Santa Cruz,-16.366666666666667,-60.95,413.0,lowland,1970-2009,San_Ignacio_Velasco_09.xls
+San Javier,Santa Cruz,-16.333333333333332,-62.46666666666667,534.0,lowland,1970-2009,San_Javier_09.xls
+San Jose,Santa Cruz,-17.833333333333332,-60.75,280.0,lowland,1970-2009,San_Jose_Chiquitos_09.xls
+San Pablo De Lipez,Potosí,-21.683333333333334,-66.51666666666667,4230.0,altiplano,1977-2009,San_Pablo_Lipez_09.xls
+San Ramon,Beni,-13.3,-64.71666666666667,139.0,lowland,1981-2009,San_Ramon_09.xls
+Tupiza,Potosí,-21.433333333333334,-65.71666666666667,2952.0,altiplano,1974-2009,TUPIZA_09.xls
+Uyuni,Potosí,,,,altiplano,1975-2009,Uyuni_09.XLS
+Vallegrande,Santa Cruz,-18.466666666666665,-64.1,1998.0,valleys,1990-2009,VALLEGRANDE_09.XLS
+Villamontes,Tarija,-21.25,-63.45,397.0,lowland,1980-2009,VILLAMONTES_09.xls
+Viru Viru,Santa Cruz,-17.633333333333333,-63.13333333333333,373.0,lowland,1984-2009,VIRU_VIRU_09.xls
+Zudañez,Chuquisaca,-19.116666666666667,-64.7,2475.0,valleys,1973-2009,ZUDAÑEZ_09.xls

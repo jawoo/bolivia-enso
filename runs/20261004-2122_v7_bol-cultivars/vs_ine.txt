@@ -1,0 +1,39 @@
+/home/jawoo/Claude/bolivia-enso/analysis/compare_ine.py:48: FutureWarning: DataFrameGroupBy.apply operated on the grouping columns. This behavior is deprecated, and in a future version of pandas the grouping columns will be excluded from the operation. Either pass `include_groups=False` to exclude the groupings or explicitly select the grouping columns after groupby to silence this warning.
+  nat = x.groupby(['crop', 'sow_year']).apply(lambda g: pd.Series({'yield_wmean': np.average(g.yield_wmean, weights=g.area_ha_ine), 'yield_dry': np.average(g.yield_dry, weights=g.area_ha_ine)})).reset_index()
+by crop x departamento (model dry kg/ha vs INE converted to dry; ratio = model/INE; r_anom = correlation of yearly anomalies):
+                      n    model  ine_dry  ratio  r_anom
+crop departamento                                       
+MZ   Beni          12.0  4035.41  1998.65   2.02    0.49
+     Chuquisaca    12.0  2368.84  1336.33   1.77   -0.03
+     Cochabamba    12.0  3126.44  1823.10   1.71    0.06
+     La Paz        12.0   276.63  1044.73   0.26   -0.06
+     Pando         12.0  3414.43  1632.54   2.09   -0.08
+     Potosi        12.0  1660.58   998.10   1.66   -0.32
+     Santa Cruz    12.0  2189.65  2680.10   0.82    0.33
+     Tarija        12.0  2234.80  2486.16   0.90    0.49
+RI   Beni          12.0  3562.74  2579.39   1.38    0.02
+     Cochabamba    12.0  4518.85  1439.50   3.14    0.54
+     La Paz        12.0  3630.87  1629.92   2.23   -0.23
+     Pando         12.0  2949.12  1386.97   2.13    0.04
+     Santa Cruz    12.0  1881.49  2568.90   0.73    0.56
+SB   Beni          12.0  2468.35  1652.80   1.49    0.42
+     Santa Cruz    12.0  1787.15  1924.86   0.93    0.26
+     Tarija        12.0  1328.26  1806.02   0.74    0.30
+SG   Santa Cruz    13.0  1596.54  1953.96   0.82    0.75
+     Tarija        12.0  1506.08  1136.72   1.32   -0.07
+WH   Chuquisaca    12.0  2104.33   778.96   2.70    0.17
+     Cochabamba    12.0  2598.06  1039.71   2.50    0.46
+     La Paz        12.0  2097.11   623.25   3.36    0.07
+     Oruro         12.0  1095.90   773.53   1.42   -0.25
+     Potosi        12.0  1631.67   853.73   1.91    0.31
+     Santa Cruz    13.0  1898.33  1320.30   1.44    0.72
+     Tarija         6.0   891.47  1131.22   0.79    0.72
+
+national:
+         n    model  ine_dry  ratio  r_anom
+crop                                       
+MZ    12.0  2287.60  2081.22   1.10    0.52
+RI    12.0  2347.56  2479.53   0.95    0.66
+SB    12.0  1780.87  1921.90   0.93    0.28
+SG    13.0  1593.62  1942.82   0.82    0.75
+WH    13.0  1920.17  1151.31   1.67    0.71

@@ -1,0 +1,822 @@
+
+=====PAGE 1=====
+
+=====PAGE 2=====
+Editores: Jorge A. Rojas Beltrán, Ramiro Rodríguez, Carlos Espinoza
+Revisión, diseño y diagramación: Unidad Regional Valles / Unidad de Comunicación y RRPP 
+(PROAGRO)
+Memoria 3ra Feria y Simposio Nacional del Trigo y sus Derivados
+Realizado entre el 11 y 12 de Junio de 2011
+La presente publicación ha sido realizada por el Instituto Nacional de Innovación Agropecuaria 
+y Forestal (Ministerio de Desarrollo Rural y Tierras), con el apoyo de la Cooperación Sueca y 
+Alemana, a través del Programa de Desarrollo Agropecuario Sustentable, PROAGRO, ejecutado 
+por la Cooperación Alemana al Desarrollo (GIZ).
+Se permite la utilización de la información contenida en este documento, siempre y cuando se cite 
+adecuadamente la fuente.
+Cochabamba, noviembre 2011
+=====PAGE 3=====
+Prólogo
+Pocona es un municipio con muchos atractivos turísticos, entre los que destacan Incallajta y el cañón 
+Yanaqaqa; cuenta la leyenda que la persona que atraviesa el cañón, enloquece. La “Ciudadela de 
+Inkallajta” fue construida alrededor del año 1470 D.C., por el Inca Tupac Yupanqui y ampliada 
+por su hijo Wayna Kapac. El municipio de Pocona se encuentra a 140 Km. de la ciudad de 
+Cochabamba, desviando en el Km. 118 (Inca Cruce) de la carretera antigua Cochabamba-Santa 
+Cruz, e ingresando 22 km., por un camino empedrado.
+El territorio municipal presenta rangos altitudinales que oscilan entre 1600 a 3100 m.s.n.m. Se 
+distinguen 4 pisos ecológicos claramente definidos por su clima, sistema de producción, vegetación 
+nativa, entre otros, estos son: región de altura, cabecera de valle, valle y yungas. La región de 
+altura es sub-húmeda a seca, con neblina en épocas de invierno y verano (septiembre - marzo), 
+tiene relativa disponibilidad de agua, presenta temperaturas bajas, alta frecuencia de heladas y 
+vientos fuertes. La cabecera de valle se caracteriza por ser fría a templada, semiárida, con déficit 
+de agua y vientos leves. Los valles son templados, semiáridos, con déficit de agua y presencia de 
+vientos intensos. Los yungas se caracterizan por ser húmedos, tener temperaturas elevadas y ser 
+lluviosos.  Cada piso ecológico tiene cultivos que le caracterizan. En la región alta, predominan la 
+papa, avena y el haba, en la cabecera de valle predominantemente papa y trigo, y en los valles, 
+el trigo. En los yungas se cultivan frutales,  maíz y hortalizas.
+El trigo es uno de los cultivos emblemáticos de Pocona. Es una especie que se ha adaptado muy 
+bien a los valles y cabeceras de este valle. 
+La importancia histórica del trigo está reflejada en el nombre de una de sus comunidades: Yuraj 
+Molino (Molino Blanco). Los bajos rendimientos del trigo y los bajos precios han disminuido 
+la rentabilidad de este cultivo. Sin embargo, la ecología semiárida no permite remplazarlo 
+fácilmente con otro rubro. Además, los agricultores han establecido su sistema productivo en 
+torno al trigo. 
+Mediante la organización de la feria, se pretende reactivar la actividad económica en base al 
+trigo. Es una ocasión en que los diferentes actores que pueden reactivar este rubro interactúen entre 
+sí. En la feria participan agricultores, comerciantes, asociaciones de productores, autoridades 
+municipales, proveedores de insumos, instituciones de desarrollo públicas y privadas, etc. Esta feria 
+ha sido reforzada con un Simposio, en que se han analizado distintos aspectos de la producción 
+de trigo. Fruto de este análisis, ha nacido la “Declaración de Yuraj Molino”, que compromete a los 
+diferentes actores a tomar acciones concretas para mejorar la producción del trigo, no solamente 
+33ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 4=====
+de Pocona, sino en sistemas agro-ecológicos similares. Esto será posible mediante la creación del 
+“Centro de referencia de producción de trigo duro y harinero para zonas áridas y semi-áridas”. 
+Todos los participantes han coincidido que en la 4ta versión de la feria y el simposio debe haber un 
+cambio cualitativo. Este documento se constituye en la línea de base de futuras ferias. Por su parte, 
+la Alcaldía de Pocona se compromete a poner todos los recursos a su alcance para materializar 
+los acuerdos de la declaración de Yuraj Molino. 
+Ing. Mario Céspedes
+Honorable Alcalde Municipal de Pocona
+4 3ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 5=====
+Contenido
+Prólogo ..............................................................................................3
+Contenido ..........................................................................................5
+Glosario ............................................................................................7
+1. Introducción ...................................................................................9
+2. Antecedentes y organización de la 3ra Feria y 
+ Simposio Nacional del Trigo y sus Derivados ...................................11
+3. Desarrollo 3ra Feria y Simposio Nacional del Trigo y sus Derivados ...13
+4. La feria ........................................................................................28
+5. La declaración de Yuraj Molino ......................................................29
+6. Conclusiones y perspectivas ...........................................................31
+7. Anexos ........................................................................................32
+53ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 6=====
+Glosario
+AIPA Asociación Integral de Productores Agropecuarios
+ANAPO. Asociación Nacional de Productores de Oleaginosas
+APT Asociación de Productores de Trigo
+Bioversity Bioversity International
+CIAT Centro Internacional de Agricultura Tropical
+CIF Centro de Investigación en Forrajes
+CIFEMA Centro de Investigación, Formación y Extensión en Mecanización Agrícola
+CIMMYT Centro Internacional de Maíz y Trigo
+CIP Centro Investigación de la Papa
+COSEM-Santa Cruz Comité de Semillas Santa Cruz
+EMAPA Empresa de Apoyo a la Producción Agrícola
+IICA Instituto Interamericano de Cooperación a la Agricultura
+INIAF Instituto Nacional de Innovación Agropecuaria y Forestal
+PASA Programa de Apoyo a la Seguridad Alimentaria
+PEANUT-CRSP Peanut Collaborative Research Program
+SEDAG Servicio Departamental Agropecuario
+SEMEXA-MAINTER Sociedad de empresas proveedoras de semillas y maquinaria agrícola
+SENASAG Servicio Nacional de Sanidad Agropecuaria e Inocuidad Alimentaria
+SISPAM Sistema de Información y Seguimiento a la Producción y Precios de los 
+Productos Agropecuarios 
+UDI- PASA  Unidad de Desarrollo Integral - PASA
+UMSS Universidad Mayor de San Simón (Cochabamba)
+73ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 7=====
+1 . Introducción
+Bolivia no es autosuficiente en la provisión del trigo, a pesar que los granos de esta especie son 
+un alimento básico de la población boliviana. La producción de trigo en Bolivia solo satisface el 
+30% de la demanda, el resto es importado de otros países. De este 30%, la  mitad se produce en 
+áreas tradicionales de la región occidental y la otra mitad en el oriente. En Cochabamba, el trigo 
+se cultiva en 25.000 ha, con un rendimiento promedio de 0,8 ton/ha. Cochabamba aporta con 
+el 26% a la producción nacional de trigo. 
+Existen dos especies de trigo: el trigo harinero y el trigo duro. El trigo harinero se caracteriza por 
+contener altos contenidos de gluten. El gluten confiere a la harina propiedades de cohesión y 
+extensibilidad, importantes para la elaboración del pan. El trigo duro se caracteriza por contener 
+altos contenidos de semolina. La semolina confiere propiedades de cohesión a la masa para la 
+elaboración de pastas (fideos, macarrones, etc). Esta cohesión, conferida por semolina, permite 
+que las pastas mantengan su integridad durante la cocción.  En Bolivia, ambas especies de trigo 
+son importantes. Actualmente, el precio del trigo duro es doble del trigo blando. 
+La dependencia boliviana del trigo ha empezado con las donaciones que ha recibido el país. 
+Estas donaciones, en principio, solo deberían subsanar temporalmente la demanda insatisfecha, 
+ocasionada por problemas climáticos. Sin embargo, los gobiernos de los años 80 y 90 han 
+privilegiado las donaciones, en lugar de apoyar al sector triguero nacional. Esta dependencia es 
+riesgosa para Bolivia, particularmente en el contexto actual, donde los precios de los alimentos 
+están ascendiendo en los mercados internacionales. Así, entre el periodo 2000 – 2005, el precio 
+internacional del trigo se ha duplicado de 150.0 a 300.0 U$/TM.
+Actualmente, la consigna del Estado Plurinacional de Bolivia es eliminar la dependencia Boliviana 
+del trigo importando. Para esto, es necesario apoyar a los productores de trigo, particularmente 
+del occidente boliviano. Cochabamba cuenta con muchas zonas aptas para la producción de 
+93ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 8=====
+trigo, localizadas principalmente en el Valle Alto y el Cono Sur. Entre estas zonas trigueras, se 
+encuentra el municipio de Pocona.
+Al ser el municipio de Pocona una zona importante de producción de trigo, tomó la iniciativa de 
+organizar una feria y simposio del trigo. Es una iniciativa importante, ya que permite la interacción 
+de diferentes actores involucrados en la producción de trigo, municipios, organizaciones sociales, 
+productores, comerciantes, trasformadores, investigadores, oferentes de insumos y servicios, etc. 
+Durante el simposio, estos actores han analizado diferentes aspectos de la producción de trigo. El 
+presente documento resume los hitos más importantes del evento.
+10 3ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 9=====
+2. Antecedentes y organización de la 3ra 
+Feria y Simposio Nacional del Trigo y sus 
+Derivados
+2.1. Antecedentes
+La Feria y Simposio Nacional de Trigo, organizados por el municipio de Pocona, empiezan el 
+2009. A partir de esa fecha, se han realizado tres versiones de este evento, incluyendo este último, 
+cuya memoria se plasma en este documento. El municipio de Pocona tiene la firme intención de que 
+esta feria-simposio sea replicada cada año.
+2.2. Organización de la 3ra feria y simposio nacional del trigo y 
+sus derivados
+La organización estuvo bajo la responsabilidad del Municipio de Pocona y el INIAF. En una 
+reunión inicial (mayo 2010) se conformó la directiva, presidida por el responsable Departamental 
+del INIAF yconstituida por:
+PARTICIPANTE CARGO
+Ing. Carlos Espinoza S. Responsable Departamental del INIAF
+Ing. Mario Céspedes V. Honorable Alcalde de Pocona
+Ing. Rogelio Jiménez Director del SEDAG
+Ing. Renán Álvarez L. Responsable regional EMAPA
+Ing. Carlos Rodríguez P. Mancomunidad de Municipios del Cono Sud
+Ing. Teófilo Delgadillo Responsable Proyecto Trigo SEDAG
+Ing. Willy Fernández M. INIAF-PASA
+Téc. For. Naín Poquechoque P. Director Desarrollo Productivo, Pocona
+113ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 10=====
+Sr. Juvenal Rojas Alcaldía de Pocona
+Ing. Teófilo Delgadillo Responsable Proyecto Trigo, SEDAG
+Ing. Silvio Guzmán C. Técnico EMAPA
+Sr. Valeriano Zapata R. Asociación de Productores de Trigo
+Sr. Alejandro Angulo R. Asociación de Productores de Trigo
+Sr. Luis Orellana V. Asociación Integral de Productores Agropecuarios (AIPA)
+Sr. Alfredo Orellana D. Asociación Integral de Productores Agropecuarios (AIPA)
+La primera tarea de esta directiva fue definir la fecha del evento y el programa. Posteriormente, se 
+definió la lista de invitados y se elaboró las invitaciones. También se diseñó el afiche publicitario 
+del evento y algunos banners. Se elaboraron cuñas radiales para hacer publicidad en el Cono Sur 
+del departamento de Cochabamba. La organización del evento se concentró en la elaboración 
+de propuestas de temas para el simposio, contacto con profesionales, productores, instituciones 
+y organizaciones del sector. También se apoyó la preparación de ambientes para el simposio, 
+pernocte de los invitados y otras actividades logísticas.
+PARTICIPANTE CARGO
+12 3ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 11=====
+3. Desarrollo 3ra Feria y Simposio Nacional 
+del Trigo y sus Derivados
+3.1. Inauguración del evento
+El día sábado 11 de junio, en la localidad de Yuraj Molino, Municipio de Pocona, se inauguró la 
+3ra Feria y simposio Nacional del Trigo y sus Derivados, bajo el siguiente programa:
+1. Palabras de inauguración y bienvenida a cargo del Ing. Carlos Espinoza, responsable 
+departamental del Instituto Nacional de Innovación Agropecuaria y Forestal, INIAF.
+2. Palabras de inauguración a cargo del Ing. Rogelio Jiménez, Director del Servicio 
+departamental Agropecuario SEDAG-Cochabamba.
+3. Palabras de inauguración a cargo del Ing. Mario Céspedes, Honorable Alcalde del 
+Municipio de Pocona.
+4. Palabras de circunstancia del representante de ANAPO.
+5. Palabras de circunstancia del representante del Ministerio de Desarrollo Rural y Tierras.
+6. Palabras de circunstancia de la representante de la Gobernación de Cochabamba.
+La siguiente tabla muestra la lista de las instituciones, representantes y pobladores participantes:
+PARTICIPANTES DEL EVENTO
+Pobladores de Pocona y municipios aledaños
+Representante del Ministerio de Desarrollo Rural y Tierras
+Representante de la Gobernación de Cochabamba, Sra. Celima Torrico
+Municipio de Pocona (Alcalde, Concejales, personeros técnicos)
+Representantes de la Central Campesina de Pocona y  subcentrales
+133ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 12=====
+Mancomunidad de Municipios del Cono Sud
+INIAF (Instituto Nacional de Innovación Agropecuaria y Forestal)
+SEDAG (Servicio departamental Agropecuario)
+EMAPA (Empresa de Apoyo a la Producción Agrícola)
+PASA (Programa de Apoyo a la Seguridad Alimentaria)
+APT (Asociación de Productores de Trigo)
+AIPA (Asociación Integral de Productores Agropecuarios)
+ANAPO (Asociación Nacional de Productores de Oleaginosas)
+IICA (Instituto Interamericano de Cooperación a la Agricultura) 
+CIAT (Centro Internacional de Agricultura Tropical) 
+SEMEXA-MAINTER (sociedad de empresas proveedoras de semillas y maquinaria agrícola)
+3.2. Mesas de trabajo y metodología del simposio
+El Simposio se llevó a cabo el día sábado 11 de junio, luego de la inauguración del evento. Se 
+organizaron las siguientes mesas de trabajo:
+•	 Mesa	1.	Producción	e	innovación	tecnológica	del	trigo.
+•	 Mesa	2.	Comercialización	y	transformación	del	trigo.
+•	 Mesa	3.	Políticas	y	estrategias	para	la	producción	del	trigo.
+La metodología de trabajo que se utilizó fue la siguiente:
+1. Los participantes fueron divididos en tres grupos, para conformar las tres mesas de trabajo, 
+de acuerdo a su afinidad.
+2. En cada mesa de trabajo, se eligió a un moderador y a un relator.
+PARTICIPANTES DEL EVENTO
+14 3ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 13=====
+3. Se procedió con las presentaciones programadas para el evento, después de cada 
+presentación, hubo una ronda de preguntas y discusiones en torno al tema. El relator tomó 
+nota de los aspectos relevantes de las preguntas y discusiones.
+4. Una vez finalizadas las presentaciones, el relator expuso las conclusiones de la Mesa. Estas 
+conclusiones fueron enriquecidas por los participantes de la mesa, y fueron puestas en 
+consideración de la plenaria.
+5. Se presentaron las conclusiones de cada grupo de trabajo en la plenaria. Las mismas que 
+fueron eventualmente enriquecidas y finalmente aprobadas.
+3.3. Mesa 1: Producción e innovación tecnológica del trigo
+3.3.1. Presentaciones
+PRESENTACIÓN 1
+Título: Siembra en el fondo del surco
+Disertante: Ing. M.Sc. Jorge Velasco Lora, SEDAG-Cochabamba
+Presentación: anexos 1a y 1b
+El Ing. Velasco manifestó que los principales problemas del cultivo del trigo, en el área tradicional 
+(zona occidental de país) son: la desertificación de las áreas aptas para el cultivo del trigo, debido 
+a la escasez de las lluvias; la elevada escorrentía superficial en suelos de ladera, que causa poca 
+infiltración al suelo; y los suelos endurecidos por la pérdida de la materia orgánica, y, por lo tanto, 
+con baja retención de humedad.  Por estas razones, se requiere desarrollar sistemas de siembra 
+que capten las reducidas cantidades de agua de lluvia. Los objetivos del trabajo que se realizó 
+fueron los siguientes:
+•	 Captar	el	agua	de	lluvia	en	el	surco	abierto.	
+•	 Favorecer	 a	una	buena	germinación	del	trigo	para	disponer	de	una	buena	población	de	
+plantas.
+•	 Mejorar	el	rendimiento	del	trigo	por	la	mayor	disponibilidad	de	agua	en	el	suelo.
+•	 Proteger	el	suelo	de	la	erosión.
+En este trabajo, se utilizó una sembradora mecánica a tracción animal, para sembrar el trigo en el 
+fondo del surco. Se realizó un ensayo preliminar a tres anchos de surco  (25, 30 y 35 cm) y tres 
+densidades de siembra en cada ancho de surco (60, 80 y 100 kg semilla/ha).  Los rendimientos 
+153ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 14=====
+variaron entre 4210 y 6113 kg/ha. El máximo rendimiento se obtuvo a un ancho de surco de 
+30 cm y una densidad de 80 kg/ha y sirvió para diseñar la fabricación de una sembradora, en 
+alianza entre CIFEMA-UMSS, que tiene las siguientes características:
+•	 La 	sembradora	tiene	3	rejas	surcadoras,	distanciadas	a	30	cm.	y	montadas	sobre	dos	ruedas.	
+•	 Cada	surcadora	tiene	un	distribuidor	de	semilla	y	fertilizante,	con	sus	respectivas	tolvas.	
+•	 T anto	la	semilla,	como	el	fertilizante,	se	tapan	automáticamente	al	pasar	la	sembradora,	a	
+una profundidad promedio de surco de 12 cm. 
+•	 Un 	surco	de	30	cm	de	ancho	y	profundidad	de	12	cm	puede	captar	50	mm	de	agua	de	lluvia.
+•	 La	sembradora	pesa	unos	60	kg	y	requiere	una	fuerza	de	tracción	de	45	kg.
+•	 En	 cada	 vuelta,	 se	 suspenden	 las	 surcadoras	 y	 se	 interrumpe	 la	 caída	 de	 la	 semilla	 y	 se	
+vuelve a abrir con la puesta de las surcadoras a la tierra.
+En pruebas regionales en Sacabamba, Tarata y Anzaldo, se compararon 3 sistemas de siembra: 
+tradicional, con arado de palo; rastra de aletas, a densidad de 100 kg semilla/ha, y sembradora 
+mecánica a tracción animal, a una densidad de 80 kg semilla /ha. La sembradora mecánica fue 
+el sistema que dio mejores resultados. Esta sembradora permitió mayor profundidad de siembra, 
+mayor profundidad de formación de las raíces adventicias, una mayor germinación y un mayor 
+porcentaje de la humedad del suelo, pese a la mayor absorción de agua del suelo, debida a la 
+mayor densidad de plantas.  Estas características favorables de la sembradora, respecto a la 
+siembra tradicional y rastra, se tradujo en un mayor rendimiento en grano (3433 kg/ha).
+El principio del mejor comportamiento de las plántulas sembradas al fondo de surco se debe a que:
+•	 La	 planta	del	trigo	tiene	dos	clases	de	raíces:	las	seminales,	que	brotan	de	la	semilla	y	se	
+encuentran a la profundidad de la siembra, y las adventicias, que brotan del nudo terminal 
+del hipocótilo y siempre son superficiales, por mucho que se siembre profundo. Estas raíces 
+son las que alimentan a la planta por el resto de su vida. 
+•	 La	 plúmula,	que	es	la	primera	hoja	que	nace	de	la	semilla,	es	empujada	hacia	arriba	con	el	
+crecimiento del hipocótilo.
+•	 Apenas	 la	primera	hoja	ve	la	luz	fuera	de	la	tierra,	el	hipocótilo	detiene	su	crecimiento,	y	en	
+su parte terminal se forma un nudo, del cual brotan las raíces adventicias.
+•	 Después 	de	la	germinación	del	trigo	el	fondo	del	surco	se	va	rellenando	con	tierra	con	las	lluvias.
+16 3ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 15=====
+•	 Aproximadamente	 a	un	mes	de	la	germinación,	las	raíces	adventicias	ya	se	han	formado	y	
+se van enterrando a mayor profundidad con la tierra arrastrada por las lluvias.
+•	 La	 raíz	seminal	deja	de	ser	funcional	y	la	planta	depende	solamente	de	las	raíces	adventicias.
+•	 A	 los	dos	meses,	las	raíces	adventicias	están	profundamente	enterradas,	entre	27	y	35	mm.	 	
+de profundidad.  Esto hace que el trigo aguante mejor las sequías y rinda más en relación 
+al sistema tradicional y mucho mejor que con la rastra.
+PRESENTACIÓN 2
+Título: “Fortalecimiento a Pequeños Productores de Maíz y Trigo de Comunidades Vulnerables 
+a la Inseguridad Alimentaria en los Municipios de Pocona y Totora”
+Disertante: Equipo técnico Proyecto Maíz y Trigo /INIAF.
+Presentación: anexo 2
+El Plan Nacional de Desarrollo tiene una nueva visión, ambientalmente sustentable, con soberanía 
+y seguridad alimentaria, que genere excedentes, y -por ende- recursos económicos para los y las 
+pequeños/as productores/as. El Gobierno del Estado Plurinacional de Bolivia firmó un convenio con 
+la Unión Europea para reducir el impacto del alza de precios de los alimentos en las poblaciones 
+más vulnerables de Bolivia y fortalecer las capacidades productivas e institucionales del sector 
+agrícola, estimulando la producción de alimentos básicos como el maíz y trigo y el aumento del 
+consumo familiar.  El proyecto se desarrolló en base a experiencias de especialistas con más de 
+20 años en la producción de trigo. Se siguió las siguientes etapas para la ejecución del proyecto.
+•	 Socialización	 del	proyecto.	Se	realizaron	reuniones	con	autoridades	municipales	y	locales,	
+para dar a conocer el ingreso del proyecto con las comunidades beneficiarias previamente 
+identificadas.  El requisito para el ingreso fue la provisión de listas de beneficiarios de cada 
+comunidad, con la documentación requerida.
+•	 Levantamiento	 de	la	línea	base.	La	línea	base	se	realizó	para	conocer	las	características	
+socioeconómicas y de producción de trigo de las comunidades beneficiarias. Este trabajo 
+fue realizado por el Sistema de Información y Seguimiento a la Producción y Precios de los 
+Productos Agropecuarios SISPAM, con el apoyo del equipo técnico del Programa Maíz y 
+Trigo.
+•	 Entrega	 de	 insumos.	 Se	 entregaron	 insumos	 para	 una	 superficie	 de	 media	 hectárea	 por	
+beneficiario. Los insumos consistieron en: 1 qq de semilla de trigo var. Tepoca T-89, 1 qq de 
+173ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 16=====
+fertilizante  18-46-00, una bolsa de medio kilo de Nitrofoska foliar 20/20/20 y un sobre 
+de 5 g de herbicida, Metsulforon o Darkener, cuyo valor total ascendió a Bs. 676.00 por 
+beneficiario. El total de beneficiarios fue de 60.
+•	 T alleres.	 Los	 talleres	 fueron	 sesiones	 interactivas,	 donde	 se	 reforzaron	 las	 habilidades	
+técnicas de las personas, en base a experiencias y conocimientos de los beneficiarios; se 
+realizó  un taller por comunidad.
+•	 Evaluación	 participativa	de	las	tecnologías.	Se	realizó	una	evaluación	participativa	para	que	
+los pequeños productores evalúen, determinen y seleccionen las innovaciones tecnológicas 
+que respondan mejor a sus necesidades.
+•	 Días	 de	campo	para	intercambio	de	experiencias.	Se	realizaron	intercambios	de	experiencias	
+en Molle Molle (INIAF – EMAPA), Rodeo Grande (INIAF – EMAPA) y Azul Kcocha (INIAF – 
+UMSS – CIF).
+PRESENTACIÓN 3
+Título: Desarrollo de tecnologías en trigo
+Disertante: Unidad de Investigación, ANAPO
+Presentación: anexo 3
+El objetivo general de ANAPO es el desarrollo y validación (adaptación, estabilidad) de nuevos 
+genotipos de  trigo. En este momento, es prioritario encontrar materiales tolerantes a las principales 
+enfermedades del trópico (Piricularia, Helminthosporosis, Roya de la hoja). Las áreas de investigación 
+con las que cuenta ANAPO son: fitomejoramiento, validación de genotipos y producción y 
+abastecimiento de semillas. ANAPO trabaja con materiales de diversa procedencia (Brasil, 
+Paraguay, CIMMYT, etc.) A partir de estos materiales, se seleccionan progenitores con características 
+deseables, como el elevado rendimiento y resistencia a la piricularia. Luego se hacen cruzamientos 
+entre variedades (ej: marfil x Ichilo), entre variedades y líneas avanzadas (ej. 760 x Sausal) y entre 
+líneas avanzadas (ej. 775 x 79A). Las poblaciones segregantes son estabilizadas y seleccionadas 
+(desde F3 a líneas puras en F6). Finalmente, las líneas promisorias son validadas.
+ANAPO también trabaja en el mejoramiento de la soya y el maní. Variedades desarrolladas de 
+soya: Tiluchi RCH, Sayubu, Ceboi, Chuubi, Cardenal, Serere, Nativa TN, Criolla RG, Mestiza 
+RG, Cardenal RG, AN-Bo-21803 RG. Para la generación de estas variedades se han utilizado 
+estrategias de mejoramiento, tales como el retrocruzamiento y la piramidación de genes menores de 
+tolerancia a la roya. Variedades desarrolladas de maní: Mairana, Cordillera, AN-Ma-1288, AN-
+18 3ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 17=====
+Ma-1278. Estas variedades has sido desarrolladas mediante el Programa de apoyo colaborativo 
+para la investigación del cultivo del maní, financiado por el programa PEANUT-CRSP, de las 
+Universidades de Georgia y Florida.
+PRESENTACIÓN 4
+Título: Oferta de semilla de trigo, maquinaria e insumos
+Disertantes: Técnicos MAINTER -SEMEXA
+SEMEXA es una proveedora de semillas con base en Cotoca. MAINTER es una tienda de 
+agroquímicos y maquinaria agrícola. SEMEXA provee el 95% de su semilla a EMAPA.  Entre 
+las nuevas variedades que ofrece SEMEXA están: San Pedro, que es una variedad resistente a 
+piricularia; BR18, que es una variedad precoz, ya que madura entre 108 a 118 días; San Marcos, 
+que es mucho más precoz (105 días a maduración) y otros como Paragua.
+Los campos de producción de semilla se siembran a una densidad de 150 kg/ha, con un nivel 
+de fertilizante de 15-15-15 y aplicaciones de fungicidas e insecticidas. Se alcanzar rendimientos 
+de 2.1 ton/ha.  Debido al Cambio Climático, en algunas zonas de producción de semilla, no 
+solamente se ha detectado el ataque de piricularia, sino que la incidencia y severidad han 
+aumentado significativamente. La producción de semilla genética se ha incrementado de 5 a 22 
+toneladas con posibilidades de extenderse. 
+El trigo tiene un umbral económico de U$ 400.00. Si no se alcanza este umbral, los agricultores 
+prefieren incorporarlo al suelo como abono verde para cultivos sucesivos que permitan un mayor 
+beneficio, o lo cosechan en rollos para su utilización como ensilaje.
+MAINTER cuenta con trilladoras de trigo “Vencedora” que tienen un costo de U$ 6000.0
+Título: Programa Nacional de Trigo –INIAF
+Expositor: Ing. Agr. Ph. D. Félix Marza
+Presentación: anexo 4
+El Dr. Marza manifestó que en Bolivia se obtienen los rendimientos más bajos de la región en todos 
+los cultivos importantes, incluyendo al trigo. El INIAF pretende ser una institución de referencia 
+en tecnología e innovación, que trabaje coordinadamente con instituciones de investigación y 
+asistencia técnica nacionales e internacionales (Bioversity, CIP, CIMMyT, etc.) El gobierno boliviano, 
+mediante el Banco Mundial, ha priorizado 6 rubros: trigo, papa, hortalizas, quinua, ganadería y 
+forrajes y bosques. Las limitantes tecnológicas más importantes en trigo son: 
+193ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 18=====
+•	 Faltan	variedades	adaptadas	a	condiciones	de	estrés,	
+•	 escasez	de	agua	para	el	cultivo,	
+•	 susceptibilidad	al	ataque	de	roya,	
+•	 variedades	no	estables	y	tardías.	
+El programa nacional de trigo del INIAF tiene el objetivo general de contribuir al desarrollo 
+agrícola sustentable a través de la producción y difusión de cultivares de trigo adaptados a las 
+distintas zonas del país.
+Estrategias:
+•	 La	estrategia	a	corto	plazo	comprende	ensayos	regionales	de	variedades.		
+•	 La	 estrategia	a	mediano	plazo	comprende	la	adaptación	y	adopción	de	variedades.	Año	1:	
+evaluar variedades experimentales: 10-15 localidades, incremento de semilla.  
+Año 2: parcelas comprobación/demostración: 30 localidades, incremento de semilla. 
+•	 La	 estrategia	 a	 largo	 plazo	 comprende	 la	 introducción	 de	 líneas	 (F4),	 y	 a	 partir	 de	 esas	
+líneas realizar un programa de selección. Para los programas de mejoramiento, se utilizará 
+herramientas biotecnológicas. Para la correcta ejecución del programa, es necesario 
+formar un equipo técnico mínimo, contar con recursos económicos suficientes  y oportunos, 
+implementar  equipamiento de campo y laboratorio y adquisición de materiales, importar 
+germoplasma y trabajo coordinado con las Direcciones de Asistencia Técnica y de Semillas.
+3.3.2. Conclusiones de la Mesa 1
+Las conclusiones de la mesa 1 se resumen en la siguiente tabla:
+ÁmbITO DE INNOVACIóN CONCLuSIóN 
+Mecanización (falta de mano 
+de obra)
+Definir el tipo de maquinaria adecuado para la zona, 
+tomando en cuenta su condición físicas y de minifundio
+Mecanizar la preparación de los suelos
+Mecanizar la siembra
+Mecanizar la cosecha
+El estado debería de creas empresas de servicios de 
+maquinaria (siembra, cosecha)
+20 3ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 19=====
+Suelos y aguas Disminuir el precio de los fertilizantes
+Establecer un sistema de cultivo de trigo que evite el 
+empobrecimiento de los suelos (rotaciones)
+Aumentar el contenido de materia orgánica de los suelos
+Recuperar los suelos degradados
+Falta de agua de riego para el trigo
+Mejorar y ampliar la infraestructura de riego
+Desarrollar tecnologías para la producción orgánica de trigo
+Variedades y mejoramiento 
+genético
+Dar mayor atención científica a las variedades locales
+Purificar las variedades locales y producir semilla de 
+categorías altas
+Adaptar variedades a la zonas para zonas áridas y 
+semiáridas con alta calidad para la producción de harina
+Desarrollo continuo de variedades de trigo con calidad 
+industrial
+Desarrollar red de ensayos regionales de semilla en 
+coordinación con el CIAT y otras instituciones
+Pos-cosecha Diseñar y construir silos de almacenamiento
+Diseñar y construir un molino
+Semilla Especializar a las zonas tradicionales en la producción de 
+semilla de trigo de categorías altas, para el mercado local
+Desarrollar tecnologías de almacenamiento para oferta de 
+semilla en forma oportuna
+Mejorar la norma de semilla para certificar la semilla propia 
+del agricultor, hasta 3 año después del inicio de un proceso 
+de re multiplicación
+Varios Documentar los simposios
+Difundir las tecnologías de innovación
+Mejorar el relacionamiento y coordinación interinstitucional
+Desarrollar un centro de innovación tecnológica y 
+transformación en Yuraj Molino apoyado por el municipio 
+de Pocona en coordinación con otras instituciones como la 
+Gobernación SEDAG, INIAF, y otras instituciones del sector
+ÁmbITO DE INNOVACIóN CONCLuSIóN 
+213ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 20=====
+3.4. Mesa 2: Producción e innovación tecnológica del trigo
+3.4.1. Presentaciones
+PRESENTACIÓN 1
+Título: Federación de panificadores de Cochabamba
+Disertante: Héctor Dueñas
+Por primera vez se tiene este tipo de encuentro entre panificadores y productores, los panificadores 
+buscamos harina de buena calidad, con un contenido de gluten de 20 a 28%. Es por esta razón, 
+que la harina nacional se mezcla con la harina argentina para garantizar su calidad, ante la 
+ausencia de laboratorios que certifiquen la calidad de la harina local.  A la fecha, en Cochabamba, 
+se consumen 25.000 qq por semana. El trigo nacional cubre el 40% de la demanda, el otro 60% 
+se importa desde Argentina. Cada panificador utiliza aproximadamente 5 qq de harina por día, 
+con un rendimiento de 700 a 800 unidades de pan de batalla (70 gr) por quintal de harina. El 
+costo actual del quintal de harina es de Bs. 145.00.
+Desde el 2010, los panificadores han comprado harina de EMAPA, de acuerdo a convenio. Sin 
+embargo, muchas veces no se cuenta con la producción suficiente para cubrir la demanda de los 
+panificadores.  Por esa razón, se sugiere que EMAPA, mediante sus técnicos, colabore más para 
+aumentar la producción del trigo nacional.
+PRESENTACIÓN 2
+Título: Asociación de productores de trigo AIPA – APT
+Disertantes: Remberto Labayen (Sub Central Yuraj Molino) y Alfredo Orellana (AIPA)
+Los expositores de la sub central de Yuraj Molino y AIPA manifestaron - mediante un cuadro de análisis 
+- que los costos de producción por hectárea son de Bs. 2650.  En estos costos intervienen diferentes 
+insumos, como la semilla, la maquinaria y la mano de obra. También hicieron conocer la necesidad de 
+agua para riego, ante su creciente escasez, principalmente para que sea posible producir por lo menos 
+dos veces al año, por lo que se debe agilizar la ejecución del proyecto Wayra Mayu.
+En la estructura de costos se expuso que - en una hectárea - se producen entre 21 a 30 qq de grano y 
+que el quintal se vende a Bs. 150, pero que este ingreso total no es suficiente, ya que su economía es 
+baja, tanto así que a la fecha todavía se vive en viviendas hechas de barro, los estudiantes de colegio no 
+concluyen sus estudios y muchos comunarios ya no quieren invertir en la tierra. Entre sus requerimientos de 
+producción, los agricultores necesitan de créditos para la compra de fertilizantes y maquinaria agrícola, 
+22 3ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 21=====
+implementación de centros de acopio y procesadoras, y la apertura de mercados para la venta de harina 
+integral.  A nivel de comuna, se produjo aproximadamente 500 toneladas de trigo.
+PRESENTACIÓN 3
+Título: Empresa de apoyo a la producción de alimentos (EMAPA)
+Disertante: Froilán Quispe
+EMAPA es una empresa de apoyo que está funcionando hace tres años.  En la actualidad, una 
+de sus debilidades es que no cuenta con molinos, silos y laboratorios.  Pese a esas carencias, 
+EMAPA trabaja con cuatro programas, uno de ellos es el trigo. El acopio se realiza en el oriente y 
+el occidente del país. A la fecha, se tienen convenios con los panificadores para venderles la bolsa 
+de 50 kg a Bs 145. El Estado subvenciona parte de este costo, ya que el costo real del quintal de 
+harina es de Bs. 190. EMAPA no puede realizar el análisis de fertilidad de los suelos, porque el 
+costo es de 14 $us por muestra. 
+3.4.2. Conclusiones de la Mesa 2
+Las conclusiones de la mesa 1 se resumen en la siguiente tabla:
+INSTITuCIóN CONCLuSIóN 
+Federación de 
+panificadores de 
+Cochabamba
+Se requiere harina de buena calidad panadera
+ Para hacer compra directa de los productores, estos deben garantizar una 
+oferta para toda la gestión
+Es necesario incrementar la producción del trigo
+El panificador quiere harina con un contenido de gluten de 20 a 28%
+Los molinos, en su mayoría, no tienen laboratorios; por lo que no pueden 
+certificar la calidad de su harina
+AIPA-APT Es necesario mayores créditos para fertilizantes y maquinaria
+Agilizar el proyecto Wayra Mayu
+Construir centros de acopios para el trigo (silos)
+Contar con procesadoras y cosechadoras
+El qq tiene un costo de Bs. 150, esto solo cubre los costos de producción
+Se tiene una utilidad bruta menor a Bs. 1500
+Este año, se produjo aproximadamente 500 toneladas
+Abrir mercados para la venta de harina integral
+233ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 22=====
+EMAPA Más apoyo a los pequeños y medianos productores
+Seguir trabajando para garantizar la seguridad y soberanía alimentaria
+Privilegiar la construcción de molinos, silos y laboratorios de control de 
+calidad
+3.5. Mesa 3: Políticas y estrategias para la producción del trigo
+3.5.1. Presentaciones
+PRESENTACIÓN 1
+Título: Fortalecimiento a pequeños productores de maíz y trigo de comunidades vulnerables a 
+la seguridad alimentaria en los departamentos de Chuquisaca, La Paz, Cochabamba, Potosí, 
+Tarija y Santa Cruz
+Disertante: Ing. Sixto Barriga C.
+Presentación: Anexo 5
+La nueva política del Gobierno, enmarcada dentro del Plan Nacional de Desarrollo, sienta las bases 
+para transitar a un nuevo patrón de desarrollo, que sea ambientalmente sustentable, que alcance 
+la soberanía alimentaria y que genere excedentes a través de la producción agrícola y pecuaria. 
+En el marco del Programa “Respuesta a la Crisis de los Alimentos Mediante Fortalecimiento de 
+las Operaciones de la Política de Soberanía y Seguridad Alimentaria de Bolivia”, el Gobierno 
+del Estado Plurinacional de Bolivia ha firmado un convenio de financiamiento de ayuda 
+presupuestaria con la Unión Europea, cuyo objetivo es contribuir a los esfuerzos del Gobierno 
+de Bolivia para reducir el impacto del alza de precios de los alimentos en las poblaciones 
+más vulnerables de Bolivia y fortalecer las capacidades productivas e institucionales del sector 
+agrícola, estimulando la producción de alimentos básicos como el maíz y trigo y el aumento 
+del consumo familiar. El proyecto se denomina: “Fortalecimiento a Pequeños Productores de 
+Maíz y Trigo de Comunidades Vulnerables a la Seguridad Alimentaria en los departamentos 
+de Cochabamba, Chuquisaca, La Paz, Potosí, Santa Cruz y Tarija a través de innovaciones 
+tecnológicas en los sistemas productivos”; en este contexto, se firmó un acuerdo entre los INIAF 
+departamentales y la UDI-PASA con la finalidad de interactuar con los diferentes actores, en los 
+departamentos de intervención del proyecto.
+INSTITuCIóN CONCLuSIóN 
+24 3ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 23=====
+El objetivo general de este proyecto es de contribuir a mejorar los niveles de ingresos y seguridad 
+alimentaria de las familias productoras de maíz y trigo, a través de la adopción de prácticas y 
+tecnologías apropiadas, en los departamentos de La Paz, Cochabamba, Chuquisaca, Santa Cruz, 
+Potosí y Tarija. 
+Los objetivos específicos son:
+•	 Contribuir	 al	 incremento	 de	 la	 productividad	 por	 hectárea	 de	 los	 grupos	 de	 pequeños	
+productores de maíz y trigo en las zonas del proyecto.
+•	 Fortalecer	 a	 grupos	 de	 productores	 y	 productoras	 pequeños	 (as),	 mediante	 asistencia	
+técnica, para que estos incorporen prácticas de producción agrícola; que cuiden, recuperen 
+y conserven la fertilidad de los suelos y fortalezcan los sistemas productivos.
+•	 Promover	el	uso	y	la	producción	de	semilla	de	calidad.	
+Las metas previstas para el proyecto son:
+•	 Siembra	de	1.000	hectáreas	de	maíz	y	trigo.	
+•	 Incrementar	los	rendimientos	del	maíz	y	trigo	en	un	10	y	15	%	respectivamente.
+•	 Capacitar	 al	menos	1.500	familias	productoras	de	maíz	y	trigo	en	el	uso	de	semillas,	control	
+integrado de plagas, labores de post cosecha y aplicar nuevas tecnología en los procesos 
+de producción.
+El presupuesto destinado a este proyecto ha sido de Bs  9.842.700. El equipo técnico está 
+compuesto por 44 personas, distribuidas de la siguiente manera: a nivel nacional, 1 coordinador 
+de proyecto, 1 responsable técnico maíz, 1 responsable técnico trigo, 1 administrador, 1 técnico 
+de bienes y servicios. A nivel departamental, 25 técnicos extensionistas, 7 gestores de innovación 
+y 7 asistentes administrativos. 
+La siguiente tabla muestra los parámetros que fueron planificados y logrados:
+PLANIfICADO LOGRADO/EjECuTADO
+Incremento en rendimiento Maíz (%) 10 113
+Incremento en rendimiento Trigo (%) 15 92
+Superficie (ha) 1.000 1.327
+Beneficiarios (número de familias) 1.500 2.361
+Presupuesto (Bs.) 9.842.700 2.220.022
+253ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 24=====
+PRESENTACIÓN 2
+Título: Situación actual de la producción nacional del trigo
+Disertante: Ing. Yury Antezana, INIAF-Cochabamba
+Presentación: Anexo 6
+Bolivia necesita producir al año aproximadamente 650 mil toneladas de trigo para autoabastecerse. 
+Según los datos de la ANAPO (2009), la producción anual del departamento de Santa Cruz 
+llega a 190 mil toneladas aproximadamente y en el resto del país del país, no pasan las 100 
+mil toneladas de producción. En Santa Cruz, el 83% de la producción de trigo se destina al 
+mercado, 9% al autoconsumo, 5% es para la transformación y 3% para semilla (ANAPO, 2008). 
+Según datos del COSEM-SANTA CRUZ, en la campaña 2009-2010 se realizó la certificación 
+de 5714 has de trigo, lo que significó una oferta de 8.824 toneladas de semilla certificada. 
+Para cubrir 100000 Has de producción de trigo, se requiere alrededor de 12.000 toneladas de 
+semilla. En consecuencia, existe un déficit de semilla certificada de trigo de 3.170 toneladas. En 
+el Departamento de Santa Cruz se certifica el 93% de la semilla certificada en Bolivia; el resto es 
+en Tarija, Chuquisaca, Cochabamba y Potosí. En Cochabamba, las zonas productoras de trigo 
+se encuentran en Totora, Pocona, Arani, Tiraque, Tarata, Anzaldo y Cliza. La variedad que más 
+se certifica en Cochabamba es Tepoca (60%), seguida de Totora 80 (12,3%), Anzaldo (10,3%), 
+Tiraque (7%) y México (5%).
+Cochabamba ha sido declarada como el “semillero de Bolivia para la seguridad alimentaria”. En 
+el caso específico del trigo, se debe que  Cochabamba cuenta con:
+•	 Condiciones	 agroclimáticas	 favorables	 para	 la	 producción	 de	 semilla	 de	 trigo	 de	 alta	
+calidad.
+•	 Experiencia	 y	conocimiento	de	los	productores	del	departamento	en	producción	de	semilla	
+de alta calidad.
+•	 Marco	 Institucional	(apoyo	y	fomento	de	Instituciones	a	la	producción	de	trigo	(INIAF ,	PASA,	
+EMAPA, SENASAG, Gobernación, Municipios, Asociaciones de productores, etc.)
+•	 Sistema	 de	certificación	 de	semillas	consolidado	(normas,	procedimientos	y	metodologías	
+para el proceso).
+3.5.2. Conclusiones de la mesa 3
+Las conclusiones de la mesa 1 se resumen en la siguiente tabla:
+26 3ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 25=====
+ÁmbITO DE ACCIóN CONCLuSIONES
+Políticas y estrategias 
+para la producción del 
+trigo
+El Estado debe facilitar el acceso a los fertilizantes a precios bajos, 
+con el fin de fomentar el incremento de la producción
+A través de instancias estatales, fomentar créditos para el acceso a 
+la adquisición de maquinaria agrícola por parte de los productores, 
+acorde a las zonas de ladera
+Implementar centros de mejoramiento de tracción animal a nivel 
+nacional
+Facilitar infraestructura de producción, como caminos y riego, etc.
+Desarrollar líneas de crédito para adquirir servicios de maquinaria y 
+maquinaria
+En forma paulatina, reorientar los recursos económicos destinados a 
+la importación de harina, hacia el fomento a la producción de trigo y 
+fortalecimiento de instituciones como EMAPA
+Fomentar la reactivación de la industria molinera en Cochabamba.
+Mayor apoyo de los municipios a la producción de trigo de los 
+pequeños productores y fomento a proyectos productivos
+Facilitar el acceso de pequeños productores a proyectos de fomento 
+a la producción de trigo, solicitar la continuidad del proyecto maíz y 
+trigo
+Comercialización Facilitar y fortalecer el acopio de trigo, a través de EMAPA, 
+orientado al mercado interno. EMAPA debe acopiar toda la 
+producción de trigo comprometido de los socios
+Desarrollar el precio y peso justo en el trigo, como política de 
+negociación de los productores de trigo 
+Organización Apoyar el fortalecimiento de las organizaciones de productores de 
+trigo y semilla de trigo como AIPA y otras y sus capacidades de 
+negociación, con relación a otras similares del país (ANAPO)
+Venta de semilla  a Santa Cruz, a través o con el apoyo de EMAPA
+Varios Solicitar al ministerio correspondiente, la mejora en la gestión 
+económica de EMAPA, en forma concertada y coordinada con los 
+productores
+273ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 26=====
+4. La feria
+El día sábado 11 de junio por la noche, el municipio de 
+Pocona organizó una velada musical, donde participaron 
+visitantes y pobladores de la zona.  El día domingo 12 
+de junio se realizó la feria, con la participación de los 
+pobladores, alcaldía e instituciones invitadas. 
+Los pobladores expusieron una gran diversidad de 
+productos de la zona y comida típica preparada con trigo. 
+Las instituciones participantes expusieron los productos y 
+servicios que ofrecen. 
+28 3ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 27=====
+5. La declaración de Yuraj Molino
+En el simposio emergió una opinión conjunta y compartida: que esta feria no debía ser como las 
+anteriores. Era necesario un salto cualitativo y, para esto, todas las organizaciones involucradas 
+con la producción de trigo debían asumir compromisos formales para impulsar la producción de 
+trigo. Estos compromisos han sido plasmados en la “Declaración de Yuraj Molino”
+Declaración de Yuraj Molino
+En la comunidad de Yuraj Molino, a los 11 días del mes de junio de 2011, en el Municipio de 
+Pocona, de la provincia Carrasco del Departamento de Cochabamba, nos hemos reunido las 
+instituciones firmantes de la presente declaración, durante la sesión del 3er Simposio Nacional del 
+Trigo y sus Derivados, de la cual emerge la siguiente declaración de compromisos:
+1. Fortalecer la vocación productiva de trigo del Municipio de Pocona, para lo cual se apoyaran, 
+con responsabilidad compartida, proyectos y programas de apoyo a la producción  triguera 
+y de innovación tecnológica, mediante el establecimiento de una red institucional, dentro el 
+marco del Sistema Regional de Innovación Agropecuaria y Forestal, y en torno a la creación 
+de un Centro de  Referencia para la investigación del trigo, ubicado en Yuraj Molino y 
+coordinado por  el INIAF y el SEDAG.
+2. Desarrollar acciones conjuntas, entre las instituciones tecnológicas, las organizaciones 
+de productores, el municipio y la Gobernación de Cochabamba, para gestionar el 
+fortalecimiento de instituciones públicas, como el  SEDAG, INIAF, EMAPA, SENASAG, PASA 
+y otras de interés regional, como instituciones estratégicas de apoyo a la producción del 
+trigo y otros productos agropecuarios importantes para la Seguridad Alimentaria de la 
+región y el País.
+3. Demandar la disminución paulatina de la importación de trigo y sus derivados para que 
+esos recursos que gasta el Estado, en vez de fortalecer la economía de otros países, sirvan 
+para fomentar la producción de trigo en el país, facilitando el acceso barato a maquinaria 
+agrícola, para el siembra y cosecha de trigo, y el abastecimiento de fertilizantes químicos y 
+293ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 28=====
+orgánicos, a precios accesibles para el pequeño agricultor y en cantidades suficientes. Esto 
+con el propósito de incrementar los rendimientos de la producción de trigo, para contribuir 
+a la seguridad y soberanía alimentaria del país.
+4. Desarrollar y consolidar un sistema de producción de semilla de categorías altas  para uso 
+propio del pequeño agricultor, con normas específicas, y para abastecer la demanda de 
+semilla de otras regiones, particularmente de la región de Santa Cruz. 
+5. El Municipio de Pocona se convierte en un municipio comprometido con la actividad 
+productiva agropecuaria, en alianza con las organizaciones de productores, como el AIPA, 
+y las organizaciones sociales, como la Central Campesina de Pocona con sus  subcentrales; 
+compromiso que se reflejará en su planificación anual.
+6. Gestionar en forma conjunta (municipio, gobernación, INIAF, EMAPA, PASA, etc.) recursos 
+para proyectos productivos y de infraestructura, como riego, caminos, manejo y conservación 
+de suelos y otros.
+7. El Directorio de la 3ra Feria y Simposio Nacional del Trigo y Sus Derivados y las instituciones 
+y organizaciones participantes, serán los encargados de impulsar las conclusiones y 
+recomendaciones del Simposio y de elaborar la memoria del evento.
+8. Se reitera como actividad permanente, en el municipio de Pocona, subcentral Yuraj Molino, 
+la realización de la Feria y Simposio Nacional del Trigo y sus Derivados. La próxima feria 
+se realizará los días 9 y 10 de junio de 2012. 
+Al pie de la presente firman las organizaciones e instituciones comprometidas con la presente 
+declaración. 
+Yuraj Molino 11 de junio de 2011.
+Uno de los mandatos principales de esta declaración es la 
+creación de un Centro de  Referencia para la Investigación 
+del trigo duro y harinero, ubicado en Yuraj Molino y 
+coordinado por  el INIAF y el SEDAG.
+30 3ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 29=====
+6. Conclusiones y perspectivas
+•	 La	 organización	y	desarrollo	de	la	3ra	Feria	y	Simposio	Nacional	del	Trigo	y	sus	Derivados	
+ha sido un éxito, gracias al trabajo coordinado entre diferentes instituciones; la participación 
+importante de instituciones en el Simposio y las conclusiones obtenidas en las diferentes 
+mesas de trabajo, serán la base del trabajo institucional del INIAF, SEDAG y otros. De igual 
+manera, es remarcable el entusiasmo con el que participó la población local en la feria.
+•	 Las	 conclusiones	 de	 las	 mesas	 de	 trabajo	 permitirán	 definir	 con	 mayor	 precisión	 la	
+intervención de las diferentes instituciones, a fin de mejorar los rendimientos y la producción 
+del trigo.
+•	 Es	 necesario	 definir	 las	 líneas	 de	 innovación	 y	 proyectos	 en	 base	 a	 las	 conclusiones	
+del Simposio. Estas líneas de innovación tecnológica deben ser socializadas entre las 
+organizaciones sociales y las instituciones oferentes de tecnología y servicios.
+•	 T odas	 la	 instituciones	 firmantes	 de	 la	 declaración	 de	 Yuraj	 molino	 deben	 implementar	
+las medidas de correspondan, para materializar los compromisos plasmados en esta 
+declaración.
+•	 La	 creación	 del	 Centro	 de	 	 Referencia	 para	 la	 Investigación	 del	 trigo	 duro	 y	 harinero,	
+ubicado en Yuraj Molino, debe ser una prioridad.
+•	 T odas	 las	 acciones	 deben	 ser	 coordinadas	 en	 un	 comité	 local	 de	 concertación	 para	 la	
+innovación en la producción y trasformación del trigo. Este comité local debe ser una 
+instancia del municipio de Pocona.
+•	 Es	necesario	definir	los	roles	y	funciones	de	los	diferentes	componentes	de	comité	local.
+•	 Es	 imprescindible	el	desarrollo	e	implementación	de	una	estrategia	de	innovación	(recursos,	
+personal, sede, medios logísticos, elaboración de proyectos, ejecución, etc.)
+313ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 30=====
+7 . Anexos
+Anexo 1a: Siembra en el Fondo del Surco Tercera Feria Nacional del Trigo 
+Anexo 1b: Proyecto: Desarrollo de la Produccion de Trigo y otros cereales en la zona Andina y 
+valles de Cochabamba la Calidad del Trigo jorge velasco l., Investigador del Proyecto 
+(SeDAg)
+Anexo 2: “Fortalecimiento A Pequeños Productores De Maíz Y Trigo De Comunidades Vulnerables A 
+La Inseguridad Alimentaria en los Municipios de Pocona Y Totora” Equipo Técnico PMyT
+Anexo 3: Unidad De Investigación Desarrollo De Tecnologias En Trigo 
+Anexo 4: Programa Nacional De Trigo - INIAF
+Anexo 5: Informe Preliminar Proyecto Maiz y Trigo “Fortalecimiento A Pequeños Productores 
+de Maiz y Trigo De Comunidades Vulnerables a la  Seguridad Alimentaria en los 
+Departamentos de Chuquisaca, La Paz, Cochabamba, Potosi, Tarija y Santa Cruz”
+Anexo 6: Situación Actual de la Producción Nacional de Trigo
+Fotografías:
+PROAGRO y
+http://artescritorio.com/omg-es-trigo-y-son-hermosos-wallpapers
+http://www.fondospaisajes.net/wp-content/uploads/2010/11/el-sol-dorando-el-trigo.jpg
+http://ctrlaltohrer.blogspot.com/2010/09/fondos-de-escritorio-otra-vez-trigo_06.html
+http://www.walpaper.es/wallpaper/Walpaper-Campo-de-Trigo/
+http://fondos-de-pantalla-gratis.com/natura/la_vida___trigo.html
+http://fondos-de-pantalla-gratis.com/natura/la_vida___trigo.html
+http://ctrlaltohrer.blogspot.com/2010/09/fondos-de-escritorio-otra-vez-trigo_06.html
+http://ctrlaltohrer.blogspot.com/2010/09/fondos-de-escritorio-otra-vez-trigo_06.html
+http://lobotuerto.com/blog/de-pata-de-lobo/
+http://lobotuerto.com/blog/de-pata-de-
+http://ultradownloads.uol.com.br/papel-de-parede/Trigo-de-Verao/
+http://www.keywordpicture.com/keyword/trigo%20verde/
+http://www.agromonegros.com/Rodrigo.aspx
+http://pixabay.com/es/punta-de-trigo-cereales-de-granos-8742/
+http://www.publicdomainpictures.net/view-image.php?image=11274&picture=wheat&large=1&jazyk=ES
+http://www.fonditos.com/paisajes/otros/campo_de_trigo-00868.php
+http://artescritorio.com/omg-es-trigo-y-son-hermosos-wallpapers
+32 3ra FERIA Y SIMPOSIO NACIONAL DEL TRIGO Y SUS DERIVADOS
+=====PAGE 31=====
+
+=====PAGE 32=====
+
+=====PAGE 33=====
+
+=====PAGE 34=====
+
+=====PAGE 35=====
+
+=====PAGE 36=====
+
+=====PAGE 37=====
+
+=====PAGE 38=====
+
+=====PAGE 39=====
+
+=====PAGE 40=====
+
+=====PAGE 41=====
+
+=====PAGE 42=====
+
+=====PAGE 43=====
+
+=====PAGE 44=====
+
+=====PAGE 45=====
+
+=====PAGE 46=====
+
+=====PAGE 47=====
+
+=====PAGE 48=====
+
+=====PAGE 49=====
+
+=====PAGE 50=====
+
+=====PAGE 51=====
+
+=====PAGE 52=====
+
+=====PAGE 53=====

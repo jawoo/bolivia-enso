@@ -1,0 +1,1417 @@
+
+=====PAGE 1=====
+1
+Choque, et al., 2024Revista Científica UAGRM
+RESUMEN
+La alta demanda de antocianina a nivel 
+mundial, por sus múltiples beneficios para 
+la salud humana y la diversidad de zonas 
+agroecológicas que tiene Bolivia, justifica la 
+necesidad de explorar la producción de maíz 
+morado en diferentes zonas del departamento 
+de Santa Cruz. El objetivo de este estudio fue 
+evaluar el efecto de seis épocas de siembra, 
+sobre las características agronómicas del 
+maíz en los predios de la Facultad de Ciencias 
+Agrícolas (Santa Cruz de la Sierra) durante el 
+verano 2020/2021. El ensayo contempló seis 
+épocas diferentes de siembra (tratamientos), 
+desde diciembre de 2020 a mayo de 2021. 
+Se empleó el diseño experimental de bloques 
+al azar. Las variables estudiadas fueron: 
+Floración (masculina y femenina), altura de 
+planta y de la inserción de la mazorca, y los 
+componentes de rendimiento. Los resultados 
+obtenidos reflejan que la mejor época de 
+siembra ocurre entre diciembre y febrero, los 
+resultados son favorables en todas las variables 
+evaluadas. Después de la cuarta época las 
+mismas variables evaluadas tienden a decrecer. 
+Se concluye que la mejor época de siembra 
+es la segunda semana de febrero para obtener 
+los mejores rendimientos de grano del maíz 
+morado de la variedad Moragro.
+Palabras Clave: Antocianina; Épocas de 
+siembra; Maíz morado; Rendimiento.
+ABSTRACT
+The high demand for anthocyanin worldwide 
+for its multiple benefits for human health and 
+the diversity of agroecological zones in Bolivia, 
+justifies the need to explore the production of 
+purple corn in different places of the department 
+of Santa Cruz. The objective of this study was 
+to evaluate the effect of six planting seasons 
+on the agronomic characteristics of Kculli-type 
+purple corn. The study was carried out in the 
+fields of the Faculty of Agricultural Sciences 
+ARTÍCULO ORIGINAL 
+10.23670/RC.2024.01.01
+EFECTO DE LAS ÉPOCAS DE SIEMBRA SOBRE LAS 
+CARACTERÍSTICAS AGRONÓMICAS DE MAÍZ MORADO 
+(Zea mays L.) DURANTE EL VERANO 2020/2021
+EFFECT OF SEEDING SEASONS ON AGRONOMIC CHARACTERISTICS OF 
+PURPLE CORN (Zea mays L.) DURING SUMMER 2020/2021
+Víctor Choque Colque1; Valentín Lara Saldias1; José Padilla Ayala1; Teófilo Salgado Romero1
+1 Universidad Autónoma Gabriel René Moreno, Instituto de Investigaciones Agrícolas El Vallecito.*
+Correspondencia: victorchoque@uagrm.edu.bo  . https://orcid.org/ 0009-0004-3450-2663
+=====PAGE 2=====
+2
+Universidad Autónoma "Gabriel René Moreno" Revista Científica UAGRM
+(Santa Cruz de la Sierra) during the summer 
+of 2020/2021. The experiment included six 
+different seeding seasons (treatments), from 
+december 2020 to May 2021. A randomized 
+block experimental design was used. The 
+variables studied were: flowering time (male 
+and female), plant and ear insertion height, and 
+yield components. The results obtained show 
+that the best planting season occurs between 
+december and february, since the results are 
+favorable in all the variables evaluated. After 
+the fourth season, the same variables evaluated 
+tend to decrease. It is concluded that the best 
+planting time is the second week of february 
+to obtain the best grain yields of purple corn of 
+the Moragro variety.
+Key Words:  Anthocyanin; Planting times; 
+Purple corn; Yield.
+Recepción: 18/08/2023 Aceptación: 20/10/2023
+=====PAGE 3=====
+3
+Choque, et al., 2024Revista Científica UAGRM
+INTRODUCCIÓN
+ 
+La producción mundial de maíz se incrementó 
+de 600 millones de t en el año 2.000 a 1.150 
+millones de t en el año 2020, lo que significa 
+que se duplicó la producción en dos décadas. 
+Esto ocurrió como resultado de un incremento 
+en el área de cultivo, que aumentó de 137 a 
+197 millones de hectáreas y un aumento 
+de rendimiento promedio de 4,3 a 5,8 t/ha, 
+en ese período. Históricamente, el área de 
+producción de maíz más importante del mundo 
+se encontraba en el Centro Norte de Estados 
+Unidos, conocido como el Cinturón Maicero 
+Norteamericano. Sin embargo, en los últimos 
+20 años se ha incrementado sustancialmente 
+la producción de este cultivo en otras regiones 
+debido a la expansión del área cultivada 
+(Andrade, et al., 2023).
+En Bolivia se produce principalmente el maíz 
+amarillo duro y el choclero. La superficie 
+sembrada de maíz amarillo duro, híbridos 
+y variedades comerciales fue de 468080 
+hectáreas, equivalente al 98 % del total 
+sembrado en Bolivia en la campaña agrícola 
+2018/2019, mientras que el área sembrada con 
+maíz para choclo alcanzó 9.633 hectáreas, es 
+decir el 2 % del total de maíz sembrado (INE, 
+2020). La producción del maíz choclero, está 
+concentrada principalmente en las macro 
+regiones de los valles y altiplano. En el caso 
+del departamento de Santa Cruz, el 100 % del 
+maíz choclero se cultiva en las provincias de 
+los valles mesotérmicos (Vallegrande, Manuel 
+María Caballero y Florida) INIAF (2020).
+Bolivia es uno de los centros de diversificación 
+del género Zea, es así que, en Bolivia, tanto la 
+producción como el consumo del maíz morado 
+es importante, pero hay pocas investigaciones 
+sobre las antocianinas presentes en las 
+variedades bolivianas (UMSS, 2008). La 
+presencia de antocianinas en las variedades 
+pigmentadas del maíz, lo hace un producto 
+potencial para el suministro de colorantes y 
+antioxidantes naturales. Por ello el estudio de 
+los pigmentos del maíz morado ha despertado 
+un interés sin precedentes. La diversidad 
+genética del maíz se distribuye en razas. En 
+América se han originado el 90 % de todas 
+las razas. Dos factores son la causa de esa 
+gran diversidad: la variación en usos y la gran 
+variación ecológica. La diversidad fenotípica 
+del maíz en la región andina se expresa en una 
+extraordinaria variabilidad en color, tamaño, 
+forma, textura del grano como de la mazorca.
+Ortiz (2012) menciona que el maíz morado tipo 
+Kculli es una variedad nativa perteneciente al 
+Complejo Racial de los Maíces Harinosos de los 
+valles templados de Bolivia; su característica 
+más sobresaliente es el color morado oscuro 
+de las mazorcas. Su distribución en Bolivia es 
+muy amplia, aunque destacan los cultivos en el 
+departamento de Chuquisaca, en las provincias 
+Zudañez y Tomina. Al respecto, MACIA (2003) 
+señala que su área de distribución se encuentra en 
+los valles de Cochabamba, norte de Chuquisaca, 
+valles de Tarija, Saavedra de Potosí y Manuel 
+María Caballero de Santa Cruz. Se cultiva entre 
+altitudes de 2.000 a 3.400 m s.n.m.
+Sobre el maíz morado INIAF (2019), en su 
+catálogo de variedades en la sección que 
+corresponde al cultivo de maíz, indica que tiene 
+registrado 14 materiales, de los cuales cuatro 
+son variedades mejoradas, cinco híbridos y 
+=====PAGE 4=====
+4
+Universidad Autónoma "Gabriel René Moreno" Revista Científica UAGRM
+cinco variedades nativas purificadas; en el 
+último grupo está la variedad Morado Criollo 
+con grano de color morado mediano, textura 
+semivítreo y un ciclo de cinco meses adaptado 
+para los valles de Tarija, Cochabamba, 
+Chuquisaca y Potosí.
+El calendario o época de siembra  es una 
+herramienta que permite a los agricultores y 
+campesinos conocer cuál es el momento ideal 
+para realizar la siembra de los cultivos. Sobre 
+la producción de maíz en Santa Cruz, ANAPO 
+(2021) menciona que en el verano 2020/2021 el 
+rendimiento promedio fue de 5,01 t/ha y en el 
+invierno 2021 de 2,32 t/ha. Por su parte Cuellar 
+(2022) señala que el calendario de siembra de 
+maíz varía de acuerdo a la zona de producción 
+y el establecimiento de las lluvias, desde 15 
+de octubre al 15 enero en verano y desde el 
+15 de marzo a fines de abril en invierno. La 
+época de siembra de maíz Kculli en los valles 
+interandinos de Bolivia se efectúa en el mes 
+diciembre, aunque se puede adelantar o retrasar, 
+de acuerdo a la intensidad de las primeras 
+lluvias (Ortiz, 2012). En el caso de maíz 
+morado la cantidad de antocianinas depende 
+del tipo de maíz (genotipo), del órgano de la 
+planta y de las condiciones ambientales donde 
+crezca esta planta (Medina et al., 2020). Con 
+el antecedente señalado de alta demanda de 
+antocianina a nivel mundial, por sus múltiples 
+beneficios para la salud humana, existe una 
+exigua oferta de maíz morado en Bolivia. 
+En el departamento de Santa Cruz no existe 
+una variedad de maíz morado adaptada a 
+las diferentes zonas agroecológicas, siendo 
+el departamento que produce más del                             
+70 % de los alimentos del país. A todo esto, 
+se suma que Bolivia, y particularmente el 
+departamento de Santa Cruz, posee una 
+diversidad de zonas agroecológicas aptas para 
+la producción de maíz. Por todo lo señalado, 
+existe la imperiosa necesidad de continuar 
+con la investigación iniciada por el Instituto 
+de Investigaciones Agrícolas El Vallecito (IIA 
+El Vallecito) dependiente de la Universidad 
+Autónoma Gabriel René Moreno (UAGRM) 
+para continuar generando información técnica 
+sobre el maíz morado; los estudios deben 
+comprender la: Adaptación del maíz morado a 
+diferentes pisos ecológicos, épocas de siembra, 
+contenido de antocianina, conservación de 
+semilla, densidades de siembra y otros. 
+Por lo indicado y los resultados agronómicos 
+favorables obtenidos en diferentes campañas, 
+además de evaluar el efecto de épocas de 
+siembras sobre las características agronómicas 
+del maíz morado tipo Kculli, es necesario 
+continuar investigando sobre las características 
+de este tipo de maíz.
+MATERIALES Y MÉTODOS
+Ubicación del ensayo y material vegetal
+El trabajo de investigación se desarrolló en los 
+predios de la Facultad de Ciencias Agrícolas 
+(F.C.A) de la UAGRM ubicada en el km 8.5 al 
+norte de la ciudad de Santa Cruz de la Sierra. 
+Geográficamente está ubicada a 17o 70’ 53’’ de 
+latitud sur y 63 o 14’ 91’’ de longitud oeste, a 
+una altitud de 380 m s.n.m.
+El material vegetal utilizado en la investigación 
+fue la variedad “Moragro” producto de la 
+cosecha de verano 2019/2020 de la localidad de 
+=====PAGE 5=====
+5
+Choque, et al., 2024Revista Científica UAGRM
+Mairana. La variedad “Moragro” fue obtenida 
+por la Facultad de Ciencias Agropecuarias de la 
+Universidad Nacional de Córdoba, Argentina 
+y enviada al IIA El Vallecito por medio de la 
+empresa AGRO SELLER el año 2017. 
+Diseño experimental 
+El estudio fue establecido bajo el diseño 
+experimental de bloques completos al azar con 
+seis tratamientos o épocas (Tabla 1) y cuatro 
+repeticiones, teniendo un total de 24 unidades 
+experimentales. Cada unidad experimental 
+consistió de 7 surcos de 5 m de largo por 0,7 m 
+de ancho, es decir, 24,5 m 2, haciendo un total 
+de 769,42 m2 de área experimental.
+Preparación del suelo, siembra y cosecha
+La preparación del suelo se ejecutó en forma 
+convencional manual, utilizando azadón, con 
+lo que se excavó una profundidad aproximada 
+de 20 a 25 cm. El resultado del análisis de suelo 
+refleja un suelo con textura franco arenosa, con 
+pH neutro; el nitrógeno y la materia orgánica 
+están en concentración baja, lo contrario ocurre 
+con el fósforo (P), potasio (K) y magnesio (Mg) 
+que se encuentran en altas concentraciones 
+CIAT (2022). 
+La siembra se realizó de forma manual, 
+utilizando sembradoras manuales, la distancia 
+entre surco fue de 70 cm con 4 golpes por 
+metro lineal (25 cm) depositando dos semillas 
+por golpe. Cuando las plantas alcanzaron su 
+madurez de cosecha, se realizó la recolección 
+de mazorcas de los tres surcos centrales de 
+cada unidad experimental. Para el trabajo 
+de gabinete se tomaron 20 mazorcas al azar 
+de cada unidad experimental. Las fechas de 
+siembra y cosecha se detallan en la Tabla 1.
+Tabla 1. Fechas de siembra y cosecha 
+registradas en el estudio
+Épocas Fecha de 
+siembra
+Fecha de 
+cosecha
+Días a 
+cosecha
+1 10/12/2020 30/3/2021 110
+2 08/1/2021 29/4/2021 111
+3 08/2/2021 20/5/2021 101
+4  08/3/2021 28/6/2021 112 
+5  09/4/2021 4/8/2021 117 
+6  07/5/2021 15/9/2021 131
+Raleo, control de malezas y fertilización
+El raleo, control de malezas y la aplicación 
+del fertilizante se la realizó entre 20 y 25 días 
+después de siembra. El raleo fue para tener 
+una población aproximada de 57.000 plantas 
+por hectárea y las malezas presentes fueron 
+controladas en forma manual. Debido a que el 
+suelo donde fue establecido el ensayo presentó 
+textura franco arenosa, fue necesario aplicar al 
+momento del aporque, el fertilizante de base    
+N P K 20 (triple 20) a razón de 200 kg/ha para 
+todas las unidades experimentales.
+Control de insectos y enfermedades 
+El control de insectos y plagas fue 
+realizado previo monitoreo y daño causado, 
+específicamente la presencia de Spodoptera 
+frugiperda (gusano cogollero). Para el 
+control, se utilizó el insecticida Emamectin 
+benzoate (novo) con dosis de 300 g/ha en tres 
+oportunidades en todas las épocas de siembra, 
+utilizado un pulverizador manual debidamente 
+=====PAGE 6=====
+6
+Universidad Autónoma "Gabriel René Moreno" Revista Científica UAGRM
+calibrado. En la quinta y sexta época de siembra, 
+se observó síntomas de helminthosporium , 
+para evitar el daño, fue necesario aplicar el 
+fungicida azoxystrobin 80  + Tebuconazole 
+(Xstrata Gold 240 SC) con una dosis de 500 
+ml/ha.
+Los datos de precipitación y temperatura 
+fueron obtenidos de la estación meteorológica 
+Viru Viru dependiente de Senamhi 2020-2021. 
+Para conocer las condiciones físico químico 
+del suelo, se extrajo una muestra del suelo 
+donde se instaló el ensayo, la cual fue enviada 
+al laboratorio del CIAT.
+Las variables agronómicas fueron registradas 
+de acuerdo a lo propuesto por CIMMYT 
+(1995). Se registró: días a floración masculina y 
+femenina, días a madurez de cosecha, altura de 
+planta y mazorca, longitud, número de hileras, 
+número de granos y diámetro de mazorca, y 
+rendimiento. 
+Días a floración masculina y femenina
+Para la floración masculina se tomó en 
+cuenta los días transcurridos desde la siembra 
+hasta cuando el 50 % más uno de las plantas 
+presentaron las panojas desprendiendo polen. 
+Para la floración femenina se tomó en cuenta 
+los días transcurridos desde la siembra hasta 
+cuando el 50 % de las flores femeninas 
+emitieron los estigmas.
+Altura de planta e inserción de mazorca
+Para determinar la altura de planta se 
+seleccionaron 10 plantas al azar de los tres 
+surcos centrales de cada unidad experimental, 
+midiendo desde la base de la planta hasta el 
+punto donde se inicia la hoja bandera de la 
+planta y registrando el dato en centímetros. En 
+las mismas plantas seleccionadas, se determinó 
+la altura de la inserción de la mazorca, desde la 
+base de la planta hasta el nudo donde nace la 
+mazorca más alta.
+Longitud, hileras y número de granos por 
+mazorca
+Para evaluar estas variables se seleccionaron 
+20 mazorcas de cada unidad experimental. La 
+longitud de la mazorca se cuantificó en cm, 
+midiendo desde el final del pedúnculo o base 
+hasta el ápice de la mazorca. Posteriormente 
+se contó el número de hileras y el número de 
+granos por hilera de cada mazorca seleccionada.
+Rendimiento de grano
+El rendimiento de granos de cada unidad 
+experimental fue obtenido por la corrección 
+del peso de granos para 13 % de humedad y 
+ajustado a t/ha mediante la fórmula empleada 
+por Solórzano (2017).
+Análisis estadístico
+Para determinar la mejor época de siembra 
+se realizó un análisis de varianza en las 
+variables cuantitativas evaluadas, utilizando 
+el paquete estadístico InfoStat 2020. También, 
+se realizó una prueba de comparación de 
+medias utilizando el comparador Tukey al                            
+95 % de probabilidad para todas las variables 
+que resultaron con significancia estadística. 
+Para relacionar las variables dependientes 
+como: diámetro, longitud, número de hileras 
+=====PAGE 7=====
+7
+Choque, et al., 2024Revista Científica UAGRM
+y número de granos por mazorca, así como el 
+rendimiento, se hizo un análisis de regresión 
+para modelar la tendencia que existe respecto a 
+las épocas de siembra.
+RESULTADOS Y DISCUSIÓN
+Precipitación y temperatura 
+La mayor cantidad de lluvia se registra en enero 
+con 568,2 mm, seguida por la de diciembre, las 
+demás épocas (febrero a mayo) presentaron 
+precipitaciones por debajo de los 300 mm, en 
+estas épocas fue necesario realizar la aplicación 
+de riegos suplementarios entre 20 y 25 mm, 
+Durante las 6 épocas de siembra se observó 
+que la temperatura más alta qué ocurrió en 
+diciembre con 31 °C y la temperatura más baja 
+fue reportada en julio con 16 °C. Se observó 
+que la temperatura media disminuyó a medida 
+que se retrasó la siembra.
+Sobre el requerimiento de agua, CIAT (2008) 
+señala que, a lo largo de su ciclo, el maíz 
+requiere entre  400 y 500 mm de precipitación 
+bien distribuidos de acuerdo a la etapa de 
+desarrollo del cultivo. Tolera la falta de agua 
+durante el periodo vegetativo y maduración, no 
+así durante la formación de la inflorescencia, 
+floración, formación de estigmas y 
+polinización; la falta de agua en estas fases 
+origina severas pérdidas de rendimiento. Por 
+su parte Vásconez et al., (2010) menciona que 
+el cultivo de maíz requiere aproximadamente 
+450 a 500 mm de agua durante todo el periodo 
+vegetativo, pero en mayor cantidad durante 
+la floración y el llenado de grano. Otro rasgo 
+importante de la variedad morada es su mayor 
+resistencia a periodos más prolongados de 
+sequía, en comparación con otras variedades 
+de maíz (Ortiz, 2012). 
+Sobre el maíz, Serio (2015) indica que el período 
+crítico para la determinación del rendimiento es 
+la floración, por ello el maíz se torna altamente 
+dependiente de la disponibilidad hídrica en 
+un período que se extiende aproximadamente 
+desde 15 días antes hasta 21 días después de 
+la floración. En esta etapa se fija el número 
+de granos por unidad de superficie, variable 
+estrechamente relacionada con el rendimiento. 
+La cantidad de lluvia registrada durante el ciclo 
+del cultivo fue favorable para las dos épocas 
+iniciales, posteriormente se fue reduciendo y 
+con seguridad que afectó de manera negativa 
+al rendimiento del cultivo.
+La temperatura óptima diurna para el 
+crecimiento del maíz oscila entre 21 y 25 °C y la 
+nocturna debe ser mayor a 14 °C, temperaturas 
+extremas, inferiores a 14 °C y mayores a 40 °C, 
+afectan el desarrollo normal del cultivo CIAT 
+(2008). Por su parte, Manrique (1997) indica 
+que el maíz morado se adapta a las condiciones 
+de sierra media que comprende las laderas, 
+valles y mesetas de Perú, localizadas entre 
+los 1.800 y 2.800 m s.n.m., con temperaturas 
+medias anuales de 12 a 20 °C. Con los registros 
+reportados y la literatura consultada sobre la 
+producción de maíz morado, se aprecia que, 
+en las seis épocas de siembra, las temperaturas 
+no fueron favorables. Las temperaturas 
+medias variaron de 22 a 26 °C, este factor 
+probablemente evitó que el maíz manifieste su 
+potencial productivo.
+=====PAGE 8=====
+8
+Universidad Autónoma "Gabriel René Moreno" Revista Científica UAGRM
+Días a floración masculina, femenina y 
+cosecha 
+Los días a floración masculina  variaron desde 
+56 a 84 días (F 5,15 = 282; p = 0,0001). Cuando 
+se analiza los días a floración masculina por 
+épocas de siembra, la siembra más tardía fue la 
+de mayo, con un promedio de 84 días después 
+de la siembra, en cambio los maíces sembrados 
+en diciembre llegaron a florecer en 56 días 
+después de la siembra (Gráfico 1). 
+La floración femenina presentó un rango de 
+variación de 58 a 93 días después de la siembra 
+(F 5, 15 = 125; p = 0,0001). La siembra de 
+diciembre acusó la menor floración femenina, 
+con un promedio de 58 días, mientras que 
+la siembra de mayo fue la más tardía con un 
+promedio de 93 días (Gráfico 1). 
+Gráfico 1. Días a floración y cosecha 
+registrados en el estudio
+En un estudio de densidad de siembra y 
+comportamiento agronómico de tres variedades 
+de maíz morado, Pedraza (2017) encontró que 
+la variedad INIA 601 en Perú florece a los 
+98 días con un ciclo vegetativo entre 5 y 6 
+meses, posiblemente porque esta variedad se 
+adapta a alturas entre 2.600 y 2.900 m s.n.m., 
+a diferencia de la variedad Caraz PMV-581 
+sembrada entre 1.200 y 4.000 m s.n.m., donde 
+su floración femenina ocurre de 55 a 60 días 
+después de la siembra.
+Sobre la floración en maíz morado, en 
+un estudio de evaluación preliminar de 
+las características agronómicas del maíz 
+morado en dos ambientes contrastantes del 
+departamento de Santa Cruz, Guzmán (2019) 
+señala que la floración masculina ocurre entre 
+53 y 56 días y la floración femenina entre 57 y 
+60 días después de la siembra. Los resultados 
+del presente estudio concuerdan con Guzmán 
+(2019) hasta la tercera época o siembra de 
+febrero, posteriormente los días a floración 
+masculina y femenina se incrementaron 
+conforme se fue retrasando la siembra. 
+Para los días a cosecha (Gráfico 1), no se 
+observa diferencias en las épocas de siembra de 
+diciembre a marzo (101 a 112 días promedio), 
+pero en las siembras de abril a mayo los 
+días a madurez a cosecha se incrementaron 
+considerablemente (117 a 131 días en 
+promedio), probablemente debido a factores 
+como la altitud, temperatura, fotoperiodo y 
+otros, pero los valores reportados son inferiores 
+a lo señalado por INIAF (2019), en cuyo 
+catálogo de registro indica que la variedad 
+Morado Criollo presenta un ciclo de 5 meses.   
+ 
+Altura de planta e inserción de mazorca
+La altura de planta para las siembras de 
+diciembre a mayo varía de 95 a 163 cm (F 5,15 
+9 
+ 
+que comprende las laderas, valles y mesetas 
+de Perú, localizadas entre los 1800 y 2800  
+m s.n.m., con temperaturas medias anuales 
+de 12 a 20 cC. Con los registros reportados 
+y la literatura consultada sobre la producción 
+de maíz morado, se aprecia que, en las seis 
+épocas de siembra, las temperaturas no 
+fueron favorables. Las temperaturas medias 
+variaron de 22 a 26 cC, este factor 
+probablemente evitó que el maíz manifieste 
+su potencial productivo. 
+ 
+Qas a floraciSn masculina femenina L 
+cosecha  
+ 
+Los días a floración masculina  variaron 
+desde 56 a 84 días (F 5, 15 = 282; p< 
+0,0001). Cuando se analiza los días a 
+floración masculina por épocas de siembra, 
+la siembra más tardía fue la de mayo, con un 
+promedio de 84 días después de la siembra, 
+en cambio los maíces sembrados en 
+diciembre llegaron a florecer en 56 días 
+después de la siembra (Gráfico 1).  
+La floración femenina presentó un rango de  
+variación de 58 a 93 días después de la 
+siembra (F 5,  15 = 125; p< 0, 0001). La 
+siembra de diciembre acusó la menor 
+floración femenina, con un promedio de 58 
+días, mientras que la siembra de mayo fue la 
+más tardía con un promedio de 93 días 
+(Gráfico 1).  
+Gráfico . Qas a floraciSn L cosecha registrados 
+en el estudio 
+ 
+En un estudio de densidad de siembra y 
+comportamiento agronómico de tres 
+variedades de maíz morado, Pedraza (2017) 
+encontró que la variedad INIA 601 en Perú 
+florece a los 98 días con un ciclo vegetativo 
+entre 5 y 6 meses, posiblemente porque esta 
+variedad se adapta a alturas entre 2600 y 
+2900 m s.n.m., a diferencia de la variedad 
+Caraz PM3 581 sembrada entre 1200 y 
+4000 m s.n.m., donde su floración femenina 
+ocurre de 55 a 60 días después de la 
+siembra. 
+Sobre la floración en maíz morado, en un 
+estudio de e valuación preliminar de las 
+características agronómicas del maíz 
+morado en dos ambientes contrastantes del 
+departamento de Santa Cruz, Guzmán 
+(2019) señala que la floración masculina 
+ocurre entre 53 y 56 días y la floración 
+femenina entre 57 y 60 días desp ués de la 
+siembra. Los resultados del presente estudio 
+56E
+63D
+57E
+69C
+77B
+84A
+58E
+67D
+60E
+72C
+79B
+93A
+110
+111
+101
+112
+117
+131
+5
+25
+45
+65
+85
+105
+125
+Época	1	
+(Dic.)
+Época	2	
+(Ene.)
+Época	3	
+(Feb.)
+Época	4	
+(Mar.)
+Época	5	
+(Abr.)
+Época	6	
+(May.)
+/&ero	 Época,	o	&e,e,	e	,ie&bra
+D"a,	a	%or.	Ma,.
+=====PAGE 9=====
+9
+Choque, et al., 2024Revista Científica UAGRM
+= 33; p = 0,0001). La mayor altura de planta 
+se registró en las siembras de enero y febrero, 
+con un promedio de 163 cm, sin diferencia 
+estadística con la siembra de diciembre; por el 
+contrario, la siembra de mayo reportó la menor 
+altura de planta con un promedio de 94,9 cm. 
+El resto de los tratamientos se ubican entre los 
+extremos citados (Gráfico 2). 
+Gráfico 2. Altura de planta e inserción de mazorca 
+(cm) registrado en el estudio
+La altura de inserción de la mazorca varía de 42 
+a 98 cm (F 5, 15 = 49; p = 0,0001).  La mayor 
+altura de inserción de la mazorca corresponde 
+a la siembra de febrero con 98 cm de promedio, 
+sin encontrar diferencia significativa con las 
+siembras de diciembre (90 cm) y enero (90 
+cm). Mientras tanto, la menor altura lo registra 
+la siembra de mayo, con un promedio de 42 cm 
+(Gráfico 2). 
+Al respecto, INIA (2004) señala que la variedad 
+INIA 601 presenta una altura de planta de 2,16 
+m y una altura de inserción de la mazorca 
+de 1,24 m. Por su parte INIAF (2019) en su 
+catálogo menciona que la variedad Morado 
+Criollo tiene una altura de planta que varía de 
+230 a 250 cm. 
+En un estudio de caracterización morfológica 
+de 28 accesiones de maíz morado realizado a 
+2.760 m s.n.m., Mamani (2021) reporta alturas 
+de planta mayores a 2,0 m y la inserción de la 
+mazorca superior a 1,0 m.
+En un estudio preliminar de las características 
+agronómicas del maíz morado en dos ambientes, 
+Guzmán (2019) reportó que la mayor altura de 
+planta y de mazorca se presentó en Mairana 
+(1,70 y 0,86 m) y la menor altura en El  Vallecito 
+(1,29 y 0,55 m, respectivamente). En el 
+presente estudio se observa que en las siembras 
+de enero y febrero existe escasa diferencia y 
+presentan la mayor altura de planta e inserción 
+de mazorca, pero posteriormente ambas alturas 
+se reducen conforme se realiza la siembra más 
+tardíamente (Gráfico 2).
+Diámetro de la mazorca
+Para las seis épocas de siembra el diámetro de 
+mazorca varió de 2,6 a 3,7 cm (F 5,15 = 10; 
+p = 0,0002). Los mayores diámetros de 
+mazorca corresponden a las siembras de 
+diciembre y enero, con promedios de 3,7 cm; 
+en cambio, el menor diámetro de mazorca se 
+registró en la siembra de mayo, con 2,6 cm de 
+promedio. El análisis de regresión (R 2 = 0,89) 
+muestra que el diámetro de mazorca se reduce 
+en aproximadamente 89% conforme se demora 
+en realizar la siembra (Gráfico 3).
+ 
+		
+90 A
+90 A
+98 A
+69 B
+67 B
+42 C
+151 A
+163 A
+163 A
+127 B
+127 B
+95 C
+0
+50
+100
+150
+Época	1	
+(Dic.)
+Época	2	
+(Ene.)
+Época	3	
+(Feb.)
+Época	4	
+(Mar.)
+Época	5	
+(Abr.)
+Época	6	
+(May.)
+cm
+Inserción	de	la	mazorca Altura	de	planta
+=====PAGE 10=====
+10
+Universidad Autónoma "Gabriel René Moreno" Revista Científica UAGRM
+Gráfico 3. Diámetro de mazorca (cm) registrado 
+en el estudio
+Sobre el diámetro de la mazorca, Poma 
+(2007) menciona que para maíces morados 
+en condiciones locales de La Molina (Perú) 
+la variedad PMV-581 acusó un promedio 
+de 4,6 cm; Cruzado (2009) reportó 4,82 cm 
+bajo las mismas condiciones para la misma 
+variedad. Por su parte INIA (2004) menciona 
+que la variedad INIA 601 presenta 4,6 cm de 
+diámetro. 
+Para condiciones de Santa Cruz, Guzmán 
+(2019) menciona que el mayor diámetro 
+de mazorca se registró en la localidad de 
+Mairana con 4,3 cm y en Vallecito presentó 
+3,0 cm, por su parte Mamani (2021) reportó 
+un diámetro promedio de mazorca de 4,19 
+cm, con un mínimo de 3,6 cm y un máximo 
+de 4,7 cm. Los resultados obtenidos en el 
+presente estudio son inferiores a los valores 
+obtenidos por los autores mencionados, 
+decreciendo aún más cuando se siembra de 
+marzo en adelante, probablemente afectado 
+por factores como: La altitud, precipitación y 
+temperatura ambiente.
+Longitud de la mazorca 
+La longitud de mazorca presenta una variación 
+de 10,1 a 12,7 cm (F 5,15 = 9; p = 0,0004). 
+La mayor longitud de mazorca se registró en la 
+siembra de febrero, con un promedio de 12,7 
+cm y la menor corresponde a la siembra de 
+mayo. con un promedio de 10,1 cm. El análisis 
+de regresión (R2 = 0,96) muestra que de enero 
+a abril se obtiene mayor longitud de mazorca 
+(11,8 a 12,7 cm) sin encontrar diferencia 
+significativa con la siembra de diciembre (11,4 
+cm). En mayo se obtiene la menor longitud 
+de mazorca (10,1 cm), y esta época es similar 
+estadísticamente a la de diciembre (11,4 cm) 
+como se puede apreciar (Gráfico 4).
+Gráfico 4. Longitud de mazorca (cm) registrado 
+en el estudio
+En un estudio de fertilización de maíz morado, 
+Pinedo (2015) encontró que el mayor promedio 
+de longitud de mazorca (13,8 cm) se obtuvo con 
+un nivel de NPK de 120 - 110 - 80 y el menor 
+promedio (12,9 cm) con un nivel de 120 - 90 - 
+60. Por otra parte, sobre la longitud de mazorca 
+INIA (2018) manifiesta que la variedad INIA 
+601 presenta una longitud de 17,5 cm.
+11 
+ 
+reportó que la mayor altura de planta y de 
+mazorca se presentó en Mairana (1, 70 y 
+0,86 m) y la menor altura en El  3allecito 
+(1,29 y 0, 55 m , respectivamente). En el 
+presente estudio se observa que en las 
+siembras de enero y febrero existe escasa 
+diferencia y presentan la mayor altura de 
+planta e inserción de mazorca, pero 
+posteriormente ambas alturas se reducen 
+conforme se realiza la siembra más 
+tardíamente (Gráfico 2). 
+ 
+iámetro de la maMorca 
+ 
+Para las seis épocas de siembra el diámetro 
+de mazorca varió de 2, 6 a 3,7 cm (F 5, 15 = 
+10; p< 0, 0002). Los mayores diámetros de 
+mazorca corresponden a las siembras de 
+diciembre y enero, con promedios de 3,7 cm; 
+en cambio, el menor diámetro de mazorca se 
+registró en la siembra de mayo, con 2, 6 cm 
+de promedio. El análisis de regresión (R 2 = 
+0,89) muestra que el diámetro de mazorca 
+se reduce en aproximadamente 89 
+conforme se demora en realizar la siembra 
+(Gráfico 3). 
+ 
+Gráfico .  iámetro de maMorca (cm) registrado 
+en el estudio. 
+ 
+Sobre el diámetro de la mazorca, Poma 
+(2007) menciona que para maíces morados 
+en condiciones locales de La Molina (Perú) 
+la variedad PM3581 acusó un promedio de 
+4,6 cm; Cruzado (2009) reportó 4,82 cm bajo 
+las mismas condiciones para la misma 
+variedad. Por su parte INIA (2004) menciona 
+que la variedad INIA 601 presenta 4,6 cm de 
+diámetro.  
+Para condiciones de Santa Cruz, Guzmán 
+(2019) menciona que el mayor diámetro de 
+mazorca se registró en l a localidad de 
+Mairana con 4, 3 cm y en 3allecito presentó 
+3,0 cm, por su parte Mamani (2021) reportó 
+un diámetro promedio de mazorca de 4, 19 
+cm, con un mínimo de 3, 6 cm y un máximo 
+de 4, 7 cm. Los resultados obtenidos en el 
+presente estudio son inferiores a los valores 
+obtenidos por los autores mencionados, 
+decreciendo aún más cuando se siembra de 
+marzo en adelante, probablemente afectado 
+3,7 A
+3,7 A
+3,6 AB
+3,0 BC
+2,9 C
+2,6 C
+y	=	-0,2396x	+	4,0729
+R²	=	0,89975
+0,0
+0,5
+1,0
+1,5
+2,0
+2,5
+3,0
+3,5
+4,0
+Época	
+1	
+(Dic.)
+Época	
+2	
+(Ene.)
+Época	
+3	
+(Feb.)
+Época	
+4	
+(Mar.)
+Época	
+5	
+(Abr.)
+Época	
+6	
+(May.)
+Di&e-ro	e	&a2orca	en	
+c&
+  
+11,4 AB
+12,3 A
+12,7 A
+12,1 A
+11,8 A
+10,1 B
+y	=	-0,2803x2 +	1,7206x	+	9,9521
+R²	=	0,96519
+0,0
+2,0
+4,0
+6,0
+8,0
+10,0
+12,0
+14,0
+Época	1	
+(Dic.)
+Época	2	
+(Ene.)
+Época	3	
+(Feb.)
+Época	4	
+(Mar.)
+Época	5	
+(Abr.)
+Época	6	
+(May.)
+cm
+=====PAGE 11=====
+11
+Choque, et al., 2024Revista Científica UAGRM
+Sobre la longitud de mazorca INIAF (2019) 
+manifiesta que la variedad Morado Criollo 
+presenta una longitud de 14 cm. Por su parte 
+Guzmán (2019), reportó diferencias mínimas entre 
+ambientes, la mayor longitud de la mazorca fue en 
+Mairana con 14,0 cm con relación a “El Vallecito” 
+que presentó 11,4 cm. Los resultados obtenidos 
+en este estudio son inferiores a los reportados por 
+otros autores. Esto puede ser atribuido a diferentes 
+factores como altitud, precipitación, temperatura 
+ambiente, suelo y otros factores que afectan 
+directamente a los componentes de rendimiento.
+Número de hileras por mazorca
+Para esta variable el número de hileras por 
+mazorca presenta valores promedio de 11,5 a 
+12,9 (F 5,15 = 8; p = 0,0007). El mayor número 
+de hileras corresponde a la siembra de diciembre 
+(12,9 en promedio) y el menor número a la 
+siembra de mayo (11,5) (Tukey 95 %). Para 
+la misma variable, el análisis de regresión 
+(R2 =0,81) refleja que el número de hileras se 
+reduce en aproximadamente 81 % conforme se 
+retrasa la época de siembra (Gráfico 5). 
+Gráfico 5. Número de hileras por mazorca 
+registrado en el estudio
+Sobre el maíz morado tipo Kculli, Ortiz (2012) 
+menciona que las mazorcas de maíz morado 
+producidas en los valles templados en Bolivia 
+son medianas a pequeñas de forma cónica, de 10 
+a 14 hileras. Sobre el particular INIAF (2019) 
+señala en su catálogo que la variedad Morado 
+Criollo presenta en promedio de 12 a 14 hileras 
+por mazorca. Por su parte Mamani (2021) 
+reporta un rango de 10 a 14 hileras por mazorca 
+en un estudio de caracterización morfológica de 
+28 accesiones de maíz morado realizado a 2.760 
+m s.n.m. en el valle alto de Cochabamba.
+Para el número de hileras por mazorca, 
+Guzmán (2019) sostiene que el ambiente El 
+Vallecito presentó 12,4 hileras por mazorca y el 
+ambiente de Mairana registró 12, 3 hileras por 
+mazorca. El resultado alcanzado en el presente 
+trabajo de investigación se ubica entre el rango 
+reportado e inferior a algunos autores.
+Número de granos por hilera
+El número de granos por hilera presenta un 
+rango de diferencia promedio entre 19,2 y 27,7 
+granos (F 5,15 = 35; p = 0.0001). La mayor 
+cantidad de granos por hilera se registró en las 
+siembras de enero y febrero (27,6 y 27,7 granos 
+respectivamente). El menor número de granos 
+por hilera se encontró en la siembra de mayo 
+(19,2). Los valores de los tratamientos restantes 
+se ubican entre los extremos mencionados 
+(Gráfico 6).
+El análisis de regresión (R2 = 0,93) demuestra, 
+cuando la siembra es de diciembre a febrero, 
+el número de hileras tiende a incrementarse. 
+Después de marzo este número decrece 
+conforme se retrasa la siembra (Gráfico 6).
+13 
+ 
+hileras se reduce en aproximadamente 81  
+conforme se retrasa la época de siembra 
+(Gráfico 5).  
+ 
+Gráfico .  'Tmero de hileras Cor maMorca 
+registrado en el estudio.  
+ 
+Sobre el maíz morado tipo Kculli, Ortiz 
+(2012) menciona que las mazorcas de maíz 
+morado producidas en los valles templados 
+en Boli via son medianas a pequeñas de 
+forma cónica, de 10 a 14 hileras. Sobre el 
+particular INIAF (2019) señala en su 
+catálogo que la variedad Morado Criollo 
+presenta en promedio de 12 a 14 hileras por 
+mazorca. Por su parte Mamani (2021) 
+reporta un rango de 10 a 14 hileras por 
+mazorca en un estudio de caracterización 
+morfológica de 28 accesiones de maíz 
+morado realizado a 2760 m s.n.m. en el valle 
+alto de Cochabamba. 
+Para el número de hileras por mazorca, 
+Guzmán (2019) sostiene que el ambiente El 
+3allecito presentó 12,4 hileras por mazorca 
+y el ambiente de Mairana registró 12,  3 
+hileras por mazorca. El resultado alcanzado 
+en el presente trabajo de investigación se 
+ubica entre el rango reportado e inferior a 
+algunos autores. 
+ 
+'Tmero de granos Cor hilera 
+ 
+El número de granos por hilera presenta un 
+rango de diferencia promedio entre 19, 2 y 
+27,7 granos (F 5, 15 = 35; p<0 .0001). La 
+mayor cantidad de granos por hilera se 
+registró en las siembras de enero y febrero 
+(27,6 y 27, 7 granos, respectivamente). El 
+menor número de granos por hilera se 
+encontró en la siembra de mayo (19, 2). Los 
+valores de los tratamientos restantes se 
+ubican entre los extremos mencionados 
+(Gráfico 6). 
+El análisis de regresión (R 2 = 0, 93) 
+demuestra, cuando la siembra es de 
+diciembre a febrero, el número de hileras 
+tiende a incrementarse. Después de marzo 
+este número decrece conforme se retrasa la 
+siembra (Gráfico 6). 
+ 
+Gráfico . 'Tmero de granos Cor hilera registrado 
+en el estudio. 
+12,9 A
+12,3 ABC
+12,7 AB
+1,89	C
+11,8 BC
+11,5 C
+y	=	-0,2694x	+	13,122
+R²	=	0,81858
+0,0
+2,0
+4,0
+6,0
+8,0
+10,0
+12,0
+14,0
+Época	
+1	(Dic.)
+Época	
+2	
+(Ene.)
+Época	
+3	
+(Feb.)
+Época	
+4	
+(Mar.)
+Época	
+5	
+(Abr.)
+Época	
+6	
+(May.)
+/&ero	
+25,6A
+27,6A
+27,7A
+26,0A
+25,5A
+19,2B
+y	=	-0,7836x2+	4,3449x	+	21,947
+R²	=	0,93545
+0,0
+5,0
+10,0
+15,0
+20,0
+25,0
+30,0
+Época	
+1	
+(Dic.)
+Época	
+2	
+(Ene.)
+Época	
+3	
+(Feb.)
+Época	
+4	
+(Mar.)
+Época	
+5	
+(Abr.)
+Época	
+6	
+(May.)
+/&ero	
+=====PAGE 12=====
+12
+Universidad Autónoma "Gabriel René Moreno" Revista Científica UAGRM
+Gráfico 6. Número de granos por hilera registrado 
+en el estudio
+Sobre el maíz morado raza Kculli, Nogales et 
+al., (2021) señala que la mazorca es de forma 
+cónica cilíndrica, tiene 10 hileras por mazorca 
+con 26 granos por hilera, los granos son de tipo 
+corneo dentado de color negruzco y el marlo 
+es morado con médula blanca. Por su parte, 
+Mamani (2021) en su estudio en el valle alto de 
+Cochabamba reportó un promedio de 26 granos 
+por hilera con un mínimo de 22 y un máximo 
+de 30 granos por hilera. Los valores obtenidos 
+en el presente estudio son similares o mayores 
+a los datos reportados anteriormente, pero se 
+observa que el mayor número de granos por 
+hilera se obtiene con la siembra de febrero 
+(Gráfico 6).
+Rendimiento
+El rendimiento presenta un rango de 627,6 
+a 2366,7 kg/ha (F 5,15 = 68; p = 0,0001). El 
+mayor rendimiento se registró en la siembra 
+de febrero (2366,7 kg/ha) y el menor en la 
+siembra de mayo (627,64 kg/ha) (Gráfico 7). 
+El análisis de regresión (R2 = 0,87) explica que 
+la mejor época de siembra para obtener altos 
+rendimientos es la de febrero (2.366,7 kg/ha) 
+sin diferencia significativa con la de diciembre 
+(2.244,5 kg/ha) y enero (2.291,8 kg/ha). De 
+marzo a mayo son las peores épocas de siembra 
+pues el rendimiento se reduce drásticamente de 
+1255,8 a 627,6 kg/ha (Gráfico 7).
+Gráfico 7. Rendimiento (kg/ha) registrado en el 
+estudio 
+Sobre el rendimiento de maíz morado, en 
+un estudio realizado por INIA (2004) señala 
+que la variedad INIA 601 (Perú) presenta un 
+potencial de rendimiento de 6 t/ha y en campo 
+de agricultores un promedio de 3 t/ha, por su 
+parte, Medina et al., (2020) mencionan que, en 
+la sierra norte de Perú, la variedad INIA 601 
+con buen manejo agronómico puede lograr 
+rendimientos superiores a 2,8 t/ha de grano, 
+superior al promedio nacional de maíz amiláceo. 
+Por su parte, Nazar & Mansilla (2016) 
+mencionan que, en evaluaciones realizadas en 
+Córdoba (Argentina) en trabajos de la variedad 
+Moragro, reporta rendimientos promedios de 
+3,4 t/ha.
+14 
+ 
+ Sobre el maíz morado raza Kculli, Nogales 
+et al., (2021) señalan que la mazorca es de 
+forma cónica cilíndrica, tiene 10 hileras por 
+mazorca con 26 granos por hilera, los granos 
+son de tipo corneo dentado de color 
+negruzco y el marlo es morado con médula 
+blanca. Por su parte Mamani (2021) en su 
+estudio en el valle alto de Cochabamba 
+reportó un promedio de 26 granos por hilera 
+con un mínimo de 22 y un máximo de 30 
+granos por hilera. Los valores obtenidos en 
+el presente estudio son similares o mayores 
+a los datos reportados anteriormente, pero 
+se observa que el mayor número de granos 
+por hilera se obtiene con la siembra de 
+febrero (Figura 6). 
+ 
+Rendimiento 
+ 
+l rendimiento presenta un rango de 627, 6 a 
+2366,7 kg/ha (F 5, 15 = 68; p<0, 0001). El 
+mayor rendimiento se registró en la siembra 
+de febrero (2366, 7 kg/ha) y el menor en la 
+siembra de mayo (627, 64 kg/ha) (Figura 7). 
+El análisis de regresión (R 2 = 0, 87) explica 
+que la mejor época de siembra para obtener 
+altos rendimientos es la de febrero (2366, 7 
+kg/ha) sin diferencia significativa con la de 
+diciembre (2244,5 kg/ha) y enero (2291, 8 
+kg/ha). De marzo a mayo son las peores 
+épocas de siembra pues el rendimiento se 
+reduce drásticamente de 1255, 8 a 627, 6 
+kg/ha (Gráfico 7). 
+ 
+ 
+Gráfico 7.  Rendimiento (kg/ha) registrado en el 
+estudio:  
+ 
+Sobre el rendimiento de maíz morado, en un 
+estudio realizado por INIA (2004) señala que 
+la variedad INIA 601 (Perú) presenta un 
+potencial de rendimiento de 6 t/ha y en 
+campo de agricultores un promedio de 3 t/ha, 
+por su parte, Medina et al ., (2020) 
+mencionan que, en la sierra norte de Perú, la 
+variedad INIA 601 con buen manejo 
+agronómico puede lograr rendimientos 
+superiores a 2, 8 t/ha de grano, superior al 
+promedio nacional de maíz amiláceo.  
+Por su parte, Nazar y Mansilla (2016) 
+menciona que, en evaluacio nes realizadas 
+en Córdoba (Argentina) en trabajos de la 
+variedad Moragro, reporta rendimientos 
+promedios de 3,4 t/ha. 
+Al respecto, en los valles interandinos de 
+Bolivia, Ortiz (2012) menciona que existe 
+una variación de 0,7 a 1,4 t/ha dependiendo 
+2244,5 A
+2291,8 A
+2366,7 A
+1255,8 B
+830,1 BC
+627,6 C
+y	=	-58,057x2+	18,404x	+	2418,9
+R²	=	0,87956
+0,0
+500,0
+1000,0
+1500,0
+2000,0
+2500,0
+Época	
+1	
+(Dic.)
+Época	
+2	
+(Ene.)
+Época	
+3	
+(Feb.)
+Época	
+4	
+(Mar.)
+Época	
+5	
+(Abr.)
+Época	
+6	
+(May.)
+kg/ha
+ 
+25,6A
+27,6A
+27,7A
+26,0A
+25,5A
+19,2B
+y	=	-0,7836x2+	4,3449x	+	21,947
+R²	=	0,93545
+0,0
+5,0
+10,0
+15,0
+20,0
+25,0
+30,0
+Época	1	
+(Dic.)
+Época	2	
+(Ene.)
+Época	3	
+(Feb.)
+Época	4	
+(Mar.)
+Época	5	
+(Abr.)
+Época	6	
+(May.)
+Número	
+=====PAGE 13=====
+13
+Choque, et al., 2024Revista Científica UAGRM
+Al respecto, en los valles interandinos de 
+Bolivia, Ortiz (2012) menciona que existe 
+una variación de 0,7 a 1,4 t/ha dependiendo 
+de las condiciones climáticas, suelo, manejo 
+y las campañas agrícolas; sostiene que sería la 
+principal desventaja para realizar la siembra 
+en mayor escala comparada con las otras 
+variedades nativas de maíz. Por su parte INIAF 
+(2019) manifiesta que la variedad Morado 
+Criollo registra un rendimiento promedio de 
+2 t/ha para los valles de Tarija, Cochabamba, 
+Chuquisaca y Potosí. 
+Por su parte Guzmán (2019) reportó que 
+el mayor rendimiento se encontró en el 
+ambiente de Mairana con 4.822,3 kg/ha, en 
+cambio en El Vallecito presentó 1.311,9 kg/
+ha de rendimiento. En el presente estudio, 
+los rendimientos obtenidos de marzo a mayo, 
+contrastados con los obtenidos por los autores 
+mencionados, son menores, resaltando que los 
+obtenidos por Medina et al., (2020) provienen 
+de siembras entre octubre y diciembre. Sin 
+embargo, las siembras de diciembre a febrero 
+son similares a lo alcanzado en los reportes 
+mencionados. 
+CONCLUSIONES 
+En altura de planta, las siembras de diciembre 
+a febrero presentaron resultados similares, pero 
+a partir de marzo la altura de planta se acortó a 
+medida que se retrasó la siembra. Por su lado la 
+floración (masculina y femenina), ocurre entre 
+55 y 65 días cuando se siembra entre diciembre 
+y febrero, posteriormente la floración y el ciclo 
+del cultivo tiende a alargarse.
+Los componentes de rendimiento se expresaron 
+mejor en las siembras de   diciembre a 
+febrero. A partir de marzo estos componentes 
+decrecen. De esta manera se concluye que la 
+segunda semana de febrero es la mejor época 
+de siembra con un  rendimiento promedio de 
+2,4 t/ha, siempre y cuando las condiciones 
+climáticas sean las mismas que las realizadas 
+en el presente estudio.
+REFERENCIAS BIBLIOGRÁFICAS
+Andrade, F., Otegui, M., Cirilo, A. y Uhart, S. 
+2023. Ecofisiología y manejo del cultivo 
+de maíz. 1a ed. - Balcarce. PDF Archivo 
+Digital: descarga ISBN 978-987-88-8326-7. 
+Asociación de Productores de Oleaginosas 
+y Trigo ANAPO, 2021. Memoria anual. 
+Evolución de la superficie, rendimiento, 
+producción y precio del maíz de verano e 
+invierno. 
+Manual técnico del cultivo de maíz. Santa 
+Cruz de la Sierra Bolivia. 69 p. Centro 
+de Investigación Agrícola Tropical CIAT, 
+2022. Diagnóstico de fertilidad de suelos. 
+Análisis de muestra del suelo de la huerta 
+de la facultad de ciencias agrícolas. (2008). 
+Santa Cruz Bolivia.
+CIMMYT (1995). 23 Manejo de los ensayos 
+e informe de los datos para el Programa de 
+Ensayos Internacionales de Maíz. 
+=====PAGE 14=====
+14
+Universidad Autónoma "Gabriel René Moreno" Revista Científica UAGRM
+Cruzado, L. (2008).  Efecto de la fertilización 
+fosforo - potásica en el cultivo de maíz 
+morado (Zea mays L.) . Tesis para optar 
+el título de Ing. agrónomo. Lima, Perú. 
+UNALM. 87.
+Cuellar, D. (2022).  Recomendaciones y 
+calendario de siembra por zonas para maíz en 
+Santa Cruz. Desarrollista de Agricomseed. 
+Semillas de maíz y sorgo  (V ol. 1). Santa 
+Cruz; Bolivia.
+Evaluación preliminar de las características 
+agronómicas del maíz morado (Kculli) (Zea 
+mays L.) , en dos ambientes contrastantes 
+del departamento de Santa Cruz. (2017). 
+Bolivia: UAGRM. Santa Cruz - Bolivia.
+INIA 601, variedad mejorada de maíz morado 
+para la sierra norte del Perú. Estación 
+Experimental Agraria Baños del Inca - 
+Cajamarca. Cajamarca, Perú. (2004).
+INIA 601, variedad mejorada de maíz morado 
+para la sierra norte del Perú. Boletín técnico 
+de la estación experimental agraria Baños 
+del Inca Cajamarca. (2018).
+Guzmán, 0. 2019. Evaluación preliminar de 
+las características agronómicas del maíz 
+morado (Kculli) (Zea mays L.) , en dos 
+ambientes contrastantes del departamento 
+de Santa Cruz, Bolivia verano 2017-
+2018. Tesis de grado carrera de ingeniería 
+agronómica. UAGRM. Santa Cruz – 
+Bolivia. 49 p.
+Agricultura. (2020, junio 18). Recuperado el 3 
+de junio de 2024, de INE website: https://
+www.ine.gob.bo/index.php/estadisticas-
+economicas/agropecuaria/agricultura-
+cuadros-estadisticos/.
+Catálogo de variedades del INIAF al 2019. 
+Dirección Nacional de Innovación. 
+Depósito Legal 4-1-161-19 PO. (2019). La 
+Paz Bolivia.
+Estudio de zonificación para el uso de maíz 
+GM en Bolivia. Gobierno del Estado 
+Plurinacional de Bolivia. Ministerio de 
+Desarrollo Rural y Tierras. (2020). 101.
+Mamani, R. (2021).  Tesis de grado de la 
+Universidad Autónoma Gabriel René 
+Moreno, Facultad Integral de Ichilo, 
+Carrera de ingeniería agropecuaria. 64.
+Manrique, A. (1997).  El maíz en el Perú. 
+Consejo nacional de ciencia y tecnología 
+(CONCYTEC). Lima, Perú. 362.
+Medina-Hoyos, A., Narro-León, L. A., & 
+Chávez-Cabrera, A. (2020). Cultivo de maíz 
+morado (Zea mays L.)  en zona altoandina 
+de Perú: Adaptación e identificación de 
+cultivares de alto rendimiento y contenido de 
+antocianina. Scientia Agropecuaria, 11(3), 
+291–299.
+Ministerio de Asuntos Campesinos, Indígenas 
+y Agropecuarios MACIA, 2003. Cadenas 
+productivas del maíz. Informe final. La 
+Paz. 189 p.
+=====PAGE 15=====
+15
+Choque, et al., 2024Revista Científica UAGRM
+Nazar, C., & Mansilla, P. (2016).  Primera 
+variedad de maíz morado (Zea mays L.) 
+adaptada a Córdoba MORAGRO. Facultad 
+de Ciencias Agropecuarias.
+Nogales-Ascarrunz, P., Aliaga-Rossel, E., & 
+Murillo, R. (2021). La diversidad del maíz 
+nativo en Bolivia. Ministerio de medio 
+ambiente y agua. Estado plurinacional de 
+Bolivia. 27.
+Ortiz, A. (2012). Los maíces en la seguridad 
+alimentaria de Bolivia. Centro de 
+Investigación y Promoción del 
+Campesinado (CIPCA)  (V ol. 202). Santa 
+Cruz; Bolivia.
+Pedraza, G. M. (2017).  Densidad de siembra 
+y comportamiento agronómico de tres 
+variedades de maíz morado (Zea mays L.) . 
+revista ECI Perú. 14, 20–40.
+Pinedo, T. R. E. (2015). Universidad Nacional 
+Agraria La Molina. Tesis para optar el 
+grado de magister scientiae en producción 
+agrícola, Lima- Perú. 106.
+Poma, L. (2007).  Efecto de la fertilización 
+química y orgánica con y sin la aplicación 
+de microorganismos eficientes (EM) en el 
+rendimiento de maíz morado (Zea mays L.) 
+cv. PMV-581. 74.
+Serio, L. (2015c). Desarrollo y validación de un 
+modelo del sistema suelo-planta-atmósfera 
+para la estimación de la evapotranspiración 
+real del cultivo de maíz. Tesis doctoral.
+Ciencias Exactas y Naturales  (V ol. 170). 
+Buenos Aires, Argentina.
+Servicio Nacional de Meteorología e Hidrología 
+SENAMHI (Ed.). (2021). Datos climáticos 
+de Santa Cruz Bolivia. Institución técnico 
+científica descentralizada del Ministerio de 
+Medio Ambiente y Agua.
+Solórzano, P. (2017). Disponible en: 
+digaloahidigital.com-Ajuste el rendimiento 
+de su cosecha de granos al 12 de humedad.
+Análisis y caracterización de antocianinas en 
+diferentes variedades de maíz (Zea mays L.) 
+boliviano. (2008). Cochabamba, Bolivia.
+Vásconez, G., Calvache, A., Diaz, G., & 
+Sabando, F. (2010). Determinación de 
+las necesidades hídricas de tres híbridos 
+de maíz (Zea mays L.)  bajo el efecto de 
+tres distanciamientos entre hilera.  En: 
+Memorias XII Congreso.
+Ecuatoriano de la Ciencia del Suelo. 17 
+de noviembre de 2010. Universidad 
+Tecnológica Equinoccial - Postgrados. 
+Santo Domingo, Ecuador. 10 p.
+INFOSTAT, Di Rienzo, JA, Casanoves, F., 
+Balzarini, MG, Gonzalez, L., Tablada, M. 
+y Robledo, CW (2020) InfoStat versión 
+2020. Grupo InfoStat, FCA, Universidad 
+Nacional de Córdoba, Argentina.  
+http://www.infostat.com.ar

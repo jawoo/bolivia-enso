@@ -1,0 +1,21 @@
+# Separate repositories and raw inputs
+Tapiti/
+data/
+weather/cache/
+# Run archives: large merged outputs and logs stay local; INDEX.md and MANIFEST.md are tracked
+runs/*/combinedOutput*.csv*
+runs/*/run.log
+runs/*.log
+runs/phase4/analog_*_combinedOutput.csv.gz
+runs/phase4/analog_*.log
+runs/phase4/ensemble_run.log
+runs/phase4/config.yml.prod.bak
+# Downloadable / regenerable large derived data
+derived/gis/*.geojson
+derived/deck_test_v7/
+derived/phase4/c3s/*.nc
+# Partner documents are not ours to publish
+documents/*.docx
+# Windows download-marker streams and scratch
+*:Zone.Identifier
+__pycache__/

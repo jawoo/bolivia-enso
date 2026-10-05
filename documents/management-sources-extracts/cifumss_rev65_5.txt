@@ -1,0 +1,1077 @@
+
+=====PAGE 1=====
+ Revista de Agricultura, Nro. 65 - Diciembre de 2022 
+ 
+Desarrollo de Tecnologías 
+Evaluación agronómica preliminar del maíz morado 
+variedad Moragro en dos ambientes de Santa Cruz 
+ 
+Víctor Choque Colque 1; José Padilla Ayala 1; Oscar Guzmán Coya 2 
+ 
+1 Instituto de Investigaciones Agrícolas El Vallecito, 
+Facultad de Ciencias Agrícolas, Universidad Autónoma Gabriel René Moreno  
+2 Fundación Trabajo - Empresa 
+ 
+E mail: victorchoquecolque@gmail.com 
+ 
+Resumen. La antocianina vegetal presenta alta demanda mundial por las propiedades 
+antioxidantes, anticancerígenas y otras propiedades benéficas para la salud humana. 
+Para contribuir en atender  a esta demanda, el objetivo del trabajo fue evaluar las princ i-
+pales características agronómicas del maíz morado en el  verano 2017/2018 en dos a m-
+bientes contrastantes: Vallecito (380 msnm) y Mairana (1365 msnm) del departamento 
+de Santa Cruz. Este estudio se ejecutó entre el Instituto de Investigaciones Agrícolas “El 
+Vallecito” de la UAGRM y la empresa AGRO SELLER SRL. La s parcelas fueron establ e-
+cidas en enero de 2018, utilizando la variedad Moragro, bajo las recomendaciones té c-
+nicas para el cultivo de maíz en Bolivia. Las variables evaluadas fueron: días a floración 
+y cosecha, altura de planta e inserción de mazorca y los  componentes de rendimiento. 
+Los resultados permiten concluir que Moragro es una variedad de ciclo intermedio, con 
+plantas de porte medio a bajo; el rendimiento en grano en Mairana, fue superior a los 
+rendimientos que se tiene en las zonas de producción de  maíz morado en Bolivia y supe-
+rior a lo registrado en Vallecito. No fue posible evaluar con precisión la tolerancia o su s-
+ceptibilidad de la variedad a los patógenos e insectos que causan daños en Santa Cruz.  
+ 
+Palabras clave: Antocianinas; Adaptación; Rendimiento 
+ 
+Abstract: Agronomic evaluation of the Moragro purple corn variety (Zea mays L.), 
+in two contrasting environments of Santa Cruz, Bolivia . Plant anthocyanin is a global 
+demand for its antioxidant, anticancer and other beneficial properties for human health. 
+To contribute this demand, this study was carried out the objective to evaluate the main 
+agronomic characteristics of purple corn in summer 2017/2018 in two contrasting env i-
+ronments Vallecito (380 m a.s.l.) and Mairana (1,365 m a.s.l.) in the  department of Santa 
+Cruz. The study was developed between Instituto de Investigaciones Agrícolas El Va -
+llecito, UAGRM and AGRO SELLER S.R.L. Company. The plots were established in Ja n-
+uary 2018 using the Moragro variety under the technical recommendations for the cultiva-
+tion of corn in Bolivia. The variables evaluated were, days to flowering and harvest, plant 
+height and ear insertion, and yield components. The results allow us to conclude that 
+Moragro is an intermediate cycle variety with plants of medium to low size, the yield in 
+Mairana was higher than other production areas in Bolivia, and higher than that recorded 
+in Vallecito. On the other hand, it was not possible to accurately assess the tolerance or 
+susceptibility of the variety to pathogens and insects that cause damage in Santa Cruz. 
+ 
+Keywords: Plant antoncyanin; Yield; Zea mays 
+ 
+ 
+ 
+ 
+ 
+=====PAGE 2=====
+ISSN 1998 - 9652  
+ 
+Desarrollo de Tecnologías 
+Introducción 
+ 
+El maíz ( Zea mays  L.) ocupa el primer 
+lugar en la producción mundial de gr a-
+nos, seguido por el arroz y el trigo . Re-
+presenta una de las fuentes principales de 
+ingreso de medianos y pequeños produ c-
+tores, siendo además el de mayor cobe r-
+tura geog ráfica, con una superficie de 
+185.12 millones de hectáreas sembradas 
+en todo el mundo , y una producción de 
+más de 1018 mil lones de toneladas 
+(FAO, 2015). 
+ 
+En Bolivia se produce principalmente el 
+maíz amarillo duro y el choclero. De 
+acuerdo al INE (2020) la superficie sem-
+brada de maíz amarillo duro híbridos y 
+variedades comerciales fue de 468080 
+hectáreas, equivalente al 98% del total 
+sembrado en Bolivia en la gestión 
+2018/2019, mientras que el área sembr a-
+da con maíz para choclo , alcanzó las 
+9633 hectáreas, es decir el 2% del total 
+de maíz sembrado en Bolivia. Según el 
+INIAF (2020), la producción del maíz 
+choclero, está concentrada principalme n-
+te en las macro regiones de los valles y 
+altiplano. En el caso del departamento de 
+Santa Cruz, el 100% del maíz choclero se 
+cultiva en las provincias de los valles 
+mesotérmicos (Vallegrande, Manuel 
+María Caballero y Florida). 
+ 
+Bolivia es uno de los centros de diversifi-
+cación del género Zea. L a producción 
+como el consumo del maíz morado es 
+importante, pero se ha estudiado  muy 
+poco las antocianinas en variedades bol i-
+vianas (UMSS, 2008). La presencia de 
+antocianinas en las variedades pigment a-
+das del maíz, las hace un producto poten-
+cial para el suministro de colorantes y 
+antioxidantes naturales. Por ello el est u-
+dio de los pigmentos del maíz morado, ha 
+despertado un interés sin precedentes. 
+La diversidad genética del maíz se distr i-
+buye en razas. En América se han orig i-
+nado el 90% de todas las razas. Dos fa c-
+tores son la causa de esa gran diversidad: 
+la variación en usos y la gra n variación 
+ecológica. La diversidad fenotípica del 
+maíz en la región andina , se expresa en 
+una extraordinaria variabilidad en color, 
+tamaño, forma y textura, tanto del grano 
+como de la mazorca. 
+ 
+Ortiz (2012) menciona que el maíz m o-
+rado tipo kculli, es una  variedad nativa 
+perteneciente al Complejo Racial de los 
+Maíces Harinosos de los Valles Templa-
+dos de Bolivia ; su característica más s o-
+bresaliente es el color morado oscuro de 
+las mazorcas. Su distribución en Bolivia 
+es muy amplia, aunque destacan los cu l-
+tivos en el departamento de Chuquisaca, 
+en las provincias Zudañez y Tomina. Al 
+respecto, el MACIA  (2003), señala que 
+su área de distribución se encuentra en 
+los valles de Cochabamba, Norte de 
+Chuquisaca, valles de Tarija, Saavedra de 
+Potosí y Caballero de Sa nta Cruz. Se la 
+cultiva entre altitudes de 2000 a 3400 
+msnm. 
+ 
+La antocianina presente en el maíz mor a-
+do es un antioxidante natural que retarda 
+el envejecimiento celular, principalmente 
+por los mecanismos de acción de la ci a-
+nidina-3-β-glucósido, pelargonidina -3-β-
+glucósido, peonidina -3- β-glucósido, 
+ácidos fenólicos, quercetina y hesperidina 
+(Salinas et al ., 2013). Los componentes 
+químicos en el maíz morado son: ácido 
+salicílico, grasas, resinas, saponinas, 
+sales de potasio y sodio, azufre y fósforo, 
+y sus compuestos fenólicos (Arroyo et 
+al., 2010). Los compuestos fenólicos 
+contenidos en el maíz morado, actúan 
+como antioxidantes, secuestrando esp e-
+cies reactivas de oxígeno e inhibiendo las 
+enzimas productoras de radicales libre s 
+(Atmani et al., 2011). 
+=====PAGE 3=====
+ Revista de Agricultura, Nro. 65 - Diciembre de 2022 
+ 
+Desarrollo de Tecnologías 
+Dentro de los compuestos fenólicos, se 
+tiene a las antocianinas; concretamente, 
+pigmentos hidrosolubles ampliamente 
+distribuidos en el reino vegetal (Aguilera 
+et al., 2011). 
+ 
+El color morado del maíz, es debido a los 
+pigmentos que posee (entre 1 .5 a 6 .0%), 
+llamados antocianinas, que pertenecen al 
+grupo de flavonoides, que se constituyen 
+en poderosos antioxidantes naturales y 
+anticancerígenos, con beneficios cada vez 
+más investigados en el mundo (Guillen et 
+al., 2014). El maíz morado  presenta fito-
+nutrientes (o fotoquímicos), que no son ni 
+vitaminas ni minerales , sino sustancias 
+químicas o compuestos dentro los cuales 
+se puede nombrar a los flavonoides, caro-
+tenoides, luteína, terpenos, antocianinas, 
+sulfurorafanos, entre muchos otros. Los 
+fitonutrientes se diferencian de las vit a-
+minas y minerales , porque carecen de 
+valor nutricional, sin embargo, actúan 
+como antioxidantes, protegiendo al ADN 
+celular de los efectos dañinos oxidativos 
+de los radicales libres y evitando mut a-
+ciones que podr ían causar cáncer (Just i-
+niano, 2010). 
+ 
+Ante esta situación la Universidad Aut ó-
+noma Gabriel René Moreno (UAGRM) , 
+por medio de las facultades de: Ciencias 
+Agrícolas (FCA) como Ciencias Exactas 
+y Tecnología, firmó un convenio de tr a-
+bajo interinstitucional con  la empresa 
+AGRO SELLER SRL , para promover 
+estudios de adaptación de maíz morado 
+en Bolivia ( en Santa Cruz), desarrollado 
+por la Facultad de Ciencias Agropecu a-
+rias de la Universidad Nacional de Có r-
+doba (Argentina); el estudio del maíz 
+morado comprende inic ialmente la ev a-
+luación agronómica (adaptación), post e-
+riormente el análisis del contenido de 
+antocianina. Con la información y resul-
+tados a ser generados, se tiene previsto 
+registrar a la variedad Moragro, como 
+una nueva variedad, para iniciar la multi-
+plicación de  semilla de alta categoría y 
+encarar una producción comercial en el 
+departamento de Santa Cruz . Para ello el 
+Instituto de Investigaciones Agrícolas El 
+Vallecito (IIA) de la UAGRM , tomó la 
+iniciativa de realizar las investigaciones 
+preliminares agron ómicas de esta varie-
+dad de maíz morado , planteando el obje-
+tivo de evaluar las principales caracterí s-
+ticas agronómicas del maíz morado (M o-
+ragro) en dos ambientes contrastantes del 
+departamento de Santa Cruz: El Vallecito 
+y Mairana, durante la campaña de verano 
+2017/2018. 
+ 
+Materiales y métodos 
+ 
+Ubicación: El trabajo de investigación 
+fue establecido en dos ambientes  de San-
+ta Cruz, el primero en Vallecito, ubicado 
+en la ciudad de Santa Cruz de la Sierra , 
+en el km 7 .5 al Norte, situad o a 
+17º70’53” de latitud Sur y 63 º14’91” de 
+longitud Oeste, a  una altitud de 380 
+msnm. El segundo ambiente fue Mairana, 
+que se encuentra a 18º08’40” de latitud 
+Sur y 63º56 ’432” de longitud Oeste, a  
+una altitud 1365 msnm, en la provincia 
+Florida. 
+ 
+Material vegetal:  El material vege tal 
+utilizado fue la variedad Moragro, obte-
+nida por la Facultad de Ciencias Agrop e-
+cuarias de la Universidad Nacional de 
+Córdoba (Argentina), a través de seis 
+años de ciclos de selección convergente 
+divergente en diversos ambientes  (Nazar 
+y Mancilla, 2016), que fue enviado al IIA 
+“El Vallecito ”, por la empresa AGRO 
+SELLER SRL, para realizar las primeras 
+investigaciones de adaptación. 
+ 
+Suelos y área experimental:  Para con o-
+cer el grado de fertilidad del suelo, fue 
+realizado el análisis físico químico e n el 
+=====PAGE 4=====
+ISSN 1998 - 9652  
+ 
+Desarrollo de Tecnologías 
+Laboratorio de Suelos de la FCA  de la 
+UAGRM. L os resultados del análisis 
+mostraron que en Mairana, los suelos son 
+de textura franc o arcillo arenos a y en 
+Vallecito son de textura franca; la materia 
+orgánica en ambos ambientes es moder a-
+da, los niveles de nitrógeno son bajos, de 
+fósforo altos y de potasio bajos; el ma g-
+nesio en Mairana es bajo y en Vallecito 
+moderado; el sodio es moderad o, el pH 
+del suelo, en los dos ambientes , es ácido 
+(LAB-SAP, 2018).  El área experimental 
+de los ensayos fue de 396 m2 en Vallecito 
+y 198 m2 en Mairana. 
+ 
+Preparación de suelos, siembra, raleo y 
+cosecha: La preparación de suelos en las 
+dos localidades, fue realizada de forma 
+convencional. L a siembra fue realizada 
+en enero del año 2018, el 15 en Vallecito 
+y 19 en Mairana. Para la siembra se utili-
+zó sembradora manual (matraca) , dejan-
+do caer entre 2 a 3 semillas por golpe , a 
+una distancia de 60 cm entre surcos. A 
+los 20 días después de la siembra  se 
+realizó el raleo, dejando aproximadamen-
+te 4 plantas por metro lineal  para tener 
+una población aproximada mínima de 
+65000 plantas por hectárea. La cosecha 
+fue de forma manual , recolectando solo 
+las mazorcas; esta labor en Vallecito fue 
+realizada el 10 y 11 de junio; en Mairana 
+el 28 de junio del 2018, posteriormente 
+fueron embolsadas, identificadas y trill a-
+das por separado. 
+ 
+Control de malezas e insectos plaga:  El 
+control de malezas fue realizado utiliza n-
+do herbicidas como Nicosulfuron 75% a 
+razón de 0.1 kg/ha, Atrazina a razón de 3 
+litros/ha y el aporque a 20 días  de la 
+siembra, en ambas localidades. El control 
+de insectos, fue realizado con insecticidas 
+como: Triflumuron a razón de 1 .5 l/ha  
+más Thiamethoxam 70%, a razón de 200 
+g/ha y Emamectin Benzoate , a razón de 
+300 g/ha; estos productos fueron utiliz a-
+dos en tre s oportunidades para el control 
+del gusano cogollero ( Spodoptera fr u-
+giperda). 
+ 
+Registro de datos:  Los datos climáticos 
+fueron tomados de l SENAMHI (2018). 
+Para el registro de las principales vari a-
+bles, en cada ambiente se demarcó cuatro 
+puntos de muestreo , cada punto estuvo 
+compuesto por 10 plantas ; el registro de 
+las variables agronómicas fue realizado 
+de acuerdo a lo propuesto por CIMMYT  
+(1985) y el color de grano según el enu n-
+ciado de Rincón  (2011). Los datos regi s-
+trados fueron: altura de planta y mazorca, 
+mazorcas podridas, longitud e hileras por 
+mazorca, diámetro de mazorca y marlo, 
+peso de 100 granos y rendimiento; los 
+datos obtenidos son presentados como 
+promedio de cada variable. 
+ 
+El trabajo realizado tiene un carácter 
+preliminar, en la medida que lo s resulta-
+dos se limitaron a un análisis estadístico 
+descriptivo. No se realizó un análisis 
+inferencial por no contar más que con un 
+tratamiento evaluado (solamente la v a-
+riedad de maíz morado Moragro), por 
+tanto no se dispone de  grados de libertad 
+para un análisis de varianza  y su corre s-
+pondiente comparación de medias. 
+ 
+Resultados y discusión 
+ 
+Precipitación y temperatura: La precipi-
+tación en Vallecito fue 76 6 mm y en 
+Mairana 497 mm. En Vallecito la tempe-
+ratura más alta se presentó en los meses 
+de febrero a abril, con promedio de 27ºC, 
+y la media más baja en los meses de 
+enero y mayo con promedio de 26ºC; en 
+Mairana las temperaturas fueron men o-
+res comparando con Vallecito, el prom e-
+dio más alto se presentó en enero, con 
+22ºC, de febrero a mayo la temperatura  
+bajó a un promedio de 18ºC. 
+=====PAGE 5=====
+ Revista de Agricultura, Nro. 65 - Diciembre de 2022 
+ 
+Desarrollo de Tecnologías 
+Sobre el requerimiento de agua , el CIAT 
+(2008), señala que el maíz requiere a lo 
+largo de su ciclo, entre 400 a 500 mm de 
+precipitación, bien distribuida de acuerdo 
+a la etapa de desarrollo del cultivo. Tol e-
+ra la falta de agua durante el periodo 
+vegetativo y maduración, no así durante 
+la formación de la inflorescencia, flor a-
+ción, formación de estigmas y poliniz a-
+ción, lo que origina severas pérdidas de 
+rendimiento; el encharcamiento durante 
+la floración, puede reducir hasta un 4 0% 
+de rendimiento. Por su parte, Vásconez et 
+al., (2010), mencionan que el cultivo de 
+maíz requiere aproximadamen te 450 a 
+500 mm de agua, con mayor cantidad en 
+la etapa de floración y en el llenado de 
+grano. Un rasgo importante de la s varie-
+dades moradas, es su mayor resistencia a 
+periodos más prolongados de sequía, en 
+comparación con otras variedades de 
+maíz (Ortiz, 2012) . Sobre el maíz, Serio  
+(2015), señala que el período crítico para 
+la determinación del rendimiento es la 
+floración, por ello el maíz se tor na alta-
+mente dependiente de la disponibilidad 
+hídrica, en un período que se extiende 
+aproximadamente desde 15 días antes , 
+hasta 21 días después de la floración. En 
+esta etapa se fija el número de granos por 
+unidad de superficie, variable estrech a-
+mente relacionada con el rendimiento. 
+ 
+En el caso de los ensayos, l a cantidad de 
+lluvia registrada durante el ciclo del cu l-
+tivo fue favorable, aunque su distribución 
+no fue uniforme, por lo tanto, el rend i-
+miento obtenido en Mairana está entre la 
+media general que se  registra en las di s-
+tintas zonas de producción de maíz en el 
+departamento de Santa Cruz, en Vallecito 
+el rendimiento fue menor a la media g e-
+neral. 
+ 
+La temperatura óptima diurna para el 
+crecimiento del maíz, oscila entre 21 a 
+25°C y la nocturna mayor a 14°C, tempe-
+raturas extremas inferiores a 14°C, y 
+mayores a 40°C, afectan el desarrollo 
+normal del cultivo (CIAT, 2008). Por su 
+parte, Manrique (1997) indica que el 
+maíz morado se adapta a las condiciones 
+de sierra media  del Perú, que comprende 
+las laderas, valles y meseta s, localizadas 
+entre los 1800 a 2800 msnm, con temp e-
+ratura media anual de 12° C a 20°C. Con 
+los registros realizados y la literatura 
+consultada sobre la producción de maíz 
+morado, se aprecia que en Vallecito las 
+temperaturas no fueron favorables (pr o-
+medio 26 .5ºC) para que manifieste su 
+potencial productivo ; en cambio, las 
+temperaturas registradas en Miarana 
+(promedio 19 .4ºC), favorecieron a un 
+mejor desarrollo, este factor afecta a los 
+componentes de rendimiento. 
+ 
+VARIABLES FENOLÓGICAS 
+ 
+Días a floración y madurez de cosecha:  
+Se observó diferencias mínimas entre los 
+ambientes, en Vallecito se tuvo menor 
+cantidad de días a floración masculina  y 
+femenina que en Mairana (Figura 1) . 
+Contraria a esta tendencia, l os días a 
+madurez de cosecha en Vallecito fueron 
+mayores que en Mairana Los valores 
+encontrados son inferiores a lo señalado 
+por Mamani (2021) donde, en un estudio 
+de caracterización morfológica de 28 
+accesiones de maíz morado , realizado a 
+2760 msnm en el Valle Alto de Coch a-
+bamba, reporta  que la madurez de cos e-
+cha ocurrió a los 6 meses y  6 días de s-
+pués de la siembra.  Sobre los días a fl o-
+ración, en un estudio de densidad de 
+siembra y comportamiento agronómico 
+de variedades de maíz morado en Perú, 
+Pedraza et al. (2017) reporta 98 días a la 
+floración, con un ciclo vegetativo de 5 a 
+6 meses para la variedad INIA 601,  posi-
+blemente porque esta variedad tolera 
+alturas de 2600 y 2900 msnm. 
+=====PAGE 6=====
+ISSN 1998 - 9652  
+ 
+Desarrollo de Tecnologías 
+ 
+ 
+Figura 1. Días a floración y cosecha, registrada en dos localidades 
+para la variedad de maíz morado Moragro 
+ 
+A diferencia de la variedad Caraz PVM 
+581 sembrada a 1200 a 4000 msnm (P e-
+rú), en la cual, la floración femenina oc u-
+rrió a 55 a 60 días después de la siembra , 
+coincidiendo con los valores registrados 
+en el presente trabajo. Las diferencias 
+encontradas en el ciclo fenológico entre 
+los ambientes, es posible atribuirlos a la 
+altitud, clima y suelo. Los resultados 
+obtenidos permiten calificar a la variedad 
+Moragro, como una  variedad de ciclo 
+intermedio. 
+ 
+ASPECTOS FENOTÍPICOS 
+ 
+Altura de planta y mazorca, diámetro de 
+mazorca y marlo : La mayor altura de 
+planta se presentó en Mairana, también 
+se observa diferencia en la altura de i n-
+serción de la mazorca (Cuadro 1). 
+ 
+Sobre la altura planta e inserción de la 
+mazorca, el INIA (2004) señala  que la 
+variedad INIA 601 presenta una altura de 
+planta de 2.16 m y la inserción de la m a-
+zorca a 1.24 m. 
+ 
+En un estudio de caracterización morf o-
+lógica de 28 accesiones de maíz morado , 
+realizado a 2760 msnm, Mamani (2021) 
+reporta altura de planta mayor a 2 m y la 
+inserción de la mazorca superior a 1 m. 
+Estos valores son superiores a los regi s-
+trados en el presente trabajo y permiten 
+deducir que la variedad evaluada presenta 
+plantas de porte medio a bajo. 
+ 
+Para el diámetro de mazorca y marlo , en 
+el Cuadro 1 se aprecia que el mayor di á-
+metro se registró en Mairana. T ambién 
+se observa diferencias en el diámetro de 
+marlo. 
+ 
+Sobre el diámetro de la mazorca, Poma 
+(2007) menciona que para maíces mora-
+dos, en condiciones locales de La Molina 
+(Perú), reportó un promedio de 4.6 cm en 
+la variedad PMV -581; Cruzado (2009) 
+reportó 4.8 cm bajo las mismas condici o-
+nes para la misma variedad. Por su parte, 
+INIA (2004) menciona  que la variedad 
+INIA 601, presenta 4.6 cm de diámetro. 
+Los resultados obtenidos en el presente 
+trabajo son inferiores a lo señalado por 
+los autores antes mencionados; esta dif e-
+rencia se puede atribuir al comportamien-
+to de la variedad en cada ambiente, suelo, 
+altitud y condiciones climáticas. 
+ 
+Longitud e hileras por mazorca:  Para la 
+longitud de mazorca y e l número de hile-
+ras por mazorca, se observa diferencias 
+mínimas entre los ambientes; la mayor 
+longitud se registró en Mairana. Para la 
+variable número de hileras por mazorca, 
+los resultados son similares en ambos 
+ambientes (Cuadro 1). 
+53 56 57 60 
+135 131 
+Vallecito Mairana
+Días después de la 
+siembra  Días a floración
+masculina
+Días afloración femenina
+Días a madurez de
+cosecha
+=====PAGE 7=====
+ Revista de Agricultura, Nro. 65 - Diciembre de 2022 
+ 
+Desarrollo de Tecnologías 
+Cuadro 1. Variables fenotípicas para la variedad de maíz morado Moragro, 
+en dos localidades de Santa Cruz, evaluadas en la campaña de verano 2020 -2021 
+ 
+Variables evaluadas Unidad Localidades Promedio 
+Vallecito Mairana 
+Aspectos fenotípicos     
+Altura de planta m 1.29 1.70 1.50 
+Altura de inserción de mazorca m 0.55 0.86 0.71 
+Diámetro de mazorca cm 3.0 4.3 3.6 
+Diámetro de marlo cm 1.9 2.8 2.3 
+Longitud de mazorca cm 11.4 14.0 12.7 
+Hileras por mazorca número 12.4 12.3 12.4 
+ 
+En un estudio de fertilización de maíz 
+morado, Pinedo (2015) reporta que  el 
+mayor promedio de longitud de mazorca 
+fue de 13.81 cm con el nivel 120 -110-80, 
+y el menor promedio con el nivel 120-90-
+60, con 12.99 cm. 
+ 
+Sobre el maíz morado tipo kculli, Ortiz 
+(2012) menciona que las mazorcas pr o-
+ducidas en los valles templados en Bol i-
+via, son medianas a pequeñas, de forma 
+cónica, de 10 a 14 hileras; los granos son 
+grandes, de forma ovoide de color violeta 
+intenso casi negro, y de consistencia h a-
+rinosa. 
+ 
+Por su parte, Mamani (2021), indica un 
+rango de 10 a 14 hileras por mazorca en 
+un estudio de caracterización morfológ i-
+ca de 28 accesiones de maíz morado, 
+realizado a 2760 msnm en el Valle Alto 
+de Cochabamba. Sobre el maíz morado  
+raza kculli (Nogales et al., 2021) señalan 
+que la mazorca es de forma cónica cilí n-
+drica, tiene 10 hileras por  mazorca, con 
+26 granos por hilera, los granos son de 
+tipo corneo dentado, de color negruzco y 
+el marlo es morado con médula blanca. 
+El resultado alcanzado en el presente 
+trabajo reporta valores similares a lo 
+mencionado por los diferentes autores. 
+En otro s trabajos de investigación real i-
+zados en condiciones de mayor altitud, 
+con maíz morado, Huamán (2001) repo r-
+ta 9.76 hileras para la variedad INIA 615 
+(Negro Canaán); De La Cruz (2009) r e-
+porta que la variedad PMV -581, alcanzó 
+un promedio de 10.96 hileras po r mazor-
+ca. 
+ 
+Por otra parte, sobre la longitud de m a-
+zorca, INIA (20 04) manifiesta que la 
+variedad INIA 601, presenta una longitud 
+de 17 .5 cm y entre 10 a 12 hileras por 
+mazorca; estos valores son mayores en 
+longitud de mazorca y menores en núm e-
+ro de hileras, en relación a los  resultados 
+alcanzados en el presente trabajo. 
+ 
+ASPECTOS AGRONÓMICOS 
+ 
+Mazorcas podridas: En el Cuadro 2 se 
+muestra la evaluación de mazorcas p o-
+dridas causadas por varios hongos (Fusa-
+rium sp., Aspergillus sp., Penicillium sp. 
+y otros); la mayor incidencia fue en Va-
+llecito. 
+ 
+ 
+ 
+ 
+=====PAGE 8=====
+ISSN 1998 - 9652  
+ 
+Desarrollo de Tecnologías 
+Cuadro 2. Variables agronómicas para la variedad de maíz morado Moragro, 
+en dos localidades de Santa Cruz, evaluadas en la campaña de verano 2020 -2021 
+ 
+Variables evaluadas Unidad Localidades Promedio 
+Vallecito Mairana 
+Aspectos agronómicos     
+Mazorcas podridas % 23 20 22 
+Peso de 100 semillas g 20.5 29.6 25 
+Rendimiento en grano kg/ha 1312 4822 3067 
+ 
+La diferencia en el número de mazorcas 
+podridas, entre ambientes , se atribuye a 
+la alta humedad relativa registrada en 
+Vallecito, producto de las precipitaci o-
+nes; los resultados concuerdan con lo 
+mencionado por Ortiz  (2012), quién ma-
+nifiesta que otro rasgo importante de la 
+variedad, es su mayor resistencia a perio-
+dos más prolongados de sequía, en co m-
+paración con otras variedades de maíz. 
+Esta característica, a criterio de los pr o-
+ductores, se convierte en un problema 
+cuando hay periodos intensos de lluvia, la 
+disminución del rendimiento repercute en 
+los ingresos finales. Otro de los factores 
+observado en este tipo de maíz, es que es 
+muy apetecido por las aves y esto fue un 
+conducto para el ingreso de los princip a-
+les patógenos que causan la pudrición de 
+la mazorca en planta. 
+ 
+Peso de 100 semillas y rendimiento de 
+grano: En el Cuadro 2  se observa que 
+existen diferencias en el peso de 100 
+granos; en Mairana se presentó el mayor 
+peso; los resultados registrados en el 
+presente trabajo permiten calificar por el 
+tamaño de grano como una variedad con 
+peso d e 100 granos bajo, porque el 
+CIMMYT (1985), clasifica como tamaño 
+pequeño o bajo, a pesos menores a 30 g, 
+intermedio entre 30 a 40 g y alto cuando 
+es mayor a 40 g. 
+ 
+Al respecto, Nazar y Mancilla (2016), 
+menciona que en evaluaciones realizadas 
+en Córdoba (Argentina) en trabajos con 
+la variedad Moragro, encontró que el 
+peso de 100 granos fue de 35.6 g. De la 
+misma forma, el INIA (20 04) menciona  
+que la variedad de maíz INIA 601 (Perú, 
+Sierra Norte) presenta un peso de 45.62 g 
+para 100 granos; los valores mencionados 
+por los autores son mayores a los obten i-
+dos en el presente trabajo; estas difere n-
+cias en peso es posible atribuirlas a la 
+altitud, condiciones de clima y suelo. 
+ 
+Para el rendimiento en grano, el Cuadro 2 
+muestra que el mayor rendimiento se 
+registró en Mairana. 
+ 
+Sobre el rendimiento en maíz morado 
+tipo kcully en Bolivia, Ortiz (2012) me n-
+ciona que presenta una variación de 0.7 a 
+1.4 t/ha, dependiendo de las condiciones 
+climáticas, suelo, manejo y las campañas 
+agrícolas; sostiene que este nivel produ c-
+tivo, sería la principal desventaja para 
+realizar la siembra en mayor escala, 
+comparando con las otras variedades 
+nativas de maíz. Por su parte, Nazar y 
+Mancilla (2016), mencionan que en ev a-
+luaciones realizadas en Córdoba  (Argen-
+tina), con la misma variedad, reporta 
+rendimientos promedios de 3.4 t/ha. 
+ 
+Por su parte, en un estudio realizado por 
+el INIA (2004), se indica que la variedad 
+INIA 601 (Perú),  presenta un potencial 
+de rendimiento de 6 t/ha  y en campo de 
+agricultores un promedio de 3 t/ha; M e-
+=====PAGE 9=====
+ Revista de Agricultura, Nro. 65 - Diciembre de 2022 
+ 
+Desarrollo de Tecnologías 
+dina et al ., 2020) mencionan que en la 
+variedad INIA 601 con buen manejo 
+agronómico, se puede lograr rendimie n-
+tos superiores a 2.8 t/ha de grano, sup e-
+rior al promedio nacional en el Perú, de 
+maíz amiláceo; los rendimientos menci o-
+nados por los autores de Perú son simil a-
+res a los rendimientos obtenidos en el 
+presente trabajo, las diferencias registr a-
+da se puede atribuir a la altitud y temp e-
+ratura, porque el ambiente de Vallecito 
+está a 380 msnm y Mairana a 1365 
+msnm, este último con mejores condici o-
+nes de altitud y temperatura para la pr o-
+ducción de maíz morado. 
+ 
+COLOR DEL GRANO 
+ 
+En el presente trabajo se ha detectado 
+cinco colores de grano (Figura 2), donde 
+predomina el color azul , seguido por el 
+color negro  y en menor porcentaje se 
+ubican los colores rojo oscuro y amarillo. 
+ 
+Sobre los colores de grano , Castillo 
+(2018), menciona que el color del maíz 
+morado depende principalmente de la 
+concentración de antocianinas (pigme n-
+tos), en un conjunto de granos protei cos, 
+conocidos como aleurona, que es la parte 
+que da color al endospermo del maíz  
+morado. 
+ 
+Específicamente para el maíz morado 
+tipo kculli, Ortiz (2012) señala que los 
+granos que no tengan la coloración r e-
+querida (descoloridos) para la venta, son 
+destinados a la alimentación de los an i-
+males. Por su valor comercial, los pr o-
+ductores lo cultivan en superficies may o-
+res en relación a otras variedades de 
+maíz; por esta razón ocupa entre un s e-
+gundo y tercer lugar en la cantidad de 
+terreno destinado, y seg ún la disponibil i-
+dad de recursos, puede representar de 
+10% a 60% de la superficie total. 
+ 
+Se debe recordar que este tipo de maíces 
+es cultivado exclusivamente en la Cord i-
+llera de Los Andes del Perú y Bolivia, 
+tiene un color morado oscuro e intenso y 
+aparentemente si se lo siembra fuera de 
+su hábitat natural, no se obtiene mazorcas 
+del mismo color, probablemente por la 
+temperatura elevada a menor altitud y por 
+la interacción genotipo ambiente. 
+ 
+ 
+ 
+Figura 2. Estimación del color de grano obtenido en Vallecito y Mairana 
+en el estudio: Evaluación de maíz morado, campaña verano 2017-2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31% 
+37% 
+8% 
+18% 
+6% 
+Negro Azul Rojo oscuro Rojo naranja Amarillo
+Porcentaje estimado 
+Colores del grano 
+=====PAGE 10=====
+ISSN 1998 - 9652  
+ 
+Desarrollo de Tecnologías 
+Conclusiones 
+ 
+ El maíz morado variedad Moragro, se 
+puede considerar como de ciclo i n-
+termedio con plantas de altura media a 
+baja. 
+ 
+ La variedad de maíz morado Mora-
+gro, sembrado en Mairana, presenta 
+un rendimiento superior a los rend i-
+mientos que se tiene en las zonas de 
+producción de maíz morado en Bol i-
+via y superior a lo registrado en Va-
+llecito. 
+ 
+ En la parte sanit aria, no se observó 
+síntomas de los principales patógenos. 
+En insectos plaga fue observado el 
+gusano Spodoptera frugiferda (gusano 
+cogollero). La parte sanitaria está s u-
+jeta a posteriores evaluaciones. 
+ 
+Referencias consultadas 
+ 
+Aguilera M., Reza M., Chew  R., Meza J. 
+2011. Propiedades funcionales de las a n-
+tocianinas. Revista de Ciencias Biológicas 
+y de la Salud. 13: 16-22. 
+ 
+Arroyo J., Sáez E., Rodríguez M., Chumpitaz 
+V., Burga J., de la Cruz W. , Valencia J. 
+2010. Reducción del colesterol y aumento 
+de la ca pacidad antioxidante por el co n-
+sumo crónico de maíz morado ( Zea mays 
+L.) en ratas hipercolesterolémicas. Revi s-
+ta Peruana de Medicina Experimental y 
+Salud Publica. 24: 157-162. 
+ 
+Atmani D., Ruiz M., Ruiz, J., Lizcano L., Ba k-
+kali F., Atmani D. 2011. Antioxidant poten-
+tial, cytotoxic activity and phenolic content 
+of Clematis flammula leaf extracts. J. Med. 
+Plants Res. 5: 589-598. 
+ 
+Castillo H. 2018. Estudio de la diversidad 
+genética de maíces de colores. Institu to 
+Mexicano del Maíz, Universidad Autón o-
+ma Agraria Antonio Narro. México. 
+ 
+CIAT (Centro de Investigación Agrícola Trop i-
+cal). 2008. Manual técnico del cultivo de 
+maíz. Santa Cruz de la Sierra , Bolivia. 69 
+p. 
+CIMMYT ( Centro Internacional de Mejor a-
+miento de Maíz y Trigo). 1985. Manual pa-
+ra registro de datos a gronómicos de e n-
+sayos de maíz. México DF. 20 p. 
+ 
+Cruzado L. 2009. Efecto de la fertilización 
+fosforo - potásica en el cultivo de maíz 
+morado (Zea mays L.). Tesis de Licencia-
+tura. Universidad Nacional Agraria “La 
+Molina”, Lima, Perú. 87 p. 
+ 
+De la Cruz E. 2009. Determinación de la 
+madurez fisiológica y calidad de semilla 
+de maíz morado ( Zea mays  L.) en dos 
+densidades de siembra y dos momentos 
+de siembra, Canaán 2750 msnm. Tesis de 
+licenciatura. Universidad Nacional de San 
+Cristóbal de Huamanga. Huamanga, Aya-
+cucho, Perú. 
+ 
+FAO. 2015. Perspectivas agrícolas referentes 
+al maíz, trigo y arroz por sectores princ i-
+pales. Santa Cruz, Bolivia. En línea . Di s-
+ponible en: 
+ http://www.fao.org/docrep/004/y3557s/ 
+y3557s08.htm 
+Consultado el 9 de abril de 2016. 
+ 
+Guillen J. , Arismendi S. , Menacho L. 2014. 
+Características y propiedades funcionales 
+del maíz morado ( Zea mays L.) var. Su b-
+nigroviolaceo. Departamento de Ingeni e-
+ría Agroindustrial, Facultad de Ingeniería, 
+Universidad Nacional del Santa, Anc ash-
+Perú. Scientia Agropecuar ia. En línea . 
+Disponible en: 
+www.sci-agropecu.unitru.edu.pe 
+Consultado el 8 de enero de 2022. 
+ 
+Huamán F. 2001. Estudio de la asociación de 
+maíz morado ( Zea mays ) con tres líneas 
+de frijol ( Phaseolus vulgaris ) en dos m o-
+mentos de siembra. Canaán 2750 msnm. 
+Universidad Nacional de San Cristóbal de 
+Huamanga. Huamanga, Ayacucho, Perú. 
+ 
+INE. Instituto Nacional de Estadística. 2020. 
+Bolivia, Superficie año agrícola por depa r-
+tamento 1984 -2020. En línea . Disponible 
+en: https://www.ine.gob.bo/index.php/ 
+estadisticas-economicas/agropecuaria/ 
+agricultura-cuadros-estadisticos/ 
+ Consultado el 9 de abril de 2021. 
+ 
+INIA ( Instituto Nacional de Investigación y 
+Extensión Agraria ). 2004. Maíz INIA 601, 
+variedad mejorada de maíz morado para 
+=====PAGE 11=====
+ Revista de Agricultura, Nro. 65 - Diciembre de 2022 
+ 
+Desarrollo de Tecnologías 
+la sierra norte del Perú. Estación Experi-
+mental Agraria Baños del Inca - Cajamar-
+ca. Cajamarca, Perú. Boletín plegable. 
+ 
+INIAF (Instituto Nacional de Innovación Agr o-
+pecuaria y Forestal). 2020. Estudio de z o-
+nificación para el uso de maíz GM en B o-
+livia. Gobierno del Estado Plurinacional de 
+Bolivia. Ministerio de Desarrollo Rural y 
+Tierras. La Paz, Bolivia. 101 p. 
+ 
+Justiniano E. 2010. Fenología e intensidad de 
+color en corontas del maíz morado ( Zea 
+mayz L.) en sus diferentes estados de 
+desarrollo en la localidad de La Molina. 
+Tesis de maestría.  Universidad Nacional 
+Agraria “La Molina”. Lima, Perú. 77 p. 
+ 
+LAB-SAP (Laboratorio de Suelos, Agua y 
+Plantas). 2018. Análisis físico químicos de 
+suelos. Universidad Autónoma Gabriel 
+René Moreno, Facultad de Ciencias Agr í-
+colas. Santa Cruz de la Sierra. 
+ 
+MACIA (Ministerio de Asuntos Campesinos, 
+Indígenas y Agropecuarios). 2003. Cad e-
+nas productivas del maíz. Informe final. La 
+Paz, Bolivia. 189 p. 
+ 
+Mamani R. 2021. Caracterización morfológica 
+de 28 accesiones de maíz morado ( Zea 
+mays L.). Tesis de grado de la  Universi-
+dad Autónoma Gabriel René Moreno, F a-
+cultad Integral de Ichilo, Carrera de Inge-
+niería Agropecuaria. Santa Cruz, Bolivia. 
+64 p. 
+ 
+Manrique A. 1997. El maíz en el Perú. Conse-
+jo Nacional de Ciencia y Tecnología 
+(CONCYTEC). Lima, Perú. 362 p. 
+ 
+Medina A., Narro L., Chávez A. 2020. Cultivo 
+de maíz morado ( Zea mays  L.) en zona 
+altoandina de Perú: Adaptación e identif i-
+cación de cultivares de alto rendimiento y 
+contenido de antocianina. Scientia Agr o-
+pecuaria 11(3): 291-299. 
+ 
+Nazar C., Mansilla P. 2016. Primera variedad 
+de maíz morado ( Zea mays L.) adaptada 
+a Córdoba MORAGRO. Facultad de Cien-
+cias Agropecuarias, Universidad Nacional 
+de Córdoba. Argentina. 
+ 
+Nogales P., Aliaga E. , Murillo R. 2021. La 
+diversidad del maíz nativo en Bolivia. M i-
+nisterio de Medio Ambiente y Agua. Esta-
+do Plurinacional de Bolivia. En línea. Dis-
+ponible en: 
+file:///C:/Users/DELL/Downloads/ 
+2021ELMAIZNATIVOENBOLIVIA 
+2021.pdf 
+Consultado el 27 de abril de 2022. 
+ 
+Ortiz A. 2012. Los maíces en la seguridad 
+alimentaria de Bolivia.  Centro de Invest i-
+gación y Promoción del Campesinado  
+(CIPCA). Santa Cruz, Bolivia. 202 p. 
+ 
+Pedraza M., Idrogo G., Pedraza S.  2017. 
+Densidad de siembra y comportamiento 
+agronómico de tres variedades de maíz 
+morado (Zea mays L.). Revista ECI Perú, 
+volumen 14, número 1: 20-40. 
+ 
+Pinedo T.  2015. Niveles de fertilización en 
+dos variedades de maíz morado ( Zea 
+mays L.) en la localidad de Canaán Aya-
+cucho. Tesis de maestría . Universidad 
+Nacional Agraria “La Molina”.  Lima, Perú. 
+106 p. 
+ 
+Poma l. 2007. Efecto de la fertilización quími-
+ca y orgánica con y sin la aplicación de 
+microorganismos eficientes (EM) en el 
+rendimiento de maíz morado ( Zea mays  
+L.) cv. PMV -581. Tesis de licenciatura . 
+Universidad Nacional Agraria “La Molina” . 
+Lima, Perú. 74 p. 
+ 
+Rincón F. 2011. Guía práctica para la des-
+cripción preliminar de colectas de maíz. 
+Proyecto: Conocimiento de la diversidad y 
+distribución actual del maíz nativo y sus 
+parientes silvestres en México.  En línea . 
+Disponible en: 
+www.biodiversidad.gob.mx/media/1/ 
+genes/files/GuiaPracticaMaiz.pdf 
+Consultado el 13 de mayo del 2019. 
+ 
+Salinas Y., García C., Coutiño B. , Vidal V. 
+2013. Variabilidad en contenido y tipos de 
+antocianinas en granos de color azul m o-
+rado de poblaciones mexicanas de maíz. 
+Rev. Fitotec. Mexican a. Chiapas, México. 
+294 p. 
+ 
+SENAMHI (Servicio Nacional de Meteorología 
+e Hidrología ). 2018. Datos climáticos de 
+Santa Cruz Bolivia. Institución técnico 
+científica descentralizada del Ministerio de 
+Medio Ambiente y Agua. 
+ 
+=====PAGE 12=====
+ISSN 1998 - 9652  
+ 
+Desarrollo de Tecnologías 
+Serio L. 2015. Desarrollo y validación de un 
+modelo del sistema suelo -planta-atmósfera 
+para la estimación de la evapotranspir a-
+ción real del cultivo de maíz. Tesis docto-
+ral. Universidad de Buenos Aires. Facu l-
+tad de Ciencias Exactas y Naturales . 
+Buenos Aires, Argentina. 170 p. 
+ 
+UMSS ( Universidad Mayor de San Simón ). 
+2008. Análisis y caracterización de ant o-
+cianinas en diferentes variedades de maíz 
+(Zea mays  L.) boliviano. Universidad M a-
+yor de San Simón, Cochabamba, Bolivia. 
+Vásconez G., Calvache A., Diaz G. , Sabando 
+F. 2010. Determinación de las necesid a-
+des hídricas de tres híbridos de maíz ( Zea 
+mays L.) bajo el efecto de tres distanci a-
+mientos entre hilera. En: Memorias XII 
+Congreso Ecuatoriano de la Ciencia de l 
+Suelo. 17 de noviembre de 2010. Univer-
+sidad Tecnológica  Equinoccial - Postgra-
+dos. Santo Domingo, Ecuador. 10 p. 
+ 
+ 
+ 
+ 
+ 
+Trabajo recibido el 28 de enero de 2020 - Trabajo aceptado el 16 de agosto de 2022 
+ 
+ 
+ 
+PUBLICACIÓN DESTACADA: 
+ 
+ 
+Manual práctico publi-
+cado por el Proyecto 
+Producción agropecua-
+ria integral y su contri-
+bución a la seguridad 
+alimentaria para mitigar 
+el cambio climático en 
+zonas periurbanas de 
+Vinto, Sipe Sipe y Tiqui-
+paya. 
+ 
+ 
+Describe de manera 
+muy didáctica y práctica, 
+todos los aspectos del 
+manejo productivo de 
+hortalizas en un sistema 
+hidropónico. Herramien-
+ta indispensable para 
+todo productor de este 
+novedoso y destacado 
+sistema de producción, 
+amigable con el medio 
+ambiente. 
+ 
+Mayor información y 
+acceso al documento: 
+ 
+Laboratorio de Biotecno-
+logía Vegetal FCAyP-
+UMSS. 
+Ing. Gino Aguirre V. 
+g.aguirre@umss.edu.bo 
+ 
+ 

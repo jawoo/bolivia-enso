@@ -1,0 +1,6 @@
+requesting seasonal-postprocessed-single-levels {'originating_centre': 'ecmwf', 'system': '51', 'variable': ['2m_temperature_anomaly', 'total_precipitation_anomalous_rate_of_accumulation'], 'product_type': ['monthly_mean'], 'year': ['2026'], 'month': ['09'], 'leadtime_month': ['1', '2', '3', '4', '5', '6'], 'area': [-9, -70, -23.5, -57], 'data_format': 'netcdf'}
+2026-10-05 07:09:56,142 INFO Request ID is 2fb949fd-66b7-4039-8697-d5e24f82f644
+2026-10-05 07:09:56,285 INFO status has been updated to accepted
+2026-10-05 07:10:19,113 INFO status has been updated to running
+2026-10-05 07:11:14,849 INFO status has been updated to successful
+cb89a1340bfe2be49b956dcea5c6fa3f.nc:   0%|          | 0.00/337k [00:00<?, ?B/s]cb89a1340bfe2be49b956dcea5c6fa3f.nc: 100%|██████████| 337k/337k [00:00<00:00, 355kB/s]                                                                                      saved /home/jawoo/Claude/bolivia-enso/derived/phase4/c3s/seas5_2026-09_bolivia.nc 345405 bytes

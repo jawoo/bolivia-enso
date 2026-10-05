@@ -1,0 +1,55 @@
+#!/usr/bin/env python3
+"""Assemble the Phase 4 report (markdown) from derived/phase4/. Usage: python3 analysis/phase4_report.py documents/<out.md> [init e.g. 2026-09]"""
+import sys, os, numpy as np, pandas as pd
+ROOT = os.path.expanduser('~/Claude/bolivia-enso'); P4 = f'{ROOT}/derived/phase4'; OUT = sys.argv[1]; INIT = sys.argv[2] if len(sys.argv) > 2 else '2026-09'
+NAME = {'SB': 'Soya', 'MZ': 'Maíz', 'RI': 'Arroz', 'SG': 'Sorgo', 'WH': 'Trigo'}; CROPS = ['SB', 'MZ', 'RI', 'SG', 'WH']
+cd = pd.read_csv(f'{P4}/analogue_ensemble_conditional.csv'); ser = pd.read_csv(f'{P4}/analogue_ensemble_series.csv'); wt = pd.read_csv(f'{P4}/analogue_weights_{INIT}.csv'); fc = pd.read_csv(f'{P4}/seas5_{INIT}_zone_member_anomalies.csv')
+def f(x, d=0): return '' if pd.isna(x) else f'{x:+.{d}f}'
+nat = cd[(cd.departamento == 'Bolivia') & (cd.zone == 'all')]; nA = ser.analog.nunique()
+conds = ['all 42 analogues', 'El Niño analogues', 'strong EP analogues 1997/2015/2023', 'SEAS5-weighted analogues', 'La Niña analogues']
+L = []; w = L.append
+w(f"# Phase 4 — The 2026/27 campaign: analogue ensemble and forecast conditioning\n\nDraft {pd.Timestamp.today().date()}. Built by `analysis/phase4_*.py` from the Phase 2 reference run's inputs; tables in `derived/phase4/`, figures in `derived/phase4/figures/`. Companion to `PLAN.md` §9 and the Phase 3 report.\n")
+w(f"## 1. Method\n\n**Analogue ensemble.** The 2026/27 campaign is simulated {nA} times with Tapiti, once per past campaign 1983/84–2024/25: observed NASA POWER weather for 1 January 2025 – 25 September 2026 (the real pre-season to date), then the weather of the analogue campaign from 26 September onward, mapped by calendar date through December 2027. The campaign's invierno crops (Santa Cruz sorgo and trigo, sown April–June 2026) fall entirely inside the observed part of the splice, so they are identical across members: for them §4 is a **nowcast of the 2026 season already harvested**, not an outlook. The verano crops and the highland (verano-sown) trigo are the exposed part. Management, soils and cultivars are the Phase 2 reference set; CO₂ is the 2026/27 value. Each member is therefore \"2026/27 if the rest of the season unfolds like campaign A\". Results are reported as % of the mean over all {nA} analogues, i.e. relative to the unconditional expectation for 2026/27 under identical management, which removes the level bias discussed in Phase 2.\n\n**Conditioning.** Three ways of reading the ensemble, from weakest to strongest assumption: (i) all analogues (climatology); (ii) El Niño analogues only, and within them the three strong eastern-Pacific campaigns Phase 3 identified as the relevant class (1997/98, 2015/16, 2023/24); (iii) **SEAS5-weighted**: each analogue weighted by how closely its observed Nov–Mar anomaly (rainfall % and temperature, by zone) matches the ECMWF SEAS5 system-51 ensemble members initialised {INIT} (51 members, Gaussian kernel on standardised distance, averaged over members). (iii) uses the actual seasonal forecast without any daily disaggregation of it; the forecast selects and weights real weather histories.\n")
+# SEAS5 summary
+g = fc.groupby('zone')[['tp_anom_pct', 't2m_anom']].describe(percentiles=[.1, .9])
+w(f"## 2. What the seasonal forecast says (SEAS5, initialised {INIT}, valid Nov 2026 – Mar 2027)\n\n| Zone | Rainfall anomaly, % (member mean) | 10th–90th percentile | T2m anomaly, °C (mean) | 10th–90th |\n|---|---|---|---|---|\n" + '\n'.join(f"| {z} | {f(g.loc[z, ('tp_anom_pct', 'mean')])} | {f(g.loc[z, ('tp_anom_pct', '10%')])} to {f(g.loc[z, ('tp_anom_pct', '90%')])} | {f(g.loc[z, ('t2m_anom', 'mean')], 1)} | {f(g.loc[z, ('t2m_anom', '10%')], 1)} to {f(g.loc[z, ('t2m_anom', '90%')], 1)} |" for z in ['lowland', 'valleys', 'altiplano']) + "\n")
+w("The forecast reproduces the strong-EP El Niño pattern of Phase 3: a robust Altiplano rainfall deficit (every member dry), a mild valley deficit, no rainfall signal in the lowlands but a wide spread, and warmth everywhere — the lowland El Niño impact in this forecast would come through heat and dry spells, not through seasonal rainfall total.\n\n![SEAS5 vs analogues](../derived/phase4/figures/chart_seas5_" + INIT + "_vs_analogues.png)\n")
+top = wt.sort_values('weight', ascending=False).head(8)
+w(f"**Analogue weights.** The three strong-EP campaigns carry {wt[wt.strong_EP_analogue].weight.sum():.0%} of the weight, all El Niño campaigns {wt[wt.category.str.contains('Niño')].weight.sum():.0%}, La Niña {wt[wt.category.str.contains('Niña')].weight.sum():.0%}. Top analogues: " + ', '.join(f"{r.campaign} ({r.weight:.2f})" for r in top.itertuples()) + ".\n")
+# nowcast
+nw = pd.read_csv(f'{P4}/invierno2026_nowcast.csv')
+w("## 3. Invierno 2026 (sown April–June 2026, observed weather): a nowcast\n\nPhase 3 found that the winter crops sown while an El Niño is building do well; invierno 2026 was exactly that season. Simulated yield under the observed 2026 weather against the Phase 2 hindcast, trend-adjusted to 2026 (identical across ensemble members, member s.d. shown to confirm):\n\n| Crop | Department / zone | kha | 2026 simulated, kg/ha | vs hindcast trend | vs last 10 campaigns | Rank in 43 |\n|---|---|---|---|---|---|---|\n" + '\n'.join(f"| {NAME[r.crop]} | {r.departamento} {r.zone} | {r.area_kha:.0f} | {r.yield_2026_kg_ha:.0f} (±{r.member_sd:.0f}) | {f(r.anom_vs_trend_pct)}% | {f(r.anom_vs_last10_pct)}% | {r.rank_of_42} |" for r in nw[(nw.member_sd < 60) & ((nw.departamento == 'Bolivia') | (nw.area_kha > 20))].itertuples()) + "\n\nInvierno 2026 sorgo in Santa Cruz comes out among the best five of the 43 simulated seasons, as the developing-El Niño pattern predicts; this is the part of the 2026/27 campaign that can be checked against INE as soon as the invierno 2026 statistics are published.\n")
+# national table
+w("## 4. Verano 2026/27 national yield outlook, % of the all-analogue mean\n\nMean of the conditioned set; in brackets the 10th–90th percentile across its members; P(≥10% loss) = share of members (or weight) at or below −10%.\n")
+w("| Crop | " + ' | '.join(conds) + " |\n|---|" + '---|' * len(conds))
+for c in ['SB', 'MZ', 'RI', 'WH']:
+    cells = []
+    for cond in conds:
+        r = nat[(nat.crop == c) & (nat.condition == cond)]
+        cells.append(f"{f(r.iloc[0]['mean'])}% [{f(r.iloc[0].p10)}, {f(r.iloc[0].p90)}], P₁₀ {r.iloc[0].p_loss10:.2f}" if len(r) else '—')
+    w(f"| {NAME[c]} | " + ' | '.join(cells) + ' |')
+w("\nTrigo here mixes the Santa Cruz invierno crop (fixed, see §3) with the highland verano crop (exposed); see §5 for the split. Sorgo is omitted: it is an invierno crop in the Santa Cruz plain and belongs to §3.\n\n![analogue distribution](../derived/phase4/figures/chart_2026_27_analogue_distribution.png)\n")
+ep = nat[nat.condition == 'strong EP analogues 1997/2015/2023'].set_index('crop'); sw = nat[nat.condition == 'SEAS5-weighted analogues'].set_index('crop'); en = nat[nat.condition == 'El Niño analogues'].set_index('crop')
+w(f"**Reading.** Under the strong-EP analogues the verano crops lose: soya {f(ep.loc['SB','mean'])}%, maíz {f(ep.loc['MZ','mean'])}%, arroz {f(ep.loc['RI','mean'])}%; highland trigo {f(ep.loc['WH','mean'])}% (national, diluted by the fixed Santa Cruz invierno share). The SEAS5-weighted estimate — the one that uses the actual forecast — sits between the El Niño composite and the strong-EP composite: soya {f(sw.loc['SB','mean'])}%, maíz {f(sw.loc['MZ','mean'])}%, arroz {f(sw.loc['RI','mean'])}%, with P(≥10% loss) for soya {sw.loc['SB','p_loss10']:.2f}, maíz {sw.loc['MZ','p_loss10']:.2f}, arroz {sw.loc['RI','p_loss10']:.2f}. Treat the spread as the result: these are conditional distributions over real seasons, not point forecasts.\n")
+# by zone / department
+w("## 5. By zone and department (SEAS5-weighted and strong-EP; invierno rows are nowcasts and read ~0 by construction)\n")
+sub = cd[(cd.zone != 'all') & cd.condition.isin(['SEAS5-weighted analogues', 'strong EP analogues 1997/2015/2023', 'all 42 analogues'])]
+for c in CROPS:
+    t = sub[sub.crop == c].pivot_table(index=['departamento', 'zone', 'area_kha'], columns='condition', values='mean').reset_index().sort_values('area_kha', ascending=False)
+    t = t[t.area_kha >= 5]
+    if t.empty: continue
+    w(f"**{NAME[c]}** (department × zone with ≥5 kha):\n\n| Department | Zone | kha | SEAS5-weighted | Strong EP analogues |\n|---|---|---|---|---|\n" + '\n'.join(f"| {r.departamento} | {r.zone} | {r.area_kha:.0f} | {f(r['SEAS5-weighted analogues'])}% | {f(r['strong EP analogues 1997/2015/2023'])}% |" for _, r in t.iterrows()) + "\n")
+w("![strong EP map](../derived/phase4/figures/map_2026_27_strongEP_vs_climatology.png)\n")
+# sowing dates
+sd = ser[(ser.departamento == 'Bolivia') & (ser.zone == 'all')].groupby(['crop', 'phase']).sow_doy_median.median().unstack('phase').round(0)
+w("## 6. Sowing dates the onset scan chose (median DOY across cells, by analogue class)\n\n| Crop | El Niño analogues | La Niña | Neutral |\n|---|---|---|---|\n" + '\n'.join(f"| {NAME[c]} | {sd.loc[c, 'El Niño']:.0f} | {sd.loc[c, 'La Niña']:.0f} | {sd.loc[c, 'neutral']:.0f} |" for c in CROPS if c in sd.index) + "\n\nThe rainfall-onset scan is the channel through which a delayed rainy season moves sowing; a later median under El Niño analogues is that mechanism at work.\n")
+w("""## 7. Caveats specific to this estimate
+
+- **It is an outlook conditional on analogue weather, not a prediction of the 2026/27 harvest.** No area response (farmers plant less or switch after a failed onset), no floods, hail, frost damage or pests, no prices. Relative anomalies only; absolute tonnes are not defensible (PLAN §10).
+- **Soya**: Phase 2/3 showed the model gains from rainfall and wet days where the record is indifferent or loses; its El Niño loss here comes through heat and dry spells, which the model gets right in sign. The 2015/16 record (observed +9%, simulated −27%) bounds how wrong a single-season soya number can be.
+- **Altiplano**: the reanalysis under-represents the observed El Niño drying and the model has no potato or quinoa; the SEAS5 Altiplano deficit (−33%) is the strongest signal in the forecast and this tool cannot translate it into the crops that matter there. Altiplano maize results are unresolved (Phase 3).
+- **Three strong-EP analogues** carry most of the conditional signal; the SEAS5 weighting spreads it over more seasons but 40% of the weight still rests on them.
+- **Forecast matching is approximate**: SEAS5 anomalies are relative to its own hindcast climatology (precipitation scaled by the POWER mean) and its 2 m temperature is matched to POWER Tmax; the kernel width is not tuned. The weights change with each monthly SEAS5 release — rerun `analysis/phase4_c3s_fetch.py`, `phase4_forecast_weights.py` and `phase4_summarise.py <weights>` on the 8th of each month.
+- **Observed-to-date splice**: everything before 26 September 2026 is real; as the season advances the splice date moves forward and the spread narrows. The same pipeline supports monthly updates.
+""")
+open(OUT, 'w').write('\n'.join(L)); print('wrote', OUT)

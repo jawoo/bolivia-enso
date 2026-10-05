@@ -1,0 +1,61 @@
+crop,variant,zone,cells,yield_kg_ha_dry,ine_target_dry,ratio,fail_share
+MZ,"stock DSSAT LONG/MEDIUM/SHORT (G2 620/700/820, G3 6.0/8.5/6.6)",altiplano,6,854,1574,0.54,0.42
+MZ,"stock DSSAT LONG/MEDIUM/SHORT (G2 620/700/820, G3 6.0/8.5/6.6)",lowland,26,2295,2506,0.92,0.0
+MZ,"stock DSSAT LONG/MEDIUM/SHORT (G2 620/700/820, G3 6.0/8.5/6.6)",valleys,13,4458,1817,2.45,0.0
+MZ,"stock, G2 x0.85",altiplano,6,840,1574,0.53,0.42
+MZ,"stock, G2 x0.85",lowland,26,2024,2506,0.81,0.0
+MZ,"stock, G2 x0.85",valleys,13,3979,1817,2.19,0.0
+MZ,"stock, G2 x0.70",altiplano,6,820,1574,0.52,0.42
+MZ,"stock, G2 x0.70",lowland,26,1753,2506,0.7,0.0
+MZ,"stock, G2 x0.70",valleys,13,3430,1817,1.89,0.0
+MZ,"stock, G2 x0.55",altiplano,6,759,1574,0.48,0.42
+MZ,"stock, G2 x0.55",lowland,26,1481,2506,0.59,0.0
+MZ,"stock, G2 x0.55",valleys,13,2851,1817,1.57,0.0
+MZ,L stock | V M-phen G2 490 G3 5.0 | A S G3 8.5,altiplano,6,1103,1574,0.7,0.42
+MZ,L stock | V M-phen G2 490 G3 5.0 | A S G3 8.5,lowland,26,2295,2506,0.92,0.0
+MZ,L stock | V M-phen G2 490 G3 5.0 | A S G3 8.5,valleys,13,2013,1817,1.11,0.0
+MZ,L G2 682 | V G2 525 G3 5.5 | A M stock,altiplano,6,1107,1574,0.7,0.58
+MZ,L G2 682 | V G2 525 G3 5.5 | A M stock,lowland,26,2476,2506,0.99,0.0
+MZ,L G2 682 | V G2 525 G3 5.5 | A M stock,valleys,13,2340,1817,1.29,0.0
+MZ,"L stock | V G2 420 G3 5.0 | A S G3 10 (chosen L=F, V=G, A=G)",altiplano,6,1287,1574,0.82,0.42
+MZ,"L stock | V G2 420 G3 5.0 | A S G3 10 (chosen L=F, V=G, A=G)",lowland,26,2295,2506,0.92,0.0
+MZ,"L stock | V G2 420 G3 5.0 | A S G3 10 (chosen L=F, V=G, A=G)",valleys,13,1786,1817,0.98,0.0
+RI,UPLRI5 G1 50 (stock),lowland,19,3927,2567,1.53,0.0
+RI,G1 40 (chosen),lowland,19,2661,2567,1.04,0.0
+RI,G1 32.5,lowland,19,1865,2567,0.73,0.0
+RI,G1 25,lowland,19,1172,2567,0.46,0.0
+SG,N.AMERICAN G2 6.0 (stock),lowland,31,3491,1949,1.79,0.0
+SG,N.AMERICAN G2 6.0 (stock),valleys,1,4888,2175,2.25,0.0
+SG,G2 4.5,lowland,31,2728,1949,1.4,0.0
+SG,G2 4.5,valleys,1,3659,2175,1.68,0.0
+SG,G2 3.5,lowland,31,2279,1949,1.17,0.0
+SG,G2 3.5,valleys,1,2735,2175,1.26,0.0
+SG,G2 2.5 (chosen 2.6),lowland,31,1876,1949,0.96,0.0
+SG,G2 2.5 (chosen 2.6),valleys,1,2139,2175,0.98,0.0
+WH,Yecora_Rojo stock,altiplano,6,1300,828,1.57,0.0
+WH,Yecora_Rojo stock,lowland,17,2264,1320,1.71,0.0
+WH,Yecora_Rojo stock,valleys,8,1961,1101,1.78,0.02
+WH,G1 16,altiplano,6,1293,828,1.56,0.0
+WH,G1 16,lowland,17,2269,1320,1.72,0.0
+WH,G1 16,valleys,8,1964,1101,1.78,0.02
+WH,G1 10,altiplano,6,1266,828,1.53,0.0
+WH,G1 10,lowland,17,1986,1320,1.5,0.0
+WH,G1 10,valleys,8,1831,1101,1.66,0.02
+WH,G2 45,altiplano,6,1290,828,1.56,0.0
+WH,G2 45,lowland,17,2267,1320,1.72,0.0
+WH,G2 45,valleys,8,1961,1101,1.78,0.02
+WH,G3 1.0,altiplano,6,1298,828,1.57,0.0
+WH,G3 1.0,lowland,17,2265,1320,1.72,0.0
+WH,G3 1.0,valleys,8,1962,1101,1.78,0.02
+WH,G2 45 G3 1.0,altiplano,6,1288,828,1.55,0.0
+WH,G2 45 G3 1.0,lowland,17,2268,1320,1.72,0.0
+WH,G2 45 G3 1.0,valleys,8,1962,1101,1.78,0.02
+WH,G1 15 G2 45 G3 1.0,altiplano,6,1272,828,1.54,0.0
+WH,G1 15 G2 45 G3 1.0,lowland,17,2129,1320,1.61,0.0
+WH,G1 15 G2 45 G3 1.0,valleys,8,1919,1104,1.74,0.02
+WH,ecotype PARUE x0.65,altiplano,6,1476,828,1.78,0.0
+WH,ecotype PARUE x0.65,lowland,17,2090,1320,1.58,0.0
+WH,ecotype PARUE x0.65,valleys,8,2240,1101,2.04,0.02
+WH,ecotype PARUE x0.50,altiplano,6,1574,828,1.9,0.0
+WH,ecotype PARUE x0.50,lowland,17,1864,1320,1.41,0.0
+WH,ecotype PARUE x0.50,valleys,8,2272,1101,2.06,0.02

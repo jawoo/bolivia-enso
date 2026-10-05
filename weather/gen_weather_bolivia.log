@@ -1,0 +1,63 @@
+3568 cells -> 202 MERRA-2 points, 87 1-deg SRAD points; 1981-01-01 .. 2026-09-25 (16704 days)
+3 tiles x 46 yrs x 4 params = 552 requests
+  [100/552] ok=97 cache=0 fail=3 1.4/s ETA 5m
+  [200/552] ok=195 cache=0 fail=5 1.4/s ETA 4m
+  [300/552] ok=294 cache=0 fail=6 1.6/s ETA 3m
+  [400/552] ok=391 cache=0 fail=9 1.5/s ETA 2m
+  [500/552] ok=491 cache=0 fail=9 1.6/s ETA 1m
+fetch: ok=543 cache=0 fail=9 | cached 543/552 in 340s
+** FETCH INCOMPLETE (9 missing). Re-run the same command to resume. **
+3568 cells -> 202 MERRA-2 points, 87 1-deg SRAD points; 1981-01-01 .. 2026-09-25 (16704 days)
+3 tiles x 46 yrs x 4 params = 552 requests
+  [100/552] ok=0 cache=99 fail=1 4.6/s ETA 2m
+  [200/552] ok=0 cache=196 fail=4 4.6/s ETA 1m
+  [300/552] ok=0 cache=296 fail=4 6.8/s ETA 1m
+  [400/552] ok=0 cache=393 fail=7 6.1/s ETA 0m
+  [500/552] ok=0 cache=493 fail=7 7.6/s ETA 0m
+fetch: ok=0 cache=543 fail=9 | cached 543/552 in 67s
+** FETCH INCOMPLETE (9 missing). Re-run the same command to resume. **
+3568 cells -> 202 MERRA-2 points, 87 1-deg SRAD points; 1981-01-01 .. 2026-09-25 (16704 days)
+3 tiles x 46 yrs x 4 params = 543 requests
+  [100/543] ok=0 cache=101 fail=0 745.4/s ETA 0m
+  [200/543] ok=0 cache=200 fail=0 778.4/s ETA 0m
+  [300/543] ok=0 cache=300 fail=0 797.4/s ETA 0m
+  [400/543] ok=0 cache=400 fail=0 814.3/s ETA 0m
+  [500/543] ok=0 cache=500 fail=0 823.3/s ETA 0m
+fetch: ok=0 cache=543 fail=0 | cached 543/543 in 1s
+  SRAD: NaN 6.562%  min 0.2  max 37.5
+  TMAX: NaN 0.000%  min -4.8  max 47.3
+  TMIN: NaN 0.000%  min -21.0  max 34.5
+  RAIN: NaN 0.000%  min 0.0  max 849.9
+  ELEV: 92 .. 4532 m, missing 0
+fetch complete - writing .WTH files ...
+  wrote 1000/3568 (33s)
+  wrote 2000/3568 (66s)
+  wrote 3000/3568 (100s)
+  pre-1984 SRAD estimate, in-sample fit on 1984-2026 across 3568 cells: RMSE median 3.93 (max 4.97) MJ/m2/d, bias median -0.000
+
+DONE: 3568 .WTH -> /home/jawoo/Claude/bolivia-enso/Tokki-BO/res/weather/1981-2026_bol  | interior -99 days total 3761 | tail truncated by 0..0 days | total 120s
+3568 cells -> 202 MERRA-2 points, 87 1-deg SRAD points; 1981-01-01 .. 2026-09-25 (16704 days)
+3 tiles x 46 yrs x 4 params = 543 requests
+  [100/543] ok=0 cache=100 fail=0 528.5/s ETA 0m
+  [200/543] ok=0 cache=200 fail=0 564.6/s ETA 0m
+  [300/543] ok=0 cache=300 fail=0 592.7/s ETA 0m
+  [400/543] ok=0 cache=400 fail=0 597.4/s ETA 0m
+  [500/543] ok=0 cache=500 fail=0 605.6/s ETA 0m
+fetch: ok=0 cache=543 fail=0 | cached 543/543 in 1s
+  SRAD: interpolated 91 short-gap values
+  TMAX: interpolated 0 short-gap values
+  TMIN: interpolated 0 short-gap values
+  RAIN: interpolated 0 short-gap values
+  RAIN fix 2020-06-04: 34 grid points replaced on ['2020-06-04', '2020-06-05'] (MERRA-2 dry-season artifact, 500-850 mm/day over Cochabamba-Potosi highlands)
+  SRAD: NaN 6.555%  min 0.2  max 37.5
+  TMAX: NaN 0.000%  min -4.8  max 47.3
+  TMIN: NaN 0.000%  min -21.0  max 34.5
+  RAIN: NaN 0.000%  min 0.0  max 269.6
+  ELEV: 92 .. 4532 m, missing 0
+fetch complete - writing .WTH files ...
+  wrote 1000/3568 (39s)
+  wrote 2000/3568 (78s)
+  wrote 3000/3568 (116s)
+  pre-1984 SRAD estimate, in-sample fit on 1984-2026 across 3568 cells: RMSE median 3.93 (max 4.97) MJ/m2/d, bias median -0.000
+
+DONE: 3568 .WTH -> /home/jawoo/Claude/bolivia-enso/Tokki-BO/res/weather/1981-2026_bol  | interior -99 days total 0 | tail truncated by 0..0 days | total 139s

@@ -1,0 +1,530 @@
+departamento,crop,season,sow_year,ine_anom_detrended_pct,phase,category,area_ha
+Beni,MZ,verano,2012,10.158062697186383,neutral,neutral,7861.0
+Beni,MZ,verano,2013,3.795019633270495,neutral,neutral,8202.0
+Beni,MZ,verano,2014,5.744847939509577,El Niño,weak El Niño,8675.69
+Beni,MZ,verano,2015,-0.6429263296628754,El Niño,strong El Niño,8769.69
+Beni,MZ,verano,2016,-7.916302351340035,neutral,neutral,8896.305600000002
+Beni,MZ,verano,2017,-16.051843255085778,La Niña,weak La Niña,8898.0
+Beni,MZ,verano,2018,-27.655754783084053,El Niño,weak El Niño,8925.99091268274
+Beni,MZ,verano,2019,-30.94286962456237,El Niño,weak El Niño,8848.611237560914
+Beni,MZ,verano,2020,47.9609525989835,La Niña,weak La Niña,10944.02515721437
+Beni,MZ,verano,2021,26.441382921594574,La Niña,weak La Niña,11885.62893079653
+Beni,MZ,verano,2022,20.760697943559517,La Niña,weak La Niña,31461.489
+Beni,MZ,verano,2023,-31.65126739034974,El Niño,strong El Niño,28354.0
+Beni,RI,invierno,2012,-32.957785543445205,neutral,neutral,375.0
+Beni,RI,invierno,2013,-27.00274544994367,neutral,neutral,811.62
+Beni,RI,invierno,2014,-28.398659536879606,El Niño,weak El Niño,815.0
+Beni,RI,invierno,2015,140.86148813498576,El Niño,strong El Niño,1248.24
+Beni,RI,invierno,2016,-12.429962866838856,neutral,neutral,1563.0
+Beni,RI,invierno,2017,-8.369812454703716,La Niña,weak La Niña,1600.0
+Beni,RI,invierno,2018,-3.8631479157190256,El Niño,weak El Niño,1463.0
+Beni,RI,invierno,2019,-9.51154976030757,El Niño,weak El Niño,1548.44686497428
+Beni,RI,invierno,2020,-7.120958485496996,La Niña,weak La Niña,1484.537372994856
+Beni,RI,invierno,2021,-10.17812561029094,La Niña,weak La Niña,1531.7968475938274
+Beni,RI,invierno,2022,-10.789699134038562,La Niña,weak La Niña,1562.432784545704
+Beni,RI,invierno,2023,18.119464079059604,El Niño,strong El Niño,1453.2552713907407
+Beni,RI,invierno,2024,-8.358505456385219,neutral,neutral,1281.4044553050255
+Beni,RI,verano,2012,-7.4658592753455615,neutral,neutral,18583.278064999988
+Beni,RI,verano,2013,-5.123305033252339,neutral,neutral,19239.681790776376
+Beni,RI,verano,2014,-4.155447022634835,El Niño,weak El Niño,20251.49
+Beni,RI,verano,2015,-9.579190561775322,El Niño,strong El Niño,20089.0
+Beni,RI,verano,2016,14.96698100477494,neutral,neutral,28378.0
+Beni,RI,verano,2017,11.465935633459656,La Niña,weak La Niña,30071.0
+Beni,RI,verano,2018,13.382351515492626,El Niño,weak El Niño,39465.88432137091
+Beni,RI,verano,2019,-3.5379492997564217,El Niño,weak El Niño,35248.04963081046
+Beni,RI,verano,2020,6.375888017807065,La Niña,weak La Niña,37357.0
+Beni,RI,verano,2021,-7.329755032670385,La Niña,weak La Niña,43334.12
+Beni,RI,verano,2022,16.597454858556322,La Niña,weak La Niña,42141.84
+Beni,RI,verano,2023,-25.597104804652272,El Niño,strong El Niño,42673.0
+Beni,SB,invierno,2012,-0.6554065140538399,neutral,neutral,1673.0
+Beni,SB,invierno,2013,-5.480161713133538,neutral,neutral,1713.9885
+Beni,SB,invierno,2014,26.355527776600002,El Niño,weak El Niño,1245.0
+Beni,SB,invierno,2015,55.065733935930204,El Niño,strong El Niño,1446.7
+Beni,SB,invierno,2016,-44.72625612038983,neutral,neutral,1542.0
+Beni,SB,invierno,2017,-21.31963251930344,La Niña,weak La Niña,1551.0
+Beni,SB,invierno,2018,-16.662154336628454,El Niño,weak El Niño,1499.8617505552604
+Beni,SB,invierno,2019,-12.911474611908169,El Niño,weak El Niño,1487.7687288131608
+Beni,SB,invierno,2020,-10.93759145719246,La Niña,weak La Niña,1505.4660958736845
+Beni,SB,invierno,2021,-16.317997248605025,La Niña,weak La Niña,1917.21931504842
+Beni,SB,invierno,2022,23.520207058712657,La Niña,weak La Niña,2430.639684554389
+Beni,SB,invierno,2023,26.241492958425006,El Niño,strong El Niño,2581.0
+Beni,SB,invierno,2024,-2.1722872084555624,neutral,neutral,1823.122726082062
+Beni,SB,verano,2012,-3.394796906182138,neutral,neutral,2093.4333333333334
+Beni,SB,verano,2013,11.516621235164717,neutral,neutral,2336.0115
+Beni,SB,verano,2014,8.598015450359346,El Niño,weak El Niño,3089.0
+Beni,SB,verano,2015,-8.402117019489571,El Niño,strong El Niño,2943.3
+Beni,SB,verano,2016,-11.978069470463385,neutral,neutral,3052.0
+Beni,SB,verano,2017,-15.460133386824056,La Niña,weak La Niña,3050.0
+Beni,SB,verano,2018,10.49573052960663,El Niño,weak El Niño,4300.7950669804
+Beni,SB,verano,2019,7.94623810949486,El Niño,weak El Niño,6006.54
+Beni,SB,verano,2020,2.4621407416836014,La Niña,weak La Niña,7792.79
+Beni,SB,verano,2021,-8.29290442669286,La Niña,weak La Niña,7839.789
+Beni,SB,verano,2022,13.554418875679058,La Niña,weak La Niña,11113.5
+Beni,SB,verano,2023,-7.045143732317115,El Niño,strong El Niño,17262.0
+Beni,SG,invierno,2012,9.419338896767211,neutral,neutral,523.0
+Beni,SG,invierno,2013,23.747129378879826,neutral,neutral,652.0
+Beni,SG,invierno,2014,37.83465778744111,El Niño,weak El Niño,524.0
+Beni,SG,invierno,2015,-27.723329024169672,El Niño,strong El Niño,568.71
+Beni,SG,invierno,2016,-13.42148808829499,neutral,neutral,491.0
+Beni,SG,invierno,2017,-32.7697495473926,La Niña,weak La Niña,483.3107365687689
+Beni,SG,invierno,2018,-15.920766273327363,El Niño,weak El Niño,514.3402455229229
+Beni,SG,invierno,2019,-15.777547701811681,El Niño,weak El Niño,518.4171054442581
+Beni,SG,invierno,2020,-8.162383111134083,La Niña,weak La Niña,515.15561750719
+Beni,SG,invierno,2021,9.005539934399625,La Niña,weak La Niña,504.444741008628
+Beni,SG,invierno,2022,3.1023973777727627,La Niña,weak La Niña,515.2543659900191
+Beni,SG,invierno,2023,7.5134989871309825,El Niño,strong El Niño,526.6818659900191
+Beni,SG,invierno,2024,23.152701383738396,neutral,neutral,516.9073180991712
+Bolivia,MZ,invierno,2012,9.19659761762771,neutral,neutral,69293.775825
+Bolivia,MZ,invierno,2013,-2.5820163744000837,neutral,neutral,91100.0284125
+Bolivia,MZ,invierno,2014,-7.539990989198027,El Niño,weak El Niño,120443.7135725
+Bolivia,MZ,invierno,2015,33.93609076225782,El Niño,strong El Niño,86687.58
+Bolivia,MZ,invierno,2016,-40.110566926299555,neutral,neutral,102908.65
+Bolivia,MZ,invierno,2017,8.609674946841421,La Niña,weak La Niña,115396.30917497416
+Bolivia,MZ,invierno,2018,-15.75693052679868,El Niño,weak El Niño,105865.36278331616
+Bolivia,MZ,invierno,2019,-19.067350707258697,El Niño,weak El Niño,107927.9962787418
+Bolivia,MZ,invierno,2020,22.856836003271567,La Niña,weak La Niña,100334.08325062296
+Bolivia,MZ,invierno,2021,4.141804888477791,La Niña,weak La Niña,74764.39070419365
+Bolivia,MZ,invierno,2022,-13.032580924341836,La Niña,weak La Niña,76109.86702311791
+Bolivia,MZ,invierno,2023,60.72565238827631,El Niño,strong El Niño,75505.15000000001
+Bolivia,MZ,invierno,2024,-41.37722015845639,neutral,neutral,65854.37143018699
+Bolivia,MZ,verano,2012,-9.466036274703887,neutral,neutral,386029.224175
+Bolivia,MZ,verano,2013,-5.643142344889853,neutral,neutral,372378.6783420305
+Bolivia,MZ,verano,2014,5.932545769274415,El Niño,weak El Niño,321101.7064275
+Bolivia,MZ,verano,2015,-1.4903497256129745,El Niño,strong El Niño,307626.342
+Bolivia,MZ,verano,2016,5.524449344276529,neutral,neutral,321998.45770728
+Bolivia,MZ,verano,2017,15.411581394064855,La Niña,weak La Niña,346790.83898296254
+Bolivia,MZ,verano,2018,-12.171021659112036,El Niño,weak El Niño,362214.9293773772
+Bolivia,MZ,verano,2019,-3.772428625697394,El Niño,weak El Niño,314931.1071671553
+Bolivia,MZ,verano,2020,24.83801033741759,La Niña,weak La Niña,309528.26187320385
+Bolivia,MZ,verano,2021,-5.555847496217564,La Niña,weak La Niña,333428.5750184605
+Bolivia,MZ,verano,2022,0.48956135631492453,La Niña,weak La Niña,371407.1058309065
+Bolivia,MZ,verano,2023,-14.097322075108213,El Niño,strong El Niño,366873.3147584402
+Bolivia,RI,invierno,2012,-29.96226933521574,neutral,neutral,742.88
+Bolivia,RI,invierno,2013,-23.214556172907578,neutral,neutral,1082.8538
+Bolivia,RI,invierno,2014,-24.05882597637568,El Niño,weak El Niño,1077.1342256
+Bolivia,RI,invierno,2015,119.28249666927142,El Niño,strong El Niño,1504.180060112
+Bolivia,RI,invierno,2016,-8.11755102930348,neutral,neutral,1817.2663116148
+Bolivia,RI,invierno,2017,-6.609455362930607,La Niña,weak La Niña,1840.9581858634
+Bolivia,RI,invierno,2018,-3.0999784312412118,El Niño,weak El Niño,1714.0824852530068
+Bolivia,RI,invierno,2019,-7.421053598099453,El Niño,weak El Niño,1789.536501013217
+Bolivia,RI,invierno,2020,-6.009019932043817,La Niña,weak La Niña,1733.204708771285
+Bolivia,RI,invierno,2021,-7.616097106728921,La Niña,weak La Niña,1779.0096385031418
+Bolivia,RI,invierno,2022,-10.068589802222975,La Niña,weak La Niña,1838.645225226874
+Bolivia,RI,invierno,2023,15.886424670618894,El Niño,strong El Niño,1701.4827270999106
+Bolivia,RI,invierno,2024,-8.99152459281629,neutral,neutral,1559.043893288385
+Bolivia,RI,verano,2012,-8.24662997962561,neutral,neutral,181530.70314166657
+Bolivia,RI,verano,2013,-2.9653356684938053,neutral,neutral,173840.59299077638
+Bolivia,RI,verano,2014,10.978301206231947,El Niño,weak El Niño,165280.2032744
+Bolivia,RI,verano,2015,-13.894445107071931,El Niño,strong El Niño,162399.542939888
+Bolivia,RI,verano,2016,-3.2185778595952277,neutral,neutral,171006.25020466268
+Bolivia,RI,verano,2017,11.316551771217583,La Niña,weak La Niña,167935.49053994863
+Bolivia,RI,verano,2018,11.63466754193999,El Niño,weak El Niño,185567.17535885703
+Bolivia,RI,verano,2019,-3.9597597612766147,El Niño,weak El Niño,174726.5328454651
+Bolivia,RI,verano,2020,6.967451063123065,La Niña,weak La Niña,177011.284389678
+Bolivia,RI,verano,2021,3.883292100402046,La Niña,weak La Niña,201437.5469026916
+Bolivia,RI,verano,2022,16.3446347963946,La Niña,weak La Niña,206387.7768539904
+Bolivia,RI,verano,2023,-28.840150103245204,El Niño,strong El Niño,207666.7329312061
+Bolivia,SB,invierno,2012,-10.24585588557506,neutral,neutral,276209.5355
+Bolivia,SB,invierno,2013,-10.070223939719863,neutral,neutral,282954.875394
+Bolivia,SB,invierno,2014,5.3473894158546225,El Niño,weak El Niño,282465.98049135
+Bolivia,SB,invierno,2015,6.736075515632161,El Niño,strong El Niño,299571.5276767308
+Bolivia,SB,invierno,2016,-0.7645189724312575,neutral,neutral,224013.897118649
+Bolivia,SB,invierno,2017,6.569984213815126,La Niña,weak La Niña,293737.8373976899
+Bolivia,SB,invierno,2018,10.80459337171976,El Niño,weak El Niño,314308.8491482452
+Bolivia,SB,invierno,2019,7.078204333934976,El Niño,weak El Niño,310711.8138529675
+Bolivia,SB,invierno,2020,-3.64082566781471,La Niña,weak La Niña,341468.5094189667
+Bolivia,SB,invierno,2021,-0.1835385529522608,La Niña,weak La Niña,357514.24936496257
+Bolivia,SB,invierno,2022,-8.237761405564124,La Niña,weak La Niña,450898.62763022864
+Bolivia,SB,invierno,2023,11.121281688590516,El Niño,strong El Niño,414055.0628959912
+Bolivia,SB,invierno,2024,-14.514804115488209,neutral,neutral,424860.57786064
+Bolivia,SB,verano,2012,-8.194317697366921,neutral,neutral,1000133.6614999996
+Bolivia,SB,verano,2013,-0.38274765408303824,neutral,neutral,999500.3507989304
+Bolivia,SB,verano,2014,5.122915683196906,El Niño,weak El Niño,1040525.738455098
+Bolivia,SB,verano,2015,8.510958174828039,El Niño,strong El Niño,1036470.5223232692
+Bolivia,SB,verano,2016,-5.194792722749621,neutral,neutral,1039688.0
+Bolivia,SB,verano,2017,-4.704981210242595,La Niña,weak La Niña,1021187.56
+Bolivia,SB,verano,2018,-4.471891453028844,El Niño,weak El Niño,1073664.2597453385
+Bolivia,SB,verano,2019,-4.178242647844281,El Niño,weak El Niño,1191330.47
+Bolivia,SB,verano,2020,21.41623049301456,La Niña,weak La Niña,1119588.6804325706
+Bolivia,SB,verano,2021,11.63012498939989,La Niña,weak La Niña,1191080.102288744
+Bolivia,SB,verano,2022,-4.072012616170828,La Niña,weak La Niña,1373130.48
+Bolivia,SB,verano,2023,-15.481243338953524,El Niño,strong El Niño,1271119.5336158357
+Bolivia,SG,invierno,2012,-11.291753153631241,neutral,neutral,167038.0
+Bolivia,SG,invierno,2013,-13.863516758491409,neutral,neutral,236166.1225
+Bolivia,SG,invierno,2014,19.178277281239847,El Niño,weak El Niño,262930.24287875
+Bolivia,SG,invierno,2015,16.39053823543664,El Niño,strong El Niño,261732.54132927937
+Bolivia,SG,invierno,2016,-28.368761777170697,neutral,neutral,227226.0
+Bolivia,SG,invierno,2017,15.709924962985907,La Niña,weak La Niña,325797.49640120845
+Bolivia,SG,invierno,2018,2.7726760314965992,El Niño,weak El Niño,331920.0859101626
+Bolivia,SG,invierno,2019,1.348020744393198,El Niño,weak El Niño,385999.7773077587
+Bolivia,SG,invierno,2020,38.261875385519616,La Niña,weak La Niña,439540.903625358
+Bolivia,SG,invierno,2021,-43.1705541743615,La Niña,weak La Niña,446377.86808457377
+Bolivia,SG,invierno,2022,-12.199703979341777,La Niña,weak La Niña,428938.1815490178
+Bolivia,SG,invierno,2023,43.170133760857176,El Niño,strong El Niño,571481.2018813378
+Bolivia,SG,invierno,2024,-27.93715655893221,neutral,neutral,482919.9510280575
+Bolivia,SG,verano,2012,-30.426955981603427,neutral,neutral,67493.73563333333
+Bolivia,SG,verano,2013,6.188447447953817,neutral,neutral,39768.8775
+Bolivia,SG,verano,2014,5.413790863947553,El Niño,weak El Niño,24842.60712125
+Bolivia,SG,verano,2015,6.514809004313145,El Niño,strong El Niño,18684.421670720625
+Bolivia,SG,verano,2016,12.254114761243269,neutral,neutral,55922.0
+Bolivia,SG,verano,2017,-5.442587165245144,La Niña,weak La Niña,61932.06583536032
+Bolivia,SG,verano,2018,13.64297033967552,El Niño,weak El Niño,63314.97044950573
+Bolivia,SG,verano,2019,4.6369791895740695,El Niño,weak El Niño,63368.12875702547
+Bolivia,SG,verano,2020,14.449985861323267,La Niña,weak La Niña,61478.96039029455
+Bolivia,SG,verano,2021,-10.538225447720343,La Niña,weak La Niña,57415.94809034383
+Bolivia,SG,verano,2022,9.809896025624363,La Niña,weak La Niña,62277.80284140399
+Bolivia,SG,verano,2023,-26.503224899081452,El Niño,strong El Niño,77361.16089565425
+Bolivia,WH,invierno,2012,9.629046539300044,neutral,neutral,67262.9635
+Bolivia,WH,invierno,2013,-3.529490283889839,neutral,neutral,49632.64717
+Bolivia,WH,invierno,2014,13.24366132930907,El Niño,weak El Niño,115310.00611027
+Bolivia,WH,invierno,2015,-0.45692577338233337,El Niño,strong El Niño,161085.014041344
+Bolivia,WH,invierno,2016,-53.98478504963893,neutral,neutral,106907.56725772604
+Bolivia,WH,invierno,2017,12.894146850809282,La Niña,weak La Niña,122264.13933190834
+Bolivia,WH,invierno,2018,-20.664695379436605,El Niño,weak El Niño,126067.66282167472
+Bolivia,WH,invierno,2019,14.63945496861078,El Niño,weak El Niño,131597.4062610636
+Bolivia,WH,invierno,2020,32.516609316313975,La Niña,weak La Niña,127488.70193295417
+Bolivia,WH,invierno,2021,15.029208571603043,La Niña,weak La Niña,137545.65601127618
+Bolivia,WH,invierno,2022,-2.388563428895616,La Niña,weak La Niña,135175.669661205
+Bolivia,WH,invierno,2023,16.98476707122742,El Niño,strong El Niño,125092.07068587549
+Bolivia,WH,invierno,2024,-33.912434731936145,neutral,neutral,85239.49955826216
+Bolivia,WH,verano,2012,-8.398071502563427,neutral,neutral,62719.62948368336
+Bolivia,WH,verano,2013,-27.377986741320694,neutral,neutral,100269.43842073562
+Bolivia,WH,verano,2014,40.4491020963649,El Niño,weak El Niño,80877.57068973
+Bolivia,WH,verano,2015,-4.199813606267392,El Niño,strong El Niño,68737.27195865598
+Bolivia,WH,verano,2016,-2.518405665200438,neutral,neutral,67478.45892794392
+Bolivia,WH,verano,2017,2.4227949295599798,La Niña,weak La Niña,77304.9422037687
+Bolivia,WH,verano,2018,5.3947316305294795,El Niño,weak El Niño,71645.80766257568
+Bolivia,WH,verano,2019,4.225669361757242,El Niño,weak El Niño,72948.309850875
+Bolivia,WH,verano,2020,4.863174927543171,La Niña,weak La Niña,73734.99436862086
+Bolivia,WH,verano,2021,-7.274599679282296,La Niña,weak La Niña,77416.16895759071
+Bolivia,WH,verano,2022,-5.109347020424705,La Niña,weak La Niña,80112.09
+Bolivia,WH,verano,2023,-2.4772487306911546,El Niño,strong El Niño,78069.72124242908
+Chuquisaca,MZ,verano,2012,-2.101682632667825,neutral,neutral,53747.021
+Chuquisaca,MZ,verano,2013,-5.461568385745069,neutral,neutral,56308.0
+Chuquisaca,MZ,verano,2014,2.5233189198882124,El Niño,weak El Niño,58855.0
+Chuquisaca,MZ,verano,2015,2.0222389473529203,El Niño,strong El Niño,60233.53
+Chuquisaca,MZ,verano,2016,12.137170253096443,neutral,neutral,56304.0
+Chuquisaca,MZ,verano,2017,15.94020020906476,La Niña,weak La Niña,55988.0
+Chuquisaca,MZ,verano,2018,-9.250522347610953,El Niño,weak El Niño,71079.26854110498
+Chuquisaca,MZ,verano,2019,3.965346882714418,El Niño,weak El Niño,62256.51118036833
+Chuquisaca,MZ,verano,2020,-15.002786035974875,La Niña,weak La Niña,66732.75433423682
+Chuquisaca,MZ,verano,2021,-42.34012494148124,La Niña,weak La Niña,68447.7861206267
+Chuquisaca,MZ,verano,2022,18.32485013100687,La Niña,weak La Niña,70099.05728
+Chuquisaca,MZ,verano,2023,19.24355900035656,El Niño,strong El Niño,67871.0
+Chuquisaca,WH,verano,2012,-8.29574910265132,neutral,neutral,16236.32338333333
+Chuquisaca,WH,verano,2013,-14.35463000577184,neutral,neutral,17261.85075
+Chuquisaca,WH,verano,2014,-15.44986011221611,El Niño,weak El Niño,18288.77831725
+Chuquisaca,WH,verano,2015,0.8810329890433038,El Niño,strong El Niño,19214.700996864
+Chuquisaca,WH,verano,2016,30.895236278168277,neutral,neutral,18929.013175489003
+Chuquisaca,WH,verano,2017,29.50395332863464,La Niña,weak La Niña,24000.0
+Chuquisaca,WH,verano,2018,7.516232691455565,El Niño,weak El Niño,15608.1267152448
+Chuquisaca,WH,verano,2019,-1.8096032394595019,El Niño,weak El Niño,18608.12432001543
+Chuquisaca,WH,verano,2020,1.2622417298310182,La Niña,weak La Niña,19864.172711616477
+Chuquisaca,WH,verano,2021,-34.925439788607946,La Niña,weak La Niña,22466.379336838232
+Chuquisaca,WH,verano,2022,9.2310472538088,La Niña,weak La Niña,23211.76
+Chuquisaca,WH,verano,2023,-4.454462022235601,El Niño,strong El Niño,21481.0
+Cochabamba,MZ,verano,2012,-13.595736177512741,neutral,neutral,30226.053175
+Cochabamba,MZ,verano,2013,-8.931505539975797,neutral,neutral,31680.0265875
+Cochabamba,MZ,verano,2014,-7.791411531207945,El Niño,weak El Niño,33132.475
+Cochabamba,MZ,verano,2015,-13.30221258630471,El Niño,strong El Niño,33212.18
+Cochabamba,MZ,verano,2016,8.360079337022578,neutral,neutral,32435.475
+Cochabamba,MZ,verano,2017,52.106333454413885,La Niña,weak La Niña,41185.44564296256
+Cochabamba,MZ,verano,2018,-2.913885772716598,El Niño,weak El Niño,50460.834891758765
+Cochabamba,MZ,verano,2019,13.721649780179964,El Niño,weak El Niño,40147.87423774669
+Cochabamba,MZ,verano,2020,11.618916108462637,La Niña,weak La Niña,41376.39918942173
+Cochabamba,MZ,verano,2021,-0.3282921348595987,La Niña,weak La Niña,44388.60105041164
+Cochabamba,MZ,verano,2022,-30.267332574914807,La Niña,weak La Niña,46305.15579
+Cochabamba,MZ,verano,2023,-8.676602362608113,El Niño,strong El Niño,37406.600784882045
+Cochabamba,RI,verano,2012,-1.416287082218047,neutral,neutral,6009.646876666638
+Cochabamba,RI,verano,2013,-4.283148849360956,neutral,neutral,6294.5
+Cochabamba,RI,verano,2014,-0.8203461152168758,El Niño,weak El Niño,6579.0
+Cochabamba,RI,verano,2015,-1.695460055512946,El Niño,strong El Niño,6660.0
+Cochabamba,RI,verano,2016,-5.301969824636803,neutral,neutral,6321.0
+Cochabamba,RI,verano,2017,1.8175377170031477,La Niña,weak La Niña,6213.0
+Cochabamba,RI,verano,2018,11.916120254551977,El Niño,weak El Niño,6090.30182905006
+Cochabamba,RI,verano,2019,9.761930581092635,El Niño,weak El Niño,6325.600609683354
+Cochabamba,RI,verano,2020,6.744184334481849,La Niña,weak La Niña,6364.817073122235
+Cochabamba,RI,verano,2021,-1.811652320356917,La Niña,weak La Niña,6362.94390237113
+Cochabamba,RI,verano,2022,-9.671567610247621,La Niña,weak La Niña,6351.12052839224
+Cochabamba,RI,verano,2023,-5.239341029561731,El Niño,strong El Niño,6298.983880919308
+Cochabamba,WH,verano,2012,-14.095958920671103,neutral,neutral,17113.137985683363
+Cochabamba,WH,verano,2013,-6.376066727912474,neutral,neutral,17477.5
+Cochabamba,WH,verano,2014,-8.718959626702835,El Niño,weak El Niño,17841.8
+Cochabamba,WH,verano,2015,16.47602353902946,El Niño,strong El Niño,18745.5
+Cochabamba,WH,verano,2016,3.97604126545457,neutral,neutral,18257.63452491761
+Cochabamba,WH,verano,2017,1.0984563347508536,La Niña,weak La Niña,23008.0
+Cochabamba,WH,verano,2018,15.230996723241011,El Niño,weak El Niño,19604.497066833184
+Cochabamba,WH,verano,2019,11.283690233617254,El Niño,weak El Niño,19510.321443097328
+Cochabamba,WH,verano,2020,8.71639591501979,La Niña,weak La Niña,19925.8912898353
+Cochabamba,WH,verano,2021,2.811828927526589,La Niña,weak La Niña,19732.6101443239
+Cochabamba,WH,verano,2022,-22.006953282864366,La Niña,weak La Niña,20885.87
+Cochabamba,WH,verano,2023,-8.395494380485175,El Niño,strong El Niño,22974.0
+La Paz,MZ,verano,2012,-3.0131987490288568,neutral,neutral,13491.0
+La Paz,MZ,verano,2013,0.5809520553625029,neutral,neutral,14848.895
+La Paz,MZ,verano,2014,1.7227897642510748,El Niño,weak El Niño,16212.4614275
+La Paz,MZ,verano,2015,2.8352008487176965,El Niño,strong El Niño,16512.38
+La Paz,MZ,verano,2016,3.4115534548473776,neutral,neutral,16759.78668
+La Paz,MZ,verano,2017,4.255604630796542,La Niña,weak La Niña,16631.393340000002
+La Paz,MZ,verano,2018,-12.74076564666164,El Niño,weak El Niño,18898.984376007
+La Paz,MZ,verano,2019,-0.6743447530425031,El Niño,weak El Niño,17318.998366585667
+La Paz,MZ,verano,2020,1.7843379105020678,La Niña,weak La Niña,17055.667365015444
+La Paz,MZ,verano,2021,0.6328758926378915,La Niña,weak La Niña,17332.966025521622
+La Paz,MZ,verano,2022,-0.4831092223379572,La Niña,weak La Niña,17513.568865497324
+La Paz,MZ,verano,2023,1.6881038139555973,El Niño,strong El Niño,17331.090161302367
+La Paz,RI,verano,2012,-1.5724048138049087,neutral,neutral,5695.629033333329
+La Paz,RI,verano,2013,-1.069628171103514,neutral,neutral,6808.4112
+La Paz,RI,verano,2014,0.5250314119307153,El Niño,weak El Niño,7921.2932744
+La Paz,RI,verano,2015,0.9770448598736825,El Niño,strong El Niño,8007.349939888
+La Paz,RI,verano,2016,-1.7447708824094854,neutral,neutral,6806.7336883852
+La Paz,RI,verano,2017,-0.9094407180215671,La Niña,weak La Niña,7107.0418141366
+La Paz,RI,verano,2018,4.690876806057312,El Niño,weak El Niño,7002.41565682645
+La Paz,RI,verano,2019,3.9928618233816255,El Niño,weak El Niño,7307.875005077116
+La Paz,RI,verano,2020,-1.3385667351374901,La Niña,weak La Niña,7358.784896452227
+La Paz,RI,verano,2021,-1.2449665137983479,La Niña,weak La Niña,7116.570212175519
+La Paz,RI,verano,2022,0.20093547074518697,La Niña,weak La Niña,7236.881794607954
+La Paz,RI,verano,2023,-2.5069725377089136,El Niño,strong El Niño,7156.828804040259
+La Paz,WH,verano,2012,-7.801163037383032,neutral,neutral,2073.858535666664
+La Paz,WH,verano,2013,-7.741011316511345,neutral,neutral,2203.66208
+La Paz,WH,verano,2014,-5.989834387792045,El Niño,weak El Niño,2332.79237248
+La Paz,WH,verano,2015,14.547092270749125,El Niño,strong El Niño,2450.564961792
+La Paz,WH,verano,2016,-0.1557506387051614,neutral,neutral,2203.45837743104
+La Paz,WH,verano,2017,-2.6364614440496923,La Niña,weak La Niña,2399.0
+La Paz,WH,verano,2018,26.367018884127948,El Niño,weak El Niño,3572.86176202392
+La Paz,WH,verano,2019,1.93509284455574,El Niño,weak El Niño,2755.256539291813
+La Paz,WH,verano,2020,-4.588154292505685,La Niña,weak La Niña,2618.989002169795
+La Paz,WH,verano,2021,-2.567600111644829,La Niña,weak La Niña,2709.913136183314
+La Paz,WH,verano,2022,-3.0121016623242007,La Niña,weak La Niña,2855.9
+La Paz,WH,verano,2023,-8.357127108515222,El Niño,strong El Niño,2721.349024029407
+Oruro,WH,verano,2012,-2.3232643979106555,neutral,neutral,697.0542569999998
+Oruro,WH,verano,2013,-12.350713236601775,neutral,neutral,808.4627964022894
+Oruro,WH,verano,2014,-6.178934438030676,El Niño,weak El Niño,791.38
+Oruro,WH,verano,2015,19.16040917052768,El Niño,strong El Niño,831.0
+Oruro,WH,verano,2016,-1.9419109512016128,neutral,neutral,803.09647073645
+Oruro,WH,verano,2017,-3.2237174170234284,La Niña,weak La Niña,817.048235368225
+Oruro,WH,verano,2018,21.942873740465828,El Niño,weak El Niño,1236.972495471383
+Oruro,WH,verano,2019,-2.590334107920396,El Niño,weak El Niño,952.7449495079068
+Oruro,WH,verano,2020,-3.189948148956438,La Niña,weak La Niña,905.3736918473274
+Oruro,WH,verano,2021,-3.1511799074120828,La Niña,weak La Niña,943.0471685862584
+Oruro,WH,verano,2022,0.8450304728350909,La Niña,weak La Niña,1061.7
+Oruro,WH,verano,2023,-6.9983107787503736,El Niño,strong El Niño,955.8638685617764
+Pando,MZ,verano,2012,-2.5890667857958163,neutral,neutral,2308.0
+Pando,MZ,verano,2013,-2.168090921937116,neutral,neutral,2608.5
+Pando,MZ,verano,2014,1.462398306862798,El Niño,weak El Niño,2840.34
+Pando,MZ,verano,2015,2.169912193015006,El Niño,strong El Niño,2882.592
+Pando,MZ,verano,2016,1.6568045037565058,neutral,neutral,2947.78679832
+Pando,MZ,verano,2017,1.3616615182415788,La Niña,weak La Niña,2955.0
+Pando,MZ,verano,2018,0.7661639619299914,El Niño,weak El Niño,2798.2471507054947
+Pando,MZ,verano,2019,0.23442582432322034,El Niño,weak El Niño,2870.3688499551645
+Pando,MZ,verano,2020,-0.23214341365759053,La Niña,weak La Niña,2882.3891331634427
+Pando,MZ,verano,2021,-0.5120441130532918,La Niña,weak La Niña,2890.75838642882
+Pando,MZ,verano,2022,-3.1758437183614014,La Niña,weak La Niña,3377.399495779652
+Pando,MZ,verano,2023,1.025822644677505,El Niño,strong El Niño,3385.0
+Pando,RI,verano,2012,-0.13252829098137467,neutral,neutral,1993.0315
+Pando,RI,verano,2013,-0.9450588461226721,neutral,neutral,2089.5
+Pando,RI,verano,2014,-0.84697068168679,El Niño,weak El Niño,2176.42
+Pando,RI,verano,2015,-0.3970288665682013,El Niño,strong El Niño,2214.193
+Pando,RI,verano,2016,-3.4083371217052996,neutral,neutral,2375.5165162774733
+Pando,RI,verano,2017,-0.38754550922012815,La Niña,weak La Niña,2394.99975813874
+Pando,RI,verano,2018,7.943931070961294,El Niño,weak El Niño,2259.484095359293
+Pando,RI,verano,2019,-0.3416842680302847,El Niño,weak El Niño,2280.016244189133
+Pando,RI,verano,2020,1.9065094387742256,La Niña,weak La Niña,2283.4382689941067
+Pando,RI,verano,2021,4.448695980029604,La Niña,weak La Niña,2318.6909765917494
+Pando,RI,verano,2022,-5.078838922019433,La Niña,weak La Niña,2705.60150329581
+Pando,RI,verano,2023,-2.76114398342489,El Niño,strong El Niño,2369.001203173098
+Potosi,MZ,verano,2012,-7.51749314476889,neutral,neutral,21741.15
+Potosi,MZ,verano,2013,-0.9805203939859541,neutral,neutral,20879.05
+Potosi,MZ,verano,2014,2.7417810674323544,El Niño,weak El Niño,20016.74
+Potosi,MZ,verano,2015,-3.7611232641095427,El Niño,strong El Niño,17256.8
+Potosi,MZ,verano,2016,6.0796399273265935,neutral,neutral,20592.307008000003
+Potosi,MZ,verano,2017,10.61979516502379,La Niña,weak La Niña,21536.0
+Potosi,MZ,verano,2018,-6.247584478076556,El Niño,weak El Niño,20393.587356207627
+Potosi,MZ,verano,2019,3.3643924186642042,El Niño,weak El Niño,20031.50362006921
+Potosi,MZ,verano,2020,3.714588271326056,La Niña,weak La Niña,17890.135883083814
+Potosi,MZ,verano,2021,3.1703536576694913,La Niña,weak La Niña,18264.039723040267
+Potosi,MZ,verano,2022,-8.069784856776641,La Niña,weak La Niña,20625.3648
+Potosi,MZ,verano,2023,-3.1140443697308613,El Niño,strong El Niño,19550.74252711117
+Potosi,WH,verano,2012,-8.701880324987608,neutral,neutral,17700.117588666664
+Potosi,WH,verano,2013,-7.2631538491486864,neutral,neutral,17591.962794333333
+Potosi,WH,verano,2014,-8.126743068567851,El Niño,weak El Niño,17484.24
+Potosi,WH,verano,2015,16.63332892545314,El Niño,strong El Niño,18368.7
+Potosi,WH,verano,2016,1.8456438078511928,neutral,neutral,17905.80680385491
+Potosi,WH,verano,2017,8.484471626098077,La Niña,weak La Niña,17808.253401927454
+Potosi,WH,verano,2018,10.839068559791917,El Niño,weak El Niño,19024.3668046171
+Potosi,WH,verano,2019,0.5883389539972521,El Niño,weak El Niño,18269.28896916943
+Potosi,WH,verano,2020,3.9582279369720084,La Niña,weak La Niña,17525.728908124234
+Potosi,WH,verano,2021,-4.147441429665383,La Niña,weak La Niña,18852.42658646924
+Potosi,WH,verano,2022,-15.528557698146308,La Niña,weak La Niña,19940.88
+Potosi,WH,verano,2023,1.4186965603677846,El Niño,strong El Niño,18511.0
+Santa Cruz,MZ,invierno,2012,9.977522000716064,neutral,neutral,67554.0
+Santa Cruz,MZ,invierno,2013,-2.8302140300942886,neutral,neutral,90000.0
+Santa Cruz,MZ,invierno,2014,-7.7711686639763204,El Niño,weak El Niño,120000.0
+Santa Cruz,MZ,invierno,2015,33.869861997694386,El Niño,strong El Niño,86296.0
+Santa Cruz,MZ,invierno,2016,-40.363016098790055,neutral,neutral,102454.325
+Santa Cruz,MZ,invierno,2017,8.456035829448764,La Niña,weak La Niña,115000.0
+Santa Cruz,MZ,invierno,2018,-15.8862988903788,El Niño,weak El Niño,105445.6813916581
+Santa Cruz,MZ,invierno,2019,-19.190318168050517,El Niño,weak El Niño,107490.675169755
+Santa Cruz,MZ,invierno,2020,22.892179930777594,La Niña,weak La Niña,99914.23991549914
+Santa Cruz,MZ,invierno,2021,4.190168711751992,La Niña,weak La Niña,74340.0
+Santa Cruz,MZ,invierno,2022,-12.949350490582676,La Niña,weak La Niña,75681.6927374302
+Santa Cruz,MZ,invierno,2023,61.025756272481615,El Niño,strong El Niño,75100.0
+Santa Cruz,MZ,invierno,2024,-41.42115840099333,neutral,neutral,65400.0
+Santa Cruz,MZ,verano,2012,-17.175140823354766,neutral,neutral,194713.0
+Santa Cruz,MZ,verano,2013,-11.820851908454857,neutral,neutral,177378.0
+Santa Cruz,MZ,verano,2014,13.378989947269673,El Niño,weak El Niño,122386.0
+Santa Cruz,MZ,verano,2015,5.891316022575252,El Niño,strong El Niño,110781.3
+Santa Cruz,MZ,verano,2016,6.08402425665648,neutral,neutral,126955.0
+Santa Cruz,MZ,verano,2017,4.99319600074944,La Niña,weak La Niña,140800.0
+Santa Cruz,MZ,verano,2018,-15.93499143783439,El Niño,weak El Niño,133980.0
+Santa Cruz,MZ,verano,2019,-2.6929373734836433,El Niño,weak El Niño,106086.95652173914
+Santa Cruz,MZ,verano,2020,50.81598197507876,La Niña,weak La Niña,107444.8695652174
+Santa Cruz,MZ,verano,2021,2.3985320834996786,La Niña,weak La Niña,122353.0
+Santa Cruz,MZ,verano,2022,0.24798122524302105,La Niña,weak La Niña,130918.0
+Santa Cruz,MZ,verano,2023,-36.18609996793801,El Niño,strong El Niño,114434.66164743324
+Santa Cruz,RI,verano,2012,-9.531064007988093,neutral,neutral,148716.54719999994
+Santa Cruz,RI,verano,2013,-2.8543684891032752,neutral,neutral,138859.0
+Santa Cruz,RI,verano,2014,15.029743878366425,El Niño,weak El Niño,127730.0
+Santa Cruz,RI,verano,2015,-14.955849996176852,El Niño,strong El Niño,124813.0
+Santa Cruz,RI,verano,2016,-7.10392694926894,neutral,neutral,126560.0
+Santa Cruz,RI,verano,2017,12.607145439893017,La Niña,weak La Niña,121591.05
+Santa Cruz,RI,verano,2018,11.080224769446492,El Niño,weak El Niño,130234.814872972
+Santa Cruz,RI,verano,2019,-4.584128147801307,El Niño,weak El Niño,123000.0
+Santa Cruz,RI,verano,2020,7.7725583698209215,La Niña,weak La Niña,123073.8
+Santa Cruz,RI,verano,2021,7.140014874206936,La Niña,weak La Niña,141750.0
+Santa Cruz,RI,verano,2022,17.18679393462252,La Niña,weak La Niña,147402.53
+Santa Cruz,RI,verano,2023,-31.7871436760178,El Niño,strong El Niño,148612.67822404372
+Santa Cruz,SB,invierno,2012,-10.282190629059821,neutral,neutral,274414.0
+Santa Cruz,SB,invierno,2013,-10.10579394916958,neutral,neutral,281137.143
+Santa Cruz,SB,invierno,2014,5.23075693231158,El Niño,weak El Niño,281137.143
+Santa Cruz,SB,invierno,2015,6.500798211950672,El Niño,strong El Niño,298022.05
+Santa Cruz,SB,invierno,2016,-0.4819526684746389,neutral,neutral,222371.0
+Santa Cruz,SB,invierno,2017,6.695322629751644,La Niña,weak La Niña,292085.0
+Santa Cruz,SB,invierno,2018,10.91396633446188,El Niño,weak El Niño,312696.0
+Santa Cruz,SB,invierno,2019,7.155933483150341,El Niño,weak El Niño,309115.198308908
+Santa Cruz,SB,invierno,2020,-3.619399915834291,La Niña,weak La Niña,339857.57404189184
+Santa Cruz,SB,invierno,2021,-0.10505510303004711,La Niña,weak La Niña,355491.0224478189
+Santa Cruz,SB,invierno,2022,-8.394241231123814,La Niña,weak La Niña,448360.0
+Santa Cruz,SB,invierno,2023,11.041412710574154,El Niño,strong El Niño,411368.0
+Santa Cruz,SB,invierno,2024,-14.549556805512145,neutral,neutral,422928.00000000006
+Santa Cruz,SB,verano,2012,-8.238759255482096,neutral,neutral,987288.0851999996
+Santa Cruz,SB,verano,2013,-0.39845054692848336,neutral,neutral,986706.2048595968
+Santa Cruz,SB,verano,2014,5.19931891819873,El Niño,weak El Niño,1026086.857
+Santa Cruz,SB,verano,2015,8.60929329619946,El Niño,strong El Niño,1023562.0
+Santa Cruz,SB,verano,2016,-5.193797921613483,neutral,neutral,1026633.0
+Santa Cruz,SB,verano,2017,-4.816475881571773,La Niña,weak La Niña,1008000.0
+Santa Cruz,SB,verano,2018,-4.643780111638667,El Niño,weak El Niño,1058290.0
+Santa Cruz,SB,verano,2019,-4.358263394570008,El Niño,weak El Niño,1171625.0
+Santa Cruz,SB,verano,2020,21.863888191495228,La Niña,weak La Niña,1090551.0
+Santa Cruz,SB,verano,2021,11.976605976116566,La Niña,weak La Niña,1151378.0
+Santa Cruz,SB,verano,2022,-4.694841003349538,La Niña,weak La Niña,1319509.33
+Santa Cruz,SB,verano,2023,-15.304738266858198,El Niño,strong El Niño,1214430.0
+Santa Cruz,SG,invierno,2012,-11.283792016670422,neutral,neutral,166500.0
+Santa Cruz,SG,invierno,2013,-13.892823913287227,neutral,neutral,235500.0
+Santa Cruz,SG,invierno,2014,19.150614952228754,El Niño,weak El Niño,262390.0
+Santa Cruz,SG,invierno,2015,16.448267343466185,El Niño,strong El Niño,261134.46
+Santa Cruz,SG,invierno,2016,-28.380202415094598,neutral,neutral,226713.0
+Santa Cruz,SG,invierno,2017,15.723117843198652,La Niña,weak La Niña,325288.5
+Santa Cruz,SG,invierno,2018,2.7783395156768775,El Niño,weak El Niño,331380.0
+Santa Cruz,SG,invierno,2019,1.3471592171961257,El Niño,weak El Niño,385455.422821619
+Santa Cruz,SG,invierno,2020,38.265173633169816,La Niña,weak La Niña,439000.0
+Santa Cruz,SG,invierno,2021,-43.19105696464213,La Niña,weak La Niña,445848.4
+Santa Cruz,SG,invierno,2022,-12.198524538696532,La Niña,weak La Niña,428400.0
+Santa Cruz,SG,invierno,2023,43.16949830964625,El Niño,strong El Niño,570928.0
+Santa Cruz,SG,invierno,2024,-27.93577096619676,neutral,neutral,482380.0
+Santa Cruz,SG,verano,2012,-34.27719620036077,neutral,neutral,61858.0
+Santa Cruz,SG,verano,2013,6.770071266336357,neutral,neutral,35000.0
+Santa Cruz,SG,verano,2014,9.542599278293686,El Niño,weak El Niño,20688.0
+Santa Cruz,SG,verano,2015,10.228680714692857,El Niño,strong El Niño,15000.0
+Santa Cruz,SG,verano,2016,10.921444074996083,neutral,neutral,52020.0
+Santa Cruz,SG,verano,2017,-7.3041779429743965,La Niña,weak La Niña,58141.0
+Santa Cruz,SG,verano,2018,12.273928511943913,El Niño,weak El Niño,59720.2314920948
+Santa Cruz,SG,verano,2019,3.78666077999184,El Niño,weak El Niño,59581.2
+Santa Cruz,SG,verano,2020,14.32515491541326,La Niña,weak La Niña,57660.0
+Santa Cruz,SG,verano,2021,-10.486083129710257,La Niña,weak La Niña,53637.20930232558
+Santa Cruz,SG,verano,2022,10.490981284747763,La Niña,weak La Niña,58538.58
+Santa Cruz,SG,verano,2023,-26.272063553369783,El Niño,strong El Niño,73584.0
+Santa Cruz,WH,invierno,2012,9.883442873248589,neutral,neutral,66878.0
+Santa Cruz,WH,invierno,2013,-3.3179395831756433,neutral,neutral,49300.0
+Santa Cruz,WH,invierno,2014,13.093088680936557,El Niño,weak El Niño,115000.0
+Santa Cruz,WH,invierno,2015,-0.5693838997092282,El Niño,strong El Niño,160595.01
+Santa Cruz,WH,invierno,2016,-54.078846914887876,neutral,neutral,106600.0
+Santa Cruz,WH,invierno,2017,12.621797178647837,La Niña,weak La Niña,121863.20216595418
+Santa Cruz,WH,invierno,2018,-20.95044468447639,El Niño,weak El Niño,125668.0
+Santa Cruz,WH,invierno,2019,13.660402898732007,El Niño,weak El Niño,123348.68
+Santa Cruz,WH,invierno,2020,32.651313904127484,La Niña,weak La Niña,119000.0
+Santa Cruz,WH,invierno,2021,15.159930999986893,La Niña,weak La Niña,129252.56399999998
+Santa Cruz,WH,invierno,2022,-0.7526340779310072,La Niña,weak La Niña,128536.0
+Santa Cruz,WH,invierno,2023,19.18865744509364,El Niño,strong El Niño,117951.0
+Santa Cruz,WH,invierno,2024,-36.58938482059567,neutral,neutral,79050.0
+Santa Cruz,WH,verano,2012,43.33336284929781,neutral,neutral,7578.096900000004
+Santa Cruz,WH,verano,2013,-69.24235574668349,neutral,neutral,43700.0
+Santa Cruz,WH,verano,2014,94.83905575969833,El Niño,weak El Niño,23040.0
+Santa Cruz,WH,verano,2015,-43.58281901429167,El Niño,strong El Niño,8180.989999999991
+Santa Cruz,WH,verano,2016,-29.367306336661166,neutral,neutral,8270.984442568855
+Santa Cruz,WH,verano,2017,-13.02019971860721,La Niña,weak La Niña,8250.0
+Santa Cruz,WH,verano,2018,-14.504463008475543,El Niño,weak El Niño,11165.9848911318
+Santa Cruz,WH,verano,2019,6.34528448365774,El Niño,weak El Niño,11678.99070413874
+Santa Cruz,WH,verano,2020,5.5832191176370705,La Niña,weak La Niña,11764.49167297323
+Santa Cruz,WH,verano,2021,6.573100033787529,La Niña,weak La Niña,11536.489089414588
+Santa Cruz,WH,verano,2022,11.805278757063208,La Niña,weak La Niña,10976.09
+Santa Cruz,WH,verano,2023,1.237842823562939,El Niño,strong El Niño,10256.0
+Tarija,MZ,verano,2012,-1.2522687011173892,neutral,neutral,61817.0
+Tarija,MZ,verano,2013,0.4045212791794283,neutral,neutral,60345.5
+Tarija,MZ,verano,2014,-0.09887919445153463,El Niño,weak El Niño,58841.0
+Tarija,MZ,verano,2015,-10.14621787969372,El Niño,strong El Niño,57855.87
+Tarija,MZ,verano,2016,-1.2928376873840095,neutral,neutral,56972.0
+Tarija,MZ,verano,2017,19.89754807305231,La Niña,weak La Niña,58662.0
+Tarija,MZ,verano,2018,-5.509568638125017,El Niño,weak El Niño,55550.17744659416
+Tarija,MZ,verano,2019,-10.41468627984974,El Niño,weak El Niño,57238.53748219806
+Tarija,MZ,verano,2020,21.061839017642793,La Niña,weak La Niña,45069.62441348275
+Tarija,MZ,verano,2021,-5.355756964506316,La Niña,weak La Niña,47733.239216319584
+Tarija,MZ,verano,2022,-1.8134407323092991,La Niña,weak La Niña,50976.8226
+Tarija,MZ,verano,2023,-5.480252292425301,El Niño,strong El Niño,78408.0
+Tarija,SB,verano,2012,-2.5529483707453915,neutral,neutral,10217.756666666668
+Tarija,SB,verano,2013,0.0037215930980137994,neutral,neutral,9948.878333333334
+Tarija,SB,verano,2014,-2.4082206073446284,El Niño,weak El Niño,10872.0
+Tarija,SB,verano,2015,-0.1470279310501601,El Niño,strong El Niño,9793.0
+Tarija,SB,verano,2016,-6.8891313359621815,neutral,neutral,9822.0
+Tarija,SB,verano,2017,5.400497627851357,La Niña,weak La Niña,9960.0
+Tarija,SB,verano,2018,2.9509473801974653,El Niño,weak El Niño,10898.9935378615
+Tarija,SB,verano,2019,3.377763179257372,El Niño,weak El Niño,13472.66
+Tarija,SB,verano,2020,4.437809983642687,La Niña,weak La Niña,21009.99
+Tarija,SB,verano,2021,5.208817843455467,La Niña,weak La Niña,31645.814837540165
+Tarija,SB,verano,2022,14.71950339046762,La Niña,weak La Niña,42282.0
+Tarija,SB,verano,2023,-24.101732752869868,El Niño,strong El Niño,39219.0
+Tarija,SG,verano,2012,-5.078937341984497,neutral,neutral,5372.995
+Tarija,SG,verano,2013,-4.836901830436134,neutral,neutral,4594.0
+Tarija,SG,verano,2014,-4.903376632401064,El Niño,weak El Niño,3812.0
+Tarija,SG,verano,2015,13.733948054630588,El Niño,strong El Niño,3375.0
+Tarija,SG,verano,2016,0.500698469700701,neutral,neutral,3592.0
+Tarija,SG,verano,2017,2.7164453375369324,La Niña,weak La Niña,3483.5
+Tarija,SG,verano,2018,4.488014506445778,El Niño,weak El Niño,3207.7788043551272
+Tarija,SG,verano,2019,0.7867439341959601,El Niño,weak El Niño,3446.342934785042
+Tarija,SG,verano,2020,-0.7141723763194086,La Niña,weak La Niña,3486.1036231900284
+Tarija,SG,verano,2021,-1.5683512565689925,La Niña,weak La Niña,3443.14507246604
+Tarija,SG,verano,2022,-1.6152556192392025,La Niña,weak La Niña,3397.3282971040453
+Tarija,SG,verano,2023,-3.508855245553022,El Niño,strong El Niño,3440.9581572083725
+Tarija,WH,invierno,2012,-6.444228734844792,neutral,neutral,378.0
+Tarija,WH,invierno,2013,-4.537214185745105,neutral,neutral,326.0
+Tarija,WH,invierno,2014,6.947529875304357,El Niño,weak El Niño,300.0
+Tarija,WH,invierno,2015,-22.849774885591533,El Niño,strong El Niño,478.47
+Tarija,WH,invierno,2016,-25.382601386758946,neutral,neutral,295.0
+Tarija,WH,invierno,2017,-9.13358469635833,La Niña,weak La Niña,386.735
+Tarija,WH,invierno,2018,-13.926658260760231,El Niño,weak El Niño,386.745
+Tarija,WH,invierno,2019,78.30521023194618,El Niño,weak El Niño,8235.0
+Tarija,WH,invierno,2020,68.26156757634638,La Niña,weak La Niña,8045.0
+Tarija,WH,invierno,2021,32.28437932064428,La Niña,weak La Niña,8049.0225
+Tarija,WH,invierno,2022,-53.73940501441605,La Niña,weak La Niña,6508.2506620039885
+Tarija,WH,invierno,2023,-39.97801978650733,El Niño,strong El Niño,6943.0
+Tarija,WH,invierno,2024,-9.807200053265094,neutral,neutral,5984.654632400798
+Tarija,WH,verano,2012,-1.1201513806915482,neutral,neutral,1297.5808333333327
+Tarija,WH,verano,2013,-8.228686065720886,neutral,neutral,1194.0
+Tarija,WH,verano,2014,-16.181885362648092,El Niño,weak El Niño,1063.0
+Tarija,WH,verano,2015,17.353325221679842,El Niño,strong El Niño,911.53
+Tarija,WH,verano,2016,-36.70914030532148,neutral,neutral,1082.0
+Tarija,WH,verano,2017,12.94604776511529,La Niña,weak La Niña,997.265
+Tarija,WH,verano,2018,32.053191006611236,El Niño,weak El Niño,1394.256631149294
+Tarija,WH,verano,2019,24.11663414097573,El Niño,weak El Niño,1140.384710383098
+Tarija,WH,verano,2020,17.182480425520332,La Niña,weak La Niña,1098.0727235887318
+Tarija,WH,verano,2021,-9.82034360675654,La Niña,weak La Niña,1142.395813024225
+Tarija,WH,verano,2022,-7.932657777782259,La Niña,weak La Niña,1140.76
+Tarija,WH,verano,2023,-23.65881406091435,El Niño,strong El Niño,1137.8587654010166

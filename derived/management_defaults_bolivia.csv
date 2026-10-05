@@ -1,0 +1,20 @@
+zone,crop,season,plantingDate,plantingDensity,nFertRateAct,nFertRateRec,cultivarCode,cultivarName,sowingStartDOY,sowingEndDOY,cycleDays,confidence,source_short
+lowland,SB,verano,330,28,0,0,990008,M GROUP   8,305,355,110,high,ANAPO/FUNDACRUZ via Zamorano 2008 & UCS 2014; UAGRM 2007
+valleys,SB,verano,330,28,0,0,990008,M GROUP   8,305,355,110,fill,copied from lowland SB verano (no valley-specific source)
+altiplano,SB,verano,330,28,0,0,990008,M GROUP   8,305,355,110,fill,copied from lowland SB verano (negligible area)
+lowland,MZ,primavera,320,5.5,25,100,GDD,GDD,288,380,115,medium,UCB-EEAS Saavedra; UAGRM 2024; IPDRS Pailon cost sheet; CIAB 2019 (median set to 320: inside the source window 288-15 Jan and INE primavera+manual 244-350)
+valleys,MZ,verano,320,4.5,10,80,GDD,GDD,274,365,165,low,Enc. Bolivia Agropecuaria; UAJMS Tarija 2021; UMSA Inquisivi 2023; Censo 2013
+altiplano,MZ,verano,305,4.5,10,80,GDD,GDD,274,335,165,fill,copied from valleys MZ verano with sowing 15 d earlier for frost; no highland maize source (MapSPAM puts 78 kha above 2800 m)
+lowland,RI,verano,318,220,15,100,BOLRI1,BOL SECANO,288,349,130,low,CIPCA 2008; CIAT 2020 variedades; INIAF 2016 Yapacani; UCEBOL Chane 2012 (direct-seeded secano; see rice note)
+valleys,RI,verano,318,220,15,100,BOLRI1,BOL SECANO,288,349,130,fill,copied from lowland RI verano
+altiplano,RI,verano,318,220,15,100,BOLRI1,BOL SECANO,288,349,130,fill,copied from lowland RI verano (should not occur)
+lowland,SG,invierno,105,15,10,90,BOLSG1,BOL GRANIFERO,60,135,120,low,Usuri/AgroSinergia 2026; Publiagro/ANAPO May-2025; Agro-Vet 2017 (median 105 sits inside both the source window 60-135 and INE calendar 106-167)
+lowland,SG,verano,335,15,10,90,BOLSG1,BOL GRANIFERO,319,380,112,low,Usuri/AgroSinergia 2026; ANAPO window; Agro-Vet 2017 (true centre ~349; capped at 335 by the Tokki year-wrap limit)
+valleys,SG,verano,335,15,10,90,BOLSG1,BOL GRANIFERO,319,380,112,fill,copied from lowland SG verano
+altiplano,SG,verano,335,15,10,90,BOLSG1,BOL GRANIFERO,319,380,112,fill,copied from lowland SG verano (should not occur)
+lowland,WH,invierno,143,280,23,60,AW0071,Yecora_Rojo,105,181,105,medium,MDRyT 2023 trigo; CIAT Motacu; CIAB 2019 urea; Enc. Bolivia Agropecuaria
+valleys,WH,invierno,143,280,23,60,AW0071,Yecora_Rojo,105,181,105,fill,copied from lowland WH invierno (Tarija/Beni valley cells)
+lowland,WH,verano,335,170,5,100,AW0071,Yecora_Rojo,305,395,135,fill,copied from valleys WH verano (lowland cells outside Santa Cruz/Tarija/Beni)
+valleys,WH,verano,335,170,5,100,AW0071,Yecora_Rojo,305,395,135,medium,MDRyT 2023 trigo; UAGRM 2007 (PROTRIGO); INIAF-Totora 2014 (official window 20 Nov-30 Jan with centre ~350; capped at 335 by the Tokki year-wrap limit)
+altiplano,WH,verano,312,170,3,100,AW0071,Yecora_Rojo,288,335,165,low,MDRyT 2023 trigo; Censo 2013 (Oruro/Potosi); INIAF-Totora analog; La Patria Oruro
+lowland_traditional,MZ,primavera,320,4.5,10,80,GDD,GDD,274,365,130,fill,copied from valleys MZ (manual smallholder maize in Beni/Pando/Chapare/lowland La Paz-Chuquisaca; INE Beni 2.0 and Pando 1.6 t/ha vs Santa Cruz 2.7)

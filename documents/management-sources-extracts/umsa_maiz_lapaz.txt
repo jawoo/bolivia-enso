@@ -1,0 +1,878 @@
+
+=====PAGE 1=====
+___________________________________________________________________________________________ 
+ 
+______________________________________________________________________________________________________________________________________________________________________ 
+                                                CIBUM SCIENTIA, Bolivia. Vol. 2, n° 1. Junio 2023. pp. 101-114. ISSN linea: 2791-1217  
+   ISSN impreso: 2791-1209                                           101       
+Sistema de producción del cultivo de maíz (Zea mays) de los 
+productores de cantón Capiñata, departamento de La Paz, Bolivia 
+Hernán Quispe Huarachi, Juan José Aparicio Porres, 
+José Eduardo Oviedo Farfán   
+SISTEMA DE PRODUCCIÓN DEL CULTIVO DE MAÍZ (Zea mays) DE LOS PRODUCTORES DEL 
+CANTÓN CAPIÑATA, DEPARTAMENTO DE LA PAZ, BOLIVIA 
+ 
+Production system of corn crop (Zea mays)   
+of the producers of Canton Capiñata, department of La Paz, Bolivia 
+ 
+Hernán Quispe Huarachi1, Juan José Aparicio Porres2, José Eduardo Oviedo Farfán3   
+ 
+RESUMEN 
+El cantón Capiñata tiene como sistema productivo principal al cultivo de maíz, que requiere de un análisis de los 
+eslabones de la cadena. El objetivo de la presente investigación nos permite conocer la realidad del proceso de 
+los componentes de preproducción, producción, cosecha y transporte de la cadena agroalimentaria de maíz. El 
+estudio se realizó en el cantón Capiñata (distrito Centro - 9 comunidades), departamento de La Paz-Bolivia, de 
+enero a septiembre del 2021. La investigación se centró en la metodología de cadenas agroalimentarias (MECA-
+IICA). Se encuestó a 303 productores, 20 intermediarios y 30 agentes de comercialización de maíz y 
+subproductos. Para el procesamiento de resultados se utilizó el programa estadístico SPSS versión 11,5 y la hoja 
+de cálculo Microsoft Excel 2019. Los resultados para el componente preproducción: 99% de las familias 
+consideran importante al cultivo del maíz. El rendimiento promedio es de 1.500 kg/ha; Componente producción: 
+En prácticas culturales, 63% prioriza al control de malezas y 36% a la fertilización. El cultivo es 100% orgánico 
+y se fertiliza con estiércol de animales.  90% elije aporcar en función al tamaño de la planta. Identifican como 
+plagas al gusano trozador ( Helicoverpa armígera ), pulgón cogollero ( Rhopalosiphum maidis ) y gorgojo 
+(Shitophilus zeamais). En las enfermedades, carbón de maíz ( Hustilago maydis), manchas foliares ( Exserohilum 
+turcicum) y pudriciones ( Pythium aphanidermatum); Componente cosecha: 79% se guían por el estado de las 
+plantas (8 meses y medio) y 75% clasifica su maíz por tamaño del grano. El 92% usan silos artesanales (pirwas), 
+Componente transporte: 86% usan el transporte motorizado. En conclusión, el rendimiento de maíz en Cantón 
+Capiñata, es por debajo del nacional y por encima del municipal y departamental. 
+Palabras clave: maíz, sistema de producción, rendimiento, manejo. 
+ 
+ABSTRACT 
+The main production system in Capiñata Canton is maize cultivation, which requires an analysis of the links in 
+the chain. The objective of this research allows us to know the reality of the process of the pre-production, 
+production, harvesting and transportation components of the corn agrifood chain. The study was conducted in 
+the Capiñata Canton (Central District - 9 communities), Department of La Paz-Bolivia, from January to September 
+2021. The research focused on the agrifood chain methodology (MECA-IICA). A total of 303 producers, 20 
+intermediaries and 30 marketing agents of maize and by-products were surveyed. The SPSS version 11, 5 
+statistical software and Microsoft Excel 2019 spreadsheet were used to process the results. The results for the 
+pre-production component: 99% of the families consider corn cultivation important. The average yield is                      
+1.500 kg/ha; Production component: In cultural practices, 63% prioritize weed control and 36 % fertilization. 
+The crop is 100% organic and is fertilized with animal manure.  Ninety percent choose to cultivate according to 
+the size of the plant. The pests identified as pests are cutworm (Helicoverpa armígera) , codling moth 
+(Rhopalosiphum maidis)  and weevil (Shitophilus zeamais) . In diseases, corn charcoal (Hustilago maydis), leaf 
+spots (Exserohilum turcicum) and rots (Pythium aphanidermatum); Harvest component: 79% are guided by the 
+state of the plants (8 and a half months) and 75% classify their corn by kernel size. 92% use handmade silos 
+(pirwas); Transportation component: 86% use motorized transport. In conclusion, corn yields in Cantón 
+Capiñata are below the national level and above the municipal and departmental levels.  
+Keywords: corn, production system, yield, management. 
+ 
+Artículo original 
+DOI: https://doi.org/10.53287/oavs3714zt63e  
+Recibido: 21/04/2023                     Aceptado: 09/06/2023 
+                                                           
+1 Carrera de Ingeniería en Producción y Comercialización Agropecuaria, Facultad de Agronomía, Universidad Mayor de San Andrés, Bolivia,   
+   hernanhq94@mail.com  
+2 Docente Investigador, Instituto de Investigación en Producción, Transformación y Comercialización Agropecuaria, Facultad de Agronomía,  
+   Universidad Mayor de San Andrés, Bolivia. ORCID: https://orcid.org/0000-0002-4555-4037. jjaparicio@umsa.bo  
+3 Docente, Carrera de Ingeniera en Producción y Comercialización Agropecuaria, Facultad de Agronomía, Universidad Mayor de San Andrés,  
+  ORCID: https://orcid.org/0000-0002-3921-145X. jeoviedo@umsa.bo  
+=====PAGE 2=====
+___________________________________________________________________________________________ 
+ 
+______________________________________________________________________________________________________________________________________________________________________ 
+102                                            CIBUM SCIENTIA, Bolivia. Vol. 2, n° 1. Junio 2023. pp. 101-114. ISSN linea: 2791-1217  
+   ISSN impreso: 2791-1209                                      
+Hernán Quispe Huarachi, Juan José Aparicio Porres, José Eduardo Oviedo Farfán   
+INTRODUCCIÓN  
+ 
+El maíz es uno de los cultivos básicos más importantes y extendidos en todo el mundo. Constituye una de las 
+fuentes principales de alimento de millones de personas, sobre todo en América y Asia. Se trata de una de las 
+primeras plantas que se domesticaron y se difundieron por todo el mundo (Sánchez, 2014). 
+ 
+Según la encuesta agropecuaria realizada en la campaña de 2014 -2015 por el Instituto Nacional de Estadística 
+INE (2017), indica que el 28,92 % de la superficie cultivada según grupos de cultivo pertenece a cereales donde 
+el 41 % de la superficie cultivada pertenece a maíz, siendo Santa Cruz como el departamento que en mayor 
+extensión produce, con un 38% situándolo al departamento de La Paz en sexto lugar con un 5% de extensión 
+producida, después de los departamentos Chuquisaca, Tarija, Cochabamba y Potosí. 
+ 
+En la encuesta agropecuaria realizada por INE en la campaña 2014 -2015, el rendimiento en promedio es 
+registrado 2.074 kg/ha a nivel naci onal, siendo el departamento de Tarija como el departamento con mayor 
+rendimiento 2.510 kg/ha registrado y el departamento de Oruro como el departamento con menor porcentaje 
+de rendimiento 739 kg/ha. El departamento de La Paz registra un rendimiento promed io de 1.255 kg/ha (INE, 
+2017). 
+ 
+Según Ávila (2008) citado por Gutiérrez (2010), el maíz en Bolivia se cultiva en cuatro macro-eco regiones, estas 
+son: a) las zonas tropicales bajas entre los 200 a 900 metros de al titud, b) las sub -tropicales, entre los 1.000 a 
+1.600 metros de altura, c) la zona chaqueña sub -andina entre 200 a 1.500 metros de altura y d) en las laderas y 
+valles interandinos, entre los 1.700 y 3.000 metros de altura, excepcionalmente puede alcanzar los 3.800 metros 
+de altitud en las orillas aledañas al lago Titicaca. La mayor parte de la producción de las zonas con altitud inferior 
+a los 1.600 m de altura se destina a la preparación de concentrados para la alimentación animal, aunque existe 
+un pequeño porcentaje de la producción que se destina a la alimentación humana, especialmente la producción 
+con razas locales, generalmente producidas por pequeños productores y los ganaderos de los llanos orientales 
+mientras que la mayor parte de la producción andi na se destina a la comercialización, consumo humano y la 
+elaboración de una bebida alcohólica fermentada denominada chicha de maíz  (Gutiérrez, 2010). 
+ 
+La Gra et al. (2016)  mencionan que el concepto de mercado se presenta cuand o el agricultor toma decisiones 
+acerca de cuáles cultivos va a sembrar, cuándo los va a sembrar, cuáles insumos y en qué cantidad aplicar, qué 
+cantidad de mano de obra usará y de qué fuente; cuándo cosechar, cuándo vender y a quién. El intermediario 
+está también pensando en el mercado cuando él o ella decide qué productos comprar, qué cantidades, qué calidad 
+y a cuál precio; cómo y cuándo transportar, seleccionar, almacenar, empacar y vender el producto. 
+ 
+CIPCA (2006) citado por Nina (2009), menciona que el mercado es el espacio donde la oferta se encuentra con la 
+demanda, generalmente a través de diferentes eslabones de intermediación. Se analiza el mercado distinguiendo 
+los 3 elementos que conforman el concepto de un mercado: (1) la oferta, (2) la demanda,  y (3) el espacio del 
+mercado mismo. Se distingue los 3 elementos en base a los agentes que conforman la oferta, la demanda y el 
+mercado. 
+ 
+El objetivo de la presente investigación nos permite conocer la realidad del proceso de los componentes de 
+preproducción, producción, cosecha y transporte de la cadena agroalimentaria de maíz del cantón Capiñata. 
+ 
+MATERIALES Y MÉTODOS 
+ 
+Localización 
+ 
+El municipio de Inquisivi, provincia Inquisivi, al sur este del departamento de La Paz. Está a una altitud de 2.700 
+m s.n.m., 66°59'01'' Longitud oeste y 16°49'05'' Latitud sur (GAMI-MAN, 2016). La zona de estudio es el cantón 
+=====PAGE 3=====
+___________________________________________________________________________________________ 
+ 
+______________________________________________________________________________________________________________________________________________________________________ 
+                                               CIBUM SCIENTIA, Bolivia. Vol. 2, n° 1. Junio 2023. pp. 101-114. ISSN linea: 2791-1217  
+   ISSN impreso: 2791-1209                                               103  
+Sistema de producción del cultivo de maíz (Zea mays) de los productores de cantón Capiñata, departamento de La Paz, Bolivia 
+Capiñata, en nueve comunidades Capiñata, Espalluta, Caychani, Quincusuyo, Upuña, Jassa, Corachapi, Chiji y 
+Chullpani. 
+ 
+Metodología 
+ 
+La metodología utilizada fue descriptiva y participativa. Se levanto información nueve meses, de enero a 
+septiembre de 2021. La investigación se centró en la obtención y recopilación de información relacionada con el 
+proceso de produ cción de maíz, en base a la metodología de cadenas agroalimentarias – MECA (La Gra et al. , 
+2016). 
+ 
+Tabla 1. Método empleado en el municipio de Inquisivi para la información. 
+Fuente de datos Metodología Instrumento Número de entrevistados 
+Primaria Información Cualitativa Entrevista a profundidad 3 a 5 / comunidad 
+Información Cuantitativa Boleta social y productiva 303 productores 
+Boleta mercadeo 20 intermediarios 
+30 agentes de comercialización 
+ 
+La información secundaria se obtuvo de fuentes documentales. Para análisis de la información se utilizaron los 
+paquetes estadísticos: SPSS versión 11,5 y aplicaciones de hojas de cálculo de Microsoft Excel.  
+ 
+RESULTADOS Y DISCUSIÓN 
+ 
+Componente de preproducción 
+ 
+Importancia de cultivo de maíz 
+ 
+El 57% de las familias del área de estudio, indican que cultivar maíz es muy importante y un 42% de las familias 
+mencionan que es importante. El rubro de producción del cantón Capiñata, coincide con el rubro productivo 
+principal del Municipio de Inquisivi, donde el cultivo de maíz es el principal producto agrícola con el 31,9%. 
+ 
+Superficie de siembra de maíz 
+ 
+Las condiciones topográficas y el tamaño de las parcelas, es una limitante en el cultivo de grandes extensiones. 
+ 
+ 
+Figura 1. Superficie de siembra de maíz, cantón Capiñata. 
+ 
+La superficie promedio es de 2 ha para un 45% de las familias consultadas, la superficie máxima de cultivo es de 
+3 ha con 30% de las familias y una superficie mínima de media ha con 2% de las familias que lo cultivan. Según 
+el censo agropecuario INE (2012) citado por GAMI-MAN (2016), la superficie promedio de maíz en el municipio 
+de Inquisivi es de 1,8 ha.
+2%
+18%
+45%
+5%
+30%
+0%
+10%
+20%
+30%
+40%
+50%
+0,5 ha 1,0 ha 2,0 ha 2,5 ha 3,0 ha
+Familias consultadas
+Superficie promedio
+=====PAGE 4=====
+___________________________________________________________________________________________ 
+ 
+______________________________________________________________________________________________________________________________________________________________________ 
+104                                            CIBUM SCIENTIA, Bolivia. Vol. 2, n° 1. Junio 2023. pp. 101-114. ISSN linea: 2791-1217  
+   ISSN impreso: 2791-1209                                      
+Hernán Quispe Huarachi, Juan José Aparicio Porres, José Eduardo Oviedo Farfán   
+Rendimiento 
+ 
+De una muestra de 303 productores de maíz, podemos observar en la Tabla 2 que el rendimiento, es de                            
+2.000 kg/ha con un 3% de las familias que producen, así mismo, un 16% tienen un rendimiento de 1.750 kg/ha, 
+un 30% de las familias tienen un rendimiento de 1.250 kg/ha y el 7% de las familias tienen bajos rendimientos 
+con 1.000 kg/ha.  
+                                                      Tabla 2. Rendimiento de maíz en el cantón Capiñata 
+Rendimiento (kg/ha) Frecuencia Porcentaje (%) 
+1.000 22 7 
+1.250 90 30 
+1.500 132 44 
+1.750 49 16 
+2.000 10 3 
+ 
+En la encuesta agropecuaria realizada por INE en la campaña 20 14-2015 (INE, 2017) , el rendimiento en 
+promedio es 2.074 kg/ha a nivel nacional, por otra parte, en el Plan Territorial de Desarrollo Integral del 
+municipio de Inquisivi 2016 -2020 (GAMI-MAN, 2016) , el rendimiento de maíz en el municipio es de                              
+1.318,8 kg/ha. Finalmente, el rendimiento promedio en el cantón Capiñata, es de 1.500 kg/ha lo que equivale a 
+32,61 qq (1 qq = 46 kg) según los datos obtenidos en el estudio. 
+ 
+ 
+Figura 2. Comparación de rendimiento de maíz. 
+ 
+El rendimiento de maíz en Cantón Capiñata, está por debajo del rendimiento nacional y por encima del municipal 
+y departamental. Gutiérrez (2010), en la región de Sorata encontró el rend imiento de maíz blanco de 30 qq/ha. 
+Mientras que, Laura (2013), en municipio de Mocomoco encontró el rendimiento de maíz blanco de 26 qq/ha. 
+En nuestro estudio el rendimiento es de 32,61 qq/ha. 
+ 
+Destino de la cosecha del maíz 
+ 
+Al ser una fuente de ingresos económicos importante de la región, la mayor parte de su producción es destinada 
+para la venta. 
+ 
+Figura 3. Destino de la cosecha de maíz.
+2074
+1255 1318 1500
+0
+500
+1000
+1500
+2000
+2500
+Bolivia
+(kg/ha)
+La Paz
+(kg/ha)
+Inquisivi
+(kg/ha)
+Capiñata
+(kg/ha)
+Rendimiento (kg/ha)
+Localidades
+44%
+52%
+4%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Venta Consumo
+y Venta
+Trueque
+Familias consultadas
+Destino de la cosecha
+=====PAGE 5=====
+___________________________________________________________________________________________ 
+ 
+______________________________________________________________________________________________________________________________________________________________________ 
+                                               CIBUM SCIENTIA, Bolivia. Vol. 2, n° 1. Junio 2023. pp. 101-114. ISSN linea: 2791-1217  
+   ISSN impreso: 2791-1209                                                105 
+Sistema de producción del cultivo de maíz (Zea mays) de los productores de cantón Capiñata, departamento de La Paz, Bolivia 
+Las familias del cantón Capiñata, destinan un 44% de su producción a la venta, siendo una fuente económica 
+importante. A pesar del precio ofrecido por intermediarios, las familias lo ven como un producto multiuso, ya 
+que acompaña a la alimentación diaria como una fuente de nutrición esencial aportando una gran cantidad de 
+energía; un 52% de las familias mencionan que el  maíz lo utilizan para la venta y consumo, y un 4% lo utilizan 
+para trueque. Los productores de otras regiones (altiplano y yungas) llegan a las ferias del cantón y zonas 
+aledañas, a hacer un intercambio de productos con maíz. 
+ 
+Ortiz (2012)  y CIAT (2000), coinciden su afirmación indicando que la producción de maíz en los valles 
+interandinos de Bolivia, es destinado a la venta y al autoconsumo. Así mismo Gutiérrez (2010), afirma que la 
+producción de maíz en los andes de Bolivia se destina a la comercializaci ón, consumo humano y la elaboración 
+de una bebida alcohólica fermentada denominada chicha de maíz. 
+ 
+Comportamiento de los precios de maíz en las ferias 
+ 
+Con referencia a los precios del maíz, son bajos por los meses de junio, julio, agosto (cosecha y exceso de oferta). 
+En diciembre y enero, el precio es alto, época donde un 80% de productores que almacenaron los granos de maíz 
+aprovechan para comercializar a un promedio de 200 Bs/qq. El precio más bajo llega a 35 Bs/@ y el precio más 
+alto llega hasta 60 Bs/@. 
+ 
+Figura 4. Precio de venta de maíz (Bs/@). 
+ 
+Según el PTDI del municipio de Inquisivi (GAMI-MAN, 2016), el precio promedio de maíz en el municipio es de 
+3,50 Bs/kg. En el cantón Capiñata, el precio promedio es de 4 Bs/kg, significa que existe una ligera diferencia de 
+0,50 Bs/kg. 
+ 
+Adquisición de la semilla  
+ 
+66% de las familias producen su propia semilla, 18% de las familias la adquieren las semillas de otras fuentes 
+(otras regiones, trueque, etc.) y un 16% de los productores compran la semilla de las ferias locales. 
+ 
+ 
+Figura 5. Adquisición de la semilla de maíz, Cantón Capiñata.
+66%
+16% 18%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+produce
+su semilla
+compra de
+ferias locales
+otras
+fuentes
+Familias consultadas
+Adquisición de semilla
+=====PAGE 6=====
+___________________________________________________________________________________________ 
+ 
+______________________________________________________________________________________________________________________________________________________________________ 
+106                                            CIBUM SCIENTIA, Bolivia. Vol. 2, n° 1. Junio 2023. pp. 101-114. ISSN linea: 2791-1217  
+   ISSN impreso: 2791-1209                                      
+Hernán Quispe Huarachi, Juan José Aparicio Porres, José Eduardo Oviedo Farfán   
+Según el Plan de Desarrollo Municipal (PDM, 2016), una parte de la producción es destinada a semillas en los 
+cultivos de papa, maíz, etc. coincidiendo con los resultados. 
+ 
+Tipo de semilla utilizada 
+ 
+En cuanto a la semilla utilizada, un 97% de las familias utilizan semilla criolla de maíz blanco variedad local y un 
+3% de las familias utilizan semillas mejorada por selección local. No tienen acceso a la semilla certificada. 
+ 
+Componente de producción  
+ 
+Prácticas culturales  
+ 
+El 63% de las familias consideran al control de malezas como importante, 36% de las familias indican que la 
+fertilización y 1% de los agricu ltores indican que el riego, aunque la producción es a secano (depende de las 
+lluvias).  
+ 
+ 
+ 
+Figura 6. Prácticas culturales en el cultivo de maíz. 
+ 
+Según La Gra et al. (2016) , en muchos casos ciertas prácticas culturales inapropiadas como; el riego, maleza s y 
+fertilización, son el reflejo de los intentos del agricultor por reducir al mínimo los riesgos y el uso de los insumos 
+agropecuarios. Las prácticas culturales inapropiadas se deben a falta de información o falta de acceso a ellas. 
+ 
+Uso de fertilizantes 
+ 
+El cultivo de maíz es 100% orgánico ya que todas las familias entrevistadas indican que no utilizan fertilizantes 
+químicos. 
+ 
+ 
+ 
+Figura 7. Fertilizantes en el cultivo de maíz. 
+1%
+63%
+36%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+Riego Control de
+malezas
+Fertilización
+Familias consultadas
+Prácticas culturales
+66%
+16% 16%
+2%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+Estiércol
+Ovino
+Estiércol
+Bovino
+Gallinaza Otros
+Familias consultadas
+Fertilizantes
+=====PAGE 7=====
+___________________________________________________________________________________________ 
+ 
+______________________________________________________________________________________________________________________________________________________________________ 
+                                               CIBUM SCIENTIA, Bolivia. Vol. 2, n° 1. Junio 2023. pp. 101-114. ISSN linea: 2791-1217  
+   ISSN impreso: 2791-1209                                         107   
+Sistema de producción del cultivo de maíz (Zea mays) de los productores de cantón Capiñata, departamento de La Paz, Bolivia 
+Un 66% fertiliza con estiércol de oveja, 6 sacos en parcelas de 3.000 m2 (90% de las familias crían animales); por 
+otra parte, 16% aplican abono bovino y 16% aplican gallinaza, que permite plantas vigorosas; y 2% aplican otros 
+abonos como ceniza, hoja rasca, abono líquido a base de lixiviados de los corrales de oveja y otros. Tarqui (2013), 
+indica que la problemática en cantón Capiñata para los cultivos es la baja fertilidad y la degradación de los suelos 
+lo cual repercute en el rendimiento.  
+ 
+Aporque del maíz 
+ 
+90% de las familias indican al tamaño para el primer aporque es 20 -30 cm y para el segundo aporque entre 50-
+60 cm; 6% de las familias indican que se debe esperar las condiciones climáticas apropiadas; 3 % de las familias 
+indican que se debe de contar el número de hojas, y 1% indica al tiempo (20 a 30 días). 
+ 
+ 
+ 
+Figura 8. Momento de aporque del maíz. 
+ 
+Para Gómez et al. (2007) el momento oportuno de aporque se determina por el tamaño de la planta, cuando esta 
+se encuentre a los 50 cm de altura, en ese entonces las plantas deben contar con 5 a 6 hojas, así mismo Mercado 
+(2012), menciona que el aporque de mayor eficiencia es a los 25 días después de la siembra en lo cual recomienda 
+solo un aporque, León et al. (2004) afirma que el aporque se lo realiza solo una vez a los 35 días. Con respecto a 
+la fertilización en el aporque, 15% de las familias consideran que es importante realizar esta actividad 
+adicionando abonos orgánicos, por otra parte, 85% de familias indican, que no es necesaria la incorporación de 
+fertilizantes en el aporque. 
+ 
+Plagas en la zona de estudio 
+ 
+Un 81% de las familias entrevistadas mencionan al gusano trozador (Helicoverpa armígera), que ataca a los tallos 
+y mazorcas; un 5% de las familias menciona al pulgón cogollero ( Rhopalosiphum maidis), que atacan las hojas 
+tiernas; un 8% de las familias mencionan al gorgojo ( Shitophilus zeamais), que ataca a las mazorcas y un 6% 
+sufren ataques de otras plagas en sus cultivos como loros, perdiz, y otras aves. En el cantón Capiñata no incide 
+mucho en los rendimientos ya que la pérdida ocasionada es de 2 a 5% dependiendo del manejo del productor. 
+ 
+ 
+Figura 9. Plagas existentes que afectan al maíz.
+90%
+3% 6% 1%
+0%
+20%
+40%
+60%
+80%
+100%
+Por tamaño
+de plantas
+Por número
+de hojas
+Por condiciones
+climáticas
+Otros
+Familias consultadas
+Aporque del maíz
+81%
+5% 8% 6%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+gusano
+trozador
+pulgón
+cogollero
+gorgojo otros
+Familias consultadas
+Plagas
+=====PAGE 8=====
+___________________________________________________________________________________________ 
+ 
+______________________________________________________________________________________________________________________________________________________________________ 
+108                                            CIBUM SCIENTIA, Bolivia. Vol. 2, n° 1. Junio 2023. pp. 101-114. ISSN linea: 2791-1217  
+   ISSN impreso: 2791-1209                                      
+Hernán Quispe Huarachi, Juan José Aparicio Porres, José Eduardo Oviedo Farfán   
+Para Deras (2020), el maíz desde el momento de la siembra está expuesto a los ataques de plagas, el gusano 
+trozador corta el tallo cuando las plantas recién emergen; y cuando están bien desarrolladas, la desfolian; puede 
+atacar la flor masculina, lo cual provoca interrupción del proceso normal de polinización. También ataca 
+perforando la mazorca tierna por lo que se conoce como gusano elotero. Por otra parte, FAO (1985), indica que 
+los gorgojos inician su ataque en el campo y lo continúan durante el almacenamiento, depositan su huevo en los 
+granos causando daños considerables. 
+ 
+Enfermedades en el cultivo de maíz 
+ 
+El 60% de las familias entrevistadas indican que tienen presente en sus cultiv os el carbón de maíz ( Hustilago 
+maydis), un hongo que ataca a la mazorca invadiendo todo su micelio alrededor; un 22% de las familias indican 
+la presencia de manchas foliares ( Exserohilum turcicum), a causa del exceso de humedad y temperatura, y un 
+18% de las familias indican que sus cultivos presentan pudriciones en las plantas ( Pythium aphanidermatum) 
+cuando existe mucha precipitación pluvial y altas temperaturas que favorecen las pudriciones volviéndose 
+oscuro, acuoso y marchitándose las plantas. Si bien  un productor tiene presencia de alguno de estas 
+enfermedades en su cultivo las pérdidas son de 1 a 3% dependiendo del manejo. 
+ 
+ 
+ 
+Figura 10. Enfermedades del cultivo de maíz. 
+ 
+Según Deras (2020) , generalmente las enfermedades y manchas foliares de maíz, s e presentan después del 
+período de fructificación; sin embargo, cuando se presentan en periodos previos a esta fase, podrían representar 
+una disminución en el rendimiento. Las especies del género Pythium causan pudrición del tallo y de la semilla, 
+mientras que los tizones, causan la pudrición en las plántulas. Inicialmente, se observa que los entrenudos 
+inferiores se suavizan y se oscurecen tomando un aspecto acuoso, lo que debilita la planta, causándole el 
+marchitamiento. 
+ 
+Control de plagas y enfermedades en la producción 
+ 
+En referencia a los productos usados para el control de plagas y enfermedades, el 14% de las familias, utilizan 
+productos naturales mientras un 86% no utilizan ningún producto para el control de plagas y enfermedades.  
+Para el control, utilizan una mezcla de ceniza con locoto molido y eucalipto, que controla un 50% de plagas y el 
+control cultural para las malezas implica más tiempo en las parcelas de maíz.  
+ 
+Según Deras (2010), las plagas y enfermedades de maíz, pueden tener un control biol ógico, químico y cultural 
+(mantener limpio de malezas gramíneas). Mientras que el Plan Territorial de Desarrollo Integral del municipio, 
+indica que se utiliza productos químicos fitosanitarios. Al contrario, en Cantón Capiñata no se utiliza ningún tipo 
+de productos químicos. 
+ 
+22%
+60%
+18%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+manchas
+foliares
+carbón
+de maíz
+pudrición
+Familias consultadas
+Enfermedades
+=====PAGE 9=====
+___________________________________________________________________________________________ 
+ 
+______________________________________________________________________________________________________________________________________________________________________ 
+                                                CIBUM SCIENTIA, Bolivia. Vol. 2, n° 1. Junio 2023. pp. 101-114. ISSN linea: 2791-1217  
+   ISSN impreso: 2791-1209                                              109 
+Sistema de producción del cultivo de maíz (Zea mays) de los productores de cantón Capiñata, departamento de La Paz, Bolivia 
+Componente cosecha 
+ 
+Tratamiento pre cosecha 
+ 
+En general, un 95% de las familias considera al preparado de los secadores de maíz, como importante, y consiste 
+en una cama de paja, sin contacto con el suelo, que facilite el acceso a rayo s solares, para que las mazorcas 
+cosechadas sequen y se pueda desgranar fácil.  
+ 
+ 
+ 
+Figura 11. Tratamiento de pre cosecha. 
+ 
+Por otra parte, un 5% de las familias consideran a la preparación de silos como una actividad importante, que 
+consiste en construir silos artesanales a base de materiales del lugar, donde se almacena el maíz después de 
+secar. 
+ 
+Determinación del momento óptimo de la cosecha del maíz 
+ 
+El 21% de las familias considera el momento óptimo, verificando la madurez de mazorcas a los 210 días (7 ,5 
+meses), mientras que el 79% de las familias se guían por el estado de las plantas lo que ocurre a los 240 días (8,5 
+meses), cuando los tallos y las hojas empiezan a secarse es el momento de la cosecha para aprovechar las 
+mazorcas y las plantas para ensilar. En ambos casos el grano para la cosecha debe estar en un secado adecuado. 
+ 
+Según Gómez (2004), se recomienda cosechar el maíz a los 210 días después de la siembra, debido a que han 
+alcanzado su madurez fisiológica y los daños causados por plagas, enfe rmedades y el medio ambiente no 
+representan mayores pérdidas para el agricultor.  Según principios Agronómicos Yara ( 2022), en climas más 
+templados, los granos tienen que secarse hasta una humedad de 15% o menos antes de ser almacenados, para 
+mantener la calidad y reducir la posible producción de micotoxinas, tales como aflatoxina. 
+ 
+Selección y clasificación del maíz 
+ 
+Selección, tamaño, grado e inspección son términos con significados estrechamente ligados. En todos los casos, 
+el objetivo es clasificar el p roducto de tal manera que este satisfaga las necesidades de los intermediarios, 
+procesadores y consumidores. Tal como se observa en la Figura 12, el 75% de las familias clasifica su maíz, por 
+el tamaño de los granos, esta actividad repercute mucho en el mo mento de vender, ya que los intermediarios 
+compran seleccionado; por otro parte, un 19% de las familias lo clasifican por la calidad de maíz, para ellos tanto 
+para los intermediarios como para los agricultores la calidad es importante, principalmente para elaborar los 
+subproductos (chicha, harina, mote, etc.) y un 6% de las familias lo seleccionan por otros métodos como la 
+limpieza y otros. Todas las actividades de selección se los realizan manualmente. 
+ 
+5%
+95%
+0% 20% 40% 60% 80% 100%
+Silos o
+pirwas
+secadores de
+grano o tintala
+=====PAGE 10=====
+___________________________________________________________________________________________ 
+ 
+______________________________________________________________________________________________________________________________________________________________________ 
+110                                            CIBUM SCIENTIA, Bolivia. Vol. 2, n° 1. Junio 2023. pp. 101-114. ISSN linea: 2791-1217  
+   ISSN impreso: 2791-1209                                      
+Hernán Quispe Huarachi, Juan José Aparicio Porres, José Eduardo Oviedo Farfán   
+ 
+ 
+Figura 12. Tipo de selección de poscosecha. 
+ 
+En cuanto a los precios cambia según el tipo de clasificación realizada. El maíz desechado por distintas razones 
+se lo destina a la alimentación de los animales. 
+ 
+Tratamiento de poscosecha 
+ 
+El 50% de los productores realiza tratamiento de poscosecha que consis te en hacer una limpieza general del 
+producto, separar las impurezas, etc., y un 50% de las familias no realizan esta actividad, teniendo dificultad al 
+momento de comercializar el producto, no aplican ningún tipo de químicos para el tratamiento. 
+ 
+ 
+ 
+Figura 13. Respuesta a la pregunta ¿Realiza algún tipo de tratamiento? 
+ 
+Según La Gra et al. (2016), los productos agrícolas frecuentemente se tratan química y/o físicamente durante la 
+etapa de poscosecha para prolongar su vida o hacerlos más atractivos para el c onsumidor. En cambio, en el 
+Cantón Capiñata el tratamiento poscosecha, es libre de químicos. 
+ 
+Almacenamiento 
+ 
+En la siguiente Figura se puede observar que un 87% de las familias almacenan en sus hogares, esto para tener 
+mejores condiciones y mayor control de plagas y enfermedades, el 7% de las familias almacenan en las parcelas 
+debido a la distancia de traslado de maíz de la parcela al hogar, ya que resulta dificultoso, esa es la razón de que 
+almacenen en sus propias parcelas construyendo infraestructuras provisionales para almacenar el maíz, por otra 
+parte un 6% de las familias almacenan en el centro de acopio, en este caso los centros de acopio se encuentra en 
+las ferias. 
+ 
+ 
+75%
+19%
+6%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+Por tamaño Por calidad Otros
+Familias consultadas
+Clasificación del maíz
+50%
+50%
+0% 20% 40% 60%
+Si
+No
+=====PAGE 11=====
+___________________________________________________________________________________________ 
+ 
+______________________________________________________________________________________________________________________________________________________________________ 
+                                               CIBUM SCIENTIA, Bolivia. Vol. 2, n° 1. Junio 2023. pp. 101-114. ISSN linea: 2791-1217  
+   ISSN impreso: 2791-1209                                         111  
+Sistema de producción del cultivo de maíz (Zea mays) de los productores de cantón Capiñata, departamento de La Paz, Bolivia 
+ 
+ 
+Figura 14. Lugar de almacenamiento del maíz. 
+ 
+El método óptimo de almacenamient o, es en silos metálicos ya que mantiene un tiempo de vida útil, mientras 
+tanto en almacén de mazorcas amontonados hasta los tres meses mantiene la pureza, posterior a eso tiende a 
+bajar su calidad y se vuelve propenso a las contaminaciones y ataque de plagas (Manuel et al., 2007). 
+ 
+Tiempo de almacenado 
+ 
+El maíz al ser un producto seco, se puede almacenar por el tiempo que sea necesario no pierde sus cualidades, 
+por esta razón el 88 % de las familias lo almacenan por meses, hasta que el precio llegue a un p unto elevado, 
+incluso suelen tener por un par de años tal cual se puede observar en la Tabla 3, que un 3% los tienen por años, 
+y un 9 % de las familias los tienen almacenados por semanas, esto por las necesidades económicas. 
+ 
+                                                             Tabla 3. Tiempo de almacenado de maíz. 
+Código Frecuencia Porcentaje 
+Semanas 27 9 
+Meses 266 88 
+Años 10 3 
+ 
+El maíz almacenado generalmente cumple un doble propósito, ser empleado como grano y como semilla              
+(Smale et al., 1999) , es importante disponer de un método que permita mantener la pureza y bajos valores de 
+semilla dañada y de contenido de humedad por periodos mayores de nueve meses. En los sistemas poscosecha 
+de países en desarrollo las pérdidas se elevan h asta 30%, particularmente cuando no se usan agroquímicos 
+(Manuel et al., 2007). 
+ 
+Tipo de instalación de almacenamiento de maíz 
+ 
+Un 92% de las familias aun almacenan el maíz en silos artesanales (pirwas), un 4% de las familias almacenan sus 
+productos en sil os metálicos adaptados por ellos mismos (turriles), y un 4% de las familias guardan sus 
+productos en otras instalaciones como waculla, turriles plásticos, etc. 
+ 
+ 
+ 
+Figura 15. Tipo de instalación de almacenamiento.
+6%
+87%
+7%
+0%
+20%
+40%
+60%
+80%
+100%
+centro de
+acopio
+en el
+hogar
+en las
+parcelas
+Familias consultadas
+Almacenamiento
+92%
+4% 4%
+0%
+20%
+40%
+60%
+80%
+100%
+silos
+metálicos
+silos artesanales
+o pirwas
+Otros
+Familias consultadas
+Almacenamiento
+=====PAGE 12=====
+___________________________________________________________________________________________ 
+ 
+______________________________________________________________________________________________________________________________________________________________________ 
+112                                           CIBUM SCIENTIA, Bolivia. Vol. 2, n° 1. Junio 2023. pp. 101-114. ISSN linea: 2791-1217  
+   ISSN impreso: 2791-1209                                      
+Hernán Quispe Huarachi, Juan José Aparicio Porres, José Eduardo Oviedo Farfán   
+Otro punto crítico en la conservación de g rano son las estructuras de almacenamiento; las tradicionales son 
+inapropiadas debido a que permiten el desarrollo de plagas o no permiten un secado apropiado (FAO, 1985). Los 
+productos que se guardan en almacenes o bodegas, a l granel, en sacos o en otros recipientes, se encuentran 
+influidos por la atmosfera que los rodea, mientras que los que se guardan en silos u otros recipientes herméticos, 
+que no permiten la entrada y salida del aire, están influidos únicamente por las con diciones de la atmósfera 
+interior, que reduce los riesgos de deterioro. 
+ 
+Problemas en el almacenamiento 
+ 
+93% de las familias tienen problemas de plagas (roedores, polilla, gorgojo), y aplican el control biológico (gatos, 
+buena ventilación), llegando a controlar hasta el 100% de su producto; pero si no se toma estas precauciones se 
+genera pérdidas cualitativas y cuantitativas hasta un 5%; por otra parte, un 7% de las familias presentan 
+problemas de enfermedades (pudrición, proliferación de hongos) a causa del mal almacenamiento. 
+ 
+Entre las enfermedades y plagas según FAO (1985), las plagas atacan más en el almacenamiento, cuando el 
+hombre facilitó su desarrollo por descuido y prácticas inadecuadas de almacenaje. La mayor parte de los insectos, 
+plaga de granos  almacenados, pertenecen a los órdenes Coleoptera y Lepidoptera, que corresponden a los 
+nombres comunes de “gorgojos” y “polillas”, respectivamente. 
+ 
+Componente transporte 
+ 
+Tipo de transporte 
+ 
+En cantón Capiñata, el 86% de las familias usan el transporte motorizado, por otra parte, un 14 % de las familias 
+mantienen aún la costumbre de transportar sus productos en animales (caballos, burros, mulas) para abaratar 
+costos. Los costos de transporte son a 2 Bs/quintal.  Según el PTDI (GAMI-MAN, 2016), los caminos no llegan a 
+todas las poblaciones de la jurisdicción, las existentes son de tierra en época lluviosa, muchos de ellos se hacen 
+inaccesibles por la precariedad de su construcción, presencia de ríos y riachuelos y la ausencia de puentes. 
+ 
+CONCLUSIONES 
+ 
+Componente Preproducción. 99% de las familias del cantón Capiñata mencionan como importante al cultivo de 
+maíz, coincidiendo con el 31,9% del municipio de Inquisivi. 45% de las familias usan 2 ha como promedio, 30% 
+usan 3 ha como promedio y 18% usan 1 ha para el cultivo de maíz. El rendimiento promedio de maíz en el cantón 
+Capiñata es de 1500 kg/ha, que equivale a 32,61 qq (1 qq = 46 kg).  44% de lo producido es destinado a venta, 
+52% de las familias mencionan que el maíz lo utilizan para la venta y consumo, y un 4 % lo utilizan para trueque. 
+80% de los productores venden su maíz en diciembre – enero, donde el precio es más alto llegando a 60 Bs/@.  
+66 % de las familias producen su propia semilla y un 97% de las familias utilizan semilla criolla de maíz blanco 
+variedad local. 
+ 
+Componente producción.  En prácticas culturales, 63% de las familias consideran el control de malezas como 
+importante, y un 36% de las familias encuestadas indican, a la fertilización. El cultivo de maíz es 100% orgánico. 
+Un 66% fertiliza con estiércol de oveja, 16% aplican abono bovino y otros 16% con gallinaza. 90% de las familias 
+indican que el tamaño ideal del primer aporque es 20 a 30 cm y para el segundo aporque entre 50 a 60 cm. 85% 
+de familias indican, que no es necesaria la incorporación de fertilizantes en el aporque.  81% de las familias 
+mencionan al gusano trozador (Helicoverpa armígera), que ataca a los tallos y mazorcas. 5% menciona al pulgón 
+cogollero ( Rhopalosiphum maidis ), que atacan las  hojas tiernas, un 8% mencionan al gorgojo ( Shitophilus 
+zeamais) y un 6% sufren ataques de otras plagas en sus cultivos como loros, perdiz, y otras aves.  60 % de                           
+las familias mencionan el carbón de maíz ( Hustilago maydis), un hongo que ataca a la mazorca; un 22% indican 
+las  manchas  foliares  (Exserohilum turcicum), a causa  del  exceso  de  humedad  y  temperatura,  y para un 18%
+=====PAGE 13=====
+___________________________________________________________________________________________ 
+ 
+______________________________________________________________________________________________________________________________________________________________________ 
+                                               CIBUM SCIENTIA, Bolivia. Vol. 2, n° 1. Junio 2023. pp. 101-114. ISSN linea: 2791-1217  
+   ISSN impreso: 2791-1209                                        113   
+Sistema de producción del cultivo de maíz (Zea mays) de los productores de cantón Capiñata, departamento de La Paz, Bolivia 
+presentan pudriciones (Pythium aphanidermatum). Las pérdidas son de 1 a 3% dependiendo del manejo. Para el 
+control de plagas y enfermedades, el 14% de las familias, utilizan productos naturales mientras un 86 % no 
+utilizan ningún producto. 
+ 
+Componente cosecha. 95% de las familias considera al preparado de los secadores de maíz.  21% de las familias 
+verifican la madurez de las mazorcas a los 210 días (7,5 meses), mientras que el 79% de las familias se guían por 
+el estado de las plantas a los 240 días (8,5 meses).  75% de las familias clasifica su maíz, por el tamaño de los 
+granos y un 19 % lo clasifican por la calidad de maíz. 50% de los productores realiza tratamiento de poscosecha 
+que consiste en una limpieza general del producto. 87 % de las familias almacenan en sus hogares y 88% lo 
+almacena por meses. 92% de las familias almacenan el maíz en silos artesan ales (pirwas), que está expuesto a 
+las plagas y un 4% de las familias almacenan sus productos en silos metálicos adaptados. 93% de las familias 
+tienen problemas de plagas (roedores, polilla, gorgojo), y aplican el control biológico (gatos, buena ventilación). 
+ 
+Componente transporte. 86% de las familias usan el transporte motorizado, por otra parte, un 14% de las familias 
+mantienen aún la costumbre de transportar sus productos en animales (caballos, burros, mulas) para abaratar 
+costos. 
+ 
+BIBLIOGRAFÍA 
+ 
+CIAT. (2000). Evaluación de 18 variedades de maíz amarillo tardío y dos testigos en dos localidades de Saavedra. 
+En C. d. Tropical, Informe Técnico Anual. Santa Cruz, Bolivia: Centro de Investigación Agrícola Tropical. 
+Deras, H. (2020). Guía Técnica El cultivo de  maíz. San Salvador, El Salvador: Instituto Interamericano de 
+Cooperación para la Agricultura (IICA), Ministerio de Agricultura y Ganadería (MAG), Centro Nacional de 
+Tecnología Agropecuario y Forestal (CENTA), Agencia Suiza para el Desarrollo y la Cooperación (COSUDE). 
+FAO. (1985). Insectos que dañan granos productos almacenados. Santiago, Chile: Oficina Regional de la FAO Para 
+America Latina y el Caribe. 
+GAMI-MAN. (2016). Plan Territorial de Desarrollo Integral - PTDI 2016 - 2020. Inquisivi, La Paz, Bolivia., Bolivia: 
+Gobierno Autonomo Municipal Inquisivi - Misión Alainza Noruega. 
+Gómez, L., Macedo, M., & Suárez, R. (2007). El cultivo de maíz en sistemas minifundistas y del pequeño productor 
+familiar (proyecto profam - proyecto minifundio). Tucuman, Argentina: Ediciones INTA. 
+Gómez, V. (2004). Determinación del punto optimo de madurez fisiológica para cosecha de semillas de maíz (Zea 
+mays L.), variedad INIAP -101, en la Estación Exp erimental Santa Catalina, 2003 . Santo Domingo de los 
+Colorados, Ecuador: Universidad Tecnológica Equinoccial. 
+Gutiérrez, C. (2010). Evaluación de la importancia de la producción del Cultivo de Maíz ( Zea mays  L.) en la 
+seguridad alimentaría en familias campesinas de cinco comunidades del municipio de Sor ata del 
+Departamento de La Paz. La Paz, Bolivia: Facultad de Agronomía, Universidad Mayor de San Andrés. 
+INE. (2017). Encuesta Agropecuaria 2015. La Paz, Bolivia, Bolivia: Instituto Nacional de Estadistica. 
+La Gra, J., Kitinoja, L., & Alpizar, K. (2016). Metodología de evaluación de ca denas agroialimentarias para la 
+identificación de problemas y proyectos. San Jose, Costa Rica: IICA. 
+Laura, F. (2013). Análisis socio -económico del sistema de producción del cultivo de maíz ( Zea mays) en cuatro 
+comunidades de cabecera de valle en el Munici pio de Moco moco Provin cia Camacho . La Paz, Bolivia: 
+Facultad de Agronomía, Universidad Mayor de San Andrés. 
+León, P., Diaz, L., & Cea, M. (2004). Efecto del aporque en el rendimiento del cultivo del maíz. Ciencias Técnicas 
+Agropecuarias, 13(2), 10 pp. 
+Manuel, I., Gil, A., Ramírez, B., Hernández, J. H., & Bellow, M. (2007). Calidad física y fisiológica de semilla de maíz 
+criollo almacenada en silo metálico y con métodos tradicionales en Oaxaca, México. Revista Fitotecnia 
+Mexicana, 30(1), 69-78 pp. 
+Mercado, R. (2012). Efecto del número de aporques en maíz en la Provincia de San Martin. Tarapoto, Perú: 
+Universidad Nacional de San Martín.
+=====PAGE 14=====
+___________________________________________________________________________________________ 
+ 
+______________________________________________________________________________________________________________________________________________________________________ 
+114                                            CIBUM SCIENTIA, Bolivia. Vol. 2, n° 1. Junio 2023. pp. 101-114. ISSN linea: 2791-1217  
+   ISSN impreso: 2791-1209                                      
+Hernán Quispe Huarachi, Juan José Aparicio Porres, José Eduardo Oviedo Farfán   
+Nina, F. (2009). Estudio de comercialización de limón (Citrus limón, Citrus aurantifolia, Citrus latifolia) del Cantón 
+Circuata del Municipio de Cajuata, Provincia Inquisivi del Departamento de La Paz (Tesis de Grado). La 
+Paz, Bolivia: Facultad de Agronomía, Universidad Mayor de San Andrés. 
+Ortiz, A. I. (2012). Los maices en la seguridad alimentaria de Bolivia. Santa Cruz, Bolvia: Centro de Investigación 
+y Promoción del Campesinado. 
+PDM. (2016). Plan de Desarrollo Municipal de Inquisivi - Noviembre 2015. La Paz, Bolivia: GAM Inquisivi. 
+Sánchez, I. (2014). Maíz I (Zea mays). REDUCA (Biología), 7(2), 151-171. 
+Smale, M., Aguirre, J. A., Bellon, M. R., Mendoza, J., & Rosas, I. M. (1999). Farmer management of maize diversity 
+in the Central Valleys of Oaxaca. México: CIMMYT INIFAP. 
+Tarqui, M. (2013). Determinación de la aptitud del suelo en el Municipio de Inquisivi (Cantones Inquisivi  y 
+Capiñata). La Paz, Bolivia.: Facultad de Agronomía, Universidad Mayor de San Andrés. 
+Yara. (2022). Nutrición Vegetal - Maíz. Obtenido de https://www.yara.bo/nutricion-vegetal/maiz/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

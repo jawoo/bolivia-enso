@@ -1,0 +1,362 @@
+
+=====PAGE 1=====
+Instituto Nacional de Innovación Agropecuaria y Forestal - INIAF
+Dirección Nacional de Investigación
+54
+Respuesta del cultivo de Arroz de Secano 
+(Oryza sativa L.) a diferentes niveles de fertilización 
+nitrogenada, Municipio de Yapacani, departamento de 
+Santa Cruz, verano 2015/16.
+René Guzmán1*, Alfonso Vedia, Lizeth Maquera, Eun Hee Baek, Adrián López & Michel Vales
+1 Coordinador Programa Nacional de Arroz del Instituto Nacional de Innovación Agropecuaria y Forestal (INIAF)
+* e-mail: reneciat@hotmail.com
+Resumen
+El presente estudio se llevó a cabo durante la campaña agrícola de verano 2015/16 en el departa -
+mento de Santa Cruz, municipio de Yapacani, comunidad Nuevo Horizonte, con el objetivo de deter -
+minar la dosis óptima de nitrógeno para una mayor productividad del cultivo de arroz de secano para 
+la comunidad Nuevo Horizonte del municipio de Yapacaní; para el cual se evaluaron diferentes dosis 
+de fertilización nitrogenada 0N; 50N; 100N; 150N; 200N; 250N y 300N (Kg/ha), con siembra de la 
+variedad Mac 18. El diseño experimental utilizado fue bloques completos al azar con tres repeticio -
+nes. La fertilización de las diferentes dosis de nitrógeno se efectuó a los 36 días después de la siembra 
+con urea (46%) en suelo húmedo, después de una precipitación. El rendimiento de la variedad Mac 18 
+sometida a las diferentes dosis de nitrógeno presenta una tendencia cuadrática llegando a un máximo 
+de rendimiento de 4246 kg/ha con una dosis optima de 225 kg N/ha donde las condiciones de precipi-
+tación pluvial no fueron favorables para el normal desarrollo del cultivo; dosis mayores a esta reducen 
+los rendimientos promoviendo un menor número de macollos productivos.
+Palabras claves: Arroz, fertilización, nitrógeno, suelo.
+Abstract
+The present study was carried out during the summer agricultural campaign 2015/16 in the depart-
+ment of Santa Cruz, municipality of Yapacani, Nuevo Horizonte community, in order to determine 
+the optimal dose of nitrogen for higher productivity of rice cultivation for the Nuevo Horizonte com -
+munity in the municipality of Yapacani. Different doses of nitrogen fertilization were evaluated 0N; 
+50N; 100N; 150N; 200N; 250N and 300N (kg / ha), with variety of Mac 18. The experimental design 
+was randomized block design containing 3 repetitions. Fertilization of different doses of nitrogen was 
+performed at 36 days after sowing. The performance of the Mac 18 variety under different doses of 
+nitrogen has a quadratic trend reaching a maximum yield of 4246 kg / ha with an optimal dose of 225 
+kg N / ha where the conditions of rainfall were not favorable for normal development of the crop. Doses 
+above this reduce yields fewer promoting productive tillers.
+Keywords: Rice, fertilization, nitrogen, soil.
+Introducción
+El arroz es el alimento básico para más de 
+la mitad de la población mundial, aunque es 
+el más importante del mundo si se considera 
+la extensión de la superficie en que se cultiva 
+y la cantidad de gente que depende de su co -
+secha. Para el Estado Plurinacional de Bolivia 
+este cereal es considerado como una prioridad 
+para la seguridad alimentaria, el cual es culti -
+vado en el país en una superficie aproximada 
+de 170.000 hectáreas de las cuales el 93% es 
+cultivado en condiciones de temporal y los ren-
+dimientos son los más bajos de toda Latinoa -
+mérica, por lo que es de mucha importancia la 
+necesidad incrementar los rendimientos por 
+unidad de superficie.
+=====PAGE 2=====
+Instituto Nacional de Innovación Agropecuaria y Forestal - INIAF
+Dirección Nacional de Investigación
+55
+Al igual que otros cultivos, el nitrógeno es 
+el principal factor limitante en la producción 
+del cultivo de arroz. Su disponibilidad se con -
+sidera esencial por ser un componente básico 
+en todas las moléculas orgánicas involucradas 
+en el crecimiento y desarrollo vegetal (Salas, 
+2003). El nitrógeno es un constituyente esen -
+cial en los aminoácidos, ácidos nucleicos y de 
+la clorofila. Promueve el rápido crecimiento 
+(incremento en el tamaño de la planta y nú -
+mero de macollos) y aumenta el tamaño de las 
+hojas, el número de espiguillas por panícula, el 
+porcentaje de espiguillas llenas y el contenido 
+de proteínas en el grano (Dobermann y Fair -
+hurst, 2005). Las dos formas como el nitrógeno 
+puede ser absorbido por las plantas son amo -
+nio (NH4+) y nitrato (NO3-), principalmente 
+obtenidos de los fertilizantes nitrogenados y 
+la mineralización de los residuos de cosecha 
+y la materia orgánica del suelo. En mayor pro-
+porción que en otros cultivos, la productivi -
+dad del arroz depende de la disponibilidad y 
+eficiencia en la absorción de nitrógeno, tanto 
+por su contribución directa como por permitir 
+la absorción de otros nutrientes (Norman, et. 
+al., 2003; Ramírez, 2001). La concentración de 
+nitrógeno en las hojas está estrechamente rela-
+cionada con la tasa de fotosíntesis en las hojas 
+y la producción de biomasa del cultivo. Cuan-
+do se aplica suficiente nitrógeno se incrementa 
+la demanda de otros macronutrientes como P 
+y K (Dobermann y Fairhurst, 2005). El objeti-
+vo del estudio fue determinar la dosis óptima 
+de nitrógeno para una mayor productividad del 
+cultivo de arroz de secano para la comunidad 
+Nuevo Horizonte del municipio de Yapacaní.
+Materiales y métodos
+El ensayo se llevó a cabo en el municipio 
+de Yapacaní comunidad Nuevo Horizonte de 
+la provincia Ichilo del departamento de San -
+ta Cruz, ubicado a 17° 16′ 53′′ de latitud sur y 
+64° 07′ 08′′ de longitud oeste del meridiano de 
+Greenwich, a una altitud de 257 msnm con una 
+precipitación media anual de 1950 mm, con sue-
+los de predominancia de franco arcillo limoso. 
+El muestreo de suelo para análisis físico quí-
+mico de la parcela se realizó en forma de zig zag 
+tomando 25 sub muestras, que posteriormente 
+fue homogenizada y tomada una muestra de 1 
+kg para su análisis físico químico en el labora -
+torio de suelos de CETABOL. Posteriormente 
+se efectuó un estudio del perfil del suelo.
+El ensayo de respuesta a la fertilización 
+constó de siete tratamientos con diferentes do-
+sis de fertilización nitrogenada de: 0N; 50N; 
+100N; 150N; 200N; 250N y 300N (kg/ha), en 
+cultivo de arroz con la variedad Mac 18. El 
+diseño experimental empleado fue bloques 
+completos al azar con tres repeticiones. Cada 
+unidad experimental fue constituida de una 
+parcela de 2 m de ancho por 5 m de largo ha -
+ciendo un área de investigación por parcela de 
+10 m2. La siembra se realizó el 6/10/2015 dis-
+tribuyendo la semilla al voleo a razón de 90 kg 
+de semilla/ha. La fertilización de las diferentes 
+dosis de nitrógeno se efectuó 36 días después 
+de la siembra con urea al 46% cuando el suelo 
+tenía buena humedad, después de una lluvia 
+distribuyendo el fertilizante de forma manual 
+al voleo. El control de malezas se efectuó en 
+forma química con el herbicida Bispiribac so -
+dium 20% en dosis de 0,3 kg/ha.  Para la cose-
+cha se tomó un área de 10 m2. Las variables en 
+estudio en el experimento fueron: días a flo -
+ración, altura de planta, panículas/m2, número 
+de granos/panícula, peso de mil granos, centro 
+blanco, porcentaje de grano entero, porcentaje 
+de grano partido, rendimiento de grano e inci -
+dencia de las principales enfermedades (piricu-
+laria en hoja; piricularia en panícula; helmin-
+tosporium, escaldado de la hoja y manchado 
+de grano). Para el análisis estadístico se realizó 
+de acuerdo al modelo matemático de bloques 
+completos al azar con análisis de tendencia. 
+Resultados y discusión
+Los diferentes estudios de análisis físico y 
+químico de los suelos y estudio de los perfi -
+les de suelo en la comunidad Nuevo Horizonte 
+del municipio de Yapacaní pudo evidenciar en 
+los diferentes suelos un horizonte A superficial 
+que varían de 20 a 22 cm, con una estructura 
+de tipo granular, con raíces abundantes de de -
+sarrollo normal y pocas manchas de oxidación 
+y textura franco arcillo limoso; en cambio en 
+el horizonte B presenta textura franco limoso 
+con elevados grados de oxidación de hierro que 
+presentan colores rojisos, anaranjados y ama -
+rillentos, acentuándose más la intensidad de 
+las oxidaciones de hierro a mayor profundidad 
+(Figura 1). Los óxidos de hierro en el suelo son 
+importantes, ya que no existe prácticamente un 
+suelo donde no se encuentren, aunque sea en 
+pequeñas cantidades (Acevedo, et. al., 2004).
+=====PAGE 3=====
+Instituto Nacional de Innovación Agropecuaria y Forestal - INIAF
+Dirección Nacional de Investigación
+56
+Figura 1. Estudio del perfil de suelo, comunidad Nuevo Horizonte, Municipio de Yapacaní. 
+Santa Cruz, 2015.
+Los resultados de los análisis químicos del 
+suelo de la comunidad Nuevo Horizonte  se 
+presentan en el Cuadro 1 muestran los siguien-
+tes resultados: muy bajo contenido en fósforo, 
+azufre, potasio y calcio; bajo contenido de ma-
+teria orgánica, sodio, zinc, magnesio y boro; 
+contenidos moderados de nitrógeno y cobre; 
+altas cantidades de hierro y manganeso. pH 
+acido de 5,7; estos resultados muestran un sue-
+lo de baja fertilidad. 
+Cuadro 1. Resultados del análisis físico químico de suelos. Municipio de Yapacaní, comunidad 
+Nuevo Horizonte. Santa Cruz, 2015.
+Parametros Unidad Resultados
+Profundidad de muestreo cm 0 - 20 20 - 40
+Textura FVL Franco arcillo limoso FL Franco limoso
+pH-H20 (1-5) --- 5,7 ácido 6,24 ácido
+Conductividad eléctrica; 1:5 (C.E.) umho/cm 8,37 no salino 9,37 no salino
+Materia orgánica (MO) total g/kg 24,52 bajo 4,01 muy bajo
+Materia orgánica (MO) oxidable g/kg 18,86 bajo 3,09 muy bajo
+Nitrogeno total (N) g/kg 1,5 moderado 0,65 bajo
+Relación C/N --- 9,48 3,58
+Nitrogeno disponible mg/kg 36,44 moderado 13,62 muy bajo
+Fósforo Olsen(P) mg/kg 2,04 muy bajo 0,69 muy bajo
+Azufre (S) mg/kg 2,29 muy bajo 3,02 muy bajo
+Potasio intercambiable (K) cmolc/kg 0,15 muy bajo 0,13 muy bajo
+Calcio intercambiable(Ca) cmolc/kg 1,54 muy bajo 0,64 muy bajo
+Magnesio intercambiable(Mg) cmolc/kg 0,59 bajo 1,72 alto
+Sodio intercambiable(Na) cmolc/kg 0,33 bajo 0,79 moderado
+Acidez intercambiable (H + Al)) meq/100g 2,137 5,443
+Aluminio intercambiable (Al) meq/100g 2,04 5.24
+Cap. Inter. Cationico efectivo (CIC) cmolc/kg 6,91 14,13
+Hierro (Fe) mg/kg 61,25 muy alto 18,31 moderado
+Manganeso (Mn) mg/kg 32,88 muy alto 11,38 moderado
+ZInc (Zn) mg/kg 0,86 bajo 0,61 bajo
+Cobre (Cu) mg/kg 0,87 moderado 0,85 moderado
+Boro (B) mg/kg 0,1 bajo 0,05 bajo
+=====PAGE 4=====
+Instituto Nacional de Innovación Agropecuaria y Forestal - INIAF
+Dirección Nacional de Investigación
+57
+Los datos climáticos registrados durante el 
+experimento muestran una precipitación plu -
+vial de 871 mm con una mala distribución de 
+las lluvias durante el desarrollo del cultivo que 
+influyó en las mermas de los rendimientos, en 
+tanto que las temperaturas registradas estuvie-
+ron dentro los óptimos con una media de 28 ˚C.
+En el Cuadro 2 se presentan los promedios 
+de las características agronómicas de la varie -
+dad Mac 18 con las diferentes dosis de ferti -
+lización nitrogenada. El análisis de varianza 
+efectuado para el ensayo muestra una tendencia 
+lineal negativa para días a floración a medida 
+que se incrementó la dosis de nitrógeno dismi-
+nuyo los días a floración, en cambio que para 
+las características número de granos por paní -
+cula, porcentaje de grano entero la respuesta 
+fue lineal positiva aumentando el número de 
+granos por panícula y el porcentaje de grano 
+entero a medida que se aumentó la dosis de ni-
+trógeno;  sin embargo la longitud de grano, el 
+número de panículas por m2 y rendimiento de 
+grano muestran una respuesta cuadrática.
+Cuadro 1.  Promedios de los resultados del ensayo de la respuesta a la fertilización de nitrógeno. 
+Nuevo Horizonte. Verano 2015/16. 
+Dosis de 
+nitrogeno
+Fl ap Acame
+(%)
+enfermadedes
+Pan/m2 ngp p-1000
+calidad de grano Rdto.
+(kg/
+ha)(kg/ha) Bl Bs LSc PB Gd LG CB % 
+Entero
+% 
+Partido
+0 127 91 1,0 1 3 1 1 3 314 91 26,90 7,540 10,0 45,4 17,8 2767
+50 127 97 1,0 1 3 1 1 1 309 100 27,47 7,667 15,5 45,5 18,5 3223
+100 124 101 1,0 1 3 1 1 1 425 102 27,87 7,893 13,5 47,1 18,2 3047
+150 123 113 1,7 1 3 1 1 3 411 115 28,67 7,827 12,3 46,8 17,0 3917
+200 119 115 11,3 1 3 1 1 3 461 131 29,87 7,860 9,5 50,0 16,2 4425
+250 118 114 11,7 1 3 1 1 3 416 122 27,71 7,817 7,9 50,7 15,2 4110
+300 116 118 18,7 1 3 1 1 3 369 122 28,43 7,657 6,3 52,4 15,0 3978
+Promedios 122 107 6,0 392 112 18,43 7,760 10,7 48,3 16,9 3767
+Prob. Tratamiento 0.001** 0.001** 0.001** 0,07 ns 0,009** 0,115 ns 0,001** 0.001** 0.002** 0.066 ns 0,021*
+Lineal 0.001** 0.001** 0.001** 0,077 ns 0,001** 0,107 ns 0,008** 0.001** 0.001** 0,003** 0,001**
+Cuadratica 0,547ig 0,008** 0,001** 0,006** 0,126 0,092 ns 0,001** 0.001** 0.135 0,391 ns 0,035*
+DMS (5%) 3.975 5.883 2.409 84,3 20,12 0,139 2.493 3.274 2,68 915,3
+CV (%) 1,8 3,1 19,5 12,1 10,1 4,3 1,00 13,1 4,3 8,9 13,7
+Referencia: FL = días a floración; AP = altura de planta (cm); pan/m2 = panículas/m 2; NGP = número de granos/panícula;  
+P-1000 = peso de mil granos (g); LG = longitud de grano (mm); CB = centro blanco, % Entero = grano entero después de 
+molinería (%); % Partido = grano partido después de molineria (%); Rdto = rendimiento; BI = piricularia  en hoja; Bs = 
+helmintosporiosis;  LSc = escaldado de hoja; PB = piricularia  en panícula; Gd = manchado de grano.
+El rendimiento promedio para el ensayo fue 
+de 3767 kg/ha con una respuesta significativa 
+para las dosis de nitrógeno, con un coeficiente 
+de variación de 13,7%. 
+El análisis de tendencia efectuado muestra 
+una respuesta cuadrática para el rendimiento 
+de grano con un coeficiente de determinación 
+de R2 = 0.96, lo que explica que el 96 % de la 
+variación del rendimiento fue por efecto de la 
+fertilización nitrogenada, llegando a un máxi -
+mo rendimiento de 4246 kg/ha con una dosis 
+optima de 225 kg N/ha, dosis mayores a esta 
+promueven una reducción en el número de pa -
+nículas por metro cuadrado y por ende en el 
+rendimiento (Figura 2). La respuesta del cultivo 
+de arroz a la aplicación de nitrógeno está con -
+dicionada por diferentes factores (temperatura, 
+radiación solar, riego, y nutrientes del suelo) 
+que interactúan con la dosis de nitrógeno y fós-
+foro aplicado (Lavecchia, 1991). 
+Diversos autores señalan que solo un 40 % 
+del fertilizante nitrogenado aplicado al suelo 
+es absorbido por las planta y las pérdidas más 
+importantes son producidas por denitrificacion 
+=====PAGE 5=====
+Instituto Nacional de Innovación Agropecuaria y Forestal - INIAF
+Dirección Nacional de Investigación
+58
+y volatilización. La mayoría del NH4+ absor -
+bido se incorpora a los compuestos orgánicos 
+en las raíces, mientras que el NO3- es más mó-
+vil en el xilema y también se almacena en las 
+vacuolas de diferentes partes de la planta. El 
+NO3- también puede contribuir a mantener el 
+balance entre aniones y cationes, y la osmore -
+gulación. Para cumplir sus funciones esencia -
+les como nutriente de la planta, el NO3- debe 
+reducirse a NH4+ por la acción del nitrato y 
+nitrito reductasa. El N es requerido durante 
+todo el periodo de crecimiento, pero la mayor 
+necesidad se presenta desde el macollamiento 
+activo 30 días después de la siembra y al inicio 
+de la formación de la panícula. El N es móvil 
+dentro de la planta porque se transloca de las 
+hojas viejas a las hojas jóvenes y los síntomas 
+de deficiencia tienden a ocurrir primero en las 
+hojas bajeras ( Dobermann y Fairhurst, 2005).
+Figura 2. Análisis de tendencia para rendimiento de grano de la variedad Mac 18 con diferentes 
+dosis de nitrógeno. Nuevo Horizonte. Verano 2015/16.
+Conclusiones 
+El análisis de tendencia presento una res -
+puesta lineal negativa para días a floración 
+disminuyendo los días a floración con el incre-
+mentó de la dosis de nitrógeno, en cambio para 
+las características número de granos por paní -
+cula y porcentaje de grano entero la respuesta 
+fue lineal positiva aumentando los granos por 
+panícula y el porcentaje de grano entero con 
+el incremento de la dosis de nitrógeno. La res-
+puesta a las diferentes dosis de fertilización 
+fue cuadrática para las variables longitud de 
+grano, número de panículas por m2 y rendi -
+miento de grano. 
+La dosis óptima de nitrógeno en el experi -
+mento fue de 225 kg/ha para lograr una produc-
+tividad de 4246 kg/ha con la variedad Mac 18.
+Referencias citadas
+• acevedo, O., E. Ortiz, M. Cruz, y E. Cruz. 
+2004. El papel de óxidos de hierro en suelos. 
+Tierra Latinoamericana. Sociedad Mexica -
+na de la Ciencia del Suelo, Chapingo, Méxi-
+co vol. 22, núm. 4, pp. 485-497.
+• Dobermann, A. y T. Fairhurst. 2005. Ma -
+nejo del nitrógeno en arroz. Informaciones 
+agronomicas No. 58. Instituto de la potasa y 
+el fosforo, IMPOFOS. Quito Ecuador.
+• Lavecchia, A. 1991. Arroz: Fertilización ni-
+trogenada en la zona norte del pais. Institu-
+to Nacional de Investigación Agropecuaria 
+(INIA). Serie técnica N° 17. Ed. Hemisferio 
+Sur. Montevideo, Uruguay. 20 p.
+=====PAGE 6=====
+Instituto Nacional de Innovación Agropecuaria y Forestal - INIAF
+Dirección Nacional de Investigación
+59
+• Norman, R., C. Wilson, N. Stalon, 2003. 
+Soil fertilization and mineral nutrition in 
+U.S. mechanized rice culture. In: Smith 
+C.W., Dilday, R. H. eds. Rice, origin, his -
+tory technology and production. New Jer -
+sey. USA. pp. 331 – 413.
+• Ramirez, C. 2001. Nutrición nitrogenada. 
+In: Villalobos E. ed. Fisiología de la pro -
+ducción de los cultivos tropicales. EUCR. 
+Universidad de Costa Rica, San José. pp 
+203- 224.
+• Salas, C. 2003. Nutrición mineral de plantas 
+y el uso de fertilizantes. In: Melendes G., 
+Molina E. eds. Fertilizantes: características 
+y manejo. Centro de Investigaciones Agro -
+nómicas, UCR. San José. PP 1-19.

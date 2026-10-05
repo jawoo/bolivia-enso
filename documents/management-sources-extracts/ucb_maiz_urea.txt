@@ -1,0 +1,689 @@
+
+=====PAGE 1=====
+1 
+ 
+ 
+ 
+Evaluación del efecto de aplicación urea al 
+46% en diferentes etapas fenológicas del 
+maíz 
+Enrique Zeballos S *, Alejandro Sánchez.** 
+*Coordinador de Investigación del Instituto Superior 
+Agropecuario Muyurina; 
+zeballosenrique41@gmail.com 
+**Estudiante de tesis del Instituto Superior 
+Agropecuario Muyurina:  
+alexitosaguz@gmail.com 
+ 
+ 
+ 
+Resumen 
+ 
+El principal propósito de la investigación es 
+evaluar el efecto de la aplicación de nitrógeno 
+con urea al 46% en tres planes de aplicación 
+de 50, 100 y 150 kg/hectárea en el cultivo de 
+maíz de la variedad Chane -31, utilizando un 
+diseño de investigación de bloques completos 
+al azar con arreglo de trata miento factorial 3 
+x 5 + 1 (con cuatro repeticiones)  con estudio 
+cuantitativo. Se utilizó una superficie de 1473 
+m2 con una población de 9639 semillas, 
+utilizando un muestreo probabilístico 
+aleatorio simple según Moya (2014). Se 
+realizaron tre s pruebas, con  tres niveles de 
+nitrógeno 50, 100 y 150 kg/hectárea. Para esta 
+investigación se utilizaron materiales como 
+azadón, palas, punzón, ratrillos, cinta métrica. 
+Primero se obtuvo 3326 kg de maíz, con la 
+segunda dosis 4718 kg de maíz, y 3488kg de 
+maíz con la tercera dosis.  
+ 
+Palabras clave: Suelo, maíz, tratamiento, 
+fertilizante, rendimiento, urea. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Introducción 
+ 
+A pesar de los grandes esfuerzos hechos en la 
+investigación sobre el requerimiento nutritivo 
+en Santa Cruz -Bolivia, los rendimientos por 
+hectárea a nivel nacional han aumentado muy 
+poco durante los últimos diez años.  
+ 
+En más del 70 por ciento de las fincas 
+productoras de maíz en Bolivia se encuentran 
+rendimientos por debajo de los 3500 - 4000 
+kg ha-1 y el rendimiento promedio nacional 
+sigue siendo de 4100 kg ha-1. Esto se atribuye 
+principalmente a la falta de fertilización y un 
+mal control de malezas.   
+La siguiente pregunta de investigación: ¿Cuál 
+será el impacto de utilizar urea (46%) en 
+suelos con bajo contenido de nitrógeno, que 
+tienen rendimientos pobres de cultivos, por la 
+degradación de suelos? 
+Según ANAPO (2016, pág. 87), las 
+recomendaciones presentadas han sido 
+=====PAGE 2=====
+2 
+ 
+ 
+ 
+elaboradas como estimaciones de las dosis de 
+nitrógeno (N) a aplicar a los cultivos de maíz 
+en la Zona del norte Integrado (Santa Cruz- 
+Bolivia).  
+La respuesta a fertilizantes del cultivo de 
+maíz depende de una gama de condiciones de 
+fertilidad del suelo, clima y manejo pero no 
+deben considerarse como excluyentes de 
+otras condiciones posibles. (Paz, 2007, pág. 
+167). 
+Según estu dios realizados por Manavolta 
+(2008, pág. 205), la disponibilidad de N 
+mineral para los cultivos se definió como la 
+suma del N del suelo (nitratos de 0 a 60 cm) 
+más la dosis de N del fertilizante aportado a 
+los 40 días después de la siembra.  
+Montañes (2010, pág. 234), sobre la respuesta 
+de nitrógeno en diferentes sistemas de 
+siembra. No se detectaron efectos 
+significativos de estas variables sobre la 
+respuesta de los cultivos a la disponibilidad 
+de N y por lo tanto, no se separaron las 
+poblaciones por sistema de labranza o 
+antecesor.  
+En el sitio IBCE (2019, pág. 34)  Edgar 
+Orquera, Responsable del “Programa Maíz” 
+del CIAT, explicó que el desarrollo y la 
+producción de este grano depende de la 
+disponibilidad de nutrientes en el suelo, es 
+una especie con alta producción de biomasa y 
+requiere altas cantidades de nitrógeno.  
+Asimismo, Everth R íos, investigador del 
+programa, argumentó que estas 
+investigaciones mostraron que la urea se debe 
+aplicar de forma fraccionada , u na primera 
+parte en la siembra y la otra cuando la planta 
+tenga 6 hojas; cuando llegue a la floración 
+comienza a estabilizarse y a partir de ello 
+necesita otros nutrientes como es el fósforo, 
+el potasio y azufre IBCE (2019, pág. 23). 
+Según INTA (2017, pág. 34) para alcanzar 
+rendimientos elevados en el cultivo de maíz y 
+que estos sean sostenidos en el tiempo es  
+fundamental el manejo de la nutrición en el 
+cultivo. 
+Se implementaron 4 tratamientos con 
+diferentes dosis de aplicación de nitrógeno: la 
+aplicación de 29 kg/ha N, 60,8 kg/ha N y 91,2 
+kg/ha N. En estados tempranos el agregado de 
+nitrógeno mejoró la cobertu ra inicial, 
+incrementó el área foliar en floración y 
+maximizó el número de granos/m2 Bush 
+(2005, pág. 25). 
+El propósito del trabajo fue evaluar el efecto 
+de la aplicación de nitrógeno con urea al 46% 
+en tres planes de aplicación de 50, 100 y 150 
+Kg/hectárea en el cultivo maíz (Zea maíz) en 
+la variedad Chane -31, aplicando en 3  etapas 
+fenológicas de la planta, para incrementar el 
+rendimiento, en la zona norte del 
+departamento de Santa Cruz,  en la Estación 
+Experimental Agrícola de Saavedra “EEAS”. 
+El maíz junto al trigo y otros cereales, es uno 
+de los alimentos básicos de toda la 
+Humanidad que permite una gran variedad de 
+alimentos y preparaciones . Por otro lado, el 
+maíz es también utilizado como materia 
+prima para la elaboración de raciones en el 
+sector pecuario. (Bull, 2003, pág. 65). 
+Claure (2005, pág. 22), indica las siguientes 
+características del cultivo de maíz: planta: es 
+de porte robusto de fácil desarrollo y de 
+producción anual, t allo: simple erecto, de 
+elevada longitud pudiendo alcanzar los cuatro 
+metros de altura, es robusto y sin 
+ramificaciones.  
+2. Métodos 
+Se utiliza un diseño de investigación de 
+bloques completos al azar con arreglo de 
+tratamiento factorial 3 x 5 + 1 (con cuatro 
+repeticiones) con estudio cuantitativo. 
+=====PAGE 3=====
+3 
+ 
+ 
+ 
+Utilizando una hipótesis de investigación 
+donde se menciona que l a aplicación de 
+nitrógeno en los estadios de mayor demanda, 
+favorece al crecimiento, desarrollo y 
+producción de grano de maíz.  
+Se utilizó una superficie de 1473 m2 con una 
+población de  9639 semillas, utilizando un 
+muestreo probabilístico aleatorio simple 
+según Moya (2014). 
+Las variables independientes son: fertilizante 
+nitrogenado, p lan de Fertilización  y las 
+variables dependientes tenemos la a ltura de  
+planta, altura de mazorca, diámetro del tallo, 
+longitud de mazorca, diámetro de mazorca, 
+número de hileras, granos por hileras, peso de 
+100 granos. 
+El experimento comienza con la pre-siembra, 
+en el área experiment al se procedió al 
+desbrozado, después de la siembra y del 
+rebrote de las malezas se aplicó herbicida de 
+control total (Glifosato 3.0 l/ha + Gramoxone 
+3 l/ha) aplicado con mochila manual. 
+Luego, se realizó de forma manual la siembra 
+del ensayo, con ayuda de una m atraca en las 
+distancias descritas en el punto anterior, se 
+depositaron 2-3 semillas por golpe a una 
+profundidad de 3 cm, para luego dejar 2 
+planta por golpe.  
+Las labores culturales que se realizaron 
+durante el desarrollo del ensayo, fueron las 
+siguientes: 
+ 
+ Resiembra 
+A los 7 días después de la siembra manual del 
+cultivo mediante el Punzón, se realizó la 
+resiembra, ya que en algunas zonas de la 
+parcela no emergieron las plantas deseadas, 
+con esta práctica se busca obtener la densidad 
+correcta de plantas en el ensayo.    
+ Raleo 
+A los 10 días despu és de la emergencia del 
+cultivo, se realizó el raleo manual, dejando 
+dos plántulas por golpe, esto con el fin de 
+tener una población uniforme de plantas de 4 
+– 5 plantas/m lineal y una población de 55000 
+plantas/ha. 
+ Control de malezas 
+El control de malezas se realizó, con  
+herbicidas: en preemergencia Aterbutox 
+(atrazina) a razón de 2.2 kilogramo por 
+hectárea, en post - emergente para el control 
+de hojas anchas y gramíneas, Dual gold (S -
+Metolacloro) a razón de 3 l/ha y en aplicación 
+dirigida con Gramoxone (dicloruro de 
+paraquat) usando 3 l/ha, después se realizaron 
+carpidos manuales con azadón de acuerdo a la 
+población de malezas.  
+Al final del ciclo  se hizo una aplicación con 
+el Disecante  Gramoxone (dicloruro de 
+paraquat) (101 d.d. s) para el control de 
+malezas y también con el propósito de 
+desecar las plantas de maíz a cosecha. 
+ Control de plagas  
+Se realizaron muestreos de plagas antes de 
+cada aplicación para determinar el porcentaje 
+de daño e incidencia de estos al cultivo y así 
+realizar la aplicación correspondiente.  
+Se utilizó una mochila pulverizadora (20 l), la 
+primera aplicación se realizó con el producto 
+Luxor (Lufenurón) a razón de 300 ml/Ha. a 
+los 14 días después de la siembra, la segunda 
+aplicación fue con Fol klore (Imidacloprid) a 
+razón de 200 ml/Ha. a los 22  d.d.s., una 
+tercera con Hero Home (Clorantraniliprole) a 
+razón de 100 - 150 g/Ha. A los 31 d.d.s. y una 
+cuarta con Spodox (Methomyl) a razón de 
+200 – 250 g/Ha. a los 42 d.d.s. 
+ Aplicación de fertilizantes 
+=====PAGE 4=====
+4 
+ 
+ 
+ 
+Para la apl icación del fertilizante  se 
+determinaron las cantidades por hectárea de 
+acuerdo al tratamiento y luego, tomando en 
+cuenta la longitud y la distancia entre surcos, 
+se pesó el fertilizante para cada surco de 
+siembra en bolsitas pequeñas de forma 
+manual para favorecer a la distribución 
+uniforme.  
+La aplicación en siembra e l fertilizante se 
+aplicó en forma manual abriendo surcos a 
+cinco (cm) de distancia de los surcos de maíz 
+y una vez colocado el fertilizante se procedió 
+al tapado de forma manual con Azadón.  
+Fertilización después de la germinación: El 
+nitrógeno se aplicó de acuerdo a los 
+tratamientos planificados (VE, V6, R1 en una 
+aplicación y aplicaciones fraccionadas 
+(VE+V6, V6+R1). 
+ 
+La primera aplicación de fertilizantes en la 
+etapa VE se realizó a los 14 días después de 
+la siembra, V6 se aplicó a los 30 días d.d.s.,  
+después del raleo practicado. Como fuente de 
+Nitrógeno se utilizó  Urea (46 %), la tercera 
+aplicación se realizó a los 65  días d.d.s. 
+aplicado al suelo pos teriormente aporcado 
+con azadón. 
+El registro de las principales 
+características agronómicas. 
+ Condiciones meteorológicas 
+ 
+También se muestran resultados sobre las 
+condiciones edafo -climáticas durante el 
+ensayo de cultivo de maíz para determinar los 
+efectos del fertilizante, donde se menciona 
+que, durante el ciclo del cultivo, la 
+temperatura mínima promedio fue de 23.05 
+°C; en el mes de enero se registró la menor 
+temperatura (21.9 °C), mientras que la mayor 
+temperatura mínima fue de 26.8 °C. Así 
+mismo la temperatura máxima promedio fue 
+de 31.2 °C, siendo que la mayor temperatura 
+ocurrió en el mes de diciembre, con 32.4 °C. 
+ 
+La disponibilidad de nutrientes durante todo 
+el ciclo de cultivo fue abastecida 
+adecuadamente, lo que perjudico fue una 
+mala distribución hídrica que ocasionó una 
+pérdida de nitrógeno por lixiviación y afectó 
+en el crecimiento y desarrollo de la planta de 
+maíz. 
+ 
+Las precipitaciones mensuales mostraron 
+diferencias de cantidad y uniformidad, siendo 
+la más alta en el mes de enero con 457,2 mm 
+seguido de marzo con 176,2 mm, febrero con 
+141,8 mm y la más baja corresponde al mes 
+de diciembre con 137,2 mm.  
+ 
+Como se observa, las precipitaciones 
+mensuales muestran una mala distribución 
+afectando en la etapa reproductiva donde las 
+exigencias del cultivo para su desarrollo no 
+fueron las ideales ya que se dio por encima de 
+la precipitación óptima. 
+ Altura de planta  
+ 
+Se tomaron 10 plantas al azar de cada U.E. y 
+se midió la distancia en cm, desde la base de 
+la planta al punto donde nace la hoja bandera, 
+para luego obtener y promediar los datos y 
+calificarlos de acuerdo a una escala. 
+ 
+ Altura de inserción de la mazorca 
+ 
+De las  mismas 10 plantas utilizadas para 
+medir la altura de plantas, se registró la 
+distancia en cm, desde la base de la planta 
+hasta el nudo de la mazorca superior y se 
+clasificó de acuerdo a una escala: 
+ 
+ Diámetro del tallo (cm)  
+ 
+Se tomaron 10 plantas al azar de cada unidad 
+experimental y se determinó esta medida en 
+el segundo nudo de la parte inferior del tallo, 
+=====PAGE 5=====
+5 
+ 
+ 
+ 
+para tal efecto se utilizó un calibrador vernier, 
+registrando los datos en cm. 
+ 
+ Acame de la raíz (%) 
+ 
+Este dato se tomó al final del ciclo del cultivo 
+antes de la cosecha, registrándose el número 
+de plantas que tuvieron una inclinación de 30º 
+o más a partir de la perpendicular de la base 
+de la planta donde comienza la zona radical. 
+ 
+ Acame de tallo (%) 
+ 
+Este dato se tomó al final del ciclo del cultivo 
+y antes de la cosecha, registrándose el número 
+de plantas rotas por debajo de la mazorca 
+superior, también se identificaron aquellas 
+plantas que presentaron tallos débiles y de 
+poca calidad pero que todavía no se han 
+acamado, empujando suavemente la planta.  
+ 
+ Cosecha 
+ 
+La cosecha se la realizó cuando el cultivo 
+alcanzo la madurez a cosecha y el grano 
+presentaba una humedad de 20 - 25 %. Se 
+cosecharon de forma manual los tres surcos 
+centrales por unidad experiment al, 
+seguidamente se etiquetaron para trasladarlas 
+a la Estación Experimental Agrícola de 
+Saavedra y continuar con la evaluación de las 
+mazorcas cosechadas.  
+Parámetros Evaluados  
+ Peso de campo (kg) 
+ 
+Una vez cosechada cada unidad 
+experimental, se procedió a l pesado de las 
+mazorcas con marlo y sin chala, registrando 
+este dato en kilogramos. 
+ 
+ Diámetro de mazorca (cm) 
+ 
+Se tomaron al azar cinco mazorcas por unidad 
+experimental y se midió el diámetro en 
+centímetros de la parte central de cada 
+mazorca. 
+ 
+ Longitud de mazorca (cm) 
+ 
+En las mismas cinco mazorcas donde se 
+midió el diámetro, se determinó la longitud de 
+la mazorca en cm, midiendo la distancia 
+desde la base hasta el ápice de la mazorca. 
+ 
+ Hileras por mazorca (Nro) 
+ 
+En las mismas cinco mazorcas anteriormente 
+evaluadas se contó el número hileras de cada 
+una de las mazorcas para obtener un valor 
+promedio. 
+ 
+ Granos por hilera (Nro) 
+ 
+Una vez determinado el número de hileras por 
+mazorca, se procedió a contar el número de 
+granos por hilera de cada mazorca, para sacar 
+un valor promedio para esta variable. 
+ 
+ Peso de 100 granos (g) 
+Se procedió a desgranar las cinco mazorcas 
+seleccionadas al azar de donde se contaron 
+100 granos por cada unidad experimental, 
+seguidamente se procedió al registro del peso 
+en gramos. 
+ 
+ Relación grano marlo (RGM) (%) 
+ 
+Se tomaron al azar 5 mazorcas representativas 
+por cada unidad experimental, pesando las 
+mazorcas con marlo, seguidamente se 
+desgranaron y se determinó el peso sin marlo. 
+ 
+ Rendimiento (kg/ha) 
+Se determinó el peso en campo, el contenido 
+de humedad se ajustó al 13% para cada 
+tratamiento, seguidamente se calculó el 
+rendimiento por hectárea de cada una de las 
+unidades experimentales con la siguiente 
+fórmula: 
+=====PAGE 6=====
+6 
+ 
+ 
+ 
+Rto (kg/ha) = PC.((100 -Hc)/(100-
+Hs)).(10000/AP).(10000/AP).RGM (%) 
+Por otro lado, Los instrumentos y/o 
+materiales a utilizar son: e stacas, s oga, 
+azadón, p unzón, r astrillo, cinta, métrica, 
+baldes, b olsas, como material de gabinete 
+tenemos: cuaderno de apuntes, borrador y 
+lápiz, b olígrafo, p apel bond , computadora y 
+accesorios, los equipos y maquinarias a 
+utilizar fueron: t ractor con  sus implementos  
+(rome plow, rastra, subsolador ), m ochila 
+manual de 20 litros. 
+3. Resultados 
+El impacto de haber utilizado urea (46%) con 
+las iteraciones de dosis de nitrógeno y épocas 
+de aplicación,  afectó significativamente al 
+rendimiento, con el tratamiento: 100 kg N ha-
+1, aplicados en VE + V6, se presentó el mayor 
+rendimiento (5.541 kg ha -1), siendo éste 
+significativamente superi or al resto de los 
+tratamientos. 
+Con respecto a las épocas de aplicación de 
+nitrógeno, cuando el fertilizante es aplicado 
+de forma fraccionada, es decir en 50% en VE 
+y el 50 % restante en V6, el peso de grano del 
+maíz es significativamente mayor. Así 
+mismo, se puede observar que las 
+aplicaciones totales y tempranas no tienen un 
+efecto favorable sobre el peso del grano.  
+Estos resultados permiten aseverar que bajo 
+las condiciones en las que se ejecutó este 
+trabajo de investigación, la fertilización con 
+nitrógeno es más eficiente cuando se aplica 
+una parte a la siembra y otra en V6, cuando 
+ocurre el mayor requerimiento de este 
+nutriente. 
+Por otro lado, se muestra los resultados del 
+efecto de aplicación de nitrógeno con urea al 
+46% en sus tres niveles de aplicación , donde 
+el rendimiento del maíz fue modificado 
+significativamente (P < 0.05) según el 
+software statgraphics stratus por la aplicación 
+de las diferentes dosis de nitrógeno, como 
+también por la época en que el fertilizante fue 
+aplicado. Así mismo, se observaron 
+diferencias estadísticamente significativas en 
+la interacción de los dos factores en estudio.  
+Haciendo la comparación de medias 
+aplicando Tukey utilizando el software 
+statgraphics stratus  tenemos el siguiente 
+gráfico: 
+ 
+Esta gráfica muestra el Rendimiento me dio 
+para cada nivel de Tratamiento (kg/ha). 
+También muestra un intervalo alrededor de 
+cada media. Los intervalos que se muestran 
+actualmente se basan en el procedimiento de 
+diferencia de Tukey. Están construidos de tal 
+manera que si todas las medias son ig uales, 
+todos los intervalos se superpondrán el 95% 
+del tiempo. Cualquier par de intervalos que no 
+se superpongan verticalmente corresponde a 
+un par de medias que tienen una diferencia 
+estadísticamente significativa.  
+4. Conclusiones 
+La aplicación de urea está relacionado con el 
+crecimiento vegetativo debido a tasas altas de 
+fotosíntesis (área foliar total) , altura planta , 
+diámetro de tallos , mayor tamaño de la 
+mazorca. Los resultados muestran que el 
+aumento en la dosis de 100-150 kg/ N/ 
+hectárea en la etapa fenológica VE+V6 trae 
+
+=====PAGE 7=====
+7 
+ 
+ 
+ 
+como consecuencia un aumento en la 
+asimilación de CO2 y repercute  en un 
+aumento de la biomasa de la planta  y mayor 
+rendimiento de grano. 
+Cuando el nitrógeno se aplica de manera 
+fraccionada, en la etapa fenológica VE y V6, 
+influye en el número de granos por hilera y  
+como consecuencia mayor rendimiento  
+aplicando niveles de 100 - 150 Kg de 
+nitrógeno por hectárea; en los siguientes 
+parámetros agronómicos como ser:  altura 
+planta la dosis de 100 kg/ha. alcanzó la mayor 
+altura con 211 cm; la inserción del mazorca 
+111cm  en VE+V6; en cuanto a la longitud de 
+mazorca el mejor  fue el la dosis de 100kg de 
+nitrógeno/hectárea con 19,3 cm; en diámetro 
+de mazorca la etapa fenológica VE+V6 logro 
+4,48 cm; en número de  hileras las diferencias 
+fueron mínimas y en número de grano s por 
+hilera la dosis de 100 kg/N ha alcanzo a 34 y 
+los otros tratamientos  con ligeras diferencias 
+en relación al testigo.  El mayor peso de grano 
+(33 g) fue observado en el tratamiento con 
+100 kg de N ha -1, el mismo qu e resultó 
+estadísticamente superior a las dosis de 50 y 
+150 kg.   
+De acuerdo a  las condiciones climáticas  
+registradas en este estudio la precipitación fue 
+superior al requerimiento del cultivo, 
+alcanzando a 912.4  mm que perjudico a su 
+normal desarrollo. El mes de enero fue el más 
+lluvioso con 457,2 mm de la misma forma en 
+la etapa de maduración con 176,2mm. Así 
+mismo d urante el  desarrollo se registraron  
+temperaturas que  estuvieron dentro los 
+requerimientos del cultivo. En cuanto al suelo 
+se pudo observar que el contenido de materia 
+orgánica en el suelo fue  bajo (1.7%) y de la 
+misma manera el nitrógeno con 0.09%. 
+Se puede observar que el plan 100kg de 
+nitrógeno es el obtuvo mayor respuesta 
+seguido del plan de 150 kg/hectárea con 3488 
+kg/hectárea y por último el plan  de 5 º kg / 
+hectárea que sólo alcanzó a 3326 kg/ hectárea. 
+Se puede afirmar que en estados tempranos el 
+nitrógeno mejoró la cobertura inicial, 
+incrementó el área foliar en floración y  
+maximizó el número de granos/hilera y 
+mejoro el rendimiento. 
+De ac uerdo a los resultados del análisis 
+estadístico, el rendimiento menor observado 
+fue de 2654.98 kg, el promedio general fue de 
+3844.25 kg, mientras que el valor más alto fue 
+de 5541.57 kg. Sobre las dosis de nitrógeno, 
+fue observado un incremento significat ivo 
+con la aplicación de 100 kg de N ha -1 
+sobresaliendo sobre el resto.   
+Según la hipótesis se afirma que el fertilizante 
+nitrogenado aplicado (Urea 46% ) tiene 
+respuesta en cada uno de los tratamientos , 
+especialmente en la etapas fenológica 
+aplicado el fertilizante fraccionado en 
+VE+V6 que  permitió mayor desarrollo de 
+área foliar en la planta y como consecuenc ia 
+mayor capacidad fotosintética  mejor 
+rendimiento. En cuanto a la dosis de 
+aplicación con 100 kg de nitrógeno por 
+hectárea. 
+Referencias 
+AGUIRRE, C. 2010. Fertilización orgánica 
+en maíz dulce  (Zea mays var. 
+Saccharata). Facultad de Ciencias 
+Agrarias - UNNE. C orrientes - 
+Argentina.  
+ANAPO  (2014), El cultivo de Maíz 
+recomendación técnica. Boletín N°12. Santa 
+Cruz Bolivia 54 
+ALDRICH, S.R. 2004. Producción moderna 
+de maíz. Editorial Hemisferio Sur. 
+Buenos Aires, Argentina. 
+ALLARD, G.W.,  2000. Principios de la 
+mejora genética de las plantas . 
+Editorial Omega. Barcelona, 
+España. 
+BENITES, K., 2001. Factores de 
+mejoramiento en producción de 
+maíz hibrido. 
+=====PAGE 8=====
+8 
+ 
+ 
+ 
+Disponible en: 
+www.viarurla.com.ar. 
+BULL, L 2003. Cultivo de maíz, factores que 
+afectan la productividad 
+Piracicaba, Brasil 
+CIMMYT (Centro Internacional de 
+Mejoramiento de Maíz y Trigo)., 
+1988. La formulación de 
+recomendaciones a partir de 
+datos agronóm icos: Un manual 
+metodológico de evaluación 
+económica. CIM MYT. México 
+D. F., México.  
+CLAURE, 2005. Curso de especialización en 
+producción de maíz . Postgrado 
+por tutoría a distancia “Relación 
+suelo-agua-planta y nutrició n del 
+maíz”. Pelotas, Brasil. 
+  CRUZ, 2006. Relación suelo – planta – 
+hombre en el cultivo de maíz (Zea 
+mays L.) “Exigencias 
+edafoclimáticas el cultivo del 
+maíz” Disponible en: 
+www.ftpctic.agr.ucv.ve/intranet/p
+ostgrado/suelo/maiz.doc. 
+DIAS, M.F. 2002. Efecto de la fertilización 
+foliar en el rendimiento y el 
+contenido de carbohidratos, 
+nitrógeno fosforo y potasio en 
+frejol (phaseolus vulgaris 
+L.)Instituto Nacional de 
+Investigación Ag ropecuaria 
+Colombia  
+ 
+DOTTA, H, 2008. Naturaleza y propiedades 
+de los suelos . Ed. Montaner 
+Simón S.A.Barcelona, 
+España.556 p.  
+EMBRAPA, 2007. Recomendações Técnicas 
+para o cultivo do milho / empresa. 
+ESCOBAR, J , 2005. Manual sobre abonos 
+orgánicos, Santa Cruz. Bolivia 
+CIAT. 
+FAO, 2002. Guía de fertilizantes y nutrición 
+vegetal. Boletín N°9. Roma, Italia  
+GUERRERO, A., 2001, El suelo, los abonos 
+y la fertilización de los cultivos . 
+Editorial Limusa. México. D.F.  
+LLANOS, M.,  2000. El maíz su cultivos y 
+aprovechamiento. Ed. Mun di 
+Prens.Madrid España 
+MALAVOLTA , 2008. Fertilidad y 
+fertilización  editorial . UTHEA. 
+México, 25 p. 
+MASAGUÉ, A , 2002. Influencia del 
+ambiente durante la etapa de 
+llenado del grano en la expresión 
+de la calidad comercial del maíz 
+colorado duro. Ed. hemisferio sur 
+Buenos Aires Argentina.  
+INTA, 2001.   El cultivo de maíz . Ed.  
+Balcarce, Buenos Aires, 
+Argentina. Disponible en; 
+www.inta.gov.ar/balcarce/info/inf
+ormacion.htm. 
+MELGAR, R., TORRES, M. 2011. Manejo 
+de la fertilización en maíz . 
+Proyecto Fertilizar. INTA 
+Pergamino, Buenos Aires. 
+http://www.biblioteca.org.ar/libro
+s/210722.pdf 
+MONTAÑÉS, A., 2010. Guía de fertilizantes 
+y nutrición vegetal . Boletín N°9. 
+Roma, Italia. 
+PAZ, P., 2004. Investigador de maíz 
+(CIAT).Información personal 
+Santa Cruz Bolivia. 
+PAZ, P., 2 007. Investigador de maíz 
+(CIAT).Información personal 
+Santa Cruz Bolivia. 
+PEARSONS, D.,  2002. Manuales para la 
+educación agropecuaria . 
+Editorial Trillas. México, D.F. 
