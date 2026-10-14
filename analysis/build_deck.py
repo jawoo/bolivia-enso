@@ -11,7 +11,9 @@ from pptx.chart.data import CategoryChartData
 from pptx.enum.chart import XL_CHART_TYPE, XL_LEGEND_POSITION, XL_LABEL_POSITION, XL_TICK_LABEL_POSITION
 ROOT = os.path.expanduser('~/Claude/bolivia-enso')
 FIG, RUN, OUT = sys.argv[1], sys.argv[2], sys.argv[3]; BASE = sys.argv[4] if len(sys.argv) > 4 else f'{ROOT}/derived/baseline_v4/vs_ine.csv'
-DATE = '5 October 2026'
+P5 = os.environ.get('DECK_PHASE5') == '1'
+if P5: os.environ['DECK_PHASE34'] = '1'
+DATE = '14 October 2026' if P5 else '5 October 2026'
 # ---- palette: forest green primary, sand tint, El Niño orange / La Niña blue accents (same as the charts)
 P = {'green': '2C5F2D', 'dark': '1F3A22', 'moss': '97BC62', 'sand': 'EFF0E6', 'ink': '1A1A19', 'muted': '6B6A66', 'grid': 'E4E3DD', 'white': 'FFFFFF',
      'nino': 'EB6834', 'nina': '2A78D6', 'neutral': '9B9A94', 'bad': 'B85042'}
@@ -96,10 +98,10 @@ n = 0
 # ================= 1 Title (dark)
 s = prs.slides.add_slide(BLANK); n += 1; box(s, 0, 0, W, H, fill='dark')
 text(s, 0.8, 1.9, 11.5, 1.6, 'Simulating El Niño impacts on Bolivian crops', size=44, bold=True, color='white', font=HEAD)
-text(s, 0.8, 3.45, 11.5, 0.8, 'Progress report — Phases 1–4 of the Tapiti gridded-DSSAT assessment' if os.environ.get('DECK_PHASE34') == '1' else 'Progress report — Phases 1 and 2 of the Tapiti gridded-DSSAT assessment', size=22, color='moss')
+text(s, 0.8, 3.45, 11.5, 0.8, ('Progress report — Phases 1–5 of the Tapiti gridded-DSSAT assessment' if P5 else 'Progress report — Phases 1–4 of the Tapiti gridded-DSSAT assessment') if os.environ.get('DECK_PHASE34') == '1' else 'Progress report — Phases 1 and 2 of the Tapiti gridded-DSSAT assessment', size=22, color='moss')
 text(s, 0.8, 5.6, 11, 0.5, f'IFPRI  ·  {DATE}', size=14, color='white')
 text(s, 0.8, 6.05, 11, 0.5, 'Tapiti: a Bolivia fork of Tokki, named after the tapití, Bolivia\'s native cottontail', size=12, color='moss')
-notes(s, 'Progress report to the project lead. Phases 1 (inputs) and 2 (calibration) are complete; Phase 3 (historical ENSO assessment) starts next. All numbers in this deck are from the archived production run named in the manifest.')
+notes(s, 'Phases 1-5 have a first pass: inputs, calibration, the historical ENSO hindcast, the analogue-driven 2026/27 outlook and the forecast-member ensemble. All numbers are from archived runs named in the manifests.' if P5 else 'Progress report to the project lead. Phases 1 (inputs) and 2 (calibration) are complete; Phase 3 (historical ENSO assessment) starts next. All numbers in this deck are from the archived production run named in the manifest.')
 # ================= 2 Why now, what we are building
 s = prs.slides.add_slide(BLANK); n += 1; title(s, 'Why now: the season this El Niño will hit is being sown this month'); footer(s, n)
 bullets(s, 0.6, 1.45, 6.4, 3.2, [
@@ -114,19 +116,20 @@ stat(s, 7.7, 3.6, 2.3, '42', 'campaigns, 1983/84 – 2024/25'); stat(s, 10.1, 3.
 text(s, 7.7, 5.3, 4.8, 0.9, 'Weather per cell from NASA POWER (MERRA-2), soils from ISRIC SoilGrids + HC27, areas from MapSPAM 2020, calibration against INE departmental statistics 2012–2024.', size=11, color='muted')
 notes(s, 'Timing drives the plan: a retrospective product in March 2027 describes a harvest that has already happened, so the historical analogue product comes first. The forward estimate is a second, separable stage.')
 # ================= 3 Status timeline
-s = prs.slides.add_slide(BLANK); n += 1; title(s, 'Where we are: all four phases have a first pass; the update loop is next' if os.environ.get('DECK_PHASE34') == '1' else 'Where we are: inputs and calibration done, ENSO assessment next'); footer(s, n)
+s = prs.slides.add_slide(BLANK); n += 1; title(s, ('Where we are: all five phases have a first pass; updates are next' if P5 else 'Where we are: all four phases have a first pass; the update loop is next') if os.environ.get('DECK_PHASE34') == '1' else 'Where we are: inputs and calibration done, ENSO assessment next'); footer(s, n)
 phases = [('Phase 0', 'Scaffold', 'Fork Tokki → Tapiti; smoke test on real cells', 'done'), ('Phase 1', 'Inputs', 'Weather, soil, management, cultivars, unit table', 'done'),
           ('Phase 2', 'Calibration', 'Boundary conditions and yield levels vs INE', 'done'), ('Phase 3', 'ENSO hindcast', 'Composites by ENSO phase, 1983–2024', 'done' if os.environ.get('DECK_PHASE34') == '1' else 'next'), ('Phase 4', 'Forward 2026/27', 'Analogue weather + seasonal forecasts', 'done' if os.environ.get('DECK_PHASE34') == '1' else 'later')]
-x0, wcol = 0.6, 2.38
+if P5: phases[4] = ('Phase 4', 'Outlook 2026/27', 'Analogue weather + seasonal forecasts', 'done'); phases.append(('Phase 5', 'Forecast members', '51 ECMWF members drive DSSAT, beside the analogues', 'done'))
+x0 = 0.6; wcol = (12.1 - 0.08 * (len(phases) - 1)) / len(phases)
 for i, (ph, nm, d, st) in enumerate(phases):
     x = x0 + i * (wcol + 0.08); col = {'done': 'green', 'next': 'nino', 'later': 'neutral'}[st]
-    box(s, x, 1.6, wcol, 0.08, fill=col); text(s, x, 1.8, wcol, 0.35, ph, size=11, color='muted'); text(s, x, 2.1, wcol, 0.5, nm, size=20, bold=True, color='dark', font=HEAD)
+    box(s, x, 1.6, wcol, 0.08, fill=col); text(s, x, 1.8, wcol, 0.35, ph, size=11, color='muted'); text(s, x, 2.1, wcol, 0.5, nm, size=15 if P5 else 20, bold=True, color='dark', font=HEAD)
     text(s, x, 2.65, wcol, 1.0, d, size=12, color='ink'); text(s, x, 3.7, wcol, 0.35, ({'done': 'First pass complete', 'next': 'Starting now', 'later': 'Planned'}[st] if i >= 3 else {'done': 'Complete', 'next': 'Starting now', 'later': 'Planned'}[st]), size=11, bold=True, color=col)
 text(s, 0.6, 4.5, 12.1, 0.4, 'What changed since the plan was written', size=14, bold=True, color='green')
 bullets(s, 0.6, 4.9, 12.1, 2.0, [
     'The tool is now Tapiti (github.com/jawoo/Tapiti): a renamed fork of Tokki with the US-only material removed, ' + NCOMMITS + ' commits of Bolivia-specific changes, every run archived with a manifest',
     'Two inherited assumptions had to be reworked before calibration made sense: how rice is grown, and when a season starts (slides 7–8)',
-    'Soya — 1.4 Mha and the Santa Cruz economy — turns out to be the crop the water-balance model explains least (slide 12)'], size=12)
+    'Soya — 1.4 Mha and the Santa Cruz economy — turns out to be the crop the water-balance model explains least (slide 12)'] + (['Weather sources settled after a check against 18 SENAMHI stations: NASA POWER for the observed record, the 51 ECMWF forecast members (EC46 then SEAS5) for the season ahead (slide 20)'] if P5 else []), size=12)
 notes(s, 'Phase 2 is closed as a calibration round; it can be reopened if Phase 3 shows a specific weakness. Potato and quinoa remain out of scope (no module wired / no DSSAT module).')
 # ================= 4 Spatial frame maps
 s = prs.slides.add_slide(BLANK); n += 1; title(s, 'The spatial frame: 3,469 cells, five crops, three zones'); footer(s, n)
@@ -245,12 +248,16 @@ if os.environ.get('DECK_PHASE34') == '1':
     text(s, 0.6, 5.3, 12.1, 1.4, 'Mean detrended yield anomaly per cell over 1997/98, 2015/16 and 2023/24. Soya, maíz and arroz lose across the Santa Cruz plain and the Chiquitanía; sorgo and trigo, the invierno crops sown while the El Niño was building, gain there. Altiplano maíz shows the opposite sign — the model is cold-limited there and the reanalysis under-represents the drying, so that sign is unresolved, not a result.', size=12)
     notes(s, 'Composite of three events; intervals in the report. The invierno gain is the developing-El Niño winter (April–June of the onset year), not the winter after the peak.')
     # --- Phase 4: SEAS5
-    s = prs.slides.add_slide(BLANK); n += 1; title(s, 'Phase 4: what the September SEAS5 forecast says for Nov–Mar 2026/27'); footer(s, n)
-    image(s, f'{P4F}/chart_seas5_2026-09_vs_analogues.png', 1.2, 1.35, w=10.9)
-    bullets(s, 0.6, 5.5, 12.1, 1.4, [('51 ECMWF members: ', 'Altiplano rainfall −33% with every member dry (80% between −47 and −16%), valleys −5%, lowlands near zero with a wide spread; temperatures +1.6 to +2.5 °C in every zone'),
+    S5 = '2026-10' if P5 else '2026-09'; S5M = {'2026-10': 'October', '2026-09': 'September'}[S5]
+    zm = pd.read_csv(f'{ROOT}/derived/phase4/seas5_{S5}_zone_member_anomalies.csv'); zz = zm.groupby('zone').agg(tp=('tp_anom_pct', 'mean'), tp10=('tp_anom_pct', lambda v: np.percentile(v, 10)), tp90=('tp_anom_pct', lambda v: np.percentile(v, 90)), t=('t2m_anom', 'mean'), dry=('tp_anom_pct', lambda v: (v < 0).mean()))
+    aw = pd.read_csv(f'{ROOT}/derived/phase4/analogue_weights_{S5}.csv'); w_ep = aw[aw.strong_EP_analogue].weight.sum(); w_en = aw[aw.category.str.contains('El Niño')].weight.sum(); w_ln = aw[aw.category.str.contains('La Niña')].weight.sum()
+    s = prs.slides.add_slide(BLANK); n += 1; title(s, f'Phase 4: what the {S5M} SEAS5 forecast says for Nov–Mar 2026/27'); footer(s, n)
+    image(s, f'{P4F}/chart_seas5_{S5}_vs_analogues.png', 1.2, 1.35, w=10.9)
+    dry_txt = 'every member' if zz.loc['altiplano', 'dry'] == 1 else f"{zz.loc['altiplano', 'dry']:.0%} of members"
+    bullets(s, 0.6, 5.5, 12.1, 1.4, [('51 ECMWF members: ', f"Altiplano rainfall {zz.loc['altiplano', 'tp']:+.0f}% with {dry_txt} dry (80% between {zz.loc['altiplano', 'tp10']:.0f} and {zz.loc['altiplano', 'tp90']:.0f}%), valleys {zz.loc['valleys', 'tp']:+.0f}%, lowlands {zz.loc['lowland', 'tp']:+.0f}% with a wide spread; temperatures {zz.t.min():+.1f} to {zz.t.max():+.1f} °C across the zones"),
         ('In the lowlands and valleys the members cluster around 1997/98 and 2015/16; ', 'in the Altiplano the forecast is drier and warmer than any campaign since 1983 — beyond what the analogue method can represent there'),
-        ('Each past campaign is weighted by its closeness to the members: ', '40% of the weight falls on 1997/98, 2015/16 and 2023/24, 59% on El Niño campaigns, 16% on La Niña')], size=11, gap=3)
-    notes(s, 'SEAS5 system 51, initialised September 2026, monthly anomalies relative to its own hindcast climatology; precipitation scaled by the POWER Nov-Mar mean; T2m matched to POWER Tmax. Weights are a Gaussian kernel on standardised distance, averaged over members. Refreshed on each monthly release.')
+        ('Each past campaign is weighted by its closeness to the members: ', f'{w_ep:.0%} of the weight falls on 1997/98, 2015/16 and 2023/24, {w_en:.0%} on El Niño campaigns, {w_ln:.0%} on La Niña')], size=11, gap=3)
+    notes(s, f'SEAS5 system 51, initialised {S5M} 2026, monthly anomalies relative to its own hindcast climatology; precipitation scaled by the POWER Nov-Mar mean; T2m matched to POWER Tmax. Weights are a Gaussian kernel on standardised distance, averaged over members. Refreshed on each monthly release.')
     # --- Phase 4: outlook (native chart + callouts)
     cdp = pd.read_csv(f'{ROOT}/derived/phase4/analogue_ensemble_conditional.csv'); natp = cdp[(cdp.departamento == 'Bolivia') & (cdp.zone == 'all')]
     nw = pd.read_csv(f'{ROOT}/derived/phase4/invierno2026_nowcast.csv'); nwsc = nw[(nw.departamento == 'Santa Cruz') & (nw.zone == 'lowland')].set_index('crop')
@@ -271,13 +278,50 @@ if os.environ.get('DECK_PHASE34') == '1':
     # --- Phase 4: spread
     s = prs.slides.add_slide(BLANK); n += 1; title(s, 'Phase 4: the spread is the result'); footer(s, n)
     image(s, f'{P4F}/chart_2026_27_analogue_distribution.png', 0.5, 1.4, w=12.3)
-    text(s, 0.6, 5.5, 12.1, 1.2, 'Each dot is the 2026/27 campaign simulated with one past campaign\'s weather from 26 September onward, with the real 2026 weather before that. The three strong eastern-Pacific analogues sit at the bottom for soya, maíz and arroz; the SEAS5-weighted range for soya still spans −43% to +19% between its 10th and 90th percentiles. Sorgo and Santa Cruz trigo show no spread because their season was already over at the splice date.', size=12)
+    spl = pd.Timestamp(open(f'{ROOT}/derived/phase4/splice_date.txt').read().strip()); swsb = natp[(natp.condition == 'SEAS5-weighted analogues') & (natp.crop == 'SB')].iloc[0]
+    text(s, 0.6, 5.5, 12.1, 1.2, f'Each dot is the 2026/27 campaign simulated with one past campaign\'s weather from {spl.day} {spl.strftime("%B")} onward, with the real 2026 weather before that. The three strong eastern-Pacific analogues sit at the bottom for soya, maíz and arroz; the SEAS5-weighted range for soya still spans {swsb.p10:+.0f}% to {swsb.p90:+.0f}% between its 10th and 90th percentiles. Sorgo and Santa Cruz trigo show no spread because their season was already over at the splice date.'.replace('-', '−'), size=12)
     notes(s, 'The same pipeline supports monthly updates: move the splice date forward and refresh the SEAS5 weights; the spread narrows as the season advances.')
     # --- Phase 4: map
     s = prs.slides.add_slide(BLANK); n += 1; title(s, 'Phase 4: 2026/27 under strong eastern-Pacific weather, cell by cell'); footer(s, n)
     image(s, f'{P4F}/map_2026_27_strongEP_vs_climatology.png', 0.5, 1.5, w=12.3)
     text(s, 0.6, 5.3, 12.1, 1.3, 'Mean over the 1997/98, 2015/16 and 2023/24 members relative to the all-analogue mean. The exposure is the Santa Cruz plain and the Chiquitanía for soya, maíz and arroz; the Altiplano, where SEAS5 is driest, is where this tool says least: no potato or quinoa, and a maíz response of the wrong sign in the reanalysis.', size=12)
     notes(s, 'Map of the strong-EP conditioned members; the SEAS5-weighted version is in the report tables by department and zone.')
+if P5:
+    P5D = f'{ROOT}/derived/phase5/2026-10-14'; sp = json.load(open(f'{P5D}/splice.json')); m5 = pd.read_csv(f'{P5D}/member_ensemble_summary.csv'); nat5 = m5[(m5.departamento == 'Bolivia') & (m5.zone == 'all')].set_index('crop')
+    bf = pd.read_csv(f'{P5D}/bias_factors_all.csv')
+    def dlab(d): d = pd.Timestamp(d); return f'{d.day} {d.strftime("%b")} {d.year}'
+    # --- Slide: weather sources now in use (timeline schematic + three cards)
+    s = prs.slides.add_slide(BLANK); n += 1; title(s, 'The weather behind the estimate: observed to date, forecast members, then analogues'); footer(s, n)
+    segs = [('Observed: NASA POWER', f'1981 → {dlab(sp["power_last"])}', 'Gauge-corrected reanalysis, daily, per cell', 'green', 4.0), ('Forecast: ECMWF EC46 → SEAS5, 51 members', f'{dlab(sp["forecast_first"])} → {dlab(sp["forecast_last"])}', 'Served by Open-Meteo; each member bias-adjusted to the cell\'s own climatology', 'nino', 5.3), ('Analogue tail', f'from {dlab(sp["tail_first"])}', f'Top-weighted past campaign ({sp["analogue_tail"]}/{str(sp["analogue_tail"] + 1)[2:]})', 'neutral', 2.8)]
+    x = 0.6
+    for h, when, d, col, w in segs:
+        box(s, x, 1.55, w - 0.08, 0.5, fill=col); text(s, x + 0.12, 1.6, w - 0.3, 0.45, h, size=12, bold=True, color='white', anchor=MSO_ANCHOR.MIDDLE)
+        text(s, x, 2.12, w - 0.1, 0.3, when, size=11, bold=True, color='dark'); text(s, x, 2.42, w - 0.1, 0.6, d, size=10.5, color='muted'); x += w
+    text(s, 0.6, 3.05, 12.1, 0.35, 'One daily weather file per cell and per member; DSSAT runs the 2026/27 campaign 51 times, exactly as it runs the 42 analogue campaigns.', size=11, color='ink')
+    card(s, 0.6, 3.6, 3.9, 2.9, 'Why NASA POWER for the record', 'Checked against 18 SENAMHI stations: annual rainfall within 6% (ERA5 via Open-Meteo: 25%), and season-to-season rainfall tracked at r 0.79 (ERA5: 0.40). Its precipitation is corrected to the CPC gauge analysis, so over Bolivia it is close to a gauge product. Blind spot: the Chapare, where it is five times too dry.', size=11.5)
+    card(s, 4.7, 3.6, 3.9, 2.9, 'Why the ECMWF members', 'ECMWF\'s operational extended-range (EC46, to day 46) and seasonal (SEAS5, to May) ensembles, the same 51 members in one product, refreshed daily and monthly. Each member is shifted and scaled, month by month, onto the cell\'s POWER climatology; its own run of wet and dry days is kept. Ensemble-mean season rainfall lands within 4% of climatology, as the forecast anomalies imply.', headcolor='nino', size=11.5)
+    card(s, 8.8, 3.6, 3.9, 2.9, 'What cannot be checked', 'The member product carries no hindcasts, so there is no skill score for Bolivia; the analogue sets stay the primary estimate and the members are a second opinion in the same units. The adjustment choices move the national numbers by a few points; that sensitivity is part of the uncertainty.', headcolor='bad', size=11.5)
+    notes(s, 'Decision record: documents/OpenMeteo-assessment_2026-10-14.md and PLAN.md s12. POWER = MERRA-2 with PRECTOTCORR (CPC Unified correction). EC46 = ECMWF extended range (ensemble, 46 days); SEAS5 = ECMWF seasonal system 5; both via the Open-Meteo seasonal API (Professional tier). Bias adjustment: separate Tmax/Tmin shifts, rain and radiation ratios, monthly, interpolated to the day. Weather pull ~2 minutes, 51 DSSAT runs ~45 minutes.')
+    # --- Slide: Phase 5 headline (native chart + member probabilities)
+    s = prs.slides.add_slide(BLANK); n += 1; title(s, 'Phase 5: forecast members side with the strong El Niño analogues'); footer(s, n)
+    vc = ['SB', 'MZ', 'RI']; cd = CategoryChartData(); cd.categories = [NAME[c] for c in vc]
+    cd.add_series('SEAS5-weighted analogues', [float(natp[(natp.crop == c) & (natp.condition == 'SEAS5-weighted analogues')].iloc[0]['mean']) for c in vc])
+    cd.add_series('51 ECMWF members (mean)', [float(nat5.loc[c, 'mean']) for c in vc])
+    cd.add_series('Strong eastern-Pacific analogues (3)', [float(natp[(natp.crop == c) & (natp.condition == 'strong EP analogues 1997/2015/2023')].iloc[0]['mean']) for c in vc])
+    gf = s.shapes.add_chart(XL_CHART_TYPE.COLUMN_CLUSTERED, Inches(0.6), Inches(1.7), Inches(7.4), Inches(4.9), cd); ch = gf.chart; style_chart(ch); colorize(ch, ['green', 'nino', 'bad'])
+    ch.value_axis.minimum_scale = -35; ch.value_axis.maximum_scale = 5; ch.value_axis.major_unit = 5; ch.category_axis.tick_label_position = XL_TICK_LABEL_POSITION.LOW; ch.plots[0].gap_width = 60; ch.plots[0].has_data_labels = True; ch.plots[0].data_labels.font.size = Pt(10); ch.plots[0].data_labels.number_format = '+0;-0;0'; ch.plots[0].data_labels.number_format_is_linked = False
+    text(s, 0.6, 1.35, 7.4, 0.3, 'Simulated 2026/27 national yield, % of the mean over all 42 analogue seasons (same management, same cells)', size=11, color='muted')
+    box(s, 8.4, 1.45, 4.3, 5.35, fill='sand', shape=MSO_SHAPE.ROUNDED_RECTANGLE, radius=0.04)
+    text(s, 8.65, 1.6, 3.9, 0.4, 'Chance of a ≥10% national loss, ECMWF members', size=12, bold=True, color='nino')
+    for i, c in enumerate(vc): stat(s, 8.65 + (i % 2) * 2.0, 2.05 + (i // 2) * 1.5, 1.9, f"{nat5.loc[c, 'p_loss10']:.0%}", NAME[c], color='nino')
+    text(s, 8.65, 5.05, 3.9, 0.4, 'Where the members put the signal', size=12, bold=True, color='nino')
+    text(s, 8.65, 5.45, 3.9, 1.3, [f"Lowland season warmth of about +1.5 °C over the analogue mean, inside the 1997/98, 2015/16 and 2023/24 range; Altiplano rainfall about a quarter below normal (trigo {m5[(m5.departamento == 'Bolivia') & (m5.zone == 'altiplano') & (m5.crop == 'WH')].iloc[0]['mean']:+.0f}%). 10th–90th percentile of the members: soya {nat5.loc['SB', 'p10']:+.0f} to {nat5.loc['SB', 'p90']:+.0f}%, maíz {nat5.loc['MZ', 'p10']:+.0f} to {nat5.loc['MZ', 'p90']:+.0f}%, arroz {nat5.loc['RI', 'p10']:+.0f} to {nat5.loc['RI', 'p90']:+.0f}%.".replace('-', '−')], size=11, color='ink')
+    notes(s, 'Members: ECMWF run of 2026-10-14 (EC46 to about day 42, then the October SEAS5), bias-adjusted and spliced onto observed POWER to 2026-10-01; 1997/98 weather after 2027-05-03. The member mean sits between the SEAS5-weighted analogue set and the strong-EP set for the three summer crops. Not a verified forecast: no hindcasts exist for the member product, so this is a second opinion in the same units as the analogue sets, not a replacement. Sorgo and trigo (invierno) are untouched by the forecast window except highland trigo.')
+    # --- Slide: members beside analogues (figure)
+    s = prs.slides.add_slide(BLANK); n += 1; title(s, 'Phase 5: 51 forecast members beside 42 analogue campaigns'); footer(s, n)
+    image(s, f'{P5D}/figures/chart_2026_27_members_vs_analogues.png', 0.5, 1.4, w=12.3)
+    text(s, 0.6, 5.35, 12.1, 1.4, 'Left of each panel: the 2026/27 campaign under each past campaign\'s weather (orange El Niño, blue La Niña, grey neutral). Right: under each bias-adjusted ECMWF member. The members sit below the all-analogue mean for soya, maíz and arroz with a spread as wide as the analogue set, and overlap the strong eastern-Pacific campaigns at their lower end; for sorgo and trigo the forecast window barely touches the season. The two columns are different objects: the analogues span what past seasons did, the members span what the model thinks this season will do.', size=12)
+    notes(s, 'Figure: derived/phase5/2026-10-14/figures/chart_2026_27_members_vs_analogues.png; tables derived/phase5/2026-10-14/member_ensemble_summary.csv. Both columns are % of the all-analogue mean, so they are directly comparable.')
 # ================= 13 Caveats
 s = prs.slides.add_slide(BLANK); n += 1; title(s, 'What these results cannot say'); footer(s, n)
 cav = [('No area response', 'DSSAT simulates yield on planted area. Farmers plant less or switch crop after a failed onset; that channel is often larger than the yield channel and is outside this framework.'),
@@ -291,7 +335,7 @@ for i, (h, b) in enumerate(cav):
 notes(s, 'These are the limitations the plan listed before Phase 1 started; the calibration work sharpened rather than removed them.')
 # ================= 14 Next steps
 s = prs.slides.add_slide(BLANK); n += 1; title(s, 'Next: the monthly update loop and the open model questions' if os.environ.get('DECK_PHASE34') == '1' else 'Next: the historical ENSO assessment, then the 2026/27 estimate'); footer(s, n)
-cols = [('Monthly update loop (from the 8th of each month)', ['Pull the new SEAS5 release, refresh the analogue weights and the outlook tables in minutes', 'Move the splice date forward with the latest observed weather and rerun the 42-member ensemble (~45 min)', 'Check the invierno 2026 nowcast against INE when published; 2015/16 and 2023/24 as the reference events']), ('Model work still open', ['Statistical excess-rain term for soya, fitted on the INE overlap and reported separately', 'Potato (SUBSTOR) for the Altiplano — the forecast is driest where this tool says least', 'Per-department deliverable tables; municipal cross-check of MapSPAM against INE 2023–25']), ('Decisions and requests', ['INE departmental series 1984–2011 (only 2012–2024 in hand)', 'SENAMHI/INIAF counterpart: station data after 2009, seasonal forecasts they already hold', 'How the outlook is communicated: conditional distributions, never a single number'])] if os.environ.get('DECK_PHASE34') == '1' else [('Phase 3 — ENSO hindcast (1–2 weeks)', ['Classify the 42 campaigns by ONI and by the Niño-1+2 eastern-Pacific signature', 'Composite simulated anomalies by phase, per crop × department × zone, with bootstrap intervals',
+cols = [('Monthly update loop (from the 8th of each month)', ['Pull the new SEAS5 release and the 51 ECMWF members (minutes with the Open-Meteo subscription); refresh the analogue weights', 'Move the splice date forward with the latest observed weather; rerun the 42 analogues and the 51 members (~1.5 h); the spread narrows as the season advances', 'Check the invierno 2026 nowcast against INE when published; 2015/16 and 2023/24 as the reference events'] if P5 else ['Pull the new SEAS5 release, refresh the analogue weights and the outlook tables in minutes', 'Move the splice date forward with the latest observed weather and rerun the 42-member ensemble (~45 min)', 'Check the invierno 2026 nowcast against INE when published; 2015/16 and 2023/24 as the reference events']), ('Model work still open', ['Statistical excess-rain term for soya, fitted on the INE overlap and reported separately', 'Potato (SUBSTOR) for the Altiplano — the forecast is driest where this tool says least', 'Per-department deliverable tables; municipal cross-check of MapSPAM against INE 2023–25']), ('Decisions and requests', ['INE departmental series 1984–2011 (only 2012–2024 in hand)', 'SENAMHI/INIAF counterpart: station data after 2009, seasonal forecasts they already hold', 'How the outlook is communicated: conditional distributions, never a single number'])] if os.environ.get('DECK_PHASE34') == '1' else [('Phase 3 — ENSO hindcast (1–2 weeks)', ['Classify the 42 campaigns by ONI and by the Niño-1+2 eastern-Pacific signature', 'Composite simulated anomalies by phase, per crop × department × zone, with bootstrap intervals',
           'Side by side with INE 2012–2024 and with the SENAMHI station rainfall, kept as independent evidence', 'Detrend and document the simulated soya trend before quoting anything', 'Statistical excess-rain term for soya']),
         ('Phase 4 — 2026/27 (2–3 weeks)', ['Analogue resampling: drive the 2026/27 season with 1997/98, 2015/16, 2023/24 weather on the actual sowing calendar', 'Seasonal-forecast-driven variant via the C3S path (ECMWF/NCEP/JMA ensembles SENAMHI already holds)', 'Monthly updates as the season unfolds: observed-to-date + forecast forward']),
         ('Decisions and requests', ['INE departmental series 1984–2011 (only 2012–2024 in hand)', 'SENAMHI/INIAF counterpart for station data and seasonal forecasts', 'Potato (SUBSTOR) for the Altiplano: 1–2 weeks of module work — worth it before Phase 4?', 'Municipal cross-check of MapSPAM against INE 2023–25'])]
@@ -304,6 +348,6 @@ s = prs.slides.add_slide(BLANK); n += 1; box(s, 0, 0, W, H, fill='dark')
 text(s, 0.8, 2.3, 11.5, 1.0, 'Everything is reproducible and archived', size=34, bold=True, color='white', font=HEAD)
 bullets(s, 0.8, 3.5, 11.5, 2.4, ['Code: github.com/jawoo/Tapiti (branch bolivia) — ' + NCOMMITS + ' Bolivia-specific commits, every switch defaults to upstream behaviour',
                                   'Workspace: PLAN.md (decisions and findings), DATA-INVENTORY.md, HANDOFF.md, derived/ (inputs, sources, sensitivity tables), runs/ (every production run with manifest, config and summaries)',
-                                  f'This deck: Phase 2 reference run {os.path.basename(RUN)}, figures regenerated by analysis/deck_figures.py'], size=13, color='white')
+                                  f'This deck: Phase 2 reference run {os.path.basename(RUN)}, figures regenerated by analysis/deck_figures.py'] + (['Workspace repository: github.com/jawoo/bolivia-enso (private); Phase 5 runs archived under runs/phase5/'] if P5 else []), size=13, color='white')
 notes(s, 'Contact: the IFPRI Bolivia ENSO team.')
 prs.save(OUT); print('saved', OUT, 'slides', n)
