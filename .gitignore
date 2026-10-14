@@ -6,10 +6,11 @@ weather/cache/
 runs/*/combinedOutput*.csv*
 runs/*/run.log
 runs/*.log
-runs/phase4/analog_*_combinedOutput.csv.gz
-runs/phase4/analog_*.log
-runs/phase4/ensemble_run.log
-runs/phase4/config.yml.prod.bak
+runs/phase4*/analog_*_combinedOutput.csv.gz
+runs/phase4*/analog_*.log
+runs/phase4*/ensemble_run*.log
+runs/phase4*/config.yml.prod.bak
+weather/*.log
 # Downloadable / regenerable large derived data
 derived/gis/*.geojson
 derived/deck_test_v7/
@@ -19,3 +20,13 @@ documents/*.docx
 # Windows download-marker streams and scratch
 *:Zone.Identifier
 __pycache__/
+# Phase 5 member runs and Open-Meteo caches (regenerable with the paid key; see HANDOFF.md)
+runs/phase5/**/fc_*_combinedOutput.csv.gz
+runs/phase5/**/fc_*.log
+runs/phase5/**/run_members.log
+runs/phase5/**/config.yml.prod.bak
+derived/phase5/om/
+derived/phase5_fetch_sample.log
+debug/openmeteo/cache/
+debug/openmeteo/om_daily.csv.gz
+debug/openmeteo/*.log

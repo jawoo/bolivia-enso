@@ -1,24 +1,44 @@
-# Handoff — where things stand (written 2026-10-03, end of day)
+# Handoff — where things stand (updated 2026-10-08)
 
 Resume with `claude --resume` (or `claude -c`) in `~/Claude/bolivia-enso`, or just read this file.
 
-## State (updated 2026-10-05, user away until ~2026-10-08)
-- **Phases 1–4 all have a first pass.** Reports: `documents/Phase3-ENSO-hindcast_2026-10-05.md`,
-  `documents/Phase4-2026-27-outlook_2026-10-05.md`; deck `documents/Tapiti-progress-report_2026-10-05_v2.pptx`
-  (22 slides, also in `C:\Users\JKOO\Documents\tapiti-deck\`). Findings are summarised in `PLAN.md` §7.0–§9 status blocks.
-- **Tapiti repo** (`Tapiti/`, branch `bolivia`): clean, all commits pushed to github.com/jawoo/Tapiti.
-- **This workspace is now a git repo** (`main`, commit 58dd862, 196 files) with **no remote yet** — the user will create
-  one (suggested `jawoo/bolivia-enso`, private) or run `gh auth login`; then `git remote add origin <url> && git push -u origin main`.
-- Nothing is running. Phase 2 reference run v8 and the 42-member Phase 4 ensemble are archived under `runs/` (local only).
+## State (2026-10-08)
+- **Phase 4 October update done**: `documents/Phase4-2026-27-outlook_2026-10-08.md` (SEAS5 init 2026-10, splice 2 Oct 2026,
+  42 members rerun, 0 DSSAT errors). September runs/tables archived in `runs/phase4_2026-09/`, `derived/phase4_2026-09/`.
+  Findings in `PLAN.md` §9 "Update 2026-10-08". The deck (`documents/Tapiti-progress-report_2026-10-05_v2.pptx`) still shows
+  the September numbers; `analysis/build_deck.py` reads `derived/phase4/` so a rebuild picks up October, but its slide text
+  hard-codes "26 September" and "September SEAS5" (lines ~248, 274) — edit before rebuilding.
+- **Invierno 2026 check**: INE not yet published; ANAPO press figures agree in sign and size with the nowcast (report §3).
+- **This workspace is a git repo** (`main`) with **no remote** — `gh` is not logged in and `jawoo/bolivia-enso` does not exist on
+  GitHub. Create it (private) and `git remote add origin https://github.com/jawoo/bolivia-enso.git && git push -u origin main`.
+- **NeuralGCM feasibility (2026-10-08)**: runs on this laptop's RTX A1000 (6 GB). Measured per forecast day: 2.8° deterministic 6 s,
+  1.4° stochastic 40 s (2 GB VRAM, ~2 h per 180-day member), 2.8° precip model 3.3 s. Scratch install only (JAX 0.6.2 + CUDA 12,
+  pip `--target`, not in the repo); `python3-venv` is not installed. Caveats: global-only, 20 (2.8°) / 99 (1.4°) cells over Bolivia,
+  v1 models output no precipitation / 2 m temperature / radiation, SST + sea-ice forcing must be prescribed for the season.
+  ARCO ERA5 on GCS is anonymous and populated to 2026-10-02. Decision pending: whether and where it enters the pipeline.
+- Nothing is running.
+
+## Monthly update loop (verified 2026-10-08, ~50 min wall-clock)
+1. `python3 analysis/phase4_c3s_fetch.py YYYY-MM` (CDS; request accepted immediately once the release is out, ~the 8th)
+2. `python3 analysis/phase4_forecast_weights.py derived/phase4/c3s/seas5_YYYY-MM_bolivia.nc`
+3. `python3 analysis/phase4_seas5_figure.py derived/phase4/seas5_YYYY-MM_zone_member_anomalies.csv`
+4. `python3 prep/gen_weather_bolivia.py` (POWER refresh, ~3 min) → archive `runs/phase4/analog_*` to `runs/phase4_<prev>/` →
+   `bash analysis/phase4_run_analogues.sh $(seq 1983 2024)` (~40 min; splice date is derived automatically)
+5. `python3 analysis/phase4_summarise.py derived/phase4/analogue_weights_YYYY-MM.csv` (**the argument is required**)
+6. `python3 analysis/phase4_report.py documents/Phase4-2026-27-outlook_<date>.md YYYY-MM`
 
 ## When the user is back: first actions
-1. Push this workspace (above).
-2. If the October SEAS5 release is out (~8 Oct): `python3 analysis/phase4_c3s_fetch.py 2026-10`, then
-   `phase4_forecast_weights.py derived/phase4/c3s/seas5_2026-10_bolivia.nc`, `phase4_summarise.py derived/phase4/analogue_weights_2026-10.csv`,
-   `phase4_report.py documents/Phase4-2026-27-outlook_<date>.md 2026-10`; optionally regenerate POWER weather to extend the
-   observed splice (`prep/gen_weather_bolivia.py`, then set SPLICE in `prep/gen_weather_analogue.py`, delete `runs/phase4/analog_*`, rerun
-   `analysis/phase4_run_analogues.sh $(seq 1983 2024)`, ~45 min).
-3. Check INE for invierno 2026 statistics (nowcast test: Santa Cruz sorgo +62% vs trend).
+1. Push this workspace (above) — still pending, needs `gh auth login` or a repo created on GitHub.
+2. ~~Decide on NeuralGCM~~ — decided 2026-10-14: NeuralGCM dropped; POWER history → Open-Meteo `ecmwf_seasonal_seamless` members (EC46 → SEAS5) drive DSSAT (PLAN.md §12). Professional tier being subscribed. **Built and smoke-tested 2026-10-14** (16 sample + 6 smoke cells fetched, member weather written, Tapiti ran the 2026/27 campaign on member 01 with 0 errors).
+   Phase 5 loop (after the SEAS5 release on the 5th, or any day for an EC46 refresh of days 1–46):
+   paid key in `~/.config/open-meteo/apikey` (chmod 600, outside the repo) or `export OPEN_METEO_API_KEY=...` (→ customer endpoint; without it the free tier manages ~18 points/h, 10k calls/day ≈ 37 points, and 483 points are needed)
+   1. `python3 analysis/phase5_om_fetch.py --cells all` (483 points, ~2 min on the paid tier; cache `derived/phase5/om/<run>/`, resumable, exit 2 while points are missing; refetches responses whose rain/SRAD end early)
+   2. `python3 prep/gen_weather_forecast.py --run <run>` (51 dirs `Tapiti/res/weather/2026_fc_<mm>/`, 8 GB, ~5 min; or let step 3 build each on demand)
+   3. `bash analysis/phase5_run_members.sh <run> $(seq 0 50)` (~1 min per member on the smoke set; the full table is ~1 min/analogue in Phase 4, so expect ~1 h)
+   4. `python3 analysis/phase5_summarise.py <run>` → `derived/phase5/<run>/member_ensemble_*.csv`, figure `chart_2026_27_members_vs_analogues.png`
+   Tail beyond the forecast horizon = top-weighted Phase 4 analogue (`--analogue YEAR` overrides). Bias factors per cell in `derived/phase5/<run>/bias_factors_*.csv`.
+3. Next SEAS5 release ~8 Nov: run the monthly loop above.
+4. Re-check INE for invierno 2026 statistics (nowcast: Santa Cruz sorgo +49% vs last ten campaigns).
 
 ## Decisions taken by the user (2026-10-03)
 1. **Rice → upland mode.** Agreed and **implemented 2026-10-03** (`riceSystem: upland`, both SNX writers, verified; see `Tapiti/BOLIVIA.md`).
@@ -37,3 +57,15 @@ Resume with `claude --resume` (or `claude -c`) in `~/Claude/bolivia-enso`, or ju
 - Upstream US run applied `nFertRateRec`, not NASS actual N (memory note + `BOLIVIA.md`).
 - INE departmental series only covers 2012–2024; 1984–2011 must be requested.
 - `openpyxl` is now installed (user site), so the INE and SENAMHI Excel files are readable.
+
+## Open-Meteo assessment (2026-10-13/14) — see `documents/OpenMeteo-assessment_2026-10-14.md`
+Verdict: keep POWER for historical weather (its gauge-corrected precipitation beats ERA5 against SENAMHI stations: NDJFM
+interannual r 0.80 vs 0.42, annual error −3 % vs +30 %); temperature differences are an elevation-representation issue to fix
+on the POWER cache (DEM + lapse rate), not a source issue; radiation equivalent. The one pipeline-relevant novelty: free daily
+SEAS5 members (51, 36 km, 7 months) and EC46 (46 d) via Open-Meteo since ECMWF open data (Oct 2025) — three options in the
+document §4, decision pending. SARAH-3 radiation covers Bolivia only east of 65°W; WeatherNext 2 is on the ensemble API.
+Completed 2026-10-14 on the paid archive endpoint: all 18 stations and 16 cells (document §3 updated; POWER wins at 15 of 18
+stations, Chimoré/Chapare is POWER's blind spot: 736 vs 4,089 mm/yr observed). Decision taken: option 2 → Phase 5 (PLAN.md
+§12), Professional tier subscribed, key in `~/.config/open-meteo/apikey`. First 51-member run done 2026-10-14; results in
+`derived/phase5/2026-10-14/` and §8 of the outlook document. v1 of the bias adjustment (single mean-T shift) is archived under
+`v1_meanshift/`; the production version shifts Tmax and Tmin separately.

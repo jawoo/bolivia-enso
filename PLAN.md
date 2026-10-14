@@ -717,6 +717,20 @@ developing-El Niño winter gain of Phase 3, checkable against INE when the invie
 itself: Altiplano Nov–Mar rainfall −33% (all members dry), valleys −5%, lowlands ~0 with wide spread, +1.6 to +2.5 °C.
 Monthly update path: rerun the three forecast scripts on each SEAS5 release and move the splice date forward.
 
+**Update 2026-10-08 (October SEAS5, splice moved to 2 Oct 2026)** — `documents/Phase4-2026-27-outlook_2026-10-08.md`.
+POWER weather refreshed to 1 Oct 2026 (`prep/gen_weather_bolivia.py`, 12 tile-requests, 143 s); `gen_weather_analogue.py` now
+derives the splice date from the last observed day and writes `derived/phase4/splice_date.txt`, which `phase4_summarise.py` and
+`phase4_report.py` read (no more hard-coded dates). 42 members rerun (382 364 seasons, 0 DSSAT errors, ~40 min); the September
+runs and tables are archived in `runs/phase4_2026-09/` and `derived/phase4_2026-09/`. SEAS5 init 2026-10 is slightly drier on the
+Altiplano (−37%) and slightly less warm in the lowlands (+1.3 °C) than September; weights on the strong-EP campaigns fell from 40% to 34%
+(1997/98 0.20, 2015/16 0.09). SEAS5-weighted national outlook moved a little toward neutral: soya −9 (was −13), maíz −7 (−8), arroz −7 (−9);
+P(≥10% loss) 0.38 / 0.47 / 0.38. Strong-EP composite unchanged within a point (−30 / −22 / −20). The invierno 2026 nowcast is
+unchanged (sorgo +49% vs last ten campaigns, trigo +14%) and now has a first external check: INE has not published, but ANAPO's
+close-of-campaign expectations (sorgo 2.8–3.5 t/ha on 70% of 612 kha; trigo 1.6–1.7 t/ha on 57 kha, 'climate favoured the crop') are
++29–62% and +10–17% on the INE 2015–2024 Santa Cruz means — same sign and size. Revisit when INE publishes.
+Note for the pipeline: `phase4_summarise.py` needs the weights CSV as its argument or the SEAS5-weighted rows are silently
+omitted and `phase4_report.py` fails on `KeyError: 'SB'`.
+
 
 Two approaches, both worth running because they fail differently.
 
@@ -777,3 +791,70 @@ Stating these up front, because they will otherwise be read into the results:
 5. **Housekeeping:** the `newcpuspeedcheck/` directory of Windows executables inside the
    climate data (`DATA-INVENTORY.md` §2.4) should be deleted and flagged to whoever assembled
    the transfer.
+
+---
+
+## 12. Phase 5 — forecast-spliced weather (decisions 2026-10-14)
+
+**Decisions (user, 2026-10-14):** keep NASA POWER for history; drive DSSAT with spliced **POWER (observed) → Open-Meteo
+`ecmwf_seasonal_seamless` members (ECMWF EC46 for days 1–46, then SEAS5 to ~7 months)**; NeuralGCM dropped from the
+pipeline (v1 has no surface variables); Open-Meteo Professional tier (5M calls/month) to be subscribed. Background:
+`documents/OpenMeteo-assessment_2026-10-14.md`. Same three-tier structure as `~/Claude/weathernext-data/wn2dssat/pipeline.py`,
+extended from a few sites to the 3,568 cells with a 51-member ensemble.
+
+### 12.1 What the API serves (checked 2026-10-14)
+- `ecmwf_seasonal_seamless`: 51 members (control + 50), daily `temperature_2m_max/min`, `precipitation_sum`,
+  `shortwave_radiation_sum`; EC46 (today's 00Z run, 51 of its 100 members, 45–46 days) through ~day 42, then SEAS5 (monthly
+  run, 5th) to 7 months (`forecast_days` ≤ ~210). Member *k* of EC46 is paired with member *k* of SEAS5. EC46 refreshes
+  daily (20:30Z), so the seam moves every day.
+- **No daily anomalies.** Monthly anomalies exist (`temperature_2m_anomaly`, `precipitation_anomaly`,
+  `shortwave_radiation_anomaly`, vs the model hindcast climate), so the model monthly climatology at a point is
+  (monthly ensemble-mean forecast − monthly anomaly): enough for a monthly delta/ratio correction.
+- Archive begins at the 2026-09 initialisation: no hindcasts, no in-house skill assessment (C3S hindcasts remain the route).
+- Grid O320 (~36 km); the 3,568 cells map onto 483 forecast points; 51 members × 4 variables × 183 days ≈ 267 "calls" per
+  point, ≈ 148k per monthly pull. Professional tier 5M/month; paid requests go to `customer-*.open-meteo.com` with `apikey=`.
+
+### 12.2 Design
+1. **Cell → forecast point.** Query each cell centre once; the response carries the snapped grid lat/lon; group cells by it.
+   Fetch per point (daily members + monthly ensemble means and anomalies), cache per `(run date, point)` under `derived/phase5/om/`.
+2. **Bias adjustment to the POWER cell climatology** (so no climatological jump at the seams): per cell and calendar month,
+   POWER 1991–2020 means of Tmax, Tmin, rain, SRAD from `weather/cache`; model monthly climatology per point from 12.1.
+   Tmax/Tmin: additive shifts, each against its own model climatology = ensemble-mean monthly Tmax|Tmin of the daily
+   members minus the served mean-temperature anomaly (assumed equal for max and min). A single mean-temperature shift
+   (v1, 2026-10-14) left +0.6 °C (the API's true daily mean is ~0.6 °C below (Tmax+Tmin)/2) plus +0.7 °C on Tmin and
+   −0.7 °C on Tmax from the model's narrower diurnal range (7.1–7.6 °C in DJF vs 8.7 °C in POWER at lowland cells), which
+   DSSAT turned into a ~20 % soya/maize/rice loss on its own. Rain and SRAD: multiplicative,
+   member daily × (POWER clim / model clim), monthly factors interpolated to the day, rain factor capped (0.2–5).
+   The member's own wet/dry-day sequence is kept.
+3. **Beyond the seasonal horizon** (≈ May 2027 for an Oct run): fill to 31 Dec 2027 with the weather of the top-weighted
+   Phase 4 analogue year (realistic daily structure; climatology has none). Recorded in the .WTH header.
+4. **Runs.** `Tapiti/res/weather/2026_fc_<member>/` × 51, run as the analogue ensemble is (`phase4_run_analogues.sh` pattern,
+   ~50 min for 42 analogues). Summarise per crop/zone as `phase4_summarise.py`; **keep the analogue-weighted ensemble as the
+   comparison**. The member spread is forecast uncertainty, not climatological spread.
+5. **Monthly loop:** pull after the SEAS5 release (5th on Open-Meteo), rebuild member directories, run. EC46 updates daily,
+   so a mid-month refresh only changes days 1–46.
+
+### 12.3 Status
+Built 2026-10-14: `analysis/phase5_om_fetch.py` (local O320 snapping, cached per run date), `prep/gen_weather_forecast.py`, `analysis/phase5_run_members.sh`, `analysis/phase5_summarise.py`. Smoke test passed (Tapiti 0 errors on member 01). Full pull done 2026-10-14 on the Professional endpoint (key in `~/.config/open-meteo/apikey`): 483 points in ~2 min; POWER ends
+2026-10-01, forecast 2026-10-02 → 2027-05-03 (October SEAS5 init), analogue tail 1997/98 from 2027-05-04. Two Lake Titicaca
+points are relocated by the API to the nearest land point (recorded as `api_point` in the cache). About 1 response in 4 came
+back with the last month of rain/SRAD missing while temperature was complete (server-side inconsistency, not timing); the fetch
+script now detects this and refetches, which clears it in a few tries.
+Bias factors over all 3,568 cells (member 00): T shift mean +2.1 °C in the lowland (model cool vs POWER, consistent with the
+ERA5-vs-station result), −9.7 to +18.3 °C in the valleys/Altiplano; the shift correlates 0.94 with (forecast-point elevation −
+POWER elevation) at 5.9 °C/km, i.e. it is a lapse-rate correction for the 36 km point sitting on a different height than the
+POWER cell. 223 cells have |shift| > 6 °C and 23 > 10 °C; those cells inherit the wet/dry sequence of a much higher point
+(rain factor at the 0.2 floor at 8 cells); the diurnal range is corrected by the separate Tmax/Tmin shifts (v2).
+Ensemble-mean NDJFM rain after adjustment is 613 mm vs the 636 mm POWER climatology (cell mean), consistent with the
+slightly negative served precipitation anomaly. v1 (single mean-temperature shift) outputs are kept in
+`runs/phase5/2026-10-14/v1_meanshift/` and `derived/phase5/2026-10-14/v1_meanshift/` as the record of the artefact.
+**v2 results (2026-10-14, 51 members, 0 DSSAT errors, ~50 s per member):** national member mean vs all-analogue mean: soya
+-17.1 %, maize -16.0 %, rice -13.1 %, sorghum -0.9 %, wheat -5.3 % (SEAS5-weighted analogues −9.5/−7.0/−6.8/−0.3/−2.2; strong-EP
+−30.5/−22.5/−20.2/−0.8/−2.6). Season Tmax/Tmin of the members now sit inside the 1997/2015/2023 analogue range; daily rain
+structure matches POWER in the lowland. Written up as §8 of `documents/Phase4-2026-27-outlook_2026-10-08.md`. Possible refinement: choose, among the nearest four O320 points, the one
+closest in elevation to the POWER cell. Rain factor 0.57 median in valleys/Altiplano, 0.84 lowland; SRAD 0.95–1.23.
+
+### 12.4 Caveats to carry into any output
+Raw members are area forecasts at 36 km, bias-adjusted by a monthly delta/ratio to a gauge-corrected reanalysis climatology;
+daily rainfall statistics (dry-day frequency, intensity) are the model's, and DSSAT is sensitive to them. No skill
+verification is possible from the Open-Meteo archive.

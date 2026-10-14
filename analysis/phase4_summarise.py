@@ -7,6 +7,7 @@ Anomalies are % of the all-analogue mean (the unconditional expectation for 2026
 import os, glob, json, numpy as np, pandas as pd, matplotlib; matplotlib.use('Agg'); import matplotlib.pyplot as plt
 from matplotlib.colors import TwoSlopeNorm
 ROOT = os.path.expanduser('~/Claude/bolivia-enso'); OUT = f'{ROOT}/derived/phase4'; os.makedirs(f'{OUT}/figures', exist_ok=True)
+SPLICE = pd.Timestamp(open(f'{OUT}/splice_date.txt').read().strip()) if os.path.exists(f'{OUT}/splice_date.txt') else pd.Timestamp('2026-09-26'); SPL = SPLICE.strftime('%-d %b')
 NAME = {'SB': 'Soya', 'MZ': 'Maíz', 'RI': 'Arroz', 'SG': 'Sorgo', 'WH': 'Trigo'}; CROPS = ['SB', 'MZ', 'RI', 'SG', 'WH']
 enso = pd.read_csv(f'{ROOT}/derived/enso_classification_1983-2024.csv').set_index('sow_year')
 cells = pd.read_csv(f'{ROOT}/derived/cells_bolivia_mapspam2020.csv').set_index('CELL5M'); elev = pd.read_csv(f'{ROOT}/derived/cells_elev_tav.csv').set_index('CELL5M').elev
@@ -60,7 +61,7 @@ for ax, crop in zip(axes, CROPS):
     ax.axhline(0, color='#e4e3dd'); ax.set_xlim(-0.6, 0.9); ax.set_xticks([]); ax.set_title(NAME[crop]); 
     for s in ['top', 'right', 'bottom']: ax.spines[s].set_visible(False)
 axes[0].set_ylabel('2026/27 national yield, % vs all-analogue mean'); axes[0].scatter([], [], c=NINO, label='El Niño analogue'); axes[0].scatter([], [], c=NINA, label='La Niña analogue'); axes[0].scatter([], [], c=NEU, label='neutral'); axes[0].legend(frameon=False, fontsize=8, loc='lower left')
-fig.text(0.5, -0.02, 'Each dot is the 2026/27 campaign simulated with one past campaign\'s weather from 26 Sep onward (observed 2026 weather before that). Labels: strong eastern-Pacific analogues. Sorgo and Santa Cruz trigo are invierno crops sown Apr–Jun 2026, inside the observed period, hence no spread.', ha='center', fontsize=8, color='#6b6a66')
+fig.text(0.5, -0.02, 'Each dot is the 2026/27 campaign simulated with one past campaign\'s weather from ' + SPL + ' onward (observed 2026 weather before that). Labels: strong eastern-Pacific analogues. Sorgo and Santa Cruz trigo are invierno crops sown Apr–Jun 2026, inside the observed period, hence no spread.', ha='center', fontsize=8, color='#6b6a66')
 fig.savefig(f'{OUT}/figures/chart_2026_27_analogue_distribution.png', dpi=180, bbox_inches='tight', facecolor='white'); plt.close(fig)
 gj = json.load(open(f'{ROOT}/derived/gis/bolivia_adm1_geoboundaries.geojson'))
 def rings(geom):
