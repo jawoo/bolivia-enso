@@ -115,6 +115,15 @@ stat(s, 7.7, 2.0, 2.3, '5', 'crops: soya, maíz, arroz, sorgo, trigo'); stat(s, 
 stat(s, 7.7, 3.6, 2.3, '42', 'campaigns, 1983/84 – 2024/25'); stat(s, 10.1, 3.6, 2.3, f'{int(nrows.replace(",", ""))//1000}k', 'DSSAT seasons per run')
 text(s, 7.7, 5.3, 4.8, 0.9, 'Weather per cell from NASA POWER (MERRA-2), soils from ISRIC SoilGrids + HC27, areas from MapSPAM 2020, calibration against INE departmental statistics 2012–2024.', size=11, color='muted')
 notes(s, 'Timing drives the plan: a retrospective product in March 2027 describes a harvest that has already happened, so the historical analogue product comes first. The forward estimate is a second, separable stage.')
+# ================= 2b Season so far (Phase 5 deck)
+if P5 and os.path.exists(f'{ROOT}/derived/season_progress/summary.json'):
+    SP = json.load(open(f'{ROOT}/derived/season_progress/summary.json')); zs = SP['zones']; lo = pd.Timestamp(SP['last_obs'])
+    s = prs.slides.add_slide(BLANK); n += 1; title(s, 'This season so far: wet start in the highlands, ordinary in the lowlands'); footer(s, n)
+    image(s, f'{ROOT}/derived/season_progress/figures/chart_season_progress.png', 0.5, 1.3, w=12.3)
+    bullets(s, 0.6, 5.45, 12.1, 1.5, [(f'Rain since 1 September, to {lo.day} {lo.strftime("%B")}: ', f"Altiplano {zs['altiplano']['mm']} mm (rank {zs['altiplano']['rank_wettest']} of {SP['n_past'] + 1} campaigns at this date; El Niño median {zs['altiplano']['median_El Niño']} mm), valleys {zs['valleys']['mm']} mm (rank {zs['valleys']['rank_wettest']}), lowlands {zs['lowland']['mm']} mm, near the middle of the record"),
+        ('A wet September in the highlands is not evidence against the El Niño outlook: ', f"1997/98 began the same way (Altiplano {zs['altiplano']['mm_1997']} mm at this date) and the El Niño deficit arrives with the main rains, December to March"),
+        ('The lines fan out from November: ', 'the campaign is decided in the next five months, which is what the forecast slides address')], size=11, gap=3)
+    notes(s, 'Figure: analysis/season_progress_chart.py. Zone rainfall = NASA POWER cell rainfall averaged over the modelled cells, weighted by MapSPAM crop area; each line is one campaign from 1 September; phase = DJF ONI of the campaign; thick lines are phase medians. Observed data to the last POWER day (lag of about a week).')
 # ================= 3 Status timeline
 s = prs.slides.add_slide(BLANK); n += 1; title(s, ('Where we are: all five phases have a first pass; updates are next' if P5 else 'Where we are: all four phases have a first pass; the update loop is next') if os.environ.get('DECK_PHASE34') == '1' else 'Where we are: inputs and calibration done, ENSO assessment next'); footer(s, n)
 phases = [('Phase 0', 'Scaffold', 'Fork Tokki → Tapiti; smoke test on real cells', 'done'), ('Phase 1', 'Inputs', 'Weather, soil, management, cultivars, unit table', 'done'),
@@ -322,6 +331,14 @@ if P5:
     image(s, f'{P5D}/figures/chart_2026_27_members_vs_analogues.png', 0.5, 1.4, w=12.3)
     text(s, 0.6, 5.35, 12.1, 1.4, 'Left of each panel: the 2026/27 campaign under each past campaign\'s weather (orange El Niño, blue La Niña, grey neutral). Right: under each bias-adjusted ECMWF member. The members sit below the all-analogue mean for soya, maíz and arroz with a spread as wide as the analogue set, and overlap the strong eastern-Pacific campaigns at their lower end; for sorgo and trigo the forecast window barely touches the season. The two columns are different objects: the analogues span what past seasons did, the members span what the model thinks this season will do.', size=12)
     notes(s, 'Figure: derived/phase5/2026-10-14/figures/chart_2026_27_members_vs_analogues.png; tables derived/phase5/2026-10-14/member_ensemble_summary.csv. Both columns are % of the all-analogue mean, so they are directly comparable.')
+    if os.path.exists(f'{ROOT}/derived/season_progress/figures/chart_season_progress_forecast.png'):
+        SP = json.load(open(f'{ROOT}/derived/season_progress/summary.json')); zs = SP['zones']
+        s = prs.slides.add_slide(BLANK); n += 1; title(s, 'Phase 5: where the members take the season\'s rainfall'); footer(s, n)
+        image(s, f'{ROOT}/derived/season_progress/figures/chart_season_progress_forecast.png', 0.5, 1.3, w=12.3)
+        bullets(s, 0.6, 5.45, 12.1, 1.5, [('Season total to 30 April, member median: ', f"Altiplano {zs['altiplano']['fc_end_median_mm']} mm ({zs['altiplano']['fc_end_pct_of_clim']}% of the all-campaign median; 80% of members between {zs['altiplano']['fc_end_p10_mm']} and {zs['altiplano']['fc_end_p90_mm']}), valleys {zs['valleys']['fc_end_median_mm']} mm ({zs['valleys']['fc_end_pct_of_clim']}%), lowlands {zs['lowland']['fc_end_median_mm']} mm ({zs['lowland']['fc_end_pct_of_clim']}%)"),
+            ('Same picture as the analogues: ', 'the Altiplano deficit builds from December; valleys and lowlands end near normal once the wet start is counted, and the lowland risk runs through heat and the timing of dry spells, which a seasonal total does not show'),
+            ('The band is the forecast spread, not a confidence interval of the outcome: ', 'members are bias-adjusted to the POWER climatology of each cell and cannot be verified against past seasons')], size=11, gap=3)
+        notes(s, 'Observed POWER rainfall to the last available day, then the 51 bias-adjusted ECMWF members (EC46 then SEAS5, run 2026-10-14) accumulated from that day; dashed = member median, band = 10th-90th percentile. Zone series weighted by crop area as on the season slide.')
 # ================= 13 Caveats
 s = prs.slides.add_slide(BLANK); n += 1; title(s, 'What these results cannot say'); footer(s, n)
 cav = [('No area response', 'DSSAT simulates yield on planted area. Farmers plant less or switch crop after a failed onset; that channel is often larger than the yield channel and is outside this framework.'),

@@ -1,0 +1,53 @@
+{
+ "campaign": "2026/27",
+ "last_obs": "2026-10-10",
+ "day": 39,
+ "n_past": 45,
+ "zones": {
+  "altiplano": {
+   "mm": 67,
+   "percentile": 98,
+   "rank_wettest": 2,
+   "median_all": 25,
+   "median_El Ni\u00f1o": 30,
+   "median_La Ni\u00f1a": 20,
+   "median_neutral": 22,
+   "mm_1997": 94,
+   "fc_end_median_mm": 434,
+   "fc_end_p10_mm": 402,
+   "fc_end_p90_mm": 491,
+   "clim_end_median_mm": 499,
+   "fc_end_pct_of_clim": 87
+  },
+  "valleys": {
+   "mm": 122,
+   "percentile": 100,
+   "rank_wettest": 1,
+   "median_all": 36,
+   "median_El Ni\u00f1o": 41,
+   "median_La Ni\u00f1a": 27,
+   "median_neutral": 43,
+   "mm_1997": 111,
+   "fc_end_median_mm": 777,
+   "fc_end_p10_mm": 700,
+   "fc_end_p90_mm": 820,
+   "clim_end_median_mm": 720,
+   "fc_end_pct_of_clim": 108
+  },
+  "lowland": {
+   "mm": 80,
+   "percentile": 62,
+   "rank_wettest": 18,
+   "median_all": 72,
+   "median_El Ni\u00f1o": 60,
+   "median_La Ni\u00f1a": 66,
+   "median_neutral": 88,
+   "mm_1997": 54,
+   "fc_end_median_mm": 1041,
+   "fc_end_p10_mm": 941,
+   "fc_end_p90_mm": 1227,
+   "clim_end_median_mm": 1037,
+   "fc_end_pct_of_clim": 100
+  }
+ }
+}
