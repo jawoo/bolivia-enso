@@ -30,3 +30,4 @@ derived/phase5_fetch_sample.log
 debug/openmeteo/cache/
 debug/openmeteo/om_daily.csv.gz
 debug/openmeteo/*.log
+derived/season_progress/zone_daily_rain.csv

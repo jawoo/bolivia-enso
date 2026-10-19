@@ -5,10 +5,12 @@ Resume with `claude --resume` (or `claude -c`) in `~/Claude/bolivia-enso`, or ju
 ## State (2026-10-08)
 - **Phase 4 October update done**: `documents/Phase4-2026-27-outlook_2026-10-08.md` (SEAS5 init 2026-10, splice 2 Oct 2026,
   42 members rerun, 0 DSSAT errors). September runs/tables archived in `runs/phase4_2026-09/`, `derived/phase4_2026-09/`.
-  Findings in `PLAN.md` §9 "Update 2026-10-08". The deck was rebuilt 2026-10-14 as `documents/Tapiti-progress-report_2026-10-14.pptx` (27 slides) with
+  Findings in `PLAN.md` §9 "Update 2026-10-08". The deck was rebuilt 2026-10-14 as `documents/Tapiti-progress-report_2026-10-14.pptx` (28 slides) with
   `DECK_PHASE5=1 python3 analysis/build_deck.py derived/deck_v8 runs/20261004-2232_v8_calib-round2 <out.pptx>`: October SEAS5
   numbers read from `derived/phase4/`, a season-so-far slide (3, from `analysis/season_progress_chart.py --run <run>`, rerun with `--refresh` after a POWER
-  update), a weather-sources slide (21) and three Phase 5 slides (22–24); render to PNG with
+  update), a what-the-science-says slide (4, added 2026-10-18: Niño-3.4/1+2 chart from `analysis/enso_state_chart.py --refresh`, which re-downloads the
+  CPC index tables into `derived/enso_state/`; the quotes and their dates are hard-coded in `build_deck.py` and must be re-checked by hand at each update,
+  next CPC discussion 12 Nov 2026), a weather-sources slide (22) and three Phase 5 slides (23–25); render to PNG with
   `analysis/render_pptx_windows.sh` to check.
 - **Invierno 2026 check**: INE not yet published; ANAPO press figures agree in sign and size with the nowcast (report §3).
 - **This workspace is a git repo** (`main`) with **no remote** — `gh` is not logged in and `jawoo/bolivia-enso` does not exist on
