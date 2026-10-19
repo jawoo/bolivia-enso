@@ -13,7 +13,7 @@ ROOT = os.path.expanduser('~/Claude/bolivia-enso')
 FIG, RUN, OUT = sys.argv[1], sys.argv[2], sys.argv[3]; BASE = sys.argv[4] if len(sys.argv) > 4 else f'{ROOT}/derived/baseline_v4/vs_ine.csv'
 P5 = os.environ.get('DECK_PHASE5') == '1'
 if P5: os.environ['DECK_PHASE34'] = '1'
-DATE = '14 October 2026' if P5 else '5 October 2026'
+DATE = '19 October 2026' if P5 else '5 October 2026'
 # ---- palette: forest green primary, sand tint, El Niño orange / La Niña blue accents (same as the charts)
 P = {'green': '2C5F2D', 'dark': '1F3A22', 'moss': '97BC62', 'sand': 'EFF0E6', 'ink': '1A1A19', 'muted': '6B6A66', 'grid': 'E4E3DD', 'white': 'FFFFFF',
      'nino': 'EB6834', 'nina': '2A78D6', 'neutral': '9B9A94', 'bad': 'B85042'}
